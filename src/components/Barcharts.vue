@@ -1,30 +1,37 @@
 <template>
   <div class="barcharts">
     <div class="season">
+      <p>SEASON 1</p>
+      <episode class="episode" :data="S1E1" :season="'01'" :episode="'01'"></episode>
+      <episode class="episode" :data="S1E2" :season="'01'" :episode="'02'"></episode>
+    </div>
+    <div class="season">
+      <p>SEASON 2</p>
       <episode class="episode" :data="S1E1"></episode>
       <episode class="episode" :data="S1E2"></episode>
     </div>
     <div class="season">
+      <p>SEASON 3</p>
       <episode class="episode" :data="S1E1"></episode>
       <episode class="episode" :data="S1E2"></episode>
     </div>
     <div class="season">
+      <p>SEASON 4</p>
       <episode class="episode" :data="S1E1"></episode>
       <episode class="episode" :data="S1E2"></episode>
     </div>
     <div class="season">
+      <p>SEASON 5</p>
       <episode class="episode" :data="S1E1"></episode>
       <episode class="episode" :data="S1E2"></episode>
     </div>
     <div class="season">
+      <p>SEASON 6</p>
       <episode class="episode" :data="S1E1"></episode>
       <episode class="episode" :data="S1E2"></episode>
     </div>
     <div class="season">
-      <episode class="episode" :data="S1E1"></episode>
-      <episode class="episode" :data="S1E2"></episode>
-    </div>
-    <div class="season">
+      <p>SEASON 7</p>
       <episode class="episode" :data="S1E1"></episode>
       <episode class="episode" :data="S1E2"></episode>
     </div>
@@ -53,6 +60,7 @@ export default {
     display: inline-block;
     height: 100%;
     width: calc(100% / 7);
+    text-align: center;
 
     .episode {
       height: 200px;

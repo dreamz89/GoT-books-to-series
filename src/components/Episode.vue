@@ -4,7 +4,7 @@
       v-for="(scene, index) in data"
       :key="index"
       :style="setStyle(scene)"
-      @click="showModal = true">
+      @click="openModal(scene)">
     </div>
     <div class="modal"
       v-if="showModal"
@@ -15,6 +15,11 @@
         @click="showModal = false">
           X
         </div>
+        <img :src="getImage" />
+        <p>TV</p>
+        <p>{{ scene['TV'] }}</p>
+        <p>Book</p>
+        <p>{{ scene['Books'] }}</p>
       </div>
     </div>
   </div>
@@ -22,10 +27,11 @@
 
 <script>
 export default {
-  props: ['data'],
+  props: ['data', 'season', 'episode'],
   data () {
     return {
       showModal: false,
+      scene: {},
       colorMap: {
         'TRUE': 'green',
         'FALSE': 'red',
@@ -33,6 +39,15 @@ export default {
         '': 'grey'
       },
       total: this.toSeconds(this.data[this.data.length - 1]['Scene End'])
+    }
+  },
+  computed: {
+    getImage () {
+      if (this.scene.Image) {
+        return require('../images/season ' + this.season + '/GoT ' + this.season + ' ' + this.episode + ' ' + this.scene.Image + '.jpg')
+      } else {
+        return null
+      }
     }
   },
   methods: {
@@ -52,6 +67,10 @@ export default {
         width: '100%',
         backgroundColor: color
       }
+    },
+    openModal (scene) {
+      this.scene = scene
+      this.showModal = true
     }
   }
 }
@@ -79,6 +98,7 @@ export default {
     max-height: 500px;
     max-width: 500px;
     cursor: auto;
+    overflow: scroll;
 
     .close {
       position: absolute;
