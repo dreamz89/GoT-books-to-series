@@ -1,0 +1,272 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "TV": "",
+   "Books": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:47",
+   "Duration": "0:01:41",
+   "TV": "",
+   "Books": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Dothraki on the move",
+   "Scene End": "0:04:52",
+   "Duration": "0:03:05",
+   "TV": "An additional scene between Ser Jorah and Prince Viserys.",
+   "Books": "Jorah speaks about Eddard Stark with Daenerys instead, and his tone is far more bitter and resentful.",
+   "Rating": "FALSE",
+   "Difference": "An additional scene between Ser Jorah and Prince Viserys. In the books, Jorah speaks about Eddard Stark with Daenerys, and his tone is far more bitter and resentful."
+ },
+ {
+   "Image": 2,
+   "Scene": "Tyrion slaps Joffrey trice",
+   "Scene End": "0:06:30",
+   "Duration": "0:01:38",
+   "TV": "1. Tyrion wakes up in the dog pen to Joffrey and The Hound.\n2. Tyrion slaps Joffrey trice and tells him to say his condolences to Lord and Lady Stark.",
+   "Books": "1. Tyrion spends the entire night at the library without sleep, comes outside in the morning and encounters Joffrey and The Hound.\n2. Tyrion slaps Joffrey trice and tells him to say his condolences to Lord and Lady Stark.",
+   "Rating": "MIXED",
+   "Difference": "In the book, Tyrion Lannister does not sleep in the dog pen. He spends the entire night at the library without sleep, and in the morning he comes outside and encounters Joffrey Baratheon and The Hound."
+ },
+ {
+   "Image": 3,
+   "Scene": "Lannisters discussing Bran's fall",
+   "Scene End": "0:08:43",
+   "Duration": "0:02:13",
+   "TV": "1. Tyrion tells his siblings that Bran may yet live and Cersei and Jaime glace at each other.\n2. His siblings already know that Tyrion is going to the Wall. There is no mention of the direwolf.\n3. Tyrion expresses his interest in hearing what Bran has to say while Jaime wonders whose side he is on.",
+   "Books": "1. Tyrion tells his siblings that Bran may yet live and Cersei and Jaime glace at each other.\n2. Tyrion informs his siblings that he is going to visit the wall. He also remarks that the direwolf seems to be keeping the boy alive with his howling.\n3. Tyrion expresses his interest in hearing what Bran has to say while Jaime wonders whose side he is on.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 4,
+   "Scene": "Cersei visiting Bran's bed",
+   "Scene End": "0:11:09",
+   "Duration": "0:02:26",
+   "TV": "An additional scene, where Cersei comes to Bran's bedroom and speaks about her first child.",
+   "Books": "In the book, Cersei tells Ned in a much later chapter that she never gave birth to any of Robert children, and had an abortion when pregnant with one. Robert was unaware of both the pregnancy and the abortion.",
+   "Rating": "FALSE",
+   "Difference": "An additional scene, where Cersei comes to Bran's bedroom and speaks about her first child. In the book, Cersei tells Ned in a much later chapter that she never gave birth to any of Robert children, and had an abortion when pregnant with one. Robert was unaware of both the pregnancy and the abortion."
+ },
+ {
+   "Image": 5,
+   "Scene": "Jamie speaking to Jon",
+   "Scene End": "0:12:51",
+   "Duration": "0:01:42",
+   "TV": "The making of the sword Needle and a conversation between Jaime and Jon Snow about the Night's Watch.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": "An additional scene, which shows the making of the sword Needle and a conversation between Jaime and Jon Snow about the Night's Watch."
+ },
+ {
+   "Image": 6,
+   "Scene": "Jon gives Arya her needle sword",
+   "Scene End": "0:15:08",
+   "Duration": "0:02:17",
+   "TV": "1. Arya's direwolf Nymeria looks confused when Arya commands her to fetch gloves.\n2. Jon gives Arya a sword and tells her to stick them with the pointy end.",
+   "Books": "1. Arya's direwolf Nymeria responds to Arya's pointing and fetches items.\n2. Jon gives Arya a sword and tells her to stick them with the pointy end.",
+   "Rating": "MIXED",
+   "Difference": ""
+ },
+ {
+   "Image": 7,
+   "Scene": "Jon bids farewell to Bran",
+   "Scene End": "0:18:47",
+   "Duration": "0:03:39",
+   "TV": "Catelyn is cold towards Jon when he visits Bran for the last time, but she does not mention the guards nor her prayers. Additional scene with Ned appearing at the end of the visit.",
+   "Books": "Cersei is cold towards Jon. She threatens to call the guards but did not; She also mentions that her prayers for Bran not to leave her to go South to Winterfell was granted (inadvertedly). Her parting words to Jon are \"It should have been you.\"",
+   "Rating": "TRUE",
+   "Difference": "In the series, Catelyn is overtly hostile towards Jon when he visits Bran for the last time, even threatening to call the guards. In the books, she is cold instead; her parting words to Jon are \"It should have been you.\""
+ },
+ {
+   "Image": 8,
+   "Scene": "Robb sees Jon to his horse",
+   "Scene End": "0:19:32",
+   "Duration": "0:00:45",
+   "TV": "Robb asks about Bran and his mother, and says farewell to Jon.",
+   "Books": "Robb tells Jon that Benjen is looking for him, and asks about Bran and his mother.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 9,
+   "Scene": "Jon parts from Ned outside Winterfell",
+   "Scene End": "0:21:16",
+   "Duration": "0:01:44",
+   "TV": "Ned and Jon say goodbye to each other.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": "An additional scene, where Ned and Jon say goodbye to each other. "
+ },
+ {
+   "Image": 10,
+   "Scene": "Ned and Robert's tea at a countryside",
+   "Scene End": "0:24:35",
+   "Duration": "0:03:19",
+   "TV": "1. King Robert's and Eddard's conversation about Jon Snow's mother and Daenerys Targaryen takes place at breakfast in the countryside.\n2. Jorah was not mentioned in the conversation.",
+   "Books": "1. King Robert's and Eddard's conversation about Jon Snow's mother and Daenerys Targaryen takes place while they are riding.\n2. Jorah is revealed to the reader as an informer to the King's council",
+   "Rating": "MIXED",
+   "Difference": "In the book, King Robert's and Eddard's conversation about Daenerys Targaryen takes place during the riding. In the series, it takes place at breakfast. In the book scene, Jorah is revealed to the reader as an informer to the King's council. In the series, that is first mentioned in \"The Wolf and the Lion\"."
+ },
+ {
+   "Image": 11,
+   "Scene": "Khal Drogo and Daenerys…",
+   "Scene End": "0:25:22",
+   "Duration": "0:00:47",
+   "TV": "Khal Drogo and Daenerys have sex",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": ""
+ },
+ {
+   "Image": 12,
+   "Scene": "Tyrion and Jon in the forest",
+   "Scene End": "0:28:42",
+   "Duration": "0:03:20",
+   "TV": "Tyrion points out rapists as Jon's new brothers, and explain why he reads so much.",
+   "Books": "Tyrion explains to Jon why he reads so much, then teases him by describing what lowlife scums his new brothers are, nearly moving Jon to tears. In response, Ghost knocks Tyrion to the ground. Jon orders Ghost to let go of Tyrion only after the latter asks him nicely.",
+   "Rating": "MIXED",
+   "Difference": "In the TV series, Yoren doesn't appear in the scene with two rapists. The book also doesn't specify that Rast is one of the captive rapists.\nIn the book, Tyrion teases Jon by describing what lowlife scums his new brothers are, nearly moving Jon to tears. In response, Ghost knocks Tyrion to the ground. Jon orders Ghost to let go of Tyrion only after the latter asks him nicely."
+ },
+ {
+   "Image": 13,
+   "Scene": "Bran is attacked",
+   "Scene End": "0:31:53",
+   "Duration": "0:03:11",
+   "TV": "Catelyn refuses to see to the administration of the castle. Robb intercedes and tells her that people need her. Robb leaves at the sight of fire, leaving Catelyn behind. A stranger enters the room with a dagger and wounds Catelyn, and Bran's direwolf comes in and kills him.",
+   "Books": "Catelyn refuses to see to the administration of the castle. Robb intercedes and tells her that people need her. Robb leaves at the sight of fire, leaving Catelyn behind. A stranger enters the room with a dagger and wounds Catelyn, and Bran's direwolf comes in and kills him.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 14,
+   "Scene": "Daenerys with her handmaidens",
+   "Scene End": "0:33:46",
+   "Duration": "0:01:53",
+   "TV": "",
+   "Books": "",
+   "Rating": "",
+   "Difference": "Daenerys's scene with Doreah, Jhiqui and Irri is shown much earlier in series. So is the scene of making Khal Drogo happy. In the series, the scene with Dany and Doreah is shown rather than implied."
+ },
+ {
+   "Image": 15,
+   "Scene": "Jon's first sight of the wall",
+   "Scene End": "0:34:18",
+   "Duration": "0:00:32",
+   "TV": "Jon Snow arrives at the wall.",
+   "Books": "",
+   "Rating": "TRUE",
+   "Difference": "There's an additional scene, when Jon Snow arrives at the Wall."
+ },
+ {
+   "Image": 16,
+   "Scene": "Catelyn goes investigating",
+   "Scene End": "0:35:36",
+   "Duration": "0:01:18",
+   "TV": "Catelyn searches the old tower and finds a golden hair. She suspects that the Lannisters are involved in Bran's accident even before identifying the Valyrian dagger.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": "An additional scene in the TV series, where Catelyn searches the old tower and finds a golden hair. She suspects that the Lannisters are involved in Bran's accident even before she identifies the Valyrian dagger."
+ },
+ {
+   "Image": 17,
+   "Scene": "Catelyn decides to ride South",
+   "Scene End": "0:37:26",
+   "Duration": "0:01:50",
+   "TV": "The meeting between Catelyn, Robb, Theon, Ser Rodrik and Maester Luwin takes place in the godswood.\nCatelyn suspects the Lannisters in general to be behind Bran's fall.",
+   "Books": "The meeting between Catelyn, Robb, Theon, Ser Rodrik and Maester Luwin takes place in Catelyn's bedroom.\nCatelyn suspects Jaime, mentioning that he did not join the hunt the day Bran fell, but remained in the castle.",
+   "Rating": "TRUE",
+   "Difference": "In the book, the Winterfell meeting between Catelyn, Robb, Theon, Ser Rodrik and Maester Luwin takes place in godswood instead of in the castle.\nIn the book, Catelyn does not generally suspect the Lannisters of Bran's fall, nor does she doubt their loyalty to the crown. Instead, she puts the blame on Jaime, mentioning that he did not join the hunt the day Bran fell, but remained in the castle."
+ },
+ {
+   "Image": 18,
+   "Scene": "Catelyn bids farewell to Bran",
+   "Scene End": "0:38:19",
+   "Duration": "0:00:53",
+   "TV": "Catelyn bids farewell to Bran",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": ""
+ },
+ {
+   "Image": 19,
+   "Scene": "Daenerys being taught",
+   "Scene End": "0:42:12",
+   "Duration": "0:03:53",
+   "TV": "Daenerys is taught on lovemaking by her handmaiden",
+   "Books": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 20,
+   "Scene": "Joffrey invites Sansa for a walk",
+   "Scene End": "0:44:03",
+   "Duration": "0:01:51",
+   "TV": "Ser Barristan Selmy and Lord Renly don't appear at the Trident, only Ser Ilyn Payne arrives and scares Sansa. Joffrey chases The Hound away from Sansa for scaring her.\nSansa and Prince Joffrey go only for a short walk.",
+   "Books": "Sansa is introduced to Ser Barristan Selmy and Lord Renly. Ser Ilyn Payne also arrives and scares Sansa. Joffrey chases The Hound away from Sansa for scaring her.\nSansa and Prince Joffrey go riding around the Trident.",
+   "Rating": "MIXED",
+   "Difference": "In the TV series, Ser Barristan Selmy and Lord Renly don't appear at the Trident, only Ser Ilyn Payne arrives and scares Sansa.\nIn the book, Sansa and Prince Joffrey go riding around the Trident and they are away for a long time, before they find Arya. In series, they go only for a short walk and find Arya nearby."
+ },
+ {
+   "Image": 21,
+   "Scene": "Arya defends friend against Joffrey",
+   "Scene End": "0:46:45",
+   "Duration": "0:02:42",
+   "TV": "Joffrey and Sansa encounters Arya and Mycah dueling with wooden swords. Joffrey threatens Mycah, Arya whacks Joffrey from the back, Nymeria brings Joffrey down and Arya throws Joffrey's sword into the river.",
+   "Books": "Joffrey and Sansa encounters Arya and Mycah dueling with wooden swords. Joffrey threatens Mycah, Arya whacks Joffrey from the back, Nymeria brings Joffrey down and Arya throws Joffrey's sword into the river.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 22,
+   "Scene": "Arya sets direwolf free",
+   "Scene End": "0:47:37",
+   "Duration": "0:00:52",
+   "TV": "Arya throws a stone at Nymeria and sends her away.",
+   "Books": "",
+   "Rating": "FALSE",
+   "Difference": "The TV series also shows what happens to Nymeria, after she wounds Prince Joffrey. In the TV series, it's clearly seen that Arya throws a stone at Nymeria and sends her away. In the book, Arya mentions this scene after she's brought back. The event happens after Jory finds her and together they throw several stones at her."
+ },
+ {
+   "Image": 23,
+   "Scene": "The King hears both arguments",
+   "Scene End": "0:52:24",
+   "Duration": "0:04:47",
+   "TV": "1. Arya is missing for four days. When found by Lannister soldiers, she is taken before the King at the Old Crossroads Inn.\n2. Robert himself remarks with anger on Joffrey allowing a little girl to disarm him, but immediately moves on.\n3. Ned protests against killing Lady but he doesn't invoke Lyanna's name, and Robert shows no concern for Lady or Sansa before the former is killed nor does he express any remorse later on.",
+   "Books": "1. Arya is missing for four days. When found by Jory, she is taken before the King at Castle Darry.\n2. When Sansa lies that she does not remember what happened, Arya knocks her down to the ground, beating her.\n3. Renly Baratheon is also present when Joffrey and Arya are called before King Robert. He bursts out laughing when he hears how Joffrey was disarmed by a little girl, and Robert orders him to leave.\n4. King Robert initially acquiesces to Cersei's demand that Lady be killed in place of Nymeria, however, when Ned beseeches him to reconsider, invoking the name of his sister Lyanna, Robert turns back toward Cersei and curses her. Ned also goes on to tell Robert to do the deed himself, but Robert walks away in shame. He later apologizes to Ned for allowing Lady to be killed, saying he knew Joffrey was lying about the incident.",
+   "Rating": "MIXED",
+   "Difference": "Arya is missing for four days. When found she is taken before the King, it doesn't take place at Castle Darry (the book), but at the Old Crossroads Inn. Jory who finds her in the books, not Lannister soldiers.\nIn the book, when Sansa lies that she does not remember what happened, Arya knocks her down to the ground, beating her.\nIn the book, Renly Baratheon is also present when Joffrey and Arya are called before King Robert. He bursts out laughing when he hears how Joffrey was disarmed by a little girl, and Robert orders him to leave. In the series, Robert himself remarks with anger on Joffrey allowing this, but immediately moves on.\nIn the books, King Robert initially acquiesces to Cersei's demand that Lady be killed in place of Nymeria, however, when Ned beseeches him to reconsider, invoking the name of his sister Lyanna, Robert turns back toward Cersei and curses her. Ned also goes on to tell Robert to do the deed himself, but Robert walks away in shame. He later apologizes to Ned for allowing Lady to be killed, saying he knew Joffrey was lying about the incident. In the TV series, Ned protests against killing Lady but he doesn't invoke Lyanna's name, and Robert shows no concern for Lady or Sansa before the former is killed nor does he express any remorse later on."
+ },
+ {
+   "Image": 24,
+   "Scene": "Hound passes by with butcher's boy's body",
+   "Scene End": "0:52:55",
+   "Duration": "0:00:31",
+   "TV": "Sandor doesn't stop nor talk to Eddard when he brings the body. When asked about the body, Sandor bluntly states that the boy didn't run very fast without a hint of humor.\nNed sees Mycah's body before Lady was killed.",
+   "Books": "Sandor Clegane tosses Mycah's body in front of Ned and after Ned identifies the body, he states that Sandor rode the boy down. The Hound laughingly replies that the boy didn't run very fast.\nLady was killed before Eddard sees Mycah's body.",
+   "Rating": "MIXED",
+   "Difference": "In the books, Sandor Clegane tosses Mycah's body in front of Ned and after Ned identifies the body, he states that Sandor rode the boy down. The Hound laughingly replies that the boy didn't run very fast. In the TV series, Sandor doesn't stop nor talk to Eddard when he brings the body. When asked about the body, Sandor bluntly states that the boy didn't run very fast without a hint of humor.\nFurthermore, Lady was killed before Eddard sees Mycah's body in the book. The order of the events was swapped in the TV series."
+ },
+ {
+   "Image": 25,
+   "Scene": "Ned kills the direwolf and Bran wakes",
+   "Scene End": "0:54:11",
+   "Duration": "0:01:16",
+   "TV": "1. Ned executes Lady with a dagger.\n2. Eddard doesn't order Lady's body be taken back to the North.\n3. Bran dreams of following the three-eyed raven through the Winterfell courtyard and wakes up.",
+   "Books": "1. Ned executes Lady with the great sword Ice.\n2. Eddard orders Lady's body be taken back to the North, in order to prevent Queen Cersei or one of her retinue from taking her fur coat.\n3. Bran dreams of the three-eyed raven teaching him how to fly, and seeing events from the whole Seven Kingdoms, before waking up.",
+   "Rating": "FALSE",
+   "Difference": "In the TV series, Eddard executes Lady with a dagger. In the book, he uses the great sword Ice.\nIn the TV series, Eddard doesn't order Lady's body be taken back to the North, in order to prevent Queen Cersei or one of her retinue from taking her fur coat.\nBran doesn't have dreams about the Three-Eyed Raven before he wakes up for a first time (In book, these dreams wake him up). In series, he wakes up, when Sansa's direwolf is executed. The book does not indicate any connection between Lady's death and Bran's awakening."
+ }
+]

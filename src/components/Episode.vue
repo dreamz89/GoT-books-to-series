@@ -1,6 +1,22 @@
 <template>
   <div>
-    <div v-for="(scene, index) in data" :key="index" :style="setStyle(scene)"></div>
+    <div class="scene"
+      v-for="(scene, index) in data"
+      :key="index"
+      :style="setStyle(scene)"
+      @click="showModal = true">
+    </div>
+    <div class="modal"
+      v-if="showModal"
+      @click="showModal = false">
+      <div class="content"
+        @click.prevent.stop>
+        <div class="close"
+        @click="showModal = false">
+          X
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -9,6 +25,7 @@ export default {
   props: ['data'],
   data () {
     return {
+      showModal: false,
       colorMap: {
         'TRUE': 'green',
         'FALSE': 'red',
@@ -41,4 +58,36 @@ export default {
 </script>
 
 <style lang="scss">
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+  .content {
+    position: relative;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    max-height: 500px;
+    max-width: 500px;
+    cursor: auto;
+
+    .close {
+      position: absolute;
+      top: 0;
+      right: 0;
+      font-size: 28px;
+      padding: 10px;
+      cursor: pointer;
+    }
+  }
+}
 </style>
