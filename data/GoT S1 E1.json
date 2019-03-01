@@ -1,0 +1,272 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:10",
+   "Duration": "0:00:10",
+   "TV": "",
+   "Books": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Opening",
+   "Scene End": "0:07:15",
+   "Duration": "0:07:05",
+   "TV": "1. The TV series starts with three rangers of the Night's Watch going beyond the Wall. The White Walkers attack on the same day in a nearby forest.\n2. Will discovers the wildlings massacred, their bodies brutalized and arranged in a pattern.\n3. Both Gareth and Will insist loudly on going back to the Wall, but are overruled by Ser Royce.\n4. The dead wildlings have disappeared.\n5. Gared and Waymar Royce face the White Walkers' first attack, while Will is exploring the area. Not more than two White Walkers appear, and Waymar is killed in a surprise attack by one.\n6. Gared is the second one to be killed by the White Walkers and Will escapes.",
+   "Books": "1. In the book, they have already been ranging for days before the attack.\n2. Will says the wildlings appeared to be sleeping and likely froze to death.\n3. Gareth's advice to return to the Wall is ignored by Ser Royce.\n4. The dead wildlings have disappeared.\n5. Gared is left a short distance away to protect the horses and Will is climbing a tree to get a visual on the wildlings while Waymar Royce was left beneath the tree to face the White walkers alone. A group (at least five) of White Walkers approach Ser Waymar Royce, who has a duel with one of them before finally being killed by the group.\n6. Will is strangled by the wight of Ser Waymar Royce and Gared escapes.",
+   "Rating": "MIXED",
+   "Difference": "The TV series starts with three rangers of the Night's Watch going beyond the Wall. In the book, they have already been ranging for days.\nIn the book, the White Walker attack happens after several days of riding North of the Wall, but in the TV series, it happens in a forest close to the Wall on the same day the rangers leave Castle Black.\nThe White Walkers are mostly called Others in the books, especially by the people of the Seven Kingdoms. It is the wildlings that refer to them as 'White Walkers'.\nIn the TV series, Will discovers the wildlings massacred and their bodies brutalized. In the book, he says they appeared to be sleeping and likely froze to death.\nThere is no mentioning in the book that the wildlings' corpses have been arranged in any pattern.\nThe White Walkers are of different appearance in the TV series. In the book, they have white skin and reflective light armor. In the TV series, they have frozen grey skin, dark hair, and a brutal face similar to a skull and the armor they wear in later seasons is black and non reflective.\nIn the TV series, Gared and Waymar Royce face the White Walkers' first attack, while Will is exploring the area. In the book, Gared is left a short distance away to protect the horses and Will is climbing a tree to get a visual on the wildlings while Waymar Royce was left beneath the tree to face the White walkers alone.\nIn the book, a group (at least five) of \"the Others\" (White Walkers) approach Ser Waymar Royce, who has a duel with one of them before finally being killed by the group. In the TV series not more than two White Walkers appear, and Waymar is killed in a surprise attack by one.\nThe wight girl, who frightens Will in the series, is never mentioned in the book.\nIn the book, Ser Waymar Royce is transformed into a wight.\nIn the TV series, Gared is the second one to be killed by the White Walkers and Will escapes. In the books, Will is strangled by the wight of Ser Waymar Royce and Gared escapes but is later executed by Ned for desertion. There is a key difference in the fact that in the TV series the death is a beheading at the hands of a White Walker as opposed to being killed by a wight."
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:08:55",
+   "Duration": "0:01:40",
+   "TV": "",
+   "Books": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 2,
+   "Scene": "Guards catching deserter",
+   "Scene End": "0:09:40",
+   "Duration": "0:00:45",
+   "TV": "The Winterfell soldiers capture Will.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": "The Winterfell soldiers' capture of Will is not described in the book."
+ },
+ {
+   "Image": 3,
+   "Scene": "Stark kids practising archery",
+   "Scene End": "0:12:08",
+   "Duration": "0:02:28",
+   "TV": "1. Bran practises archery, watched on by his family. Arya shoots an arrow past him. \n2. Sansa and Arya are practicing their needlework under the tutelage of Septa Mordane, before King Robert arrives.",
+   "Books": "1. Bran practises archery, watched on by his family. Arya does not know how to fire a bow and wishes she could learn. \n2. Sansa and  Arya are shown practising their needlework under Septa Mordane, with Princess Mycella included, and Arya runs out from the session.",
+   "Rating": "MIXED",
+   "Difference": "There are several additional scenes in the TV series, taking place in Winterfell, which introduce the Stark family. Bran is shown practicing archery, while his father is watching him. The scene with needlework, which involves Sansa and Arya, is moved to the beginning of the series, before King Robert arrives. In the book, the scenes in Winterfell begin with the deserter's execution.\nArya is shown to be an accurate archer, while in the books, she doesn't know how to fire a bow and wishes she could learn. She has not shot a single arrow in any of the books."
+ },
+ {
+   "Image": 4,
+   "Scene": "Beheading the deserter",
+   "Scene End": "0:15:10",
+   "Duration": "0:03:02",
+   "TV": "1. Will is beheaded. \n2. Ned recites a speech while Jon tells Bran not to look away from the beheading.\n3. Theon does not kick the severed head of the executed deserter and he is shown to be on good terms with Jon before they part ways.\n4. Ned explains to Bran why he had to be the one to swing the sword.",
+   "Books": "1. Gareth is beheaded.\n2. Ned recites a speech while Jon tells Bran not to look away from the beheading.\n3. Theon Greyjoy kicks the severed head of the executed deserter and laughs. This action disgusts Jon Snow, who dislikes Theon and vice versa.\n4. Ned explains to Bran why he had to be the one to swing the sword.",
+   "Rating": "MIXED",
+   "Difference": "In the books, Theon Greyjoy kicks the severed head of the executed deserter and laughs. This action disgusts Jon Snow, who dislikes Theon and vice versa. In the TV series, Theon does not kick the severed head of the executed deserter and he is shown to be on good terms with Jon before they part ways.\nIn the books, between the execution of the deserter and the discovery of the direwolf pups, Robb and Jon have a riding race; this is omitted in the TV series."
+ },
+ {
+   "Image": 5,
+   "Scene": "Direwolf pups",
+   "Scene End": "0:18:14",
+   "Duration": "0:03:04",
+   "TV": "1. There is no snow.\n2. They find 5 direwolf pups and Jon keeps an albino pup.",
+   "Books": "1. Snow covers the ground.\n2. They find 5 direwolf pups and Jon keeps an albino pup.",
+   "Rating": "TRUE",
+   "Difference": "In the book, snow covers the grounds around Winterfell. In the TV series, there is no snow.\nIn the book, the direwolf pups were also found in waist-deep snow."
+ },
+ {
+   "Image": 6,
+   "Scene": "Lannisters at Jon's funeral",
+   "Scene End": "0:20:15",
+   "Duration": "0:02:01",
+   "TV": "Jaime and Cersei have a conversation about Jon Arryn's death and their secrets at Jon Arryn's funeral.",
+   "Books": "Jaime and Cersei's conversation about Jon Arryn's death and their secrets takes place at the Winterfell Tower which Bran overhears.",
+   "Rating": "MIXED",
+   "Difference": "The scene in King's Landing introducing Queen Cersei and her brother Jaime is not in the books. It also shows the corpse of Jon Arryn.\nIn the book, the conversation between Jaime and Cersei about Jon Arryn's death and their secrets occurs when Bran discovers them having sex at Winterfell."
+ },
+ {
+   "Image": 7,
+   "Scene": "Ned and Catelyn under the tree",
+   "Scene End": "0:22:12",
+   "Duration": "0:01:57",
+   "TV": "1. Catelyn finds Ned beneath the Weirwood and informs him of Jon Arryn's passing, and King Robert's arrival.\n2. They hint at another purpose to Robert's trip.",
+   "Books": "1. Catelyn and Ned talks of Bran, and then the deserter, before Catelyn informs of Jon's passing, and King Robert's arrival.\n2. There is no mention of another purpose.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 8,
+   "Scene": "Winterfell preparation",
+   "Scene End": "0:22:39",
+   "Duration": "0:00:27",
+   "TV": "Catelyn prepares for Tyrion's arrival, including candles and ale.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": "In the book, the arrival of the royal party is described from Eddard's point of view, thus the following scenes in the series are not present in the books: Catelyn and Luwin preparing for the feast; Robb, Theon and Jon preparing themselves for the arrival of the royal party; Bran sighting the royal party on the top of the wall; Catelyn scolding Bran for climbing up the wall; Arya watching the arrival of the royal party; House Stark and their retainers lining up to greet the royal party and Arya's whimsy."
+ },
+ {
+   "Image": 9,
+   "Scene": "Brothers shaving",
+   "Scene End": "0:23:09",
+   "Duration": "0:00:30",
+   "TV": "Stark boys shave in preparation.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": ""
+ },
+ {
+   "Image": 10,
+   "Scene": "Arrival of the King",
+   "Scene End": "0:28:46",
+   "Duration": "0:05:37",
+   "TV": "Both families are introduced and King Robert requests to be brought to the crypt. Cersei protests but is silenced.",
+   "Books": "Both families are introduced and King Robert requests to be brought to the crypt. Cersei protests but is silenced.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 11,
+   "Scene": "In the crypt",
+   "Scene End": "0:30:17",
+   "Duration": "0:01:31",
+   "TV": "Robert and Ned talk about Jon Arryn's death and Robert asks Ned to be the Hand of the King.",
+   "Books": "Robert visits Lyanna's tomb first, before requesting Eddard to be his Hand of the King.",
+   "Rating": "TRUE",
+   "Difference": "In the book, Robert visits Lyanna's tomb (guided by Eddard) first, and then requests Eddard to be his Hand of the King. In the TV series, he does these two things in reversed order."
+ },
+ {
+   "Image": 12,
+   "Scene": "First look at Tyrion",
+   "Scene End": "0:32:26",
+   "Duration": "0:02:09",
+   "TV": "Tyrion is introduced in a scene with the prostitute Ros.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": "Tyrion's introduction in the books is different. He is introduced at the feast through the eyes of Jon Snow. In the TV series, he is introduced in a scene with the prostitute Ros after Robert Baratheon's arrival. Tyrion Lannister's appearance is different to his description in the books. He is described as having stunted legs, a swollen forehead, a squashed-in face and eyes of different colors. He walks with a profound waddle."
+ },
+ {
+   "Image": 13,
+   "Scene": "Lyanna's statue",
+   "Scene End": "0:33:15",
+   "Duration": "0:00:49",
+   "TV": "Robert says Lyanna should have been buried on a hill instead, and still kills Rhaegar in his dreams every night.",
+   "Books": "Robert kneels at Lyanna's tomb and says she should be buried on a hill somewhere, and still kills Rhaegar in his dreams every night.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 14,
+   "Scene": "Viserys visiting Daenerys",
+   "Scene End": "0:35:47",
+   "Duration": "0:02:32",
+   "TV": "Viserys shows Daenerys a gown from Ilyrio, and touches her body.",
+   "Books": "Viserys shows Daenerys a gown from Ilyrio, and touches her body. The girls tell Dany about Khal Drogo while dressing her.",
+   "Rating": "TRUE",
+   "Difference": "In the book, Daenerys Targaryen is introduced, after Eddard Stark gets the news about Jon Arryn's death. In the TV series, she appears after the scene at Lyanna Stark's tomb."
+ },
+ {
+   "Image": 15,
+   "Scene": "Daenerys' presentation to Drogo",
+   "Scene End": "0:37:52",
+   "Duration": "0:02:05",
+   "TV": "Khal Drogo simply rides up to Illyrio's manse with his bloodriders to assess Daenerys.\nViserys points out Drogo's long hair to Daenerys.",
+   "Books": "Daenerys, Viserys and Illyrio go to Khal Drogo's manse in Pentos and attend a party there to celebrate Drogo and Daenerys's engagement. Many people appear in this party, including guests from other Free Cities; several other khals; also, this party is where Ser Jorah is first seen. \nViserys points out Drogo's long hair to Daenerys.",
+   "Rating": "MIXED",
+   "Difference": "Illyrio Mopatis's appearance is different to his description in the books. In the series, Illyrio is overweight and has dark brown hair flecked with grey with a forked beard. In the books, Illyrio is described as being morbidly obese with gold, oiled hair and a forked yellow beard.\nKhal Drogo's appearance is slightly different to his description in the books. He is described as having long mustachios with rings in them and many bells in his long braid. In the series, he has a beard with a single ring in it and does not have bells in his hair.\nIn the book, Daenerys, Viserys and Illyrio go to Khal Drogo's manse in Pentos and attend a party there to celebrate Drogo and Daenerys's engagement. Many people appear in this party, including guests from other Free Cities; several other khals; also, this party is where Ser Jorah is first seen. In the series, Khal Drogo simply rides up to Illyrio's manse with his bloodriders to assess Daenerys."
+ },
+ {
+   "Image": 16,
+   "Scene": "Daenerys' protest against marriage",
+   "Scene End": "0:39:35",
+   "Duration": "0:01:43",
+   "TV": "After being presented to Khal Drogo, Viserys compares the Dothraki to savages, and Daenerys protests against the marriage but is threatened by Viserys.",
+   "Books": "Before going to Khal Drogo's party, Viserys compares the Dothraki to savages. At the party, Daenerys protests against the marriage but is cowed by Viserys.",
+   "Rating": "TRUE",
+   "Difference": ""
+ },
+ {
+   "Image": 17,
+   "Scene": "Sansa's wish to marry Joffrey",
+   "Scene End": "0:40:26",
+   "Duration": "0:00:51",
+   "TV": "There's a conversation between Catelyn and Sansa, which introduces Sansa and her personality.",
+   "Books": "Sansa is only briefly described at the feast and her personality is shown at the Trident.",
+   "Rating": "FALSE",
+   "Difference": "There's an additional conversation between Catelyn and Sansa, which introduces Sansa and her personality. In books, she is only briefly described at the feast and her personality is shown at the Trident."
+ },
+ {
+   "Image": 18,
+   "Scene": "Watching Robert flirting at the banquet",
+   "Scene End": "0:40:49",
+   "Duration": "0:00:23",
+   "TV": "Cersei and Catelyn watch Robert drink and flirt at the banquet",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": ""
+ },
+ {
+   "Image": 19,
+   "Scene": "Jon's talks with Benjen and Tyrion",
+   "Scene End": "0:43:44",
+   "Duration": "0:02:55",
+   "TV": "1.  Jon Snow doesn't attend the feast at all. He meets his uncle Benjen outside, when he is practicing with a sword, and tells Benjen he wants to join the Night's Watch.\n2. Benjen Stark enters the feast late.\n3. Jon has a conversation with Tyrion and gets advice on being a bastard.",
+   "Books": "1. Jon attends the feast but is not permitted to sit at the main table with the royal family. Then Benjen approaches him and they have their conversation about joining the Night's Watch inside the feasting hall.\n2. Benjen Stark enters the feast along with the Royal Family and the other members of House Stark.\n3. Jon has a conversation with Tyrion outside the hall and gets advice on being a bastard.",
+   "Rating": "MIXED",
+   "Difference": "In the book, Benjen Stark enters the feast along with the Royal Family and the other members of House Stark; in the TV series, he arrives late, after the feast begins.\nIn the TV series, Jon Snow doesn't attend the feast at all. He meets his uncle Benjen outside, when he is practicing with a sword. In the book, he attends the feast but is not permitted to sit at the main table with the royal family. Instead, he sits with the squires and other noble-born boys of similar age, but is actually pleased with this as, out of sight, he is free to drink as much wine as he pleases (and gets drunk as a result). As the book goes, this feast is among the few times \"when Jon Snow was glad he was a bastard\". Then Benjen approaches him and they have their conversation inside the feasting hall.\nIn the book, the description of the feast is from Jon's point of view, thus it focuses on the conversation between Jon and Benjen, and that of Jon and Tyrion."
+ },
+ {
+   "Image": 20,
+   "Scene": "At the banquet",
+   "Scene End": "0:46:58",
+   "Duration": "0:03:14",
+   "TV": "King Robert's drinking and flirting, Queen Cersei's reactions; conversation between Benjen and Eddard; conversation between Catelyn and Cersei; conversation between Jaime and Eddard about tournaments; Sansa speaking to the queen and Arya throwing food at Sansa.",
+   "Books": "The scenes depicting the activities of other people in the feast are mostly not present in the book.",
+   "Rating": "FALSE",
+   "Difference": "The scenes depicting the activities of other people in the feast are mostly not present in the book - these include King Robert's activities and Queen Cersei's reactions; conversation between Benjen and Eddard; conversation between Catelyn and Cersei; conversation between Jaime and Eddard about tournaments; Sansa speaking to the queen and Arya throwing food at Sansa, etc."
+ },
+ {
+   "Image": 21,
+   "Scene": "Receiving news from Lysa",
+   "Scene End": "0:50:00",
+   "Duration": "0:03:02",
+   "TV": "1. When Maester Luwin goes into Ned's bedroom with the letter about Jon Arryn's murder, Catelyn is dressed in a sleeping gown.\n2. Lysa's letter is not coded and came by a messenger.\n3. Catelyn is afraid for Ned and begs him not to accept being King Robert's Hand.",
+   "Books": "1. When Maester Luwin goes into Ned's bedroom with the letter, Catelyn gets out of bed naked, remarking that it does not matter as Maester Luwin delivered all of her children.\n2. Lysa's letter is coded, found in a box with a false bottom, and was left in Maester Luwin's room by an unknown party.\n3. Ned does not wish to become King Robert's Hand, but Catelyn persuades him to, claiming that Robert will react very harshly to a refusal; Ned reluctantly changes his mind.",
+   "Rating": "MIXED",
+   "Difference": "In the book, when Maester Luwin goes into Eddard's bedroom with the letter about Jon Arryn's murder. Catelyn is naked. She even gets out of bed naked, remarking that it does not matter as Maester Luwin delivered all of her children. In the episode, she is dressed in a sleeping gown.\nLysa's letter isn't coded in the TV series and came by a messenger. In the book, it is coded, found in a box with a false bottom, and was left in Maester Luwin's room by an unknown party.\nProduction images revealed that the prop letter actually was written in a symbolic code invented for the TV series, but this plot point was omitted in the final version of the episode (apparently to simplify the narrative for TV-first viewers). In the final version, the camera never actually sees what is written on the letter, only Catelyn's reaction.\nIn the book, Ned does not wish to become King Robert's Hand, but Catelyn persuades him to, claiming that Robert will react very harshly to a refusal; Ned reluctantly changes his mind. In the TV series, Catelyn is afraid for him and begs him not to accept."
+ },
+ {
+   "Image": 22,
+   "Scene": "Daenerys and Khal Drogo's wedding",
+   "Scene End": "0:55:34",
+   "Duration": "0:05:34",
+   "TV": "Daenerys watches dancers and warriors going wild at the wedding. Jorah introduces himself to Daenerys with books from the Seven Kingdoms as gifts; Ilyrio gives her dragon eggs and Khal Drogo gives her a white mare.",
+   "Books": "Dancers and warriors are going wild at the wedding and a dozen men dies. Daenerys gets dragon eggs as wedding gifts from Ilyrio, as well as three handmaids from Viserys, books about the Seven Kingdoms from Jorah, and a grey horse from Drogo, which she test rides.",
+   "Rating": "TRUE",
+   "Difference": "Daenerys and Khal Drogo's wedding scene is shown earlier in the TV series than in the book. Ser Jorah Mormont is introduced in this scene rather than in Daenerys's first scene.\nIn the books, Daenerys's mare is not white but grey, with a mane like silver smoke.\nJorah Mormont's appearance is different, in the books, he is described as bald, stocky, hairy, and unattractive, but is strong and fit. In the series, he has short blond hair and is leaner and more attractive."
+ },
+ {
+   "Image": 23,
+   "Scene": "Sunset consummation",
+   "Scene End": "0:57:17",
+   "Duration": "0:01:43",
+   "TV": "Drogo does not wait for Daenerys to consent to sex, and unlike the book, Daenerys does not seem to take pleasure in it, crying while the Khal takes her from behind.",
+   "Books": "Darnerys cries and Khal Drogo comforts her. He then takes his time and was gentle with her.",
+   "Rating": "FALSE",
+   "Difference": "Drogo does not wait for Daenerys to consent to sex, and unlike the book, Daenerys does not seem to take pleasure in it, crying while the Khal takes her from behind."
+ },
+ {
+   "Image": 24,
+   "Scene": "Accepting Robert's request",
+   "Scene End": "0:58:35",
+   "Duration": "0:01:18",
+   "TV": "While preparing for the boar hunt, Robert thanks Ned for accepting his request.",
+   "Books": "NA",
+   "Rating": "FALSE",
+   "Difference": ""
+ },
+ {
+   "Image": 25,
+   "Scene": "Unfortunate climb",
+   "Scene End": "1:00:27",
+   "Duration": "0:01:52",
+   "TV": "1. Cersei and Jaime are both dressed; Lena Headey was pregnant during filming of the scene.\n2. Cersei is on her hands and knees while Jaime mounts her from behind.\n3. Cersei and Jaime's talk about previous events with Jon Arryn took place in a previous scene at Jon Arryn's funeral.\n4. Jaime grabs Bran while he is standing at the window and then pushes him off saying, 'the things I do for love'.",
+   "Books": "1. Cersei and Jaime are both naked in the book, when Bran finds them in the tower.\n2. Cersei stands with her back to a wall, while a man stands before her with his back to Bran and his hand between the legs of Cersei, when Bran sees her from the window.\n3. Cersei and Jaime's talk about previous events with Jon Arryn was overheard by Bran.\n4. Bran saw them while hanging upside down. After Cersei screams, he lost his balance and fell, hanging onto the ledge with one hand. Jaime pulls him up, and then pushes Bran off, saying 'the things I do for love'",
+   "Rating": "MIXED",
+   "Difference": "Cersei and Jaime are both naked in the book, when Bran finds them in the tower. In the series, they are both dressed; Lena Headey was pregnant during filming of the scene.\nIn the book, Cersei and Jaime talk about the previous events that transpired with the former Hand, Jon Arryn. This discussion instead takes place in the scene showing Jon Arryn's corpse.\nIn the book, Cersei stands with her back to a wall when Bran sees her from the window, while a man stands before her with his back to Bran and his hand between the legs of Cersei. In the series, Cersei is on her hands and knees while Jaime mounts her from behind. A body double is used for this scene.\nIn the book, Jaime pushes Bran from the window with his right hand. In the show he uses his left hand."
+ }
+]
