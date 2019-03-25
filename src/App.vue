@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <sankey></sankey>
-    <barcharts></barcharts>
+    <div class="container">
+      <sankey></sankey>
+      <barcharts></barcharts>
+    </div>
   </div>
 </template>
 
@@ -15,10 +17,14 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 body {
   margin: 0;
 }
 #app {
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
 }
 </style>

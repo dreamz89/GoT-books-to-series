@@ -1,6 +1,6 @@
 # GoT books to series
 
-Designed by Alyssa Mungcal<br>
+Designed by Alyssa Karla Mungcal<br>
 Developed by Jocelyn Tan <br>
 With help from Pooja
 
