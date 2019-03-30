@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="episode">
     <div class="scene"
-      v-for="(scene, index) in data"
+      v-for="(scene, index) in cleanData"
       :key="index"
       :style="setStyle(scene)"
       @click="expandSeason(index + 1)">
@@ -20,10 +20,24 @@ export default {
         'MIXED': 'purple',
         '': 'grey'
       },
-      totalDuration: this.toSeconds(this.data[this.data.length - 1]['Scene End'])
+      cleanData: [],
+      totalDuration: 0
     }
   },
+  mounted () {
+    this.dataCleaning()
+  },
   methods: {
+    dataCleaning () {
+      // remove HBO title and opening sequence
+      this.cleanData = this.data.filter(scene => {
+        return scene.Image !== null
+      })
+      // calculate duration
+      this.cleanData.forEach(scene => {
+        this.totalDuration += this.toSeconds(scene.Duration)
+      })
+    },
     toSeconds (hms) {
       const arr = hms.split(':')
       const seconds = (+arr[0]) * 60 * 60 + (+arr[1]) * 60 + (+arr[2])

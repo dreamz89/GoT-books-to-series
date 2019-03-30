@@ -10,7 +10,7 @@
    "Difference": ""
  },
  {
-   "Image": "01",
+   "Image": 1,
    "Scene": "Opening",
    "Scene End": "0:07:15",
    "Duration": "0:07:05",
@@ -20,7 +20,7 @@
    "Difference": "The TV series starts with three rangers of the Night's Watch going beyond the Wall. In the book, they have already been ranging for days.\nIn the book, the White Walker attack happens after several days of riding North of the Wall, but in the TV series, it happens in a forest close to the Wall on the same day the rangers leave Castle Black.\nThe White Walkers are mostly called Others in the books, especially by the people of the Seven Kingdoms. It is the wildlings that refer to them as 'White Walkers'.\nIn the TV series, Will discovers the wildlings massacred and their bodies brutalized. In the book, he says they appeared to be sleeping and likely froze to death.\nThere is no mentioning in the book that the wildlings' corpses have been arranged in any pattern.\nThe White Walkers are of different appearance in the TV series. In the book, they have white skin and reflective light armor. In the TV series, they have frozen grey skin, dark hair, and a brutal face similar to a skull and the armor they wear in later seasons is black and non reflective.\nIn the TV series, Gared and Waymar Royce face the White Walkers' first attack, while Will is exploring the area. In the book, Gared is left a short distance away to protect the horses and Will is climbing a tree to get a visual on the wildlings while Waymar Royce was left beneath the tree to face the White walkers alone.\nIn the book, a group (at least five) of \"the Others\" (White Walkers) approach Ser Waymar Royce, who has a duel with one of them before finally being killed by the group. In the TV series not more than two White Walkers appear, and Waymar is killed in a surprise attack by one.\nThe wight girl, who frightens Will in the series, is never mentioned in the book.\nIn the book, Ser Waymar Royce is transformed into a wight.\nIn the TV series, Gared is the second one to be killed by the White Walkers and Will escapes. In the books, Will is strangled by the wight of Ser Waymar Royce and Gared escapes but is later executed by Ned for desertion. There is a key difference in the fact that in the TV series the death is a beheading at the hands of a White Walker as opposed to being killed by a wight."
  },
  {
-   "Image": "00",
+   "Image": null,
    "Scene": "Opening Credits / Title Sequence",
    "Scene End": "0:08:55",
    "Duration": "0:01:40",
@@ -30,7 +30,7 @@
    "Difference": ""
  },
  {
-   "Image": "02",
+   "Image": 2,
    "Scene": "Guards catching deserter",
    "Scene End": "0:09:40",
    "Duration": "0:00:45",

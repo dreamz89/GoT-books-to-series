@@ -5,7 +5,7 @@
       v-for="sn in 7"
       :key="sn">
       <div class="indicator">
-        <p>SEASON {{ sn }}</p>
+        <p class="title">SEASON {{ sn }}</p>
         <episode
           class="episode"
           v-for="ep in 2"
@@ -13,17 +13,28 @@
           :data="data['S' + sn + 'E' + ep]"
           :season="sn"
           :episode="ep"
-          @expand="showDetails = $event"
+          @expand="drilldown = $event"
         ></episode>
       </div>
-      <div class="description" v-if="sn === showDetails.season">
-        <img src="../images/season 01/GoT 01 01 01.jpg"/>
+      <div class="description-wrap" v-show="sn === drilldown.season">
+        <div class="inner-wrap">
+          <div class="navigation">
+            <div>^</div>
+          </div>
+          <description
+            :data="data['S' + drilldown.season + 'E' + drilldown.episode]"
+            :drilldown="drilldown"
+          ></description>
+          <p @click="closeDescription">X</p>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import episode from './Episode.vue'
+import description from './Description.vue'
 import S1E1 from '../data/GoT S1 E1.json'
 import S1E2 from '../data/GoT S1 E2.json'
 import S2E1 from '../data/GoT S1 E1.json'
@@ -38,10 +49,9 @@ import S6E1 from '../data/GoT S1 E1.json'
 import S6E2 from '../data/GoT S1 E2.json'
 import S7E1 from '../data/GoT S1 E1.json'
 import S7E2 from '../data/GoT S1 E2.json'
-import episode from './Episode.vue'
 
 export default {
-  components: { episode },
+  components: { episode, description },
   data () {
     return {
       data: {
@@ -53,18 +63,36 @@ export default {
         S6E1, S6E2,
         S7E1, S7E2
       },
-      showDetails: {
-      season: 0}
+      drilldown: {
+        season: 0,
+        episode: 0,
+        scene: 0
+      }
     }
   },
   watch: {
-    showDetails () {
-      this.$refs.season.forEach((season, i) => {
-        if (i !== this.showDetails.season - 1) {
-          season.classList.add('shrink')
-        } else {
-          season.classList.add('expand')
-        }
+    drilldown () {
+      if (this.drilldown.season !== 0) {
+        this.$refs.season.forEach((season, i) => {
+          if (i !== this.drilldown.season - 1) {
+            season.classList.add('shrink')
+          } else {
+            season.classList.add('expand')
+          }
+        })
+      }
+    }
+  },
+  methods: {
+    closeDescription () {
+      this.drilldown = {
+        season: 0,
+        episode: 0,
+        scene: 0
+      }
+      this.$refs.season.forEach(season => {
+        season.classList.remove('expand')
+        season.classList.remove('shrink')
       })
     }
   }
@@ -81,7 +109,7 @@ export default {
     height: 100%;
     width: calc(100% / 7);
     text-align: center;
-    transition: width 0.5s ease;
+    transition: width 1s ease;
 
     &.expand {
       width: 100%;
@@ -91,9 +119,9 @@ export default {
         width: calc(100% / 7);
       }
 
-      .description {
+      .description-wrap {
         display: inline-block;
-        width: 70%;
+        width: calc(100% / 7 * 6);
         opacity: 1;
       }
     }
@@ -109,6 +137,10 @@ export default {
 
     .indicator {
 
+      .title {
+        white-space: nowrap;
+      }
+
       .episode {
         height: 200px;
         width: 50%;
@@ -118,12 +150,22 @@ export default {
       }
     }
 
-    .description {
+    .description-wrap {
       display: inline-block;
       vertical-align: text-top;
       transition: width 2s ease;
       width: 0;
       opacity: 0;
+
+      .inner-wrap {
+        display: flex;
+        flex-direction: row;
+
+        > p {
+          font-size: 30px;
+          cursor: pointer;
+        }
+      }
     }
   }
 }
