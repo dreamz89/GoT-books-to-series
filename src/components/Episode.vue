@@ -1,7 +1,7 @@
 <template>
   <div class="episode">
     <div class="scene"
-      v-for="(scene, index) in cleanData"
+      v-for="(scene, index) in data"
       :key="index"
       :ref="index + 1"
       :style="setStyle(scene)"
@@ -21,34 +21,36 @@ export default {
         'MIXED': 'purple',
         '': 'grey'
       },
-      cleanData: [],
       totalDuration: 0,
       previousScene: 0,
       currentScene: 0
     }
   },
   mounted () {
-    this.dataCleaning()
+    this.calculateDuration()
   },
   watch: {
     drilldown: {
       handler: function () {
-        if (this.drilldown.season === this.season &&
-          this.drilldown.episode === this.episode) {
-          this.showScene(this.drilldown.scene)
+        if (this.drilldown.episode === this.episode) {
+          if (this.drilldown.season === this.season) {
+            this.expandBar(this.drilldown.scene)
+          } else if (this.drilldown.season === 0) {
+            this.$refs[this.currentScene][0].classList.remove('current')
+          }
+        }
+
+        if (this.drilldown.episode !== this.episode
+          && this.currentScene !== 0) {
+          this.$refs[this.currentScene][0].classList.remove('current')
         }
       },
-      deep: true
+      deep: true // to detect value change inside object
     }
   },
   methods: {
-    dataCleaning () {
-      // remove HBO title and opening sequence
-      this.cleanData = this.data.filter(scene => {
-        return scene.Image !== null
-      })
-      // calculate duration
-      this.cleanData.forEach(scene => {
+    calculateDuration () {
+      this.data.forEach(scene => {
         this.totalDuration += this.toSeconds(scene.Duration)
       })
     },
@@ -75,7 +77,7 @@ export default {
         scene: index
       })
     },
-    showScene (index) {
+    expandBar (index) {
       this.$refs[index][0].classList.add('current')
       this.previousScene = this.currentScene
       this.currentScene = index

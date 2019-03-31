@@ -56,7 +56,7 @@ export default {
   components: { episode, description },
   data () {
     return {
-      data: {
+      fullData: {
         S1E1, S1E2,
         S2E1, S2E2,
         S3E1, S3E2,
@@ -65,12 +65,20 @@ export default {
         S6E1, S6E2,
         S7E1, S7E2
       },
+      data: {},
       drilldown: {
         season: 0,
         episode: 0,
         scene: 0
       }
     }
+  },
+  created () {
+    Object.keys(this.fullData).forEach(episode => {
+      this.data[episode] = this.fullData[episode].filter(scene => {
+        return scene.Image !== null
+      })
+    })
   },
   watch: {
     drilldown () {
@@ -98,10 +106,20 @@ export default {
       })
     },
     up () {
-      this.drilldown.scene -= 1
+      if (this.drilldown.scene > 1) {
+        this.drilldown.scene -= 1
+      } else {
+        this.drilldown.scene = this.data['S' + this.drilldown.season + 'E' + this.drilldown.episode].length
+        this.drilldown.episode -= 1
+      }
     },
     down () {
-      this.drilldown.scene += 1
+      if (this.drilldown.scene < this.data['S' + this.drilldown.season + 'E' + this.drilldown.episode].length) {
+        this.drilldown.scene += 1
+      } else {
+        this.drilldown.scene = 1
+        this.drilldown.episode += 1
+      }
     }
   }
 }
