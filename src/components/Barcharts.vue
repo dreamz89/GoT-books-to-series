@@ -19,7 +19,8 @@
       <div class="description-wrap" v-show="sn === drilldown.season">
         <div class="inner-wrap">
           <div class="navigation">
-            <div>^</div>
+            <div>&#11014;</div>
+            <div @click="down">&#11015;</div>
           </div>
           <description
             :data="data['S' + drilldown.season + 'E' + drilldown.episode]"
@@ -94,6 +95,9 @@ export default {
         season.classList.remove('expand')
         season.classList.remove('shrink')
       })
+    },
+    down () {
+      this.drilldown.scene += 1
     }
   }
 }
@@ -160,6 +164,18 @@ export default {
       .inner-wrap {
         display: flex;
         flex-direction: row;
+
+        .navigation {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+
+          div {
+            margin: 10px 5px;
+            font-size: 28px;
+            cursor: pointer;
+          }
+        }
 
         > p {
           font-size: 30px;

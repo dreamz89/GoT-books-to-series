@@ -19,19 +19,24 @@ export default {
   },
   watch: {
     drilldown () {
+      this.updateData()
+    }
+  },
+  methods: {
+    updateData () {
       if (this.drilldown.season !== 0) {
         this.sceneData = this.data.filter(scene => {
           return scene.Image === this.drilldown.scene
         })[0]
 
         if (this.sceneData.Rating === 'TRUE') {
-          this.$refs.rating.classList.add('green')
+          this.$refs.rating.style.backgroundColor = 'green'
         } else if (this.sceneData.Rating === 'FALSE'){
-          this.$refs.rating.classList.add('red')
+          this.$refs.rating.style.backgroundColor = 'red'
         } else if (this.sceneData.Rating === 'MIXED'){
-          this.$refs.rating.classList.add('purple')
+          this.$refs.rating.style.backgroundColor = 'purple'
         } else {
-          this.$refs.rating.classList.add('grey')
+          this.$refs.rating.style.backgroundColor = 'grey'
         }
       }
     }
@@ -41,12 +46,15 @@ export default {
 
 <style lang="scss">
 .description {
+  width: 100%;
 
   img {
     max-width: 100%;
   }
 
   .title {
+    margin: 15px 0;
+
     p {
       display: inline-block;
     }
@@ -55,23 +63,12 @@ export default {
       margin-left: 10px;
       border-radius: 5px;
     }
-
-    .green {
-      background-color: green
-    }
-    .red {
-      background-color: red
-    }
-    .purple {
-      background-color: purple
-    }
-    .grey {
-      background-color: grey
-    }
   }
 
   p {
     font-size: 16px;
+    max-width: 600px;
+    margin: 0 auto;
 
     @media (max-width: 768px) {
       font-size: 14px;

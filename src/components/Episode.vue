@@ -3,8 +3,9 @@
     <div class="scene"
       v-for="(scene, index) in cleanData"
       :key="index"
+      :ref="index + 1"
       :style="setStyle(scene)"
-      @click="expandSeason(index + 1)">
+      @click="showScene(index + 1)">
     </div>
   </div>
 </template>
@@ -21,7 +22,9 @@ export default {
         '': 'grey'
       },
       cleanData: [],
-      totalDuration: 0
+      totalDuration: 0,
+      previousScene: 0,
+      currentScene: 0
     }
   },
   mounted () {
@@ -51,15 +54,22 @@ export default {
 
       return {
         height: percentage + '%',
-        width: '100%',
         backgroundColor: color
       }
     },
-    expandSeason (scene) {
+    showScene (index) {
+      this.$refs[index][0].classList.add('current')
+      this.previousScene = this.currentScene
+      this.currentScene = index
+
+      if (this.previousScene !== 0 && this.previousScene !== this.currentScene) {
+        this.$refs[this.previousScene][0].classList.remove('current')
+      }
+
       this.$emit('expand', {
         season: this.season,
         episode: this.episode,
-        scene: scene
+        scene: index
       })
     }
   }
@@ -67,4 +77,14 @@ export default {
 </script>
 
 <style lang="scss">
+.episode {
+  .scene {
+    width: 100%;
+
+    &.current {
+      width: 120%;
+      margin-left: -10%;
+    }
+  }
+}
 </style>
