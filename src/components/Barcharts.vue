@@ -13,13 +13,14 @@
           :data="data['S' + sn + 'E' + ep]"
           :season="sn"
           :episode="ep"
-          @expand="drilldown = $event"
+          :drilldown="drilldown"
+          @chosen="drilldown = $event"
         ></episode>
       </div>
       <div class="description-wrap" v-show="sn === drilldown.season">
         <div class="inner-wrap">
           <div class="navigation">
-            <div>&#11014;</div>
+            <div @click="up">&#11014;</div>
             <div @click="down">&#11015;</div>
           </div>
           <description
@@ -96,6 +97,9 @@ export default {
         season.classList.remove('shrink')
       })
     },
+    up () {
+      this.drilldown.scene -= 1
+    },
     down () {
       this.drilldown.scene += 1
     }
@@ -113,7 +117,7 @@ export default {
     height: 100%;
     width: calc(100% / 7);
     text-align: center;
-    transition: width 1s ease;
+    transition: width 0.5s ease;
 
     &.expand {
       width: 100%;
@@ -157,7 +161,7 @@ export default {
     .description-wrap {
       display: inline-block;
       vertical-align: text-top;
-      transition: width 2s ease;
+      transition: width 0.5s ease;
       width: 0;
       opacity: 0;
 

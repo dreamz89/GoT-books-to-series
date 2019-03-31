@@ -18,8 +18,12 @@ export default {
     }
   },
   watch: {
-    drilldown () {
-      this.updateData()
+    drilldown: {
+      handler: function () {
+        this.updateData()
+      },
+      deep: true,
+      immediate: true
     }
   },
   methods: {

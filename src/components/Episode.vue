@@ -5,14 +5,14 @@
       :key="index"
       :ref="index + 1"
       :style="setStyle(scene)"
-      @click="showScene(index + 1)">
+      @click="chosenScene(index + 1)">
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  props: ['data', 'season', 'episode'],
+  props: ['data', 'season', 'episode', 'drilldown'],
   data () {
     return {
       colorMap: {
@@ -29,6 +29,17 @@ export default {
   },
   mounted () {
     this.dataCleaning()
+  },
+  watch: {
+    drilldown: {
+      handler: function () {
+        if (this.drilldown.season === this.season &&
+          this.drilldown.episode === this.episode) {
+          this.showScene(this.drilldown.scene)
+        }
+      },
+      deep: true
+    }
   },
   methods: {
     dataCleaning () {
@@ -57,6 +68,13 @@ export default {
         backgroundColor: color
       }
     },
+    chosenScene (index) {
+      this.$emit('chosen', {
+        season: this.season,
+        episode: this.episode,
+        scene: index
+      })
+    },
     showScene (index) {
       this.$refs[index][0].classList.add('current')
       this.previousScene = this.currentScene
@@ -65,12 +83,6 @@ export default {
       if (this.previousScene !== 0 && this.previousScene !== this.currentScene) {
         this.$refs[this.previousScene][0].classList.remove('current')
       }
-
-      this.$emit('expand', {
-        season: this.season,
-        episode: this.episode,
-        scene: index
-      })
     }
   }
 }
