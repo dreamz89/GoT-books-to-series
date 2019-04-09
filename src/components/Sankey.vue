@@ -102,6 +102,7 @@ export default {
       node.append('text')
           .attr('text-anchor', 'middle')
           .text(d => { return d.name })
+          .style('fill', '#E1EDF4')
           .attr('x', d => { return d.dy / 2 })
           .attr('y', (d, i) => {
             if (window.innerWidth < 480) { // mobile
