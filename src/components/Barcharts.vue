@@ -1,22 +1,37 @@
 <template>
   <div class="barcharts">
+    <div class="indicator">
+      <div>
+        <div></div>
+        <p>True</p>
+      </div>
+      <div>
+        <div></div>
+        <p>False</p>
+      </div>
+      <div>
+        <div></div>
+        <p>Mixed</p>
+      </div>
+      <div>
+        <div></div>
+        <p>Unknown</p>
+      </div>
+    </div>
     <div class="season"
       ref="season"
       v-for="sn in 7"
       :key="sn">
-      <div class="indicator">
-        <p class="title">SEASON {{ sn }}</p>
-        <episode
-          class="episode"
-          v-for="ep in 2"
-          :key="ep"
-          :data="data['S' + sn + 'E' + ep]"
-          :season="sn"
-          :episode="ep"
-          :drilldown="drilldown"
-          @chosen="drilldown = $event"
-        ></episode>
-      </div>
+      <episode
+        class="episode"
+        v-for="ep in 2"
+        :key="ep"
+        :data="data['S' + sn + 'E' + ep]"
+        :season="sn"
+        :episode="ep"
+        :drilldown="drilldown"
+        @chosen="drilldown = $event"
+      ></episode>
       <div class="description-wrap" v-show="sn === drilldown.season">
         <div class="inner-wrap">
           <div class="navigation">
@@ -130,6 +145,52 @@ export default {
   margin: 0 auto;
   overflow: hidden;
 
+  .indicator {
+    text-align: center;
+
+    > div {
+      display: inline-block;
+      margin: 0 10px;
+
+      > div {
+        height: 15px;
+        width: 15px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      > p {
+        display: inline-block;
+        margin-left: 10px;
+        color: white;
+        font-family: 'PT Sans', sans-serif;
+        font-size: 15px;
+        line-height: 1.3em;
+      }
+    }
+
+    > div:nth-child(1) {
+      > div {
+        background-color: #404E86;
+      }
+    }
+    > div:nth-child(2) {
+      > div {
+        background-color: #B23E4D;
+      }
+    }
+    > div:nth-child(3) {
+      > div {
+        background-color: #7994C3;
+      }
+    }
+    > div:nth-child(4) {
+      > div {
+        background-color: #C0CAC9;
+      }
+    }
+  }
+
   .season {
     display: inline-block;
     height: 100%;
@@ -161,19 +222,12 @@ export default {
       }
     }
 
-    .indicator {
-
-      .title {
-        white-space: nowrap;
-      }
-
-      .episode {
-        height: 200px;
-        width: 50%;
-        max-width: 50px;
-        margin: 0 auto;
-        cursor: pointer;
-      }
+    .episode {
+      height: 200px;
+      width: 50%;
+      max-width: 50px;
+      margin: 0 auto;
+      cursor: pointer;
     }
 
     .description-wrap {

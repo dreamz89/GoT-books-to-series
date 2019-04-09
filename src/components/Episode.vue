@@ -16,10 +16,10 @@ export default {
   data () {
     return {
       colorMap: {
-        'TRUE': 'green',
-        'FALSE': 'red',
-        'MIXED': 'purple',
-        '': 'grey'
+        'TRUE': '#404E86',
+        'FALSE': '#B23E4D',
+        'MIXED': '#7994C3',
+        '': '#C0CAC9'
       },
       totalDuration: 0,
       previousScene: 0,
