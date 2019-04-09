@@ -34,13 +34,13 @@ export default {
         })[0]
 
         if (this.sceneData.Rating === 'TRUE') {
-          this.$refs.rating.style.backgroundColor = 'green'
+          this.$refs.rating.style.backgroundColor = '#404E86'
         } else if (this.sceneData.Rating === 'FALSE'){
-          this.$refs.rating.style.backgroundColor = 'red'
+          this.$refs.rating.style.backgroundColor = '#B23E4D'
         } else if (this.sceneData.Rating === 'MIXED'){
-          this.$refs.rating.style.backgroundColor = 'purple'
+          this.$refs.rating.style.backgroundColor = '#7994C3'
         } else {
-          this.$refs.rating.style.backgroundColor = 'grey'
+          this.$refs.rating.style.backgroundColor = '#C0CAC9'
         }
       }
     }
@@ -73,6 +73,11 @@ export default {
     font-size: 16px;
     max-width: 600px;
     margin: 0 auto;
+    text-align: left;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.3em;
+    color: #E1EDF4;
 
     @media (max-width: 768px) {
       font-size: 14px;

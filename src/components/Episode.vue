@@ -92,6 +92,12 @@ export default {
 
 <style lang="scss">
 .episode {
+  height: 200px;
+  width: 50%;
+  max-width: 50px;
+  margin: 0 auto;
+  cursor: pointer;
+
   .scene {
     width: 100%;
 

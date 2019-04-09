@@ -26,16 +26,17 @@
       ref="season"
       v-for="sn in 7"
       :key="sn">
-      <episode
-        class="episode"
-        v-for="ep in 2"
-        :key="ep"
-        :data="data['S' + sn + 'E' + ep]"
-        :season="sn"
-        :episode="ep"
-        :drilldown="drilldown"
-        @chosen="drilldown = $event"
-      ></episode>
+      <div class="episodes">
+        <episode
+          v-for="ep in 2"
+          :key="ep"
+          :data="data['S' + sn + 'E' + ep]"
+          :season="sn"
+          :episode="ep"
+          :drilldown="drilldown"
+          @chosen="drilldown = $event"
+        ></episode>
+      </div>
       <div class="description-wrap" v-show="sn === drilldown.season">
         <div class="inner-wrap">
           <div class="navigation">
@@ -225,7 +226,7 @@ export default {
     &.expand {
       width: 100%;
 
-      .indicator {
+      .episodes {
         display: inline-block;
         width: calc(100% / 7);
       }
@@ -246,17 +247,8 @@ export default {
       }
     }
 
-    .episode {
-      height: 200px;
-      width: 50%;
-      max-width: 50px;
-      margin: 0 auto;
-      cursor: pointer;
-    }
-
     .description-wrap {
-      display: inline-block;
-      vertical-align: text-top;
+      vertical-align: top;
       transition: width 0.5s ease;
       width: 0;
       opacity: 0;

@@ -210,7 +210,6 @@ export default {
 
     .node text {
       pointer-events: none;
-      font-size: 17px;
       font-family: 'PT Sans', sans-serif;
       font-size: 15px;
       line-height: 1.3em;
