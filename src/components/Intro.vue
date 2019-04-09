@@ -20,14 +20,14 @@
     font-family: 'Lora', serif;
     font-size: 48px;
     line-height: 1.3em;
-    color: white;
+    color: #E1EDF4;
     margin: 0px 0 20px;
   }
   p.deck {
     font-family: 'PT Sans', sans-serif;
     font-size: 15px;
     line-height: 1.3em;
-    color: white;
+    color: #E1EDF4;
   }
 }
 </style>

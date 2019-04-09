@@ -1,5 +1,9 @@
 <template>
   <div class="barcharts">
+    <div class="intro">
+      <h1>How true is the TV series</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc magna erat, viverra in convallis nec, tempor a justo. Aliquam euismod orci vitae nisi sodales faucibus. In consequat lobortis nisi at gravida. Praesent rutrum felis non turpis vulputate vestibulum. Vestibulum quis neque eu elit fringilla tincidunt. Aliquam neque mi, tempor finibus nisl eget, fringilla sagittis orci. Nulla molestie ultrices malesuada. Morbi mollis sem eget velit congue, quis ultrices augue mattis. Maecenas non velit semper orci dignissim dapibus. Donec quis neque a nunc aliquam varius. Nullam vitae sollicitudin sapien, nec elementum mauris. Curabitur quis sagittis nibh, in commodo est. Vestibulum et quam quis est cursus placerat in elementum arcu. Donec dapibus eu nunc nec congue.</p>
+    </div>
     <div class="indicator">
       <div>
         <div></div>
@@ -145,6 +149,26 @@ export default {
   margin: 0 auto;
   overflow: hidden;
 
+  .intro {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 30px 15px;
+
+    h1 {
+      font-family: 'PT Sans', sans-serif;
+      font-size: 30px;
+      line-height: 1.3em;
+      color: #E1EDF4;
+      margin-bottom: 20px;
+    }
+    p {
+      font-family: 'PT Sans', sans-serif;
+      font-size: 15px;
+      line-height: 1.3em;
+      color: #E1EDF4;
+    }
+  }
+
   .indicator {
     text-align: center;
 
@@ -162,7 +186,7 @@ export default {
       > p {
         display: inline-block;
         margin-left: 10px;
-        color: white;
+        color: #E1EDF4;
         font-family: 'PT Sans', sans-serif;
         font-size: 15px;
         line-height: 1.3em;
