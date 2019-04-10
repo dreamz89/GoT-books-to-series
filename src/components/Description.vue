@@ -1,20 +1,31 @@
 <template>
   <div class="description">
-    <img :src="'images/season ' + drilldown.season + '/GoT ' + drilldown.season + ' ' + drilldown.episode + ' '  + drilldown.scene + '.jpg'"/>
-    <div class="title">
-      <p>{{ sceneData.Scene }}</p>
-      <p class="rating" ref="rating">{{ sceneData.Rating }}</p>
+    <div class="details">
+      <div>
+        <p class="title">{{ sceneData.Scene }}</p>
+        <p class="ep-name">
+          EPISODE {{ drilldown.episode }}: {{ EpisodeNames[drilldown.season][drilldown.episode]}}
+        </p>
+      </div>
+      <div>
+        <p class="rating" :style="{ backgroundColor: color }">{{ sceneData.Rating }}</p>
+      </div>
     </div>
-    <p>{{ sceneData.Difference }}</p>
+    <img :src="'images/season ' + drilldown.season + '/GoT ' + drilldown.season + ' ' + drilldown.episode + ' '  + drilldown.scene + '.jpg'"/>
+    <p class="comparison">{{ sceneData.Difference }}</p>
   </div>
 </template>
 
 <script>
+import EpisodeNames from '../data/EpisodeNames.json'
+
 export default {
   props: ['data', 'drilldown'],
   data () {
     return {
-      sceneData: {}
+      color: null,
+      sceneData: {},
+      EpisodeNames
     }
   },
   watch: {
@@ -34,13 +45,13 @@ export default {
         })[0]
 
         if (this.sceneData.Rating === 'TRUE') {
-          this.$refs.rating.style.backgroundColor = '#404E86'
+          this.color = '#404E86'
         } else if (this.sceneData.Rating === 'FALSE'){
-          this.$refs.rating.style.backgroundColor = '#B23E4D'
+          this.color = '#B23E4D'
         } else if (this.sceneData.Rating === 'MIXED'){
-          this.$refs.rating.style.backgroundColor = '#7994C3'
+          this.color = '#7994C3'
         } else {
-          this.$refs.rating.style.backgroundColor = '#C0CAC9'
+          this.color = '#C0CAC9'
         }
       }
     }
@@ -52,27 +63,52 @@ export default {
 .description {
   width: 100%;
 
-  img {
+  .details {
+    display: flex;
+    max-width: 640px;
+    margin: 0 auto;
+    justify-content: space-between;
+
+    > div {
+
+      .title {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 20px;
+        line-height: 1.3em;
+        text-align: left;
+        margin: 0;
+        color: #E1EDF4;
+      }
+
+      .ep-name {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 15px;
+        line-height: 1.3em;
+        color: #E1EDF4;
+        text-transform: uppercase;
+        margin-bottom: 15px;
+      }
+
+      .rating {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 15px;
+        line-height: 1.3em;
+        color: #E1EDF4;
+        padding: 5px;
+        border-radius: 5px;
+      }
+    }
+  }
+
+  > img {
     max-width: 100%;
   }
 
-  .title {
-    margin: 15px 0;
 
-    p {
-      display: inline-block;
-    }
-    p.rating {
-      padding: 5px;
-      margin-left: 10px;
-      border-radius: 5px;
-    }
-  }
-
-  p {
+  p.comparison {
     font-size: 16px;
-    max-width: 600px;
-    margin: 0 auto;
+    max-width: 640px;
+    margin: 15px auto;
     text-align: left;
     font-family: 'PT Sans', sans-serif;
     font-size: 15px;
