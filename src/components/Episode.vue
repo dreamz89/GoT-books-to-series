@@ -16,10 +16,10 @@ export default {
   data () {
     return {
       colorMap: {
-        'TRUE': 'green',
-        'FALSE': 'red',
-        'MIXED': 'purple',
-        '': 'grey'
+        'TRUE': '#404E86',
+        'FALSE': '#B23E4D',
+        'MIXED': '#7994C3',
+        '': '#C0CAC9'
       },
       totalDuration: 0,
       previousScene: 0,
@@ -92,6 +92,12 @@ export default {
 
 <style lang="scss">
 .episode {
+  height: 200px;
+  width: 50%;
+  max-width: 50px;
+  margin: 0 auto;
+  cursor: pointer;
+
   .scene {
     width: 100%;
 

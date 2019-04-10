@@ -16,7 +16,7 @@ export default {
     if (window.innerWidth < 480) { // mobile
       margin = {top: 100, right: 10, bottom: 30, left: 35}
     } else {
-      margin = {top: 150, right: 20, bottom: 30, left: 70}
+      margin = {top: 160, right: 20, bottom: 30, left: 70}
     }
 
     const width = chartBox.width - margin.left - margin.right,
@@ -36,8 +36,8 @@ export default {
       sankey.nodeWidth(12)
             .nodePadding(12)
     } else {
-      sankey.nodeWidth(25)
-            .nodePadding(25)
+      sankey.nodeWidth(15)
+            .nodePadding(15)
     }
 
     var path = sankey.link()
@@ -96,13 +96,13 @@ export default {
             return d.color = color(d.name.replace(/ .*/, '')) //get new color if node.color is null
             return d.color
           })
-          .style('stroke', d => { return d3.rgb(d.color).darker(2) })
           .append('title')
           .text(d => { return d.name + '\n' + format(d.value) })
 
       node.append('text')
           .attr('text-anchor', 'middle')
           .text(d => { return d.name })
+          .style('fill', '#E1EDF4')
           .attr('x', d => { return d.dy / 2 })
           .attr('y', (d, i) => {
             if (window.innerWidth < 480) { // mobile
@@ -113,9 +113,9 @@ export default {
               }
             } else {
               if (i < 5) { // top text
-                return sankey.nodeWidth() * -0.5
+                return sankey.nodeWidth() * -2
               } else { // bottom text
-                return sankey.nodeWidth() * 2
+                return sankey.nodeWidth() * 2.5
               }
             }
           })
@@ -130,7 +130,7 @@ export default {
             if (window.innerWidth < 480) { // mobile
               return sankey.nodeWidth() * -7.5
             } else {
-              return sankey.nodeWidth() * -5.5
+              return sankey.nodeWidth() * -10
             }
           })
           .attr('width', () => {
@@ -210,8 +210,9 @@ export default {
 
     .node text {
       pointer-events: none;
-      text-shadow: 0 1px 0 #fff;
-      font-size: 17px;
+      font-family: 'PT Sans', sans-serif;
+      font-size: 15px;
+      line-height: 1.3em;
     }
 
     .node image {

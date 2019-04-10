@@ -1,13 +1,33 @@
 <template>
   <div class="barcharts">
+    <div class="intro">
+      <h1>How true is the TV series</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc magna erat, viverra in convallis nec, tempor a justo. Aliquam euismod orci vitae nisi sodales faucibus. In consequat lobortis nisi at gravida. Praesent rutrum felis non turpis vulputate vestibulum. Vestibulum quis neque eu elit fringilla tincidunt. Aliquam neque mi, tempor finibus nisl eget, fringilla sagittis orci. Nulla molestie ultrices malesuada. Morbi mollis sem eget velit congue, quis ultrices augue mattis. Maecenas non velit semper orci dignissim dapibus. Donec quis neque a nunc aliquam varius. Nullam vitae sollicitudin sapien, nec elementum mauris. Curabitur quis sagittis nibh, in commodo est. Vestibulum et quam quis est cursus placerat in elementum arcu. Donec dapibus eu nunc nec congue.</p>
+    </div>
+    <div class="indicator">
+      <div>
+        <div></div>
+        <p>True</p>
+      </div>
+      <div>
+        <div></div>
+        <p>False</p>
+      </div>
+      <div>
+        <div></div>
+        <p>Mixed</p>
+      </div>
+      <div>
+        <div></div>
+        <p>Unknown</p>
+      </div>
+    </div>
     <div class="season"
       ref="season"
       v-for="sn in 7"
       :key="sn">
-      <div class="indicator">
-        <p class="title">SEASON {{ sn }}</p>
+      <div class="episodes">
         <episode
-          class="episode"
           v-for="ep in 2"
           :key="ep"
           :data="data['S' + sn + 'E' + ep]"
@@ -130,6 +150,72 @@ export default {
   margin: 0 auto;
   overflow: hidden;
 
+  .intro {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 30px 15px;
+
+    h1 {
+      font-family: 'PT Sans', sans-serif;
+      font-size: 30px;
+      line-height: 1.3em;
+      color: #E1EDF4;
+      margin-bottom: 20px;
+    }
+    p {
+      font-family: 'PT Sans', sans-serif;
+      font-size: 15px;
+      line-height: 1.3em;
+      color: #E1EDF4;
+    }
+  }
+
+  .indicator {
+    text-align: center;
+
+    > div {
+      display: inline-block;
+      margin: 0 10px;
+
+      > div {
+        height: 15px;
+        width: 15px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      > p {
+        display: inline-block;
+        margin-left: 10px;
+        color: #E1EDF4;
+        font-family: 'PT Sans', sans-serif;
+        font-size: 15px;
+        line-height: 1.3em;
+      }
+    }
+
+    > div:nth-child(1) {
+      > div {
+        background-color: #404E86;
+      }
+    }
+    > div:nth-child(2) {
+      > div {
+        background-color: #B23E4D;
+      }
+    }
+    > div:nth-child(3) {
+      > div {
+        background-color: #7994C3;
+      }
+    }
+    > div:nth-child(4) {
+      > div {
+        background-color: #C0CAC9;
+      }
+    }
+  }
+
   .season {
     display: inline-block;
     height: 100%;
@@ -140,7 +226,7 @@ export default {
     &.expand {
       width: 100%;
 
-      .indicator {
+      .episodes {
         display: inline-block;
         width: calc(100% / 7);
       }
@@ -161,24 +247,8 @@ export default {
       }
     }
 
-    .indicator {
-
-      .title {
-        white-space: nowrap;
-      }
-
-      .episode {
-        height: 200px;
-        width: 50%;
-        max-width: 50px;
-        margin: 0 auto;
-        cursor: pointer;
-      }
-    }
-
     .description-wrap {
-      display: inline-block;
-      vertical-align: text-top;
+      vertical-align: top;
       transition: width 0.5s ease;
       width: 0;
       opacity: 0;

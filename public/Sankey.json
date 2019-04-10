@@ -1,56 +1,56 @@
 {    "nodes": [{
       "node": 0,
       "name": "A Game of Thrones",
-      "color": "#1f77b4",
-      "image": "bookcovers/bookcover.jpeg"
+      "color": "#B7D2E7",
+      "image": "bookcovers/book-01.png"
     }, {
       "node": 1,
       "name": "A Clash of Kings",
-      "color": "#aec7e8",
-      "image": "bookcovers/bookcover.jpeg"
+      "color": "#AFC9F5",
+      "image": "bookcovers/book-02.png"
     }, {
       "node": 2,
       "name": "A Storm of Swords",
-      "color": "#ff7f0e",
-      "image": "bookcovers/bookcover.jpeg"
+      "color": "#7994C3",
+      "image": "bookcovers/book-03.png"
     }, {
       "node": 3,
       "name": "A Feast for Crows",
-      "color": "#ffbb78",
-      "image": "bookcovers/bookcover.jpeg"
+      "color": "#404E86",
+      "image": "bookcovers/book-04.png"
     }, {
       "node": 4,
       "name": "A Dance with Dragons",
-      "color": "#1f77b4",
-      "image": "bookcovers/bookcover.jpeg"
+      "color": "#1B295F",
+      "image": "bookcovers/book-05.png"
     }, {
       "node": 5,
       "name": "Season 1",
-      "color": "#0C2B57"
+      "color": "#C0CAC9"
     }, {
       "node": 6,
-      "name": "Season 2",
-      "color": "#0C2B57"
+      "name": "2",
+      "color": "#C0CAC9"
     }, {
       "node": 7,
-      "name": "Season 3",
-      "color": "#0C2B57"
+      "name": "3",
+      "color": "#C0CAC9"
     }, {
       "node": 8,
-      "name": "Season 4",
-      "color": "#0C2B57"
+      "name": "4",
+      "color": "#C0CAC9"
     }, {
       "node": 9,
-      "name": "Season 5",
-      "color": "#0C2B57"
+      "name": "5",
+      "color": "#C0CAC9"
     }, {
       "node": 10,
-      "name": "Season 6",
-      "color": "#0C2B57"
+      "name": "6",
+      "color": "#C0CAC9"
     }, {
       "node": 11,
-      "name": "Season 7",
-      "color": "#0C2B57"
+      "name": "7",
+      "color": "#C0CAC9"
     }],
     "links": [{
       "source": "A Game of Thrones",
@@ -58,11 +58,11 @@
       "value": 78.5
     }, {
       "source": "A Game of Thrones",
-      "target": "Season 5",
+      "target": "5",
       "value": 0.5
     }, {
       "source": "A Game of Thrones",
-      "target": "Season 6",
+      "target": "6",
       "value": 1
     }, {
       "source": "A Clash of Kings",
@@ -70,83 +70,83 @@
       "value": 2.5
     }, {
       "source": "A Clash of Kings",
-      "target": "Season 2",
+      "target": "2",
       "value": 87
     }, {
       "source": "A Clash of Kings",
-      "target": "Season 3",
+      "target": "3",
       "value": 3
     }, {
       "source": "A Clash of Kings",
-      "target": "Season 4",
+      "target": "4",
       "value": 1
     }, {
       "source": "A Clash of Kings",
-      "target": "Season 7",
+      "target": "7",
       "value": 0.5
     },{
       "source": "A Storm of Swords",
-      "target": "Season 2",
+      "target": "2",
       "value": 10
     }, {
       "source": "A Storm of Swords",
-      "target": "Season 3",
+      "target": "3",
       "value": 67
     }, {
       "source": "A Storm of Swords",
-      "target": "Season 4",
+      "target": "4",
       "value": 38
     }, {
       "source": "A Storm of Swords",
-      "target": "Season 5",
+      "target": "5",
       "value": 5.5
     }, {
       "source": "A Storm of Swords",
-      "target": "Season 6",
+      "target": "6",
       "value": 2.5
     }, {
       "source": "A Storm of Swords",
-      "target": "Season 7",
+      "target": "7",
       "value": 1
     }, {
       "source": "A Feast for Crows",
-      "target": "Season 3",
+      "target": "3",
       "value": 0.5
     }, {
       "source": "A Feast for Crows",
-      "target": "Season 4",
+      "target": "4",
       "value": 3
     }, {
       "source": "A Feast for Crows",
-      "target": "Season 5",
+      "target": "5",
       "value": 26
     }, {
       "source": "A Feast for Crows",
-      "target": "Season 6",
+      "target": "6",
       "value": 11
     }, {
       "source": "A Feast for Crows",
-      "target": "Season 7",
+      "target": "7",
       "value": 6.5
     }, {
       "source": "A Dance with Dragons",
-      "target": "Season 3",
+      "target": "3",
       "value": 4
     }, {
       "source": "A Dance with Dragons",
-      "target": "Season 4",
+      "target": "4",
       "value": 5.5
     }, {
       "source": "A Dance with Dragons",
-      "target": "Season 5",
+      "target": "5",
       "value": 35
     }, {
       "source": "A Dance with Dragons",
-      "target": "Season 6",
+      "target": "6",
       "value": 9.5
     }, {
       "source": "A Dance with Dragons",
-      "target": "Season 7",
+      "target": "7",
       "value": 9.5
     }
     ]}
