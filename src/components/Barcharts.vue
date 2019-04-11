@@ -2,7 +2,8 @@
   <div class="barcharts">
     <div class="intro">
       <h1>How true is the TV series</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc magna erat, viverra in convallis nec, tempor a justo. Aliquam euismod orci vitae nisi sodales faucibus. In consequat lobortis nisi at gravida. Praesent rutrum felis non turpis vulputate vestibulum. Vestibulum quis neque eu elit fringilla tincidunt. Aliquam neque mi, tempor finibus nisl eget, fringilla sagittis orci. Nulla molestie ultrices malesuada. Morbi mollis sem eget velit congue, quis ultrices augue mattis. Maecenas non velit semper orci dignissim dapibus. Donec quis neque a nunc aliquam varius. Nullam vitae sollicitudin sapien, nec elementum mauris. Curabitur quis sagittis nibh, in commodo est. Vestibulum et quam quis est cursus placerat in elementum arcu. Donec dapibus eu nunc nec congue.</p>
+      <p>The barcharts below is our scene by scene analysis of every episode and every season. The size of the scene is based on its duration proportionate to the whole episode. Click on the scene to expand it and see the detailed comparison of each scene to the books. TRUE scenes are scenes that do happen in the books, albeit with some minor changes for the screen. MIXED scenes have elements that happen and elements that do not. FALSE are scenes that do not happen in the books at all. UNKNOWN are scenes that lack data (and time).
+      </p>
     </div>
     <div class="indicator">
       <div>

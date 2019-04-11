@@ -2,9 +2,15 @@
   <div class="intro">
     <img src="title-logo.svg"/>
     <h1>Books versus TV series</h1>
-    <p class="deck">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc magna erat, viverra in convallis nec, tempor a justo. Aliquam euismod orci vitae nisi sodales faucibus. In consequat lobortis nisi at gravida. Praesent rutrum felis non turpis vulputate vestibulum. Vestibulum quis neque eu elit fringilla tincidunt. Aliquam neque mi, tempor finibus nisl eget, fringilla sagittis orci. Nulla molestie ultrices malesuada. Morbi mollis sem eget velit congue, quis ultrices augue mattis. Maecenas non velit semper orci dignissim dapibus. Donec quis neque a nunc aliquam varius. Nullam vitae sollicitudin sapien, nec elementum mauris. Curabitur quis sagittis nibh, in commodo est. Vestibulum et quam quis est cursus placerat in elementum arcu. Donec dapibus eu nunc nec congue.
+    <p class="deck">As we embark on the epic final season, most of us know that the TV series has already exceeded the storyline of the (released) books. Find out how much of the previous seasons actually follow the books and how much have been changed.
     </p>
     <p class="produced">Produced By: <a href="https://www.behance.net/makuLhaiM">Alyssa Karla Mungcal</a>, <a href="http://webdev.jocelyn-tan.com/">Jocelyn Tan</a> and Pooja Sharma | Published: 15 April 2019</p>
+    <div class="paragraphs">
+      <p>There are various reasons why the screen version would differ from the book, one of which is the limited screen time, but most important reason is the budget. Every actor costs money, and more if they are speaking roles, so sometimes a minor character’s action is given to an existing character. The direwolves are shown more in the books, but they cost money to animate, unless you would see less of the dragons.
+      </p>
+      <p>The below Sankey diagram shows how much of each book is used as material for each season. We quantified it by counting the number of chapters that are shown in a particular season. Each chapter in the books is told from the point of view (POV) of a character. As you can see, the first season follows the first book quite closely, and the relationship decreases every following season.
+      </p>
+    </div>
   </div>
 </template>
 
@@ -32,7 +38,7 @@
   }
   p.deck {
     font-family: 'PT Sans', sans-serif;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1.3em;
     color: #E1EDF4;
   }
@@ -43,6 +49,17 @@
     font-size: 12px;
     line-height: 1.3em;
     color: rgba(#E1EDF4, 0.8);
+  }
+
+  .paragraphs {
+    margin: 80px 0 30px;
+
+    p {
+      font-family: 'PT Sans', sans-serif;
+      font-size: 15px;
+      line-height: 1.3em;
+      color: #E1EDF4;
+    }
   }
 }
 </style>
