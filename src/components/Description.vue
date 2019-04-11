@@ -11,7 +11,7 @@
         <p class="rating" :style="{ backgroundColor: color }">{{ sceneData.Rating }}</p>
       </div>
     </div>
-    <img :src="'images/season ' + drilldown.season + '/GoT ' + drilldown.season + ' ' + drilldown.episode + ' '  + drilldown.scene + '.jpg'"/>
+    <img :src="'images/season' + drilldown.season + '/GoT ' + drilldown.season + ' ' + drilldown.episode + ' '  + drilldown.scene + '.jpg'"/>
     <p class="comparison">{{ sceneData.Difference }}</p>
   </div>
 </template>
@@ -78,15 +78,24 @@ export default {
         text-align: left;
         margin: 0;
         color: #E1EDF4;
+
+        @media (max-width: 768px) {
+          font-size: 16px;
+        }
       }
 
       .ep-name {
         font-family: 'PT Sans', sans-serif;
         font-size: 15px;
         line-height: 1.3em;
+        text-align: left;
         color: #E1EDF4;
         text-transform: uppercase;
         margin-bottom: 15px;
+
+        @media (max-width: 768px) {
+          font-size: 13px;
+        }
       }
 
       .rating {
@@ -96,6 +105,11 @@ export default {
         color: #E1EDF4;
         padding: 5px;
         border-radius: 5px;
+        margin-left: 5px;
+
+        @media (max-width: 768px) {
+          font-size: 13px;
+        }
       }
     }
   }
@@ -116,7 +130,7 @@ export default {
     color: #E1EDF4;
 
     @media (max-width: 768px) {
-      font-size: 14px;
+      font-size: 13px;
     }
   }
 }

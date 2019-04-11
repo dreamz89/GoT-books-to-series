@@ -43,11 +43,13 @@
             <div @click="up">&#11014;</div>
             <div @click="down">&#11015;</div>
           </div>
-          <description
-            :data="data['S' + drilldown.season + 'E' + drilldown.episode]"
-            :drilldown="drilldown"
-          ></description>
-          <p @click="closeDescription">X</p>
+          <div class="content">
+            <img src="close-icon.svg" @click="closeDescription"></img>
+            <description
+              :data="data['S' + drilldown.season + 'E' + drilldown.episode]"
+              :drilldown="drilldown"
+            ></description>
+          </div>
         </div>
       </div>
     </div>
@@ -177,6 +179,10 @@ export default {
       display: inline-block;
       margin: 0 10px;
 
+      @media (max-width: 480px){
+        margin: 0 5px;
+      }
+
       > div {
         height: 15px;
         width: 15px;
@@ -191,6 +197,10 @@ export default {
         font-family: 'PT Sans', sans-serif;
         font-size: 15px;
         line-height: 1.3em;
+
+        @media (max-width: 480px){
+          margin-left: 5px;
+        }
       }
     }
 
@@ -233,7 +243,7 @@ export default {
 
       .description-wrap {
         display: inline-block;
-        width: calc(100% / 7 * 6);
+        width: calc(100% / 7 * 6 - 20px);
         opacity: 1;
       }
     }
@@ -260,13 +270,25 @@ export default {
         .navigation {
           display: flex;
           flex-direction: column;
-          justify-content: center;
 
           div {
             margin: 10px 5px;
             font-size: 28px;
             cursor: pointer;
           }
+        }
+
+        .content {
+          > img {
+            height: 20px;
+            float: right;
+            margin-bottom: 10px;
+            cursor: pointer;
+          }
+        }
+
+        .description {
+          clear:both
         }
 
         > p {

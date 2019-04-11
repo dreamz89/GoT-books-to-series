@@ -26,30 +26,37 @@
     }, {
       "node": 5,
       "name": "Season 1",
+      "pov": "85 POVs",
       "color": "#C0CAC9"
     }, {
       "node": 6,
       "name": "2",
+      "pov": "81",
       "color": "#C0CAC9"
     }, {
       "node": 7,
       "name": "3",
+      "pov": "66",
       "color": "#C0CAC9"
     }, {
       "node": 8,
       "name": "4",
+      "pov": "33",
       "color": "#C0CAC9"
     }, {
       "node": 9,
       "name": "5",
+      "pov": "48",
       "color": "#C0CAC9"
     }, {
       "node": 10,
       "name": "6",
+      "pov": "24",
       "color": "#C0CAC9"
     }, {
       "node": 11,
       "name": "7",
+      "pov": "17.5",
       "color": "#C0CAC9"
     }],
     "links": [{

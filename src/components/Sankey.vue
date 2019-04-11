@@ -33,11 +33,11 @@ export default {
     const sankey = d3.sankey().size([width, height])
 
     if (window.innerWidth < 480) { // mobile
-      sankey.nodeWidth(12)
-            .nodePadding(12)
+      sankey.nodeWidth(9)
+            .nodePadding(9)
     } else {
-      sankey.nodeWidth(15)
-            .nodePadding(15)
+      sankey.nodeWidth(13)
+            .nodePadding(13)
     }
 
     var path = sankey.link()
@@ -102,35 +102,55 @@ export default {
       node.append('text')
           .attr('text-anchor', 'middle')
           .text(d => { return d.name })
-          .style('fill', '#E1EDF4')
+          .style('fill', '#C0CAC9')
           .attr('x', d => { return d.dy / 2 })
           .attr('y', (d, i) => {
             if (window.innerWidth < 480) { // mobile
               if (i < 5) { // top text
-                return sankey.nodeWidth() * -2
+                return sankey.nodeWidth() * -2.5
               } else { // bottom text
-                return sankey.nodeWidth() * 2.2
+                return sankey.nodeWidth() * 3
               }
             } else {
               if (i < 5) { // top text
-                return sankey.nodeWidth() * -2
+                return sankey.nodeWidth() * -2.5
               } else { // bottom text
-                return sankey.nodeWidth() * 2.5
+                return sankey.nodeWidth() * 3
               }
             }
-          })
-          .call(wrap, 100)
+          }).call(wrap, 100)
+
+          node.append('text')
+              .attr('text-anchor', 'middle')
+              .text(d => { return d.pov })
+              .style('fill', '#E1EDF4')
+              .attr('x', d => { return d.dy / 2 })
+              .attr('y', (d, i) => {
+                if (i >= 5) {
+                  if (window.innerWidth < 480) { // mobile
+                    return sankey.nodeWidth() * -1
+                  } else {
+                    return sankey.nodeWidth() * -0.5
+                  }
+                }
+              })
 
       // select elements from https://stackoverflow.com/questions/28390754/get-one-element-from-d3js-selection-by-index
       node.filter((d, i) => { return i < 5 }) // only the top nodes
           .append('svg:image')
           .attr({'xlink:href': d => { return d.image }})
-          .attr('x', d => { return (d.dy - 100) / 2 })
+          .attr('x', d => {
+            if (window.innerWidth < 480) { // mobile
+              return (d.dy - 50) / 2
+            } else {
+              return (d.dy - 100) / 2
+            }
+          })
           .attr('y', () => {
             if (window.innerWidth < 480) { // mobile
-              return sankey.nodeWidth() * -7.5
-            } else {
               return sankey.nodeWidth() * -10
+            } else {
+              return sankey.nodeWidth() * -12
             }
           })
           .attr('width', () => {
@@ -195,8 +215,14 @@ export default {
 
 <style lang='scss'>
 .sankey {
-  height: 50vw;
+  height: 80vh;
   width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+
+  @media (max-width: 480px) {
+    height: 50vh;
+  }
 
   #chart {
     height: 100%;
@@ -220,11 +246,11 @@ export default {
 
     .link {
       fill: none;
-      stroke-opacity: .5;
+      stroke-opacity: .6;
     }
 
     .link:hover {
-      stroke-opacity: .8;
+      stroke-opacity: 1;
     }
 
     /* mobile */
