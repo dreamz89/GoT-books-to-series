@@ -46,7 +46,7 @@
               <div @click="down">&#11015;</div>
             </div>
             <div class="content">
-              <img src="close-icon.svg" @click="closeDescription"></img>
+              <img src="close-icon.svg" @click="closeDescription" />
               <description
                 :data="data['S' + drilldown.season + 'E' + drilldown.episode]"
                 :drilldown="drilldown"
