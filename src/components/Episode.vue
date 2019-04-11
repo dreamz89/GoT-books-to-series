@@ -7,6 +7,7 @@
       :style="setStyle(scene)"
       @click="chosenScene(index + 1)">
     </div>
+    <p v-if="season === 1">EP {{ episode }}</p>
   </div>
 </template>
 
@@ -93,10 +94,19 @@ export default {
 <style lang="scss">
 .episode {
   height: 200px;
-  width: 50%;
-  max-width: 50px;
+  padding: 0 35%;
   margin: 0 auto;
   cursor: pointer;
+  border-bottom: 1px solid rgba(121,148,195, 0.5);
+  position: relative;
+
+  @media (max-width: 768px) {
+    padding: 0 30%;
+  }
+
+  @media (max-width: 480px) {
+    padding: 0 25%;
+  }
 
   .scene {
     width: 100%;
@@ -105,6 +115,17 @@ export default {
       width: 120%;
       margin-left: -10%;
     }
+  }
+
+  > p {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    margin: 5px 0;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.3em;
+    color: #E1EDF4;
   }
 }
 </style>
