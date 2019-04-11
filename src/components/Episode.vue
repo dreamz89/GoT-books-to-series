@@ -7,7 +7,7 @@
       :style="setStyle(scene)"
       @click="chosenScene(index + 1)">
     </div>
-    <p v-if="season === 1">EP {{ episode }}</p>
+    <p v-if="season === 1 || season === drilldown.season">EP {{ episode }}</p>
   </div>
 </template>
 
