@@ -51,6 +51,14 @@
     color: rgba(#E1EDF4, 0.8);
   }
 
+  a {
+    color: #AFC9F5;
+
+    &:visited {
+      color: #404E86;
+    }
+  }
+
   .paragraphs {
     margin: 80px 0 30px;
 
