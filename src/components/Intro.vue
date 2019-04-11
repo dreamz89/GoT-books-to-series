@@ -60,7 +60,7 @@
   }
 
   .paragraphs {
-    margin: 80px 0 30px;
+    margin: 80px 0 0;
 
     p {
       font-family: 'PT Sans', sans-serif;

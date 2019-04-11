@@ -23,33 +23,35 @@
         <p>Unknown</p>
       </div>
     </div>
-    <div class="season"
-      ref="season"
-      v-for="sn in 7"
-      :key="sn">
-      <div class="episodes">
-        <episode
-          v-for="ep in 2"
-          :key="ep"
-          :data="data['S' + sn + 'E' + ep]"
-          :season="sn"
-          :episode="ep"
-          :drilldown="drilldown"
-          @chosen="drilldown = $event"
-        ></episode>
-      </div>
-      <div class="description-wrap" v-show="sn === drilldown.season">
-        <div class="inner-wrap">
-          <div class="navigation">
-            <div @click="up">&#11014;</div>
-            <div @click="down">&#11015;</div>
-          </div>
-          <div class="content">
-            <img src="close-icon.svg" @click="closeDescription"></img>
-            <description
-              :data="data['S' + drilldown.season + 'E' + drilldown.episode]"
-              :drilldown="drilldown"
-            ></description>
+    <div class="seasons">
+      <div class="season"
+        ref="season"
+        v-for="sn in 7"
+        :key="sn">
+        <div class="episodes">
+          <episode
+            v-for="ep in 2"
+            :key="ep"
+            :data="data['S' + sn + 'E' + ep]"
+            :season="sn"
+            :episode="ep"
+            :drilldown="drilldown"
+            @chosen="drilldown = $event"
+          ></episode>
+        </div>
+        <div class="description-wrap" v-show="sn === drilldown.season">
+          <div class="inner-wrap">
+            <div class="navigation">
+              <div @click="up">&#11014;</div>
+              <div @click="down">&#11015;</div>
+            </div>
+            <div class="content">
+              <img src="close-icon.svg" @click="closeDescription"></img>
+              <description
+                :data="data['S' + drilldown.season + 'E' + drilldown.episode]"
+                :drilldown="drilldown"
+              ></description>
+            </div>
           </div>
         </div>
       </div>
@@ -227,74 +229,81 @@ export default {
     }
   }
 
-  .season {
-    display: inline-block;
-    height: 100%;
-    width: calc(100% / 7);
-    text-align: center;
-    transition: width 0.5s ease;
+  .seasons {
+    @media (max-width: 480px){
+      max-width: calc(100% - 27px);
+      margin-left: 27px;
+    }
 
-    &.expand {
-      width: 100%;
+    .season {
+      display: inline-block;
+      height: 100%;
+      width: calc(100% / 7);
+      text-align: center;
+      transition: width 0.5s ease;
 
-      .episodes {
-        display: inline-block;
-        width: calc(100% / 7);
+      &.expand {
+        width: 100%;
+
+        .episodes {
+          display: inline-block;
+          width: calc(100% / 7);
+        }
+
+        .description-wrap {
+          display: inline-block;
+          width: calc(100% / 7 * 6 - 20px);
+          opacity: 1;
+        }
+      }
+
+      &.shrink {
+        width: 0;
+
+        p {
+          white-space: nowrap;
+          visibility: hidden;
+        }
       }
 
       .description-wrap {
-        display: inline-block;
-        width: calc(100% / 7 * 6 - 20px);
-        opacity: 1;
-      }
-    }
+        vertical-align: top;
+        transition: width 0.5s ease;
+        width: 0;
+        opacity: 0;
 
-    &.shrink {
-      width: 0;
-
-      p {
-        white-space: nowrap;
-        visibility: hidden;
-      }
-    }
-
-    .description-wrap {
-      vertical-align: top;
-      transition: width 0.5s ease;
-      width: 0;
-      opacity: 0;
-
-      .inner-wrap {
-        display: flex;
-        flex-direction: row;
-
-        .navigation {
+        .inner-wrap {
           display: flex;
-          flex-direction: column;
+          flex-direction: row;
 
-          div {
-            margin: 10px 5px;
-            font-size: 28px;
+          .navigation {
+            display: flex;
+            flex-direction: column;
+
+            div {
+              margin: 10px 5px;
+              font-size: 28px;
+              cursor: pointer;
+            }
+          }
+
+          .content {
+            > img {
+              height: 20px;
+              float: right;
+              margin-bottom: 10px;
+              cursor: pointer;
+            }
+          }
+
+          .description {
+            clear:both
+          }
+
+          > p {
+            font-size: 30px;
             cursor: pointer;
           }
-        }
-
-        .content {
-          > img {
-            height: 20px;
-            float: right;
-            margin-bottom: 10px;
-            cursor: pointer;
-          }
-        }
-
-        .description {
-          clear:both
-        }
-
-        > p {
-          font-size: 30px;
-          cursor: pointer;
         }
       }
     }

@@ -121,11 +121,21 @@ export default {
     position: absolute;
     left: 0;
     bottom: 0;
-    margin: 5px 0;
+    margin: 0;
     font-family: 'PT Sans', sans-serif;
     font-size: 15px;
     line-height: 1.3em;
     color: #E1EDF4;
+
+    @media (max-width: 480px){
+      padding: 5px 0;
+      font-size: 12px;
+      left: -23px;
+      bottom: -1px;
+      padding: 5px 0;
+      margin: 0;
+      border-bottom: 1px solid rgba(121,148,195, 0.5);
+    }
   }
 }
 </style>
