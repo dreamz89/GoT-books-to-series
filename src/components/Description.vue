@@ -12,7 +12,7 @@
       </div>
     </div>
     <img :src="'images/season' + drilldown.season + '/GoT ' + drilldown.season + ' ' + drilldown.episode + ' '  + drilldown.scene + '.jpg'"/>
-    <p class="comparison">{{ sceneData.Difference }}</p>
+    <p class="comparison" v-html="sceneData.Comparison"></p>
   </div>
 </template>
 

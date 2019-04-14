@@ -1,8 +1,12 @@
 <template>
   <div class="barcharts">
     <div class="intro">
-      <h1>How true is the TV series</h1>
-      <p>The barcharts below is our scene by scene analysis of every episode and every season. The size of the scene is based on its duration proportionate to the whole episode. Click on the scene to expand it and see the detailed comparison of each scene to the books. TRUE scenes are scenes that do happen in the books, albeit with some minor changes for the screen. MIXED scenes have elements that happen and elements that do not. FALSE are scenes that do not happen in the books at all. UNKNOWN are scenes that lack data (and time).
+      <h1>Scene by scene comparison</h1>
+      <p>
+        Click on the barcharts below to see the scene by scene comparison of every episode and every season. The size of the scene is based on its duration proportionate to the whole episode.
+      </p>
+      <p>
+        TRUE scenes are scenes that do happen in the books, albeit with some minor changes for the screen. MIXED scenes have elements that happen and elements that do not. FALSE are scenes that do not happen in the books at all. UNKNOWN are scenes that lack data (and time).
       </p>
     </div>
     <div class="indicator">
@@ -30,7 +34,7 @@
         :key="sn">
         <div class="episodes">
           <episode
-            v-for="ep in 2"
+            v-for="ep in 10"
             :key="ep"
             :data="data['S' + sn + 'E' + ep]"
             :season="sn"
@@ -108,7 +112,7 @@ export default {
         S1E1, S1E2, S1E3, S1E4, S1E5, S1E6, S1E7, S1E8, S1E9, S1E10,
         S2E1, S2E2, S2E3, S2E4, S2E5, S2E6, S2E7, S2E8, S2E9, S2E10,
         S3E1, S3E2, S3E3, S3E4, S3E5, S3E6, S3E7, S3E8, S3E9, S3E10,
-        S7E1, S7E2, S7E7, S7E4, S7E5, S7E6, S7E7
+        S7E1, S7E2, S7E3, S7E4, S7E5, S7E6, S7E7
       },
       data: {},
       drilldown: {
@@ -250,9 +254,13 @@ export default {
   }
 
   .seasons {
-    @media (max-width: 480px){
+    @media (max-width: 768px) {
       max-width: calc(100% - 27px);
       margin-left: 27px;
+    }
+
+    @media (min-width: 768px) {
+      margin: 20px 15px;
     }
 
     .season {
@@ -299,15 +307,19 @@ export default {
           .navigation {
             display: flex;
             flex-direction: column;
+            margin-top: 30px;
 
             div {
-              margin: 10px 5px;
+              margin: 0 5px 15px;
               font-size: 28px;
+              color: #C0CAC9;
               cursor: pointer;
             }
           }
 
           .content {
+            margin: 0 auto;
+
             > img {
               height: 20px;
               float: right;

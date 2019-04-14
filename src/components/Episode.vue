@@ -20,7 +20,7 @@ export default {
         'TRUE': '#404E86',
         'FALSE': '#B23E4D',
         'MIXED': '#7994C3',
-        '': '#C0CAC9'
+        'UNKNOWN': '#C0CAC9'
       },
       totalDuration: 0,
       previousScene: 0,
@@ -51,6 +51,7 @@ export default {
   },
   methods: {
     calculateDuration () {
+      if (!this.data) return // for season 7
       this.data.forEach(scene => {
         this.totalDuration += this.toSeconds(scene.Duration)
       })
@@ -127,7 +128,7 @@ export default {
     line-height: 1.3em;
     color: #E1EDF4;
 
-    @media (max-width: 480px){
+    @media (max-width: 768px){
       padding: 5px 0;
       font-size: 12px;
       left: -23px;
