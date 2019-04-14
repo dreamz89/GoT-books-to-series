@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Ygritte makes fun of how southern armies march",
+   "Scene End": "00:04:15",
+   "Duration": "00:02:21",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "The Starks/Tullys worry about the delay",
+   "Scene End": "00:05:27",
+   "Duration": "00:01:12",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 3,
+   "Scene": "Talisa tells Robb about her pregnancy",
+   "Scene End": "00:09:22",
+   "Duration": "00:03:55",
+   "Comparison": "This scene does not happen in the books - Robb's wife never told him that she is pregnant.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Orell is jealous that Ygritte is in love with Jon",
+   "Scene End": "00:11:21",
+   "Duration": "00:01:59",
+   "Comparison": "In the books, neither Orell (who was killed by Jon in \"A Clash of Kings\") nor any of the wildlings ever disapproved of the growing romance between Jon and Ygritte. Indeed, Tormund encouraged it, and was confused by Jon's initial retience towards Ygritte.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Margaery consoles Sansa on her marriage",
+   "Scene End": "00:14:32",
+   "Duration": "00:03:11",
+   "Comparison": "The conversation between Sansa and Margaery about the marriage to Tyrion does not occur in the books. Sansa never discussed it with anyone, because she was not told until the wedding itself, and the Tyrells distanced themselves from Sansa after their plot was discovered.<br><br>In the books, it is not Margaery but her brother Garlan who tells Sansa at the wedding itself, that Tyrion might make a good husband.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Tyrion rues the marriage over drinks with Bronn",
+   "Scene End": "00:15:54",
+   "Duration": "00:01:22",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Tywin intimidates Joffrey",
+   "Scene End": "00:19:22",
+   "Duration": "00:03:28",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Deciding whether to take Yunkai",
+   "Scene End": "00:20:36",
+   "Duration": "00:01:14",
+   "Comparison": "There is no mention in the books that there are 200,000 slaves in Yunkai.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "The Yunkai representative negotiates with Daenerys",
+   "Scene End": "00:25:54",
+   "Duration": "00:05:18",
+   "Comparison": "In the books, Daenerys' meeting with the Yunkish envoy is different. <br><br>First, the Yunkai'i meet her with an army of slave soldiers and sellswords at their back. Second, they do not offer her any ships to carry her to Westeros on condition that she leaves the Slaver's Bay, but one chest of 50,000 gold marks which she does not keep when she rejects their terms. Third, she orders Drogon to breathe fire on the envoy as he leaves, setting his tokar (a Ghiscari garment) on fire.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Shae is unhappy with Tyrion over the marriage",
+   "Scene End": "00:28:09",
+   "Duration": "00:02:15",
+   "Comparison": "In the books, Tyrion never gave any chain to Shae.\nShae was not upset at all about Tyrion's impending marriage to Sansa. On the contrary, she told him indifferently: \"I don't care. She's only a little girl. You'll give her a big belly and come back to me.\" Tyrion was quite upset at Shae's indifference, which proved to him that she does not have any true feelings to him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Melisandre reveals to Gendry his parentage",
+   "Scene End": "00:30:01",
+   "Duration": "00:01:52",
+   "Comparison": "This scene does not happen in the books - Gendry never learns that he is Robert's bastard.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Arya quarrels with Bedric and runs off",
+   "Scene End": "00:32:20",
+   "Duration": "00:02:19",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Jaime says goodbye to Brienne",
+   "Scene End": "00:33:51",
+   "Duration": "00:01:31",
+   "Comparison": "This scene does not happen in the books - There was no goodbye conversation between Jaime and Brienne before he left Harrenhal.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Jaime leaves for King's Landing",
+   "Scene End": "00:35:01",
+   "Duration": "00:01:10",
+   "Comparison": "In the books, as Jaime leaves Harrenhal, he said goodbye to the Brave Companions, promising them \"I will be back. A Lannister always pays his debts\".",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Two women tempt Theon before Ramsey interrupts",
+   "Scene End": "00:40:25",
+   "Duration": "00:05:24",
+   "Comparison": "The scene with Theon Greyjoy does not specifically happen in the books, but is loosely adapted from flashbacks given in later books. The books never outright state that Theon's torturers castrated him, but it was twice alluded to in \"A Dance with Dragons\".",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jon tells Ygritte they cannot win",
+   "Scene End": "00:44:22",
+   "Duration": "00:03:57",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Osha refuses to let Bran go north of the Wall",
+   "Scene End": "00:48:19",
+   "Duration": "00:03:57",
+   "Comparison": "In the books, Osha and the rest have already split up, and Osha had never mentioned any husband or other relatives.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Jaime hears of Brienne's fate and decides to turn back",
+   "Scene End": "00:51:58",
+   "Duration": "00:03:39",
+   "Comparison": "In the books, Jaime never told Qyburn or anyone else except Brienne that he saved the residents of King's Landing. Jaime did not ask Qyburn if he was expelled from the Citadel because \"he fondled one boy too many\". That comment may refer to the pedophile Septon Utt, another member of the Brave Companions, who used to molest and murder children until he was caught and hanged by the Brotherhood without Banners.<br><br>Jaime decided to rescue Brienne after having a fevered dream of her, not after hearing from Qyburn that Vargo Hoat/Locke had rejected the ransom her father offered, as thanks to Jaime he was expecting more. Jaime was irritated to hear this, but reasoned that Brienne was strong enough to survive a few rapes, and might even break Hoat's neck if he underestimated her. Jaime did not change his mind until after the dream.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jaime rescues Brienne from a bear",
+   "Scene End": "00:56:18",
+   "Duration": "00:04:20",
+   "Comparison": "In the books, while Jaime was gone, Vargo Hoat tried to rape Brienne, but she fought him and bit off one of his ears. When Jaime returned to Harrenhal, he noticed that Hoat's left side of his head is covered with bloody bandages.<br><br>In the books, Brienne fights the bear with a blunt metal tourney blade. Jaime only noticed this after she stabbed the bear without causing any injury.\nWhen Jaime arrives, he is accompanied by 200 Northmen commanded by Steelshanks who outnumber the Brave Companions two-to-one. Steelshanks and several other Northmen kill the bear with a dozen or so crossbow bolts. Jaime and Brienne do not climb out of the arena, since the bear is already killed.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

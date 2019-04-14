@@ -64,31 +64,51 @@ import episode from './Episode.vue'
 import description from './Description.vue'
 import S1E1 from '../data/GoT S1 E1.json'
 import S1E2 from '../data/GoT S1 E2.json'
-import S2E1 from '../data/GoT S1 E1.json'
-import S2E2 from '../data/GoT S1 E2.json'
-import S3E1 from '../data/GoT S1 E1.json'
-import S3E2 from '../data/GoT S1 E2.json'
-import S4E1 from '../data/GoT S1 E1.json'
-import S4E2 from '../data/GoT S1 E2.json'
-import S5E1 from '../data/GoT S1 E1.json'
-import S5E2 from '../data/GoT S1 E2.json'
-import S6E1 from '../data/GoT S1 E1.json'
-import S6E2 from '../data/GoT S1 E2.json'
-import S7E1 from '../data/GoT S1 E1.json'
-import S7E2 from '../data/GoT S1 E2.json'
+import S1E3 from '../data/GoT S1 E3.json'
+import S1E4 from '../data/GoT S1 E4.json'
+import S1E5 from '../data/GoT S1 E5.json'
+import S1E6 from '../data/GoT S1 E6.json'
+import S1E7 from '../data/GoT S1 E7.json'
+import S1E8 from '../data/GoT S1 E8.json'
+import S1E9 from '../data/GoT S1 E9.json'
+import S1E10 from '../data/GoT S1 E10.json'
+import S2E1 from '../data/GoT S2 E1.json'
+import S2E2 from '../data/GoT S2 E2.json'
+import S2E3 from '../data/GoT S2 E3.json'
+import S2E4 from '../data/GoT S2 E4.json'
+import S2E5 from '../data/GoT S2 E5.json'
+import S2E6 from '../data/GoT S2 E6.json'
+import S2E7 from '../data/GoT S2 E7.json'
+import S2E8 from '../data/GoT S2 E8.json'
+import S2E9 from '../data/GoT S2 E9.json'
+import S2E10 from '../data/GoT S2 E10.json'
+import S3E1 from '../data/GoT S3 E1.json'
+import S3E2 from '../data/GoT S3 E2.json'
+import S3E3 from '../data/GoT S3 E3.json'
+import S3E4 from '../data/GoT S3 E4.json'
+import S3E5 from '../data/GoT S3 E5.json'
+import S3E6 from '../data/GoT S3 E6.json'
+import S3E7 from '../data/GoT S3 E7.json'
+import S3E8 from '../data/GoT S3 E8.json'
+import S3E9 from '../data/GoT S3 E9.json'
+import S3E10 from '../data/GoT S3 E10.json'
+import S7E1 from '../data/GoT S7 E1.json'
+import S7E2 from '../data/GoT S7 E2.json'
+import S7E3 from '../data/GoT S7 E3.json'
+import S7E4 from '../data/GoT S7 E4.json'
+import S7E5 from '../data/GoT S7 E5.json'
+import S7E6 from '../data/GoT S7 E6.json'
+import S7E7 from '../data/GoT S7 E7.json'
 
 export default {
   components: { episode, description },
   data () {
     return {
       fullData: {
-        S1E1, S1E2,
-        S2E1, S2E2,
-        S3E1, S3E2,
-        S4E1, S4E2,
-        S5E1, S5E2,
-        S6E1, S6E2,
-        S7E1, S7E2
+        S1E1, S1E2, S1E3, S1E4, S1E5, S1E6, S1E7, S1E8, S1E9, S1E10,
+        S2E1, S2E2, S2E3, S2E4, S2E5, S2E6, S2E7, S2E8, S2E9, S2E10,
+        S3E1, S3E2, S3E3, S3E4, S3E5, S3E6, S3E7, S3E8, S3E9, S3E10,
+        S7E1, S7E2, S7E7, S7E4, S7E5, S7E6, S7E7
       },
       data: {},
       drilldown: {

@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Davos leads the fleet into King's Landing",
+   "Scene End": "00:04:45",
+   "Duration": "00:02:51",
+   "Comparison": "In the books, Ser Davos is not the commander of Stannis' fleet. It is Imry Florent, Stannis' brother-in-law.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Tyrion tells Shae of his fear",
+   "Scene End": "00:06:30",
+   "Duration": "00:01:45",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 3,
+   "Scene": "Cersei gets essence of nightshade from Pycelle",
+   "Scene End": "00:08:03",
+   "Duration": "00:01:33",
+   "Comparison": "This scene does not happen in the books - Cersei never obtains Essence of Nightshade from Pycelle, or anyone. She never contemplates killing herself, nor Tommen, who is even not in King's Landing during the battle, having been sent away from the city by Cersei beforehand.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Faceoff between Bronn and the Hound",
+   "Scene End": "00:12:08",
+   "Duration": "00:04:05",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Varys speaks with Tyrion while he suits up",
+   "Scene End": "00:15:00",
+   "Duration": "00:02:52",
+   "Comparison": "The scene with Varys and Tyrion never happens. Varys has long since told him how he was made a eunuch.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Stannis' men beat the drums",
+   "Scene End": "00:15:47",
+   "Duration": "00:00:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Tyrion, Bronn, Joffrey and ladies prepare for battle",
+   "Scene End": "00:18:40",
+   "Duration": "00:02:53",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 8,
+   "Scene": "Joffrey and Tyrion trading barbs atop the castle walls",
+   "Scene End": "00:20:12",
+   "Duration": "00:01:32",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "Davos wonders where the enemy ships are",
+   "Scene End": "00:20:34",
+   "Duration": "00:00:22",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 10,
+   "Scene": "Cersei offers Sansa wine in the hideout",
+   "Scene End": "00:22:35",
+   "Duration": "00:02:01",
+   "Comparison": "In the books, the room where Cersei and the highborn ladies gather for the battle is akin to a small banquet hall. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Stannis' ships are destroyed by wildfire",
+   "Scene End": "00:27:27",
+   "Duration": "00:04:52",
+   "Comparison": "In the books, Tyrion collects all of the armorers in King's Landing and orders them all to forge one chain link each. He collects them and has them linked together under the surface of Blackwater Bay. Once the majority of Stannis' fleet has passed the hidden chain, it is raised, creating a wall for the warships, preventing them from escaping once the wildfire has been released.<br><br>Stannis does not personally fight; he stays south of the bay in case of a defeat. Despite this, he is still adamant about not retreating.<br><br>In the books, the Royal Fleet is sacrificed by leading Stannis' fleet into Tyrion's wildfire trap. In the series, Tyrion sends the bulk of the fleet away to safety, and only one ship filled with wildfire is let loose.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 12,
+   "Scene": "Cersei offers Sansa more wine",
+   "Scene End": "00:31:05",
+   "Duration": "00:03:38",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Stannis' men invade the shore",
+   "Scene End": "00:34:19",
+   "Duration": "00:03:14",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Cersei starts talking to Shae too",
+   "Scene End": "00:37:33",
+   "Duration": "00:03:14",
+   "Comparison": "In the books, Shae does not speak to Cersei or Sansa during the battle.\nCersei did tell Sansa in some point during the battle that both of them will be beheaded by Ilyn if Stannis were to win.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 15,
+   "Scene": "The Hound is jaded of the battle",
+   "Scene End": "00:40:20",
+   "Duration": "00:02:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "Tyrion rallies the men after Joffrey leaves",
+   "Scene End": "00:44:18",
+   "Duration": "00:03:58",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "The Hound offers to take Sansa with him",
+   "Scene End": "00:48:05",
+   "Duration": "00:03:47",
+   "Comparison": "In the books, the Hound holds a knife to Sansa's throat after throwing her on the bed, has her sing him a song, and then leaves. She sings Gentle Mother, Font of Mercy to him, rather than with all the women in Maegor's Holdfast as depicted in the series.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 18,
+   "Scene": "Tyrion is wounded in the fighting",
+   "Scene End": "00:50:02",
+   "Duration": "00:01:57",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 19,
+   "Scene": "Cersei almost gives Tommen the nightshade",
+   "Scene End": "00:53:03",
+   "Duration": "00:03:01",
+   "Comparison": "In the books, Cersei never obtains Essence of Nightshade to kill herself, nor Tommen, who is even not in King's Landing during the battle, having been sent away from the city by Cersei beforehand.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

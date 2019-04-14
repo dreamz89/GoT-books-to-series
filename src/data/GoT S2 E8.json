@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Yara arrives at Winterfell",
+   "Scene End": "00:05:53",
+   "Duration": "00:03:59",
+   "Comparison": "In the books, Asha (Yara in the series) does bring reinforcements for Theon, but only 10 soldiers. Theon brags that he seized Winterfell with 30 men, not 20. <br><br>Dagmer Cleftjaw is not at Winterfell, he is besieging Torrhen's Square.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Ygritte convinces Lord of Bones to spare Jon",
+   "Scene End": "00:07:45",
+   "Duration": "00:01:52",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 3,
+   "Scene": "Robb chats with Talisa",
+   "Scene End": "00:10:17",
+   "Duration": "00:02:32",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Catelyn answers for her deed",
+   "Scene End": "00:11:58",
+   "Duration": "00:01:41",
+   "Comparison": "In the books, Robb does not chide or have Catelyn arrested. Desmond Grell, the castellan and master at arms of Riverrun, confines her in her father's bed chamber for formality's sake (only after she gave her consent to), for helping Jaime escape. When Robb returns, he forgave her in public, stating that she made that mistake out of love. Robb had himself acted rashly, in breaking his marriage pact with the Freys by marrying Jeyne Westerling (Talisa in the series).",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Brienne escorts the chained Jaime",
+   "Scene End": "00:14:28",
+   "Duration": "00:02:30",
+   "Comparison": "In the books, Jaime never tells anyone that there are three men in the kingdoms who might have a chance against him in battle.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Tywin discusses action against the Stark army",
+   "Scene End": "00:16:15",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Arya is too late to request Tywin's name",
+   "Scene End": "00:17:47",
+   "Duration": "00:01:32",
+   "Comparison": "In the books, Arya never asks Jaqen's help to kill Tywin Lannister.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Qhorin plans to install Jon as a spy",
+   "Scene End": "00:18:34",
+   "Duration": "00:00:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "Tyrion, Bronn and Varys discuss the siege",
+   "Scene End": "00:22:15",
+   "Duration": "00:03:41",
+   "Comparison": "Tyrion and Bronn do not argue in the book about Bronn not wanting to wear a gold cloak. Bronn is not Commander of the City Watch, that is Ser Jaclyn Bywater. Bronn is in command of Tyrion's private army of hired sellswords. He has not rounded up or gotten rid of all known thieves.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Sam and co find dragonglass",
+   "Scene End": "00:24:38",
+   "Duration": "00:02:23",
+   "Comparison": "In the books, the cache of dragonglass weapons is discovered by Jon Snow and Ghost the first night they spend at the Fist, not by Grenn. It contains blades, a dozen knives, leaf-shaped spearheads, at least 200 or 300 arrowheads and an old broken warhorn. Jon makes daggers for himself, Grenn and Mormont. He gives Sam the old warhorn, a spearhead and a dozen arrowheads, and passes the rest out among his other friends for luck.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Arya blackmails Jacqen to help them escape",
+   "Scene End": "00:26:58",
+   "Duration": "00:02:20",
+   "Comparison": "In the books, Arya never asks Jaqen's help to escape.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Cersei blames Tyrion for sending her son to the front",
+   "Scene End": "00:32:21",
+   "Duration": "00:05:23",
+   "Comparison": "In the books, the prostitute that Cersei captures is Alayaya, a prostitute in a local high-end brothel, not Ros (who does not exist in the books). In addition, Tommen had been moved to Castle Rosby north of King's Landing long before Stannis arrives, but is captured by Tyrion's sellswords. Tyrion threatens to harm him if Cersei harms Alayaya, \"the beatings and the rapes included\". To make the threat worse, he says that he'll do that himself. The scene ends with Tyrion having the upper hand.<br><br>In the book, Alayaya is captured and beaten by Osney and Osfryd Kettleblack, not by any of the Kingsguard.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Tyrion hugs Shae in relief",
+   "Scene End": "00:33:50",
+   "Duration": "00:01:29",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Robb chats with Talisa and decides on her",
+   "Scene End": "00:40:53",
+   "Duration": "00:07:03",
+   "Comparison": "This scene does not happen in the books - Robb's scene with Talisa (who is Jeyne Westerling in the books) is never shown; her story is also changed from the book.<br><br>Robb does not send any force to free Winterfell. He does not make any offer of surrender to the ironborn who occupy Winterfell.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Arya, Gendry and Hot Pie escape",
+   "Scene End": "00:42:06",
+   "Duration": "00:01:13",
+   "Comparison": "In the books, Arya never asks Jaqen's help to escape, nor to kill Tywin Lannister. Instead, she uses his name to help her free a group of northmen being held by Ser Amory Lorch. When she really escapes, she takes mounts for herself, Gendry and Hot Pie, and kills a guard.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Stannis and Davos talk",
+   "Scene End": "00:45:03",
+   "Duration": "00:02:57",
+   "Comparison": "At this point in the books, Stannis' Hand is still Alester Florent (Selyse's uncle). Davos is made Hand of the King only after he is released from jail.<br><br>In both the series and the books, Stannis is shown being sour at the lack of appreciation from Robert for holding Storm's End. He had held it for a year, going through starvation, but in the end Robert gave Storm's End to Renly.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "Tyrion chats with Varys",
+   "Scene End": "00:48:16",
+   "Duration": "00:03:13",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "Daenerys wants Jorah to take her to her dragons",
+   "Scene End": "00:50:02",
+   "Duration": "00:01:46",
+   "Comparison": "This scene does not happen in the books - Daenerys's scenes debating whether to go to the House of the Undying do not happen, because she goes there of her own accord; her dragons are never stolen; and there is no conspiracy against her.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 19,
+   "Scene": "The burnt boys are revealed to be the farmer's boys",
+   "Scene End": "00:52:00",
+   "Duration": "00:01:58",
+   "Comparison": "In the books, Luwin is aware that the charred bodies are not the Stark boys, but does not know for sure whether they are alive and their whereabouts.\nIn the books, it is revealed that the bodies belong to the sons of an unnamed miller, at the same time they are brought to Winterfell as a \"proof\". However, Luwin (as well as the readers) does not get confirmation of the Stark boys being alive and where they hid until the end of A Clash of Kings.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

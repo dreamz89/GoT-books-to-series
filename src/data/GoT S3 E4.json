@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Jaime puts up some resistance",
+   "Scene End": "00:04:41",
+   "Duration": "00:02:47",
+   "Comparison": "In the books, after having his hand cut off, Jaime rode on the same horse as Brienne, at first tied back-to-back, then face-to-face as part of the abusing he suffered from his captors.\nJaime didn't spit out the horse urine, as he was desperate to drink anything at the point it was offered. However, he later throws up from consuming it and soils himself while riding, so Brienne is forced to clean him up.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Tyrion approaches Varys for help",
+   "Scene End": "00:08:46",
+   "Duration": "00:04:05",
+   "Comparison": "Varys told Tyrion the tale of how he was castrated before the Battle of the Blackwater, while they were discussing the strange circumstances of Cortnay Penrose's death. In both series and books, Varys explained that he traveled around in several of the Free Cities before being castrated in Myr, but in the books, he also adds the detail that he was born in Lys.<br><br>In the books, Varys never captures the sorcerer who cut him.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Rast / Gilly wants to leave Craster's place",
+   "Scene End": "00:11:09",
+   "Duration": "00:02:23",
+   "Comparison": "In the books, while the rangers of the Watch stay at Craster's Keep, Grenn tells everyone how Sam destroyed the Other. Most of the rangers (those who later rebelled against Mormont) do not believe the story and taunt Sam, but Mormont and Sam's friends believe. Since then, Sam earned the nickname \"the Slayer\", which the other rangers use either as respect or for mockery. Sam hates that nickname, not because it is mostly used to tease him, but because he does not feel he deserves any credit for destroying the Other, claiming that it was not him but the dragonglass that killed the Other and that he is the same coward he has always been. He keeps asking people not to call him that, but to no avail.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Bran dreams of following the raven up the tree and falling",
+   "Scene End": "00:12:28",
+   "Duration": "00:01:19",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Ros tells information to Varys",
+   "Scene End": "00:14:17",
+   "Duration": "00:01:49",
+   "Comparison": "This scene does not happen in the books - no character spies on Littlefinger for Varys this way and no one else is aware of his plot to sneak Sansa out of the city.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Cersei, Olena, Joffrey and Margaery look around the Great Sept",
+   "Scene End": "00:18:32",
+   "Duration": "00:04:15",
+   "Comparison": "The scene with the Lannisters and the Tyrells in the Great Sept doesn't happen in the books.<br><br>In the series, Joffrey wants to show Margaery the tombs of the last Targaryens, and says that Robert Baratheon wanted them burned and scattered in the Blackwater River, but the High Septon convinced him to give them a proper funeral. In the books, the Targaryens maintained the Valyrian custom of cremating their dead. Thus there are no tombs containing the corpses of past generations of the Targaryen dynasty. Robert never had to be talked out of throwing their remains into the Blackwater river by the High Septon.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Ramsey brought Theon back to the dungeon",
+   "Scene End": "00:22:53",
+   "Duration": "00:04:21",
+   "Comparison": "In the books, Theon Greyjoy never openly stated that he considered Eddard Stark to be his real father. To Theon, Eddard has always been the man who'd brought blood and fire to Pyke and taken him from his home. In A Dance with Dragons, however, when Barbrey Dustin asks Theon why he loves the Starks, he admits that he \"wanted to be one of them\". Theon never admits to anyone that the boys he killed and tarred were not Bran and Rickon.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Brienne urges Jaime not to give up",
+   "Scene End": "00:25:07",
+   "Duration": "00:02:14",
+   "Comparison": "In the books, on the way to Harrenhal, three of the Brave Companions sneaked at night to where Brienne slept, intending to rape her, although Vargo Hoat had forbade them (because he believed Jaime's lie about sapphires). Again, Jaime intervened in time to save Brienne from gang-rape: he yelled \"sapphires\" loudly enough for Hoat to hear him. The three thugs beat Jaime severely till he lost consciousness, but his shout did the trick: Hoat came and stopped his men. Since then, Hoat put guards to make sure no one harms Brienne. Brienne thanked Jaime for his help.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "Cersei talks to her father about Jaime and the Tyrells",
+   "Scene End": "00:27:54",
+   "Duration": "00:02:47",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Varys comes to discuss Sansa with Olenna",
+   "Scene End": "00:31:57",
+   "Duration": "00:04:03",
+   "Comparison": "This scene does not happen in the books.<br><br>Varys takes no particular interest in Sansa and the plot to have her marry a Tyrell is Olenna's alone. In the book, during her first meeting with Sansa, Olenna mentions that she was approached by Varys beforehand but doesn't think very highly of him, japing that eunuchs in general are just men with the useful bits cut off.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Margaery works her charm on Sansa",
+   "Scene End": "00:34:46",
+   "Duration": "00:02:49",
+   "Comparison": "The scene where Margaery and Sansa walk along the coast never happens in the books.<br><br>There is no character named Allana in the books, either of House Tyrell or otherwise.\nThe Tyrells planned to marry Sansa to Willas Tyrell, who is Lord Mace Tyrell's eldest son and heir, not to Loras, who by this point in the books has become a Kingsguard and cannot marry.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "The Night's Watch burn a comrade's body",
+   "Scene End": "00:36:29",
+   "Duration": "00:01:43",
+   "Comparison": "In the books, it is not Rast but Dirk who says that Bannen died because Craster starved him dead, and that the day they leave - Craster will feast and laugh at them, out starving in the snow. He says that before Bannen's funeral.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Chaos descends when Craster and Mormont are killed",
+   "Scene End": "00:40:29",
+   "Duration": "00:04:00",
+   "Comparison": "In the books, it is not Rast but Dirk who tells Craster \"So you admit you got a secret larder. How else to make it through a winter?\".<br><br>In the series, a dagger is thrust into Craster's throat by Karl, up into the roof of his mouth, while in the books his throat is slit by Dirk.<br><br>In the books, Lord Mormont is stabbed in the gut, not by Rast (who remained back at Castle Black) but by Ollo Lophand. Mormont does not manage to fight his murderer.<br><br>Grenn and the rest of those who remain loyal to Mormont do not engage in fight against the Mutineers, since the latter outnumber them 2:1. Instead, they escape to Castle Black.<br><br>In the books, Sam stays back, holding Lord Mormont as he lays dying. Mormont commands him to escape with the others but he doesn't. Before dying, Mormont told Samwell Tarly to go to the Wall, and to tell them \"All. The Fist. The wildlings. Dragonglass. This. All. Tell my son. Jorah. Tell him, take the black. My wish. Dying wish. Tell Jorah. Forgive him. My son. Please. Go\". Then two of Craster's old wives urge him to take Gilly and the babe and leave. Sam and Gilly escape on horseback.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Beric of the Brotherhood passes sentence on the Hound",
+   "Scene End": "00:45:31",
+   "Duration": "00:05:02",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Daenerys turns on the Masters",
+   "Scene End": "00:49:30",
+   "Duration": "00:03:59",
+   "Comparison": "In both the series and the books, Daenerys swings the slaver's whip in Kraznys mo Nakloz's face and then releases Drogon on him with the command \"Dracarys\".<br><br>In the books, Missandei is already aware that Daenerys can speak Low Valyrian.<br><br>Daenerys orders the Unsullied to harm no child under twelve. In the series, she wasn't so specific, and said, \"harm no child\". Daenerys' followers are aware of her plans beforehand and attack the slavers as soon as she shouts \"Dracarys\"",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Daenerys gives the Unsullied a choice",
+   "Scene End": "00:52:01",
+   "Duration": "00:02:31",
+   "Comparison": "The Unsullied respond to Daenerys Targaryen's offer of freedom by shouting \"Dracarys!\" in the novels.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

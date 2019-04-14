@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "The Hound rides off with Arya amid chaos",
+   "Scene End": "00:03:24",
+   "Duration": "00:01:30",
+   "Comparison": "Arya and Sandor were not in the Twins long enough to see Robb with Grey Wind's head stitched on. In the books, Robb's iron crown was nailed onto Grey Wind's head, but it happened off-screen.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Sansa and Tyrion plan to get back at mean people",
+   "Scene End": "00:05:16",
+   "Duration": "00:01:52",
+   "Comparison": "This scene does not happen in the books - Tyrion and Sansa do not get along even remotely well in the books. Every moment they spend together is tense and awkward. Sansa's misery deepens every day, and anything Tyrion does could not cheer her up. Tyrion has never been called \"demon monkey\", and there is no mention that Arya ever put sheep dung in Sansa's bed.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "The Small Council discuss the red wedding",
+   "Scene End": "00:08:42",
+   "Duration": "00:03:26",
+   "Comparison": "In the books, when Joffrey says he will show Sansa Robb's severed head, it is not Varys but Kevan who reminds him that Sansa is his aunt by marriage.<br><br>Tywin expects that, with the tide of the war now firmly against them, most of the rebel Riverlands lords will bend the knee, and he plans to offer generous terms to those who surrender. Joffrey, however, wants them all executed. Tywin dismisses this as folly, pointing out that a lord who rebels should be crushed, but if he bends the knee, he should be granted mercy, or else no one will ever surrender to you again.<br><br>After Joffrey leaves, Cersei mentions the time he cut open a pregnant cat, and Robert beat him severely, breaking two of his baby teeth. Tywin (who is irate at Joffrey's insults) merely replies that had Robert been allowed to beat the boy more often, it might have solved a great many problems.<br><br>Tyrion notices that Tywin is enraged by Joffrey's accusation of cowardice during Robert's Rebellion, and trying not to show it. Tywin reminds Cersei that she reassured him Joffrey was nothing like Robert, as he did not fight a war to put Robert the Second on the throne. Once she is gone, Tyrion says that Joffrey is not Robert the Second, but Aerys the Third. Tywin decides that Joffrey requires a \"sharp lesson\", which reminds Tyrion of the sharp lesson he received from his father after marrying Tysha. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Tywin reminds Tyrion again about putting family first",
+   "Scene End": "00:12:20",
+   "Duration": "00:03:38",
+   "Comparison": "In the books, after the Small Council meeting, Tywin and Tyrion discuss the murder of Rhaegar's wife and children by the Mountain and Amory Lorch as Oberyn Martell has already arrived at King's Landing seeking justice. Tywin intends to tell Oberyn that Amory, who has since been killed, was responsible for all three deaths, not just Rhaenys. Though he admits that killing the Targaryen children was necessary to demonstrate the Lannisters' loyalty as they came late to Robert Baratheon's cause, he concedes that it was overly cruel and not necessary to kill Elia too. He had not even considered Elia beforehand, and thinks that Clegane killed her because he had not been ordered to spare her.<br><br>In the books, Tywin never mentions having wanted to kill Tyrion as a baby.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 5,
+   "Scene": "Tyrion finds Sansa crying",
+   "Scene End": "00:12:55",
+   "Duration": "00:00:35",
+   "Comparison": "In the books, Tyrion tells Sansa about the death of her mother and brother.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 6,
+   "Scene": "Bran tells the story of the Rat Cook",
+   "Scene End": "00:14:53",
+   "Duration": "00:01:58",
+   "Comparison": "In the books, Bran does not tell his companions about the Rat Cook; he only recalls that Old Nan told him the story in mind.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "Walder Frey gloating with Roose Bolton",
+   "Scene End": "00:17:13",
+   "Duration": "00:02:20",
+   "Comparison": "This scene does not happen in the books. Also, it is not Walder Frey but his son Emmon who is granted the title of Lord of Riverrun.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Ramsay gives Theon a new name",
+   "Scene End": "00:20:50",
+   "Duration": "00:03:37",
+   "Comparison": "In the books, the nickname \"Reek\" was assumed by three people successively: Ramsay's former servant whose real name may be \"Heke\"; Ramsay himself (he exchanges identities with Heke the \"Reek\" when his life is threatened); and Theon. The TV series only depicts the use of this nickname on Theon.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Bran chances upon Sam and asks him to take him North",
+   "Scene End": "00:23:49",
+   "Duration": "00:02:59",
+   "Comparison": "In the books, it is not Bran but Jojen who denies his identity when Sam recognizes him.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Balon Greyjoy receives an ultimatum from Ramsay",
+   "Scene End": "00:26:40",
+   "Duration": "00:02:51",
+   "Comparison": "In the books, Ramsay did not flay any of the ironborn who were killed during the sack of Winterfell.<br><br>While it is heavily implied twice in the book that Theon had lost his manhood, The Boy, now revealed to be Roose Bolton's bastard son Ramsay, did not send his penis in a box to Balon Greyjoy at Pyke. He sent a piece of skin from Theon's little finger to Roose, and Roose showed that to Robb and Catelyn before the Red Wedding - the only time in the entire book A Storm of Swords that Theon's status is reported.<br><br>Ramsay never sends any messages to Balon. He sends a warning message much later to Asha/Yara, in which he encloses a piece of Theon's skin without specifying his status.<br><br>The scene with Balon and Asha/Yara does not occur in the books. Many of the ironborn believe Theon died at the Sack of Winterfell, as Yara/Asha lamented that many of the bodies in Winterfell were unrecognisable (being mutilated by scavengers) when she arrived, while Ramsay never sent a letter to Pyke letting the Greyjoys know they held Theon captive. She thus does not prepare to attack the Dreadfort.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Yara decides to rescue Theon",
+   "Scene End": "00:27:05",
+   "Duration": "00:00:25",
+   "Comparison": "This scene does not happen in the books - Asha/Yara believes that Theon is dead. She never attempts to rescue him, even after she realizes (from a letter Ramsay has sent her) he is alive and held prisoner by the Boltons.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Sam sends Bran off with dragonglass",
+   "Scene End": "00:29:02",
+   "Duration": "00:01:57",
+   "Comparison": "In the books, Sam does not show the dragonglass weapons to Bran. He had only one dragonglass dagger (which he took from Mormont's body), and that dagger shattered when he fought the wight that attacked him and Gilly.<br><br>The Black Gate, which secures the entrance to the secret passage across the Wall, seems to be omitted in the TV series. Located at the bottom of the well from which Sam and Gilly emerge, it is a door made of weirwood with a face on it. It needs a sworn brother from Night's Watch (Sam in this case) to recite the Night's Watch oath to open the gate.<br><br>Before departing, Bran makes Sam swear three times that he will say nothing about meeting him, not even to Jon. The mysterious person known as \"Coldhands\", who took Sam and Gilly to the Nightfort, joins Bran's group, and they continue north.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Davos chats with Gendry in his cell",
+   "Scene End": "00:32:27",
+   "Duration": "00:03:25",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Varys tries to tell Shae to leave",
+   "Scene End": "00:35:22",
+   "Duration": "00:02:55",
+   "Comparison": "This scene does not happen in the books - Varys never offers Shae a chance at a new life across the narrow sea, and she never exhibits any feelings of loyalty toward Sansa. In the books, Shae does not love Tyrion and Tyrion is well aware of this. He chides himself for not breaking up with her.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion and Cersei talk about life",
+   "Scene End": "00:38:45",
+   "Duration": "00:03:23",
+   "Comparison": "This scene does not happen in the books.\nIn the books, Tywin's plan to marry Cersei to Willas Tyrell (in the series - Loras) is rejected by the Tyrells. Olenna Tyrell forced her son Mace to reject the proposal on the grounds that Cersei is too old and too \"used\" for her precious grandson. Tywin decides not to mention it anymore.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Arya kills her first man",
+   "Scene End": "00:40:55",
+   "Duration": "00:02:10",
+   "Comparison": "In the books, Arya and the Hound are attacked when the fighting breaks out in the Stark/Tully camp outside the Twins. Sandor kills both of the Freys and then knocks out Arya to save her from running toward Catelyn and Robb and thus to her doom. Arya did not attack the Freys or offer them money, as Sandor finished them off quickly.<br><br>Arya does her coin distraction trick to a different person, a Bolton guard at the Gate of Harrenhal, to facilitate her, Hot Pie and Gendry's escape. The multiple stabbing of the soldier by Arya is the way she kills another character later in the book.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Ygritte shoots Jon",
+   "Scene End": "00:42:41",
+   "Duration": "00:01:46",
+   "Comparison": "In the books, neither Ygritte nor any of the other wildlings catch up with Jon on his way back to Castle Black. Jon fully escaped the wildlings after the incident in Queenscrown when Bran warged into Summer to allow Jon an opportunity to escape. He is shot in the leg by one arrow, not three, which he believes may belong to Ygritte.<br><br>Jon never tells Ygritte that he loves her. It is in his thoughts where he says he loved Ygritte.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Maester Aemon accepts Gilly as a guest",
+   "Scene End": "00:45:32",
+   "Duration": "00:02:51",
+   "Comparison": "In the books, Sam and Gilly arrived at Castle Black much later after Jon. Gilly does not name her baby, following the wildling custom not to name babies before they are two years old.<br><br>The brothers who remained at Castle Black sent distress messages to all the five kings and many lords long before Sam returns with Gilly. One of those messages reached Dragonstone, but it was not shown to Stannis. Only by chance, Maester Pylos gave this letter to Davos while he taught him to read.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Davos reads scrolls beside Shireen",
+   "Scene End": "00:47:23",
+   "Duration": "00:01:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 20,
+   "Scene": "Davos tries to talk Stannis out of killing Gendry",
+   "Scene End": "00:49:55",
+   "Duration": "00:02:32",
+   "Comparison": "In the books, both Davos and Stannis doubt that the leech ritual had anything to do with Robb's death.<br><br>Stannis was not willing to sacrifice his nephew, but only after he receives news that all the three \"usurpers\" are dead.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 21,
+   "Scene": "Davos helps Gendry escape",
+   "Scene End": "00:51:26",
+   "Duration": "00:01:31",
+   "Comparison": "Gendry was never brought to Dragonstone. In the books, another of Robert's bastards, Edric Storm, is in Stannis's castle for safekeeping. Davos did help Edric to escape to the Free Cities on board Salladhor Saan's ship, alongside a group of trustworthy people. Edric had no idea that his life was in danger, and Davos did not tell him that.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 22,
+   "Scene": "Jon arrives back at Castle Black",
+   "Scene End": "00:52:20",
+   "Duration": "00:00:54",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 23,
+   "Scene": "Jaime arrives home to Cersei",
+   "Scene End": "00:53:50",
+   "Duration": "00:01:30",
+   "Comparison": "In the books, on the way to King's Landing, a knight named meets Jaime and Brienne, and tells them about the Red Wedding. Brienne is emotionally devastated to hear about the demise of the Starks. Jaime feels sorry for her, although the Starks were the enemies of his house, and tries unsuccessfully to console her.<br><br>Jaime, Brienne, Qyburn and their escorts do not arrive at King's Landing until after Joffrey's wedding. They arrive on horseback and are welcomed at the gate of the Red Keep by three of the Kingsguard and a dozen Gold Cloaks, rather than entering side gate on foot and unnoticed.<br><br>Loras confronts Brienne, accusing her of Renly's death and challenges her to fight. Brienne tells Loras it was a shadow that killed Renly, but he does not believe her. Jaime intervenes and stops Loras. Later, Jaime talks with Loras and makes him realize Brienne is innocent.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 24,
+   "Scene": "Davos is spared the death sentence",
+   "Scene End": "00:56:40",
+   "Duration": "00:02:50",
+   "Comparison": "In the books, Melisandre does not burn the letter which Davos shows Stannis.\nStannis does not tell the guards to take Davos away. He draws Lightbringer and intends to kill Davos on the spot, unless Davos can give good reason to spare his life.<br><br>Melisandre does not convince Stannis to spare Davos, on the contrary: she tells Davos that what he did was wrong. It is Stannis himself who decides to pardon Davos. The reason for sparing Davos is not Melisandre stating that they need him, but Stannis realizing Davos reminded him of his true duties as King: protecting the realm.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 25,
+   "Scene": "Daenerys is celebrated by the slaves of Yunkai",
+   "Scene End": "01:01:21",
+   "Duration": "00:04:41",
+   "Comparison": "In the books, when Daenerys greeted the liberated slaves of Yunkai, she trotted through the crowd on her silver horse, who at that point in the show already died in the Red Waste.",
+   "Rating": "TRUE"
+ }
+]

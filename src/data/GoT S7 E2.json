@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "Previously",
+   "Scene End": "00:01:14",
+   "Duration": "00:01:14",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:01:20",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:03:07",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Daenerys tests Varys' loyalty",
+   "Scene End": "00:08:32",
+   "Duration": "00:05:25",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Melisandre meets with Daenerys",
+   "Scene End": "00:11:47",
+   "Duration": "00:03:15",
+   "Comparison": "In the books, the Red Priest who is on his way to meet Daenerys is Moqorro, not Melisandre.\nMelisandre never says, as part of the prophecy, that The Prince That Was Promised will bring the dawn. It is Maester Aemon, not Missandei, who concludes that the prophecy about the Prince That Was Promised was mistranslated, since the word \"prince\" in High Valyrian is gender-neutral.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "The Starks receive Tyrion's message",
+   "Scene End": "00:13:12",
+   "Duration": "00:01:25",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Cersei summons lords to join her cause",
+   "Scene End": "00:14:47",
+   "Duration": "00:01:35",
+   "Comparison": "It is not Cersei but the Yunkai lord Grazdan mo Eraz who spreads horror false stories about Daenerys.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 5,
+   "Scene": "Jaime persuades Randyll Tarly to fight for them",
+   "Scene End": "00:17:03",
+   "Duration": "00:02:16",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Maester Weyland tells Jorah his prognosis",
+   "Scene End": "00:19:16",
+   "Duration": "00:02:13",
+   "Comparison": "In the books, it is not Jorah but a sellsword named Griff who contracts the Greyscale as a result of saving Tyrion from drowning. He does not seek a cure.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Cersei is shown a weapon against dragons",
+   "Scene End": "00:21:04",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 8,
+   "Scene": "Daenerys' war council",
+   "Scene End": "00:25:19",
+   "Duration": "00:04:15",
+   "Comparison": "In the books, Asha / Yara does not have a fleet, but only 4 ships and 200 men.\nEllaria and the Sand Snakes never sought to harm Myrcella. They are not responsible for the near-fatal attempt on her life.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Grey Worm tells Missandei she's his weakness",
+   "Scene End": "00:30:07",
+   "Duration": "00:04:48",
+   "Comparison": "There is no romance (let alone sexual activity) between Grey Worm and Missandei in the books, given that she is ten years old.\nThere is no mention in the books that the Wise Masters used to make the slaves face their fears in order to overcome them.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Sam tells Maester Weyland his find of a cure for greyscale",
+   "Scene End": "00:31:31",
+   "Duration": "00:01:24",
+   "Comparison": "In the books, Pylos is alive, and a maester to Stannis at Dragonstone. There is no mention that he has ever researched the Greyscale, or any other disease.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Sam performs the procedure on Jorah",
+   "Scene End": "00:35:24",
+   "Duration": "00:03:53",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Hot Pie tells Arya about Winterfell",
+   "Scene End": "00:38:55",
+   "Duration": "00:03:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Jon tells his men of his decision to go to Dragonstone",
+   "Scene End": "00:43:20",
+   "Duration": "00:04:25",
+   "Comparison": "In the books, Dragonglass is lethal to the Others (White Walkers), but ineffective against wights, as Sam finds out. Fire is the only known effective weapon against them.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Petyr joins Jon in the crypt",
+   "Scene End": "00:46:02",
+   "Duration": "00:02:42",
+   "Comparison": "In the books, the fate of Ned's bones is unknown; Littlefinger had nothing to do with their delivery.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Arya is surrounded by a pack of wolves",
+   "Scene End": "00:49:00",
+   "Duration": "00:02:58",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "The Sandsnake girls chat",
+   "Scene End": "00:49:44",
+   "Duration": "00:00:44",
+   "Comparison": "In the books, Ellaria is not Tyene's mother, but the mother of the four youngest Sand Snakes. Tyene's mother is a septa from the Reach.\nThe Sand Snakes care for each other, and never threaten, not even jokingly, to kill each other. The Sand Snakes believe the Mountain is dead.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Euron attacks Yara and Theon's ships",
+   "Scene End": "00:57:55",
+   "Duration": "00:08:11",
+   "Comparison": "In the books, there is no naval battle between Asha and Euron Greyjoy. Asha is defeated and captured by Stannis at a much earlier point, before he marches to Winterfell; Euron, Ellaria, and the Sand Snakes are not involved at all in that battle; the main part of the battle takes place on the mainland.<br><br>Euron lets others (mostly his brother Victarion) do the fighting, while he makes the plans and stays safely behind. Euron prepares to fight the Redwyne fleet. He does not care about Asha.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

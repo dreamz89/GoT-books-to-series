@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Tyrion wakes up to a demotion",
+   "Scene End": "00:03:33",
+   "Duration": "00:01:39",
+   "Comparison": "In the books, Tyrion's wound is much more gruesome. He has half of his nose and a part of his upper lip cut off by Ser Mandon, not just a gash across his face. He was also hit in the arm with an arrow, and almost lost his arm as a result.<br><br>It is Maester Balabar, not Pycelle, who first visits Tyrion.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Joffrey celebrates Tywin and changes his betrothal",
+   "Scene End": "00:08:05",
+   "Duration": "00:04:32",
+   "Comparison": "It is not mentioned in the books that Varys shows any sign of annoyance when Littlefinger is granted Harrenhal.<br><br>Margaery wasn't in King's Landing immediately after Blackwater.\nSer Loras Tyrell doesn't ask the reward of Joffrey marrying Margaery. He asks to join Joffrey's Kingsguard, and his wish is granted. The request for Joffrey to marry Margaery is made by her older brother Garlan Tyrell, who does not appear in the series.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Petyr tells Sansa that she is still not free from Joffrey",
+   "Scene End": "00:09:23",
+   "Duration": "00:01:18",
+   "Comparison": "It is not Littlefinger but Ser Dontos Hollard who explains to Sansa that Joffrey's betrothal to Margaery Tyrell would not stop him from having his way with her, and promises to take her home. Ser Dontos also gives Sansa a hairnet, and tells her to wear it during the wedding between Joffrey and Margaery.<br><br>It is not Littlefinger but the Hound who tells Sansa that everyone in King's Landing is a better liar than her. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Varys visits the prostitute for information",
+   "Scene End": "00:11:49",
+   "Duration": "00:02:26",
+   "Comparison": "This scene does not happen in the books - Ros and Varys' scene in the brothel does not occur in the books",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Jaime's identity gets suspected by three men",
+   "Scene End": "00:16:48",
+   "Duration": "00:04:59",
+   "Comparison": "By this time in the books, Jaime has shaved off his hair and kept a thick beard to avoid recognition.<br><br>Brienne and Jaime did not meet three Stark soldiers, although they did find women hanged by Stark loyalists. When Brienne climbs the tree to cut the bodies down, she spots a soldier filled galley that has been sent after them from Riverrun, and they flee, leaving the women unburied. Their successful escape down the river is much more exciting and dangerous in the book. They travel with Cleos Frey, a cousin of Jaime.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 6,
+   "Scene": "Catelyn tries to dissuade Robb",
+   "Scene End": "00:18:31",
+   "Duration": "00:01:43",
+   "Comparison": "Robb does not talk to Catelyn about breaking his marriage contract; Catelyn only finds out after they marry and return to Riverrun.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Stannis blames Melisandre for the wrong prophecy",
+   "Scene End": "00:22:05",
+   "Duration": "00:03:34",
+   "Comparison": "Stannis never attacks Melisandre physically, though he threatened to kill her if she ever lied to him (in respect to her request to sacrifice his nephew). He never admits in the books that he had anything to do with Renly's murder.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Theon confides in Maester Luwin during the siege",
+   "Scene End": "00:26:49",
+   "Duration": "00:04:44",
+   "Comparison": "In the books, the Northern army besieging Winterfell is commanded by Ser Rodrik Cassel, while in the series he is already dead.<br><br>There is no mention of any hidden passageways in Winterfell.<br><br>Maester Luwin does not advise Theon to sneak away from Winterfell and then go home or to Castle Black; he advises Theon to openly yield to Ser Rodrik, accept his terms, then Ser Rodrik will have to let him take the black.\nIn the book, Theon does not immediately dismiss the suggestion of joining the Night's Watch, on the contrary: he positively considers it, but not as a chance to redeem himself; he thinks only about the benefits - being stationed at Eastwatch-by-the-Sea with a ship of his own to captain, and bedding wildling women as he pleases; he does not take into consideration that Jon may kill him. He almost talks himself into doing it until events outside change the situation.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Theon's men betray him and stab Maester Luwin",
+   "Scene End": "00:28:54",
+   "Duration": "00:02:05",
+   "Comparison": "Theon's speech in the book is quiet and much shorter; he tells his men, without any promises of glory, that Ser Rodrik will soon arrive, that he intends to hold the castle, and whoever wishes to leave is free to go. No one interrupts the speech. Seventeen of the ironborn (among them Wex, Black Lorren and Harrag) choose to stay, and the rest leave.<br><br>Dagmer has never been to Winterfell and did not betray Theon. He went to Torrhen's Square as a diversion, and is still there.<br><br>Theon is not knocked out by his own men and given to the northern army, he is betrayed by Ramsay Snow, who served Theon at Winterfell and was sent to obtain sellswords for him. Ramsay returns with an army, massacres the besieging northern army and once the gates are opened to them by Theon, he turns his army on the ironborn and punches Theon with a mailed fist.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Varys and then Shae visits Tyrion",
+   "Scene End": "00:33:31",
+   "Duration": "00:04:37",
+   "Comparison": "In the books, Bronn visits Tyrion's sickbed, not Varys.\nTywin pays nothing to the Hill tribes. Bronn tells Tyrion that the Stone Crows are still in the kingswood; Timett led the Burned Men back to the Vale, with all the plunder they took from Stannis's camp; Chella and the Black Ears attempted to return to King's Landing, but were chased off and mocked by the Kingslanders.<br><br>In the books, Shae does not visit Tyrion while he recuperates.<br><br>It takes longer for Tyrion to recover; he is disillusioned and hallucinates.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Robb marries Talisa",
+   "Scene End": "00:34:23",
+   "Duration": "00:00:52",
+   "Comparison": "In the books, Robb's marriage to Jeyne Westerling took place off-screen.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Daenerys searches for her dragons at the Undying house",
+   "Scene End": "00:36:31",
+   "Duration": "00:02:08",
+   "Comparison": "The House of the Undying is a flat, one-story building in the book rather than a tall tower.<br><br>In the books, Daenerys comes to consult with the warlocks. She is brought by Pyat Pree, given Shade of the evening to drink, and is told that she must enter alone, while Ser Jorah and her bloodriders wait outside. In the series, she is magically brought into the tower, separating her from Jorah and Kovarro.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Jaqen bids farewell to Arya with a golden coin",
+   "Scene End": "00:39:36",
+   "Duration": "00:03:05",
+   "Comparison": "In the books, Jaqen H'ghar leaves Harrenhal shortly after he helps Arya free the captive northmen in Harrenhal, before she and her friends escape. Gendry and Hot Pie weren't with Arya when she said goodbye to Jaqen. She does not see him again afterwards.<br><br>In the books, Jaqen does not kill the guards at the gate. Arya distracts only one guard and slits his throat. Arya, Hot Pie, and Gendry leave on horseback.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "The Stark boys leave the burning Winterfell and dying Luwin",
+   "Scene End": "00:43:36",
+   "Duration": "00:04:00",
+   "Comparison": "In the books, Maester Luwin wasn't stabbed by Dagmer, though he did sustain a grievous wound during the Sack of Winterfell. He is overjoyed to see Bran and Rickon, as he never visited them in the crypts. He knew that Bran was alive because he noticed the leg muscles of the corpse dressed in Bran's clothes.<br><br>Luwin doesn't tell the Stark boys to go to the Wall to Jon. He is not sure which route is safe, since the North is crawling with enemies, ironborn and Boltons; he does advise them to split up and take different roads.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 15,
+   "Scene": "Daenerys goes through fantasy land",
+   "Scene End": "00:49:31",
+   "Duration": "00:05:55",
+   "Comparison": "In the books, Daenerys sees several visions relating to her past and future, but none of them is about Drogo; one of them is perhaps about their son (had he lived), but he appears in the vision as an adult. In the show she does not meet the Undying Ones and receives no prophecies about her future.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Daenerys is chained by Pyat Pree",
+   "Scene End": "00:51:48",
+   "Duration": "00:02:17",
+   "Comparison": "In the series, Pyat Pree tries to imprison Daenerys, and her three dragons free her by setting him on fire. In the books, Drogon is the only dragon present and while he does kill the undead warlocks and sets fire to the House of the Undying, he does not kill Pyat Pree. He is outside when Daenerys emerges and, in a rage at the destruction she has caused, he vows revenge on her.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "Jon clashes swords with Qhorin",
+   "Scene End": "00:55:31",
+   "Duration": "00:03:43",
+   "Comparison": "In the books, Jon Snow is immediately forced to fight Qhorin when they are caught by the wildlings at the mouth of a cave; they are not led away first, but Qhorin does strike the first blow. Qhorin's leg was torn apart by Ghost, allowing Jon to kill him. Qhorin's last word is simply \"...sharp\", not \"we are the watchers on the wall\".",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Daenerys raids Xaro's home",
+   "Scene End": "00:58:11",
+   "Duration": "00:02:40",
+   "Comparison": "In the books, Xaro Xhoan Daxos and Doreah are not locked in a vault by Daenerys. Xaro does not betray Daenerys and no vault is mentioned. Doreah is long dead, having died of a wasting sickness in the Red Waste.<br><br>Daenerys and her people do not loot Xaro's house or buy a ship with his looted goods. Three ships have been sent to her by Magister Illyrio to return her to Pentos.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Sam, Grenn and Edd hears three blasts",
+   "Scene End": "01:02:05",
+   "Duration": "00:03:54",
+   "Comparison": "In the books, Sam was inside the camp and not with Grenn and Edd when the White Walkers and the wights arrived. They attacked in the dead of night, not during the day.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

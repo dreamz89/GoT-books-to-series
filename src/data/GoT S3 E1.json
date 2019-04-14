@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Sam gets rescued from a wight",
+   "Scene End": "00:03:18",
+   "Duration": "00:03:12",
+   "Comparison": "Nearly the whole scene of the Battle of the Fist of the First Men is omitted in the TV series.<br><br>Samwell Tarly is on the Fist of the First Men during the White Walker/Wight attack. He did send out ravens, but only two of them carried a message. Those who remained in Castle Black received Sam's message.<br><br>Sam collapses during the retreat. Only Grenn and Small Paul remain with him. Soon, the three fall behind the rest of the survivors, and a white walker attacks them. Sam kills it, earning himself the nickname \"Sam the Slayer\".\nGhost is not present during the battle, as he is with Jon Snow.\nMost of the remaining brothers of the Night's Watch were all on horseback after their escape.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:05:07",
+   "Duration": "00:01:49",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Jon meets Tormund, and Mance Ryder",
+   "Scene End": "00:12:27",
+   "Duration": "00:07:20",
+   "Comparison": "In the books, when Jon Snow enters Mance Rayder's tent, Mance is singing a song, which makes Jon think of him as a singer and not the King-Beyond-the-Wall. Since Styr and Tormund look like leaders, Jon thinks incorrectly that one of them is Mance. Jon does not kneel before Tormund.<br><br>While Mance is glad Qhorin is dead, he is also sad about Qhorin's death since Qhorin was once Mance's friend. Mance Rayder recognizes Jon since Mance had seen him twice at Winterfell. Jon gives a different reason as to why he wants to join the Free Folk, involving his bastardy.<br><br>In the books, giants wear no clothing, they are covered in shaggy fur pelts like mammoths. They are much more like descriptions of a Sasquatch or yeti.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Podrik comes for Bronn",
+   "Scene End": "00:13:36",
+   "Duration": "00:01:09",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Cersei comes to question Tyrion",
+   "Scene End": "00:17:03",
+   "Duration": "00:03:27",
+   "Comparison": "This scene does not happen in the book.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Bronn faces off with two guards",
+   "Scene End": "00:18:00",
+   "Duration": "00:00:57",
+   "Comparison": "Podrick Payne mentions that Bronn was anointed by the King himself. In the book, Bronn is anointed by a member of the Kingsguard.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Tyrion goes out only with Bronn protecting him",
+   "Scene End": "00:18:51",
+   "Duration": "00:00:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Davos is rescued off a rock",
+   "Scene End": "00:20:38",
+   "Duration": "00:01:47",
+   "Comparison": "In the books, Davos was rescued by Khorane Sathmantes, one of Salladhor Saan's captains, not Saan himself.<br><br>In the books, while Davos is on the island, he prays to the Mother to have mercy. Then he hears a voice, which he believes to be the Mother \"You called the fire. You burned us\" reminding him the destruction of the idols of the Seven in Dragonstone and the Godswood in Storm's End. Since Davos has been feverish, undernourished and overwhelmed with grief over the loss of four of his sons, he could have been hallucinating.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Salladhor withdraws his support",
+   "Scene End": "00:23:33",
+   "Duration": "00:02:55",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "Robb finds a massacre at Harrenhal",
+   "Scene End": "00:26:45",
+   "Duration": "00:03:12",
+   "Comparison": "This scene does not happen in the book - There was never a massacre at Harrenhal, and neither Catelyn nor Robb Stark went to Harrenhal. By this time in the books, Harrenhal was already taken by Roose Bolton, and Arya serves as his cupbearer.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "An unpleasant meeting between Tyrion and Tywin",
+   "Scene End": "00:31:42",
+   "Duration": "00:04:57",
+   "Comparison": "Tywin Lannister visited Tyrion many times while he was unconscious.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Petyr offers to take Sansa away, and Ros warns Shae of him",
+   "Scene End": "00:35:24",
+   "Duration": "00:03:42",
+   "Comparison": "The scene with Sansa and Shae does not happen in the book.\nLittlefinger never approached Sansa Stark directly with his offer of escape, but acted through an intermediary - Dontos Hollard. Sansa had no idea that Dontos works for Littlefinger. Baelish never tells Sansa that Arya is alive, as he never visits Harrenhal to observe her as Tywin's cup bearer.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Daenerys is on a ship to Astapor",
+   "Scene End": "00:37:13",
+   "Duration": "00:01:49",
+   "Comparison": "In the series, Daenerys has only one ship that she bought after looting Xaro's mansion in Qarth. In the books, she travels with three ships, sent by Illyrio Mopatis.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Davos tries to kill Melisandre",
+   "Scene End": "00:40:13",
+   "Duration": "00:03:00",
+   "Comparison": "In the books, Davos was not taken to see Stannis Baratheon for months as he was thrown in the dungeon almost the moment he set foot on Dragonstone, as Melisandre has foreseen Davos's plan to kill her.<br><br>In the books, it was not Davos but Lord Bryce Caron, Lord of Nightsong and one of Stannis's most powerful bannerman, who persuaded Stannis not to bring Melisandre to the Blackwater. Lord Caron was killed during the Battle of the Blackwater. He does not appear in the series.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Margaery gives out presents to the poor",
+   "Scene End": "00:43:18",
+   "Duration": "00:03:05",
+   "Comparison": "The scene where Margaery Tyrell comforts the orphans and hands out food does not happen in the book, though Cersei receives reports that Margaery and her family are deftly building up support for themselves among the commoners by handing out food aid, buying hot pies off baker's carts, giving alms to beggars, and so on and so forth. Ironically, the Tyrells actually heavily contributed to the famine of the smallfolk by closing the Rose's Road.<br><br>During Margaery's tours at the city, she is accompanied by Tommen, not Joffrey. Cersei chides Tommen, not Margaery, for putting himself in danger, reminding him of the riot.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 15,
+   "Scene": "The Tyrells and Lannisters have dinner together",
+   "Scene End": "00:45:50",
+   "Duration": "00:02:32",
+   "Comparison": "This scene does not happen in the book.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Daenerys is shown the Unsullied soldiers",
+   "Scene End": "00:50:09",
+   "Duration": "00:04:19",
+   "Comparison": "In the books, Daenerys first plans to go to Pentos, but takes a detour to Astapor on Ser Jorah Mormont's insistence. Missandei is much younger, around 10 years old.<br><br>The Unsullied training also includes the recruits raising a puppy for a year before strangling it to death. Also unmentioned is that during their training the Unsullied are given a potion to drink known as the Wine of Courage, which gradually deadens their bodies' sensitivity to pain. In the books, it is stated that only one in three boys survive the years of training to become Unsullied, while the series says that only one in four boys survives.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Ser Barristan saves Daenerys from a scorpion",
+   "Scene End": "00:53:06",
+   "Duration": "00:02:57",
+   "Comparison": "In the books, the assassination attempt on Daenerys Targaryen is made back in Qarth, before she leaves for Astapor. It is also sent by the warlocks, but it is through a Qartheen guild of assassins known as the Sorrowful Men.<br><br>Ser Barristan Selmy does not reveal his identity until much later in the book, after he kills Mero. He adopts the alias Arstan Whitebeard, a man in the service of Illyrio. Having, by his own admission, spent decades serving a drunk and a madman, Barristan wanted to assess Daenerys's character before committing himself to her. He also grows his hair and beard long, which is such an effective disguise that not even Jorah Mormont recognizes him. This change was probably because book readers did not know \"Arstan\"'s real identity until he was outed, whereas TV viewers would have recognized Barristan instantly.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

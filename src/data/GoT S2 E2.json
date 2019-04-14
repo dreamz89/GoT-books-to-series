@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Arya meets Jaqen and Gold Cloaks come for Gendry",
+   "Scene End": "00:05:47",
+   "Duration": "00:03:53",
+   "Comparison": "In the books, the Gold Cloaks attempt to arrest Gendry at an inn.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Tyrion finds Varys in his room with Shae",
+   "Scene End": "00:08:18",
+   "Duration": "00:02:31",
+   "Comparison": "In the books, the meeting where Varys reveals he knows Shae's identity takes place in an inn in the city outside the Red Keep's walls, shortly after she enters the city and before Tyrion finds a manse for her, instead of the Hand's chambers.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "The small council receives letters from the Starks and the Wall",
+   "Scene End": "00:10:22",
+   "Duration": "00:02:04",
+   "Comparison": "In the books, the warning Jeor Mormont sent to King's Landing is not only a letter, but also a wight's severed hand in a jar still twitching delivered by Ser Alliser Thorne much later.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Sam meets Gilly",
+   "Scene End": "00:14:40",
+   "Duration": "00:04:18",
+   "Comparison": "In the series, Sam rescues Gilly from Ghost, who is interested in the dead rabbits she is carrying. In the books, it is Jon who rescues Gilly from Ghost. Ghost had broken into Gilly's rabbit hutch, killing the rabbits. Gilly yelled at him, resulting in her being cornered, and Jon has to come shoo Ghost away.<br><br>The scene where Edd, Grenn, and Sam talk about women does not happen in the books. Sam is not shown talking to Gilly, but he has given her his black cloak so she can go to talk to Jon without anyone knowing that she is one of Craster's wives.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 5,
+   "Scene": "One Dothraki rider comes back without his body",
+   "Scene End": "00:17:31",
+   "Duration": "00:02:51",
+   "Comparison": "In the books, it is Doreah, not Rakharo, who dies in the Red Waste. She dies of a wasting sickness, while Rakharo is still alive.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Theon gets it on with a girl in his cabin",
+   "Scene End": "00:19:52",
+   "Duration": "00:02:21",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Petyr threatens his crying prostitute",
+   "Scene End": "00:24:17",
+   "Duration": "00:04:25",
+   "Comparison": "Littlefinger never has a conversation with any whore about the slaying of Robert's newborn bastard. In fact, Ros is not even a named character in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Tyrion has Lord Janos arrested",
+   "Scene End": "00:28:03",
+   "Duration": "00:03:46",
+   "Comparison": "In the books, Bronn is not made Commander of the City Watch. That role is filled by Ser Jacelyn \"Ironhand\" Bywater, who arrested Janos Slynt at Tyrion's dinner. Slynt gives a list of six men who are possible replacements to head the Gold Cloaks. This list is given to Ser Jacelyn to be rounded up to go with Slynt by ship to the Wall, with special reference to Allar Deem (killer of baby Barra); the captain is to be told that it would not be amiss if a wave washed him overboard.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Arya tells Gendry of her true identity",
+   "Scene End": "00:32:00",
+   "Duration": "00:03:57",
+   "Comparison": "In the books, Arya does not reveal her identity to Gendry until much later. She considers killing him, and decides not to simply because he is stronger than her - not due to any romantic feelings, which she does not have in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Yara brings Theon up to the Pyke",
+   "Scene End": "00:35:01",
+   "Duration": "00:03:01",
+   "Comparison": "In the books, Yara is named Asha in the novels, her name being  changed to avoid being confused with the wildling Osha.<br><br>Later, Yara, pretending to be \"Esgred\", does guide Theon through Pyke, but she is not in Pyke when Theon arrives. It is Theon's uncle, Aeron Damphair, priest of the Drowned God, that greets him at the harbor, baptizes him almost immediately, and provides context as to what has transpired since Theon became a ward of the Starks, while he takes him to the castle.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Theon is given a cold welcome by his father",
+   "Scene End": "00:39:11",
+   "Duration": "00:04:10",
+   "Comparison": "In the books, Yara is not present when Theon meets his father for the first time. Theon protests as his father burns the parchment, and gets slapped in response.<br><br>In the series, it was mentioned several times by Balon Greyjoy that Theon was with the Starks longer than with the Greyjoys, while in the books, Theon was with both the Starks and the Greyjoys for ten years each.<br><br>There is no mentioning in the books that Rodrik Greyjoy used to be the captain of the Black Wind before his sister.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 12,
+   "Scene": "Davos tries to persuade the pirate Salladhor",
+   "Scene End": "00:42:27",
+   "Duration": "00:03:16",
+   "Comparison": "In the books, Salladhor Saan was recruited long before.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Davos speaks with his son",
+   "Scene End": "00:43:32",
+   "Duration": "00:01:05",
+   "Comparison": "In the series, Ser Davos only has one son, Matthos, while in the books, he has seven sons; Dale, Allard, Matthos, Maric, Devan, Stannis and Steffon.<br><br>In the series, Matthos is shown being King Stannis's scribe; in the book, his younger brother Devan is Stannis's squire, taking reading lessons, and encouraging his father to convert to the religion of the Lord of Light. Matthos is Davos's first mate.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Cersei is angry at Tyrion for dismissing the Lord",
+   "Scene End": "00:46:03",
+   "Duration": "00:02:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Melisandre seduces Stannis",
+   "Scene End": "00:49:57",
+   "Duration": "00:03:54",
+   "Comparison": "In the books, there is no on-screen sex scene between Stannis and Melisandre; it is only hinted in the third book. It is never said in the book that Selyse is sickly, weak and shut away in a tower, nor that she ever gave birth to stillborns.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jon sees a baby taken away in the woods",
+   "Scene End": "00:52:08",
+   "Duration": "00:02:11",
+   "Comparison": "In the series, Jon's excursion finds Craster sacrificing one of his male offspring to a White Walker, whereas in the books the sacrifices are not shown but explained to Jon by Gilly.<br><br>In the books, following a night excursion beyond the camp, Jon Snow finds a horde of buried Night's Watch equipment and clothing including chunks of obsidian from which he fashions daggers. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

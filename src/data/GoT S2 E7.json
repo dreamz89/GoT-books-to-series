@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Theon finds the Stark boys gone",
+   "Scene End": "00:03:08",
+   "Duration": "00:01:14",
+   "Comparison": "In the books, Theon was sleeping with a tavern wench named Kyra, not with Osha, when he wakes and realizes that he can't hear the wolves howling in the godswood where they are confined. He tells a guard to check and is then told that the Stark boys have escaped.<br><br>In the books, Lorren grows to despise Theon for parleying with the besiegers instead of fighting them (he considers that as cowardice), but does not actually defy or taunt Theon in public; Theon does not beat him.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Theon sends out his hounds",
+   "Scene End": "00:04:30",
+   "Duration": "00:01:22",
+   "Comparison": "In the books, Farlan, the kennel master of Winterfell, leads the hounds tracking Bran and Rickon after his daughter is threatened to get his cooperation. In the series, Theon has brought his own master of hounds.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "The Stark boys think about hiding at a farm",
+   "Scene End": "00:05:31",
+   "Duration": "00:01:01",
+   "Comparison": "In the books, when Bran and Rickon escape with Hodor and Osha, the two Reed siblings are with them. They don't go to a farm, they only go to the woods, leaving an obvious trail, then backtracking, sending the wolves on to make a trail for the dogs. Theon and his men don't go to the farm either.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Jon and Ygritte walking around",
+   "Scene End": "00:08:59",
+   "Duration": "00:03:28",
+   "Comparison": "This scene does not happen in the books - In the books, Jon Snow let Ygritte go and returned to the rangers, so their scenes walking around and them talking about freedom and sex didn't happen. During this time in the books, Jon Snow and the rangers are scouring Skirling Pass to look for a way out.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Chat between Tywin and Arya",
+   "Scene End": "00:15:02",
+   "Duration": "00:06:03",
+   "Comparison": "This scene does not happen in the books - Arya was not a cupbearer for Tywin.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Sansa thanks the Hound",
+   "Scene End": "00:16:00",
+   "Duration": "00:00:58",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Daenerys is angry at Xaro",
+   "Scene End": "00:16:55",
+   "Duration": "00:00:55",
+   "Comparison": "This scene does not happen in the books, as there is no massacre of Daenerys' people or dragons being stolen.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Ygritte tries to convince Jon to be free",
+   "Scene End": "00:18:33",
+   "Duration": "00:01:38",
+   "Comparison": "This scene does not happen in the books - Jon did not hold Ygritte captive.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Talisa asks to follow Robb to the Crag for supplies",
+   "Scene End": "00:21:38",
+   "Duration": "00:03:05",
+   "Comparison": "This scene does not happen in the books - Robb Stark is never shown talking to Talisa's counterpart book character, Jeyne Westerling, or inviting her to the Crag.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Theon finds out Luwin has been masking the scent",
+   "Scene End": "00:23:17",
+   "Duration": "00:01:39",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Jorah consoles Daenerys",
+   "Scene End": "00:25:45",
+   "Duration": "00:02:28",
+   "Comparison": "This scene does not happen in the books - There is no massacre of Daenerys' people or dragons being stolen.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Ygritte tempts Jon and runs off",
+   "Scene End": "00:28:21",
+   "Duration": "00:02:36",
+   "Comparison": "This scene does not happen in the books - Jon did not hold Ygritte captive.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Sansa discovers her first blood",
+   "Scene End": "00:30:02",
+   "Duration": "00:01:41",
+   "Comparison": "In the books, Shae does not help Sansa dispose of her bloody sheets, nor does she threaten a maid, nor does the Hound appear. At that point, Shae is Lollys Stockworth's maid; she become Sansa's maid much later. Sansa tries to burn her sheets and mattress by herself, filling the room with smoke, which attracts attention and is reported to Cersei.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Cersei tells Sansa about birthing",
+   "Scene End": "00:32:47",
+   "Duration": "00:02:45",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Jaime talks with Alton about squiring",
+   "Scene End": "00:39:25",
+   "Duration": "00:06:38",
+   "Comparison": "In the books, Jaime's brief escape does not happen in Robb's camp, as he is held at Riverrun in a tower room. Tyrion sends a mummer, a thief, a poisoner and a murderer, disguised as Lannister guards, to escort Cleos Frey with peace terms, while their true purpose is to free Jaime. The murderer kills two of Jaime's guards while the thief unlocks the cell, then the mummer imitates Edmure Tully's voice to command that the River Gate be opened. Unfortunately for them, the real Edmure returns at that moment from a brothel in town and the escape attempt is foiled. Jaime is recaptured and kept in the dungeons afterwards.<br><br>In the books, Jaime was a squire for Lord Sumner Crakehall, not for Ser Barristan Selmy; he never had any squire named Brian. When he took part in the campaign against the Kingswood Brotherhood, he was fifteen years old, not sixteen; and he never competed against Balon Swann.<br><br>Jaime does not kill Cleos Frey (who is replaced in the series by Alton Lannister). In fact, Jaime has never killed any of his kin. Cleos is killed later by outlaw archers. Four guards are killed during Jaime's unsuccessful attempt to escape, two of them by Jaime, but Torrhen Karstark is not among them. He was killed by Jaime earlier, alongside his brother Eddard, at the battle of the Whispering Wood.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jorah approaches Quaithe for information",
+   "Scene End": "00:40:50",
+   "Duration": "00:01:25",
+   "Comparison": "This scene does not happen in the books - Ser Jorah never meets with Quaithe.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Pyat Pree allies with Xaro and kills the other thirteen",
+   "Scene End": "00:43:34",
+   "Duration": "00:02:44",
+   "Comparison": "There is never a conspiracy to control Qarth staged by Pyat Pree and Xaro Xhoan Daxos. Thus, the Thirteen are never killed, Pyat Pree is not allied with Xaro Xhoan Daxos, nor does he kidnap Daenerys's dragons to lure her into the House of the Undying. She goes there of her own accord.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Jaime Lannister is recaptured",
+   "Scene End": "00:46:06",
+   "Duration": "00:02:32",
+   "Comparison": "Lord Rickard Karstark does seek revenge on Jaime Lannister, but it is for the killing of his two sons at the Battle of the Whispering Wood, not one killed in a failed escape attempt. The sentences \"Any man who steps between a father and his vengeance asks for death!\" and \"How can it be treason to kill Lannisters?\" are said by Rickard much later, in a different context.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Cersei confides her regrets about Joffrey to Tyrion",
+   "Scene End": "00:49:29",
+   "Duration": "00:03:23",
+   "Comparison": "This scene does not happen in the books - The scene between Cersei and Tyrion, with Cersei admitting that Joffrey is a monster never happens. Cersei and Tyrion are never as friendly as they are in this scene, and Cersei never acknowledges Joffrey's cruelty, calling it 'willfulness'. The change in Cersei's reaction to Joffrey is heavily due to the changes with Joffrey and Cersei's relationship.<br><br>Tyrion attempting to comfort a crying Cersei happens much earlier, when she found out Myrcella would be sent away. When he tries to touch her shoulder, she pushes it away. In the series, it only happens now and Cersei only looks at him and he doesn't touch her.<br><br>It is not Cersei but Barristan Selmy who mentions the saying \"\"Every time a new Targaryen is born, the gods toss the coin in the air\"\" in repsect of the Targaryen madness.\"",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Catelyn visits the imprisoned Jaime",
+   "Scene End": "00:53:03",
+   "Duration": "00:03:34",
+   "Comparison": "In the books, Catelyn meets Jaime once in the dungeons of Riverrun, after his unsuccessful escape attempt. In the show they take the dialogue of this one scene and make two scenes, with Catelyn meeting alone with Jaime the first time and with Brienne the second time much later.<br><br>In the books, during the one conversation in Riverrun's dungeons, Catelyn and Jaime make an agreement to speak the truth. She tells him about the war and what is happening to the Lannisters. Jaime, who is also getting increasingly drunk on the wine Catelyn sent to him, confesses many things: he is Cersei's lover and the father of her children; he attempted to murder Bran by pushing him from the window. Jaime affirms that neither he, Cersei nor Tyrion has anything to do with the catspaw assassin. Catelyn believes him, since he has no reason to lie having confessed to pushing Bran. To Catelyn's question about the dagger, Jaime says that Littlefinger had lost it to Robert, not to Tyrion. He independently confirms Tyrion's original defense; that he could not have lost the dagger betting against Jaime with Littlefinger, because Tyrion never bets against his brother. Only then does Catelyn realize that Littlefinger lied to her, and Tyrion was innocent. Jaime also tells Catelyn how the Mad King had executed Ned's brother and father, before adding his own personal anger at Ned; Jaime rages that Ned should have thanked him for avenging his family. Jaime repeatedly teases Catelyn, without mentioning Jon's name. He just mentions the fact that Ned fathered a bastard. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 21,
+   "Scene": "Theon displays two burnt bodies",
+   "Scene End": "00:53:50",
+   "Duration": "00:00:47",
+   "Comparison": "In the series, the entire burned bodies of the children are hung on either side of the main gate. In the books, the bodies are brought in dressed in the clothes of Bran and Rickon, with the heads already removed and tarred, and the faces peeled off. The bodies are thrown on a fire and only the heads are put onto spikes on the castle walls.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:53",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Tywin teaches Jaime about Lannister legacy",
+   "Scene End": "00:06:35",
+   "Duration": "00:04:42",
+   "Comparison": "This scene does not happen in the book - In the Lannister camp, Tywin disembowels a dead stag while advising Jaime about his actions and discussing the family name.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Ned confronts Cersei about her secrets",
+   "Scene End": "00:09:36",
+   "Duration": "00:03:01",
+   "Comparison": "In the series, Ned's confrontation with Cersei takes place in an outside courtyard.<br><br>In the books, Ned arranges his confrontation in the Red Keep's godswood \"so the gods can see\". Cersei reveals that she had aborted Robert's baby without his knowledge. She does not mention that she worshipped Robert before or that her wedding was the happiest moment of her life. Cersei also attempts to seduce Ned and slaps him when he spurns her advances. <br><br>In both, Cersei admits to her relationship with Jaime, and when told to go into exile, she tells Ned that he should have taken the throne for himself back then. When Ned says it was not a mistake, she responds that 'when you play the game of thrones, you win or you die'.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Petyr teaches his new prostitutes",
+   "Scene End": "00:14:40",
+   "Duration": "00:05:04",
+   "Comparison": "This scene does not happen in the book - Petyr coaches his new prostitutes Ros and Armeca in his brothel, and also talks about his past with Catelyn.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Osha gets disturbed by Theon until Maester Luwin interrupts",
+   "Scene End": "00:18:23",
+   "Duration": "00:03:43",
+   "Comparison": "This scene does not happen in the book - Theon Greyjoy hits on Osha and Maester Luwin comes in and asks Osha why the wildlings were south of the Wall.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Jon and Sam is alerted to Benjen's horse returning riderless",
+   "Scene End": "00:20:00",
+   "Duration": "00:01:37",
+   "Comparison": "This scene does not happen in the book - Benjen Stark's horse returns without his rider, making all of Castle Black worried. In the books, the men of the Night's Watch become worried only because of Benjen's long absence.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "King Robert dictates his last will to Ned",
+   "Scene End": "00:25:08",
+   "Duration": "00:05:08",
+   "Comparison": "In the series, Eddard is warned by a bloodied Lord Renly that something terrible has happened to King Robert. In the books, he only suspects that because of the three Kingsguard outside Robert's bedchambers and Ser Barristan's pale face.<br><br>In both, Robert says it is his fault for drinking too much wine and wants everyone to feast on the boar after he is gone. He regrets his decision to give the order to kill Daenerys and wants to let her live. When he dictates his wil to Ned, he says 'my son Joffrey' while Ned writes 'my heir'.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Varys hints to Ned about the King's wine",
+   "Scene End": "00:26:45",
+   "Duration": "00:01:37",
+   "Comparison": "This scene follows the book exactly, except that Varys did not offer to do what he can to reverse the order to kill Daenerys in the show.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Daenerys tells Khal Drogo about the Seven Kingdoms",
+   "Scene End": "00:28:08",
+   "Duration": "00:01:23",
+   "Comparison": "The series follows the book - Daenerys tries to convince Khal Drogo to take wooden horses across the sea.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Daenerys speaks to Jorah about Khal Drogo's reluctance",
+   "Scene End": "00:29:12",
+   "Duration": "00:01:04",
+   "Comparison": "In the series, Daenerys and Jorah talk in the market, and also mention about her brother and Aegon, while in the books, Daenerys talks to Jorah in her camp, telling him that Khal Drogo prefers to plunder the lands in the east, without mentioning the Targaryens. In both, Jorah counsels patience as the Dothraki do things in their own time.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Jorah receives a letter",
+   "Scene End": "00:29:46",
+   "Duration": "00:00:34",
+   "Comparison": "The scene where a boy hands a letter to Jorah and tells him of his royal pardon is not shown in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Jorah foils the poisoning attempt on Daenerys",
+   "Scene End": "00:32:56",
+   "Duration": "00:03:10",
+   "Comparison": "This scene follows the book almost exactly - A wine merchant offers a cask of wine to Daenerys as a gift. Jorah appears and makes the merchant drink, which prompts him to run away.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "The Night's Watch trainees get their swearing in and assignments",
+   "Scene End": "00:40:12",
+   "Duration": "00:07:16",
+   "Comparison": "In the series, Sam graduates with his fellow recruits without incident. In books, Ser Alliser passes only eight recruits. Jon is worried that Sam will be hurt by Ser Alliser in training without himself and their friends to protect him. He talks to Maester Aemon of Sam's literary skills in hopes that the maester will make Sam his steward.<br><br>In the series, Dareon took the black because he rejected a high lord's advances, while in the books it is because a girl who invited him to her bedroom accused him of rape.<br><br>In both, Sam volunteers to take his vows at the heart tree, saying that the Seven have never answered his prayers and perhaps the old gods will. Jon is disappointed to be named to the stewards, but Sam convinces him that there is value in shadowing Lord Commander Mormont, and that he wants to groom Jon for command.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Renly tries to convince Ned to rebel with him",
+   "Scene End": "00:42:19",
+   "Duration": "00:02:07",
+   "Comparison": "In the books, Renly does not mention Stannis or declare that he himself is fit to be King.<br><br>In both, Renly approaches Ned to offer a hundred swords to seize Joffrey before Cersei can take action.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Ned rejects Petyr's proposal",
+   "Scene End": "00:45:50",
+   "Duration": "00:03:31",
+   "Comparison": "In the books, Petyr goes into more detail about why Stannis on the throne will mean war for the realm.<br><br>In both, Petyr rejects the idea of Stannis and proposes that Ned takes over as Regent, wed his daughter to Joffrey, and if Joffrey causes problems when he comes of age, reveal his secret and put Renly on the throne. Ned rejects the suggestion and asks Petyr to help him bribe the gold cloaks.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Jon and Sam take their vows in the weirwood",
+   "Scene End": "00:47:57",
+   "Duration": "00:02:07",
+   "Comparison": "This scene follows the books - the words that Jon and Sam recite in front of the heart tree is almost exactly the same. After their vows, Ghost appears with a hand in his mouth.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Khal Drogo promises the iron throne to his unborn son",
+   "Scene End": "00:51:58",
+   "Duration": "00:04:01",
+   "Comparison": "In the series, Khal Drogo came back to Daenerys having already been informed of the poison attempt, while in the books, he came back happy about his successful hunt of a lion until Daenerys tells him what happened at the market.<br><br>In both, Khal Drogo promises Jorah a gift of any horse, and vows to give his son the iron chair his mother's father sat in.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Ned is informed of Robert's death and a power struggle ensues",
+   "Scene End": "00:56:41",
+   "Duration": "00:04:43",
+   "Comparison": "In the series, the royal steward comes to Ned while he is with his guards and informs him of Robert's death as well as King Joffrey and Queen Regent's request for him to come to the throne room. Robert's last letter was unsealed and read in the throne room.<br><br>In the books, Maester Pycelle informs Ned of Robert's death. Ned had assembled the small council in the Tower of the Hand to show Robert's last letter, when the royal steward came to convey the King's demand for the small council to come to the throne room.<br><br>In both, Varys informs Ned that Lord Renly has left the city with Ser Loras Tyrell. Cersei tears up the paper and tells Ned to bend the knee. Ned says that Joffrey has no claim to the throne, and the gold cloaks attack the Stark men. Petyr holds a dagger to Ned's throat and says he did warn Ned not to trust him.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

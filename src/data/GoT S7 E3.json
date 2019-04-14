@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "Previously",
+   "Scene End": "00:01:25",
+   "Duration": "00:01:25",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:01:31",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:03:20",
+   "Duration": "00:01:49",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Tyrion receives Jon at Dragonstone",
+   "Scene End": "00:05:47",
+   "Duration": "00:02:27",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Tyrion and Jon catch up on the way up",
+   "Scene End": "00:07:18",
+   "Duration": "00:01:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 3,
+   "Scene": "Varys asks Melisandre why she is not meeting Jon Snow",
+   "Scene End": "00:09:15",
+   "Duration": "00:01:57",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Daenerys tells Jon to bend the knee",
+   "Scene End": "00:18:35",
+   "Duration": "00:09:20",
+   "Comparison": "The Mad King burned Rickard Stark, not Brandon; Brandon was strangled.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Varys brings Daenerys the news about the Greyjoys and Sandsnakes",
+   "Scene End": "00:19:46",
+   "Duration": "00:01:11",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Theon is rescued from the water",
+   "Scene End": "00:20:33",
+   "Duration": "00:00:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Euron presents his captives to Cersei",
+   "Scene End": "00:24:38",
+   "Duration": "00:04:05",
+   "Comparison": "In the books, Ellaria and all the Sand Snakes are alive and free.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Cersei taunts Ellaria and her daughter in the dungeon cell",
+   "Scene End": "00:29:23",
+   "Duration": "00:04:45",
+   "Comparison": "There is no mention in the novels that Cersei insisted on breastfeeding Myrcella. Generally, she has always focused on Joffrey, and hardly paid any attention to Myrcella and Tommen.<br><br>Cersei says in the show \"I never got to have a mother\". In the books, Joanna Lannister died when Cersei was seven years old, thus she had enough time to get to know her mother.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Cersei does not care who sees Jaime in her bed",
+   "Scene End": "00:31:01",
+   "Duration": "00:01:38",
+   "Comparison": "In the books, Jaime and Cersei had sex for the last time after he returned to King's Landing, next to Joffrey's corpse. Ever since then, they have grown distant, and loathe each other.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "The Iron Bank comes to collect its debts",
+   "Scene End": "00:33:45",
+   "Duration": "00:02:44",
+   "Comparison": "In the books, it is not Tycho Nestoris but Noho Dimittis, another representative of the Iron Bank, who meets Cersei. The meeting takes place much earlier, and Cersei refuses to pay off the debt of the Iron Throne. Therefore, the Iron Bank decides to lend Stannis the funds he needs.<br><br>The Iron Bank never invested in slavery. Xaro and a custom officer named Qavo, not Tycho Nestoris, complain that Daenerys's disruption of the slave trade has had severe economic ripple effects across Essos. They do not tell that to Cersei. <br><br>Tycho Nestoris talks about dragons with Jon, not with Cersei. Cersei was partly responsible for Ned's death, but had nothing to do with the murders of Robb and Catelyn.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Tyrion and Jon discuss the pending alliance",
+   "Scene End": "00:37:36",
+   "Duration": "00:03:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Tyrion asks Darnerys for dragonglass on Jon's behalf",
+   "Scene End": "00:39:30",
+   "Duration": "00:01:54",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Daenerys allows Jon to mine the dragonglass",
+   "Scene End": "00:41:24",
+   "Duration": "00:01:54",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Petyr tries to give Sansa advice",
+   "Scene End": "00:44:09",
+   "Duration": "00:02:45",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Sansa reunites with three-eyed raven Bran",
+   "Scene End": "00:46:52",
+   "Duration": "00:02:43",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jorah is pronounced healed",
+   "Scene End": "00:49:21",
+   "Duration": "00:02:29",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Sam is commended and given more work",
+   "Scene End": "00:51:08",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "The Lannister army gives up Casterly Rock to attack Highgarden",
+   "Scene End": "00:56:08",
+   "Duration": "00:05:00",
+   "Comparison": "In the books, Tywin never assigned Tyrion to build the sewers in Casterly Rock, only to clean them. The person to whom Tyrion tells about the sewers is not Daenerys but Kasporio, a member of the Second Sons.<br><br>Tyrion never made any tunnel inside Casterly Rock for sneaking whores. In order to meet Shae secretly, he used a secret tunnel leading from Chataya's brothel to a stable, and for the same purpose he used secret passages inside the Red Keep.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jaime gives Olenna her death sentence",
+   "Scene End": "01:02:26",
+   "Duration": "00:06:18",
+   "Comparison": "In the books, the lesson Jaime has learned from the Battle of the Whispering Wood is the opposite; he does not use Robb's strategy against enemies - instead, he takes precautions to make certain he will not be taken by surprise again.<br><br>There is no mention in the books that Jaime suffers from reading disorder.\nThe gold mines of the Westerlands have not run dry in the books, they are as prosperous as ever.<br><br>Jaime was not present when Joffrey died at his wedding feast. He and Brienne arrived at King's Landing some time afterwards. Jaime has no idea who is Joffrey's murderer, and does not really care, because Joffrey meant nothing to him.<br><br>Tyrion, not Olenna, calls Jaime \"poor fool\", taunts him for being Cersei's minion, and claims (falsely) that he murdered Joffrey.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

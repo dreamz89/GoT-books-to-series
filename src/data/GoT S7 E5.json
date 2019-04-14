@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "Previously",
+   "Scene End": "00:01:26",
+   "Duration": "00:01:26",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:01:32",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:03:19",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Bronn admonishes Jaime for risking his life",
+   "Scene End": "00:05:10",
+   "Duration": "00:01:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "The Tarlys refuse to bend the knee",
+   "Scene End": "00:11:17",
+   "Duration": "00:06:07",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 3,
+   "Scene": "Jaime brings the news to Cersei",
+   "Scene End": "00:13:57",
+   "Duration": "00:02:40",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Jorah returns to Daenerys",
+   "Scene End": "00:18:21",
+   "Duration": "00:04:24",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Bran's warged ravens scout the army of the dead",
+   "Scene End": "00:19:50",
+   "Duration": "00:01:29",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Sam's plea to the Maesters fall on deaf ears",
+   "Scene End": "00:22:52",
+   "Duration": "00:03:02",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Tyrion and Varys talk about advising rulers",
+   "Scene End": "00:24:32",
+   "Duration": "00:01:40",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 8,
+   "Scene": "Daenerys and co discuss how to convince Cersei of the dead army",
+   "Scene End": "00:28:09",
+   "Duration": "00:03:37",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "Arya thinks Sansa has ambitions",
+   "Scene End": "00:31:07",
+   "Duration": "00:02:58",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 10,
+   "Scene": "Tyrion lures Jaime to the cellar to talk",
+   "Scene End": "00:34:10",
+   "Duration": "00:03:03",
+   "Comparison": "In the books, Jaime never said he was going to kill Tyrion for murdering their father.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Davos comes for Gendry",
+   "Scene End": "00:36:34",
+   "Duration": "00:02:24",
+   "Comparison": "",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Two guards come across Davos and Tyrion",
+   "Scene End": "00:39:43",
+   "Duration": "00:03:09",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Jaime tells Cersei of his meeting and is told of her pregnancy",
+   "Scene End": "00:42:38",
+   "Duration": "00:02:55",
+   "Comparison": "Cersei has long deduced that the Tyrells were involved in Joffrey's murder and their motive, by watching how far Margaery influenced Tommen.<br><br>There are hints in the fourth novel that Cersei is pregnant, but it has not been confirmed yet.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Davos brings Gendry to Jon",
+   "Scene End": "00:44:41",
+   "Duration": "00:02:03",
+   "Comparison": "",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Daenerys and Tyrion bids farewell to the men heading North",
+   "Scene End": "00:46:45",
+   "Duration": "00:02:04",
+   "Comparison": "In the books, Yezzan zo Qaggaz never gave any money to Tyrion.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Gilly finds something important in the old books",
+   "Scene End": "00:48:33",
+   "Duration": "00:01:48",
+   "Comparison": "In the books, there is no mention of a High Septon Maynard. It is also not mentioned that Rhaegar had his first marriage annulled and married Lyanna Stark.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Sam steals some books from the restricted area and leaves the Citadel",
+   "Scene End": "00:50:06",
+   "Duration": "00:01:33",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "Arya and Petyr spying on each other",
+   "Scene End": "00:53:57",
+   "Duration": "00:03:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 19,
+   "Scene": "The Brotherhood joins Jon and co to head North",
+   "Scene End": "00:57:31",
+   "Duration": "00:03:34",
+   "Comparison": "In the books, the Brotherhood does not attempt to go to the Wall. Instead, they stay in the Riverlands, hunting down Freys and other people who are somehow associated with the Freys or Lannisters.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "They head beyond the Wall",
+   "Scene End": "00:58:34",
+   "Duration": "00:01:03",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "The Hound is taking Arya to her mother",
+   "Scene End": "00:04:41",
+   "Duration": "00:02:47",
+   "Comparison": "In the books, the Hound does not give Arya a chance to kill him, but takes the rock from her and warns her \"if you're stupid enough to try again, I'll hurt you\".",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Daenerys gets briefed about the Second Sons",
+   "Scene End": "00:05:55",
+   "Duration": "00:01:14",
+   "Comparison": "In the books, the Second Sons are 500, not 2,000 (the Stormcrows are also 500).",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Daenerys meets the Second Sons",
+   "Scene End": "00:09:06",
+   "Duration": "00:03:11",
+   "Comparison": "In the books, it is not Grey Worm but Strong Belwas who offers Daenerys to cut Prendahl Na Ghezn's tongue when the latter talks rudely to her. When Mero talks rudely to Daenerys, none of her guards offers that.<br><br>Daenerys orders Jorah Mormont, not Barristan, to kill Mero first - when Mero is still in the tent and hears that. Mero is unimpressed, and continues the conversation.<br><br>It is Mero who asks for a flagon of wine to bring back to his captains, to which Daenerys replies by offering a barrel as they have wagons full of it. Mero then demands a wagon-full as a sign of good faith. Daenerys waited until nightfall, after which the mercenaries were too drunk to fight, then sent her forces in to attack them. Daenerys's trick and quick-thinking is what results in the quick fall of Yunkai, not an infiltration mission by Daario.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Melisandre brings Gendry to Stannis",
+   "Scene End": "00:10:56",
+   "Duration": "00:01:50",
+   "Comparison": "In the books, it is Edric, not Gendry who was brought to Stannis. Stannis is more doubtful about killing an innocent boy, and does not give Melisandre permission to do it yet.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 5,
+   "Scene": "Stannis visits Davos in his cell",
+   "Scene End": "00:15:36",
+   "Duration": "00:04:40",
+   "Comparison": "In the books, Stannis never comes to visit Davos in jail. Stannis does not express sorrow for the death of Davos's four sons (just one son in the series) at the Battle of the Blackwater. He does not order Davos to swear that he will never harm Melisandre.<br><br>Melisandre is the only visitor Davos has while he is imprisoned. She denies Davos' accusation that she is responsible for Stannis' defeat at the Battle of the Blackwater, and for the death of four of Davos' sons. She explains to Davos why she cannot make more Shadows (because it weakened Stannis too much), and offers him to have sex with her for making a shadow. Davos rejects her offer, because he does not wish to have anything to do with Melisandre and her dark witchcraft.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "The Second Sons discuss who to kill Daenerys",
+   "Scene End": "00:17:58",
+   "Duration": "00:02:22",
+   "Comparison": "This scene does not happen in the books - Prendahl na Ghezn, Daario Naharis and Mero does not pick coins to decide who would assassinate Daenerys.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Tyrion promises never to hurt Sansa",
+   "Scene End": "00:20:24",
+   "Duration": "00:02:26",
+   "Comparison": "In the books, Sansa does not tell Tyrion he looks handsome, because she figures that if she says such a thing, he will think she is either a fool or a liar. This is connected to the fact that Tyrion is much uglier in the books, and additionally, his injury in the Battle of Blackwater was much more gruesome.<br><br>Shortly before the ceremony, Tyrion told Sansa that if she didn't want to marry him, they would wed her to Lancel instead, so if she preferred to marry Lancel - she could ask to.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Cersei warns Margaery not to call her sister",
+   "Scene End": "00:22:26",
+   "Duration": "00:02:02",
+   "Comparison": "The scene where Cersei threatens Margaery and informs her about House Reyne of Castamere does not happen in the books, although the scene still voices a good deal of Cersei's interior monologues regarding Margaery and provides important backstory on the song. Cersei never threatens Margaery aloud, nor does she mention the Reyne rebellion. Cersei was born six years after the Reynes and Tarbecks were destroyed by Tywin, hence she could not have seen the rotting bodies.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Tyrion and Sansa is married",
+   "Scene End": "00:25:31",
+   "Duration": "00:03:05",
+   "Comparison": "In the books, Sansa and Tyrion are not married at the Great Sept of Baelor, but a local Sept at the Red Keep.<br><br>Sansa is far more distraught throughout the ceremony, and outright refuses to bend down when Tyrion attempts to cloak her, her only act of defiance throughout the entire ceremony. Thus Tyrion had no choice but to stand on Dontos's back in order to cloak Sansa in the colors of House Lannister, while everyone had a good laugh. There was no chair that Joffrey took in the show.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Melisandre seduces and plants leeches on Gendry",
+   "Scene End": "00:32:20",
+   "Duration": "00:06:49",
+   "Comparison": "The scenes between Gendry and Melisandre never happen in the books, although there is some truth to them. In the series, there are leeches gorging on Gendry's blood, but in the book, there are leeches gorging on Edric Storm's blood, an acknowledged bastard of King Robert present on Dragonstone. Edric's bloodletting is performed as medical treatment, but off-screen. Stannis comments offhandedly that Edric coughs, shivers, has a fever, and Maester Pylos has been leeching him.<br><br>Melisandre never gets intimate with anyone except Stannis (and that is only implied to take place off-screen).<br><br>It is not Davos but Stannis who wants a demonstration of the power in king's blood. Davos witnesses the ritual, but has not been given any explanations about it, thus has no idea what its purpose is.<br><br>The order in which Stannis names the \"false kings\" while burning the leeches is opposite to the order in the show: Joffrey, Balon and Robb. He also hesitates before naming Robb Stark, maybe because he realizes Robb's treason is not as bad as the others.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Olenna describes her grandchildren's complicated status",
+   "Scene End": "00:33:11",
+   "Duration": "00:00:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Tywin warns Tyrion to do his duty",
+   "Scene End": "00:35:26",
+   "Duration": "00:02:15",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Cersei ignores Loras",
+   "Scene End": "00:36:01",
+   "Duration": "00:00:35",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Tyrion almost offends Joffrey",
+   "Scene End": "00:38:51",
+   "Duration": "00:02:50",
+   "Comparison": "In the books, after Tyrion thrusts his dagger into the table and tells Joffrey \"Then you'll service your own bride with a wooden prick\", he adds \"I'll geld you, I swear it\".",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion and Sansa does not consummate their marriage",
+   "Scene End": "00:42:53",
+   "Duration": "00:04:02",
+   "Comparison": "In the books, Tyrion and Sansa get fully undressed and enter bed, and Tyrion gropes Sansa's breast. Although she does not explicitly say \"no\", he realizes that she does not wish to have sex with him, and he does not want to force himself upon her.<br><br>When Sansa asks Tyrion what if she never wants him to touch her, he answers \"that is why the gods made whores for imps like me\" and climbs down off the bed. He never says, \"And so my watch begins,\" or falls down drunk.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Daario breaks into Daenerys' room and swears fealty",
+   "Scene End": "00:47:01",
+   "Duration": "00:04:08",
+   "Comparison": "In the books, it is Mero and not Daario who sneaks into Daenery's camp after his defeat and flight from the Battle of Yunkai. Mero almost slays Daenerys before he is stopped and slain by Barristan Selmy (still disguised as Arstan Whitebeard). Selmy's true identity is revealed only after that.<br><br>Daario is not a lieutenant but a captain of another sellsword company called the Stormcrows along with Prendahl na Ghezn and Sallor the Bald. In the books, it is these two characters that Daario beheads to gain the trust of Daenerys. He sneaked into her camp (with no malicious intent), but was caught by the Unsullied. He showed Daenerys the severed heads, and declared \"the Stormcrows are yours\". Mero was not part of the Stormcrows but a commander of the Second Sons, and so was not slain by Daario.\nDaario does not take Missandei hostage, nor any of Daenerys' servants.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "The morning after the wedding",
+   "Scene End": "00:47:56",
+   "Duration": "00:00:55",
+   "Comparison": "In the books, neither Shae nor anyone else checks Tyrion and Sansa's bed for stains of maidenhood blood. However, rumor spreads around (probably by Sansa's maids, all of whom are Cersei's spies) that Tyrion has not consummated his marriage.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Sam and Gilly talk about baby names",
+   "Scene End": "00:52:48",
+   "Duration": "00:04:52",
+   "Comparison": "In the books, Gilly wouldn't give her baby a name before he is two years old, according to the wildlings custom that she follows in regards to the high rates of infant mortality.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Sam destroys the White Walker",
+   "Scene End": "00:55:01",
+   "Duration": "00:02:13",
+   "Comparison": "In the books, Sam's encounter with the White Walker is significantly different:<br><br>Firstly, the White Walker that Sam slew with the Dragonglass dagger occurred shortly after the Battle at the Fist of the First Men, when the surviving Night's Watch members were retreating back to the Wall. Grenn is with Sam to witness the act. The White Walker did not shatter but melted down when Sam stabbed it. Grenn picked up and kept the dagger Sam used to kill it.<br><br>The creature that Sam encounters with Gilly is a Wight, formerly a steward for the Watch named Small Paul, who carried Sam for a while during the retreat from the Fist, and was killed by the Other which was subsequently destroyed by Sam.<br><br>In the books, Sam attempts to use his dragonglass dagger to kill the Wight of Small Paul, but fails as Dragonglass is only effective against White Walkers, and it shatters when he tries to stab the Wight with it. Sam tries his steel dagger, but to no avail, for Wights are not affected by stabbing of normal weapon. He does not have a sword as he had lost it at the fist. Sam manages to grab a burning wood and thrusts it into the Wight's mouth, thus destroying it, but there are many more wights attacking them, which Sam recognizes as his fallen Black brothers.<br><br>At that point, a mysterious person (known as \"Coldhands\") appears, accompanied by countless ravens. The ravens swarm and attack the Wights, tearing them apart, saving Sam and Gilly. Then Coldhands takes them to the Nightfort.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

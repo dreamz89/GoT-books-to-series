@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:53",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Chaos reigns and Arya and Sansa is caught up in it",
+   "Scene End": "00:07:14",
+   "Duration": "00:05:21",
+   "Comparison": "In the series, Septa Mordane tells Sansa to run and lock herself in her room, while she confronts the Lannister soldiers coming down the hall. In the book, she was already locked up in her room.<br><br>The soldiers that fight Syrio in the book are more lightly armored, and Syrio with a wooden sword does far greater damage to them, killing them with stabs through the neck and eyes. He does not mention 'not today' to the god of death in the books.<br><br>In both, Syrio teaches Arya to listen to body language instead of words. He takes on the Lannister men while telling Arya to run. Arya last saw him with his stick broken by Ser Meryn. At the stables, she kills the stableboy who wanted to bring her to the queen.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Varys visits Ned in the dungeon cell",
+   "Scene End": "00:10:14",
+   "Duration": "00:03:00",
+   "Comparison": "This scene follows the books closely, except that in the books, Varys visits the imprisoned Ned only once. In the series, this visit is divided into two parts.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Dead men from Benjen's party are found",
+   "Scene End": "00:11:30",
+   "Duration": "00:01:16",
+   "Comparison": "In the books, the discussion took place where the dead men were found, near the woods outside the wall. Lord Mormont wanted the corpses brought back instead of burnt, and no horse would allow the corpses on their backs. Jaremy Rykker said that the corpses do not smell, while Sam says that the blood are dried yet the corpses are not rotting. They observed that the corpses have blue eyes, and no blood on the ground, and suspect that they were brought here by someone.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Lord Commander tells Jon the news from King's Landing",
+   "Scene End": "00:13:00",
+   "Duration": "00:01:30",
+   "Comparison": "In the books, Jon did not take the letter from Lord Mormont to read. Upon hearing the news, he insisted that his father is innocent, whereas in the series, he read the letter and silently left.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Sansa is told to write to her brother Robb",
+   "Scene End": "00:15:12",
+   "Duration": "00:02:12",
+   "Comparison": "In the books, Sansa is more anxious, not being told anything of what happened while she was locked up in the tower. It is revealed that when Sansa was distraught with her father breaking her engagement and sending her back to Winterfell, she went to Cersei to get her to talk to him and change his mind, causing Cersei to accelerate her plans. Cersei had the Kingsguard take Sansa to a tower room and imprison her there immediately, before the massacre takes place.<br><br>In both, Cersei tells Sansa to write to her brother to swear his fealty to King Joffrey. She does not let Sansa talk to her father.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Robb receives the news and sends out a call to his banners",
+   "Scene End": "00:16:38",
+   "Duration": "00:01:26",
+   "Comparison": "This scene is not in the books. Moreover, Maester Luwin did not mention that Sansa's letter is Queen Cersei's words, it is Catelyn who said that when she joined up with Robb.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Lady Arryn refuses to send out the Knights of the Vale",
+   "Scene End": "00:18:31",
+   "Duration": "00:01:53",
+   "Comparison": "This scene is not in the books.<br><br>In the books, no message about Ned's arrest is sent to the Eyrie. Lord Manderly tells the news to Catelyn when she arrives at the White Harbor with Ser Rodrik and Brynden Tully, on her way back from the Vale. The message sent to the Eyrie is from Edmure, informing that Jaime is massing troops at Casterly Rock, and that Edmure commanded Lord Vance and Lord Piper to guard the pass below the Golden Tooth.<br><br>In the books, there is no conversation between Catelyn and Lysa about Ned and the imminent war. Lord Yohn Royce, not Catelyn, demands that the knights of the Vale join the Starks' host, but Lysa refuses. Catelyn offers Lysa to take her son to be fostered at Winterfell for a few years. Lysa responds: \"If you try to steal my son, you will leave by the Moon Door\".",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Tyrion and Bronn on the road",
+   "Scene End": "00:19:55",
+   "Duration": "00:01:24",
+   "Comparison": "In the series, Tyrion is whistling loudly when Bronn warns of catching the attention of hill tribes.<br><br>In the books, Tyrion proposed to start a fire, prompting Bronn to warn that a fire will bring the clansmen to them. He does so anyway with a plan in mind. He also tells Bronn the story of his first wife.<br><br>In both, Tyrion knows that Bronn took up arms for him not for friendship but for gold.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Tyrion talks his way out of the threat by the hill tribes",
+   "Scene End": "00:22:45",
+   "Duration": "00:02:50",
+   "Comparison": "In both the series and the books, Tyrion promises the Stone Crows the Vale of Arryn in exchange for escorting them safely through the mountains.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Alliser provokes Jon in the common hall",
+   "Scene End": "00:23:54",
+   "Duration": "00:01:09",
+   "Comparison": "In the series, Ser Alliser enters the room and told Jon directly 'Not only a bastard, but a traitor's bastard', while in the books, Ser Alliser was making the comment to the men around him.<br><br>In the series, Lord Mormont is at the scene and told Jon 'I told you not to do anything stupid'. In the books, Lord Mormont said that comment to Jon much later when he came to see Jon at his cell. <br><br>In the books, when Jon enters the common hall for dinner, the cook gave him an extra portion and his friends assured him they all know the allegations against his father is a lie. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Jon fights a wight in the Lord Commander's room",
+   "Scene End": "00:26:15",
+   "Duration": "00:02:21",
+   "Comparison": "In the series, there was nobody outside Jon's cell. When Ghost leads him to Lord Mormont's solar, Jon opens the door for them. He commanded Ghost to stay and the dead man closed the door on Ghost.<br><br>In the books, when Jon opens the door to his cell, he finds the body of his guard with his head twisted backwards. Ghost leads him to Lord Mormont's solar, with its door wide open, and immediately pounces on the dead man. The corpse's detached arm was crawling up his leg and always wiggling towards him.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Daenerys prevents rape of the lamb women",
+   "Scene End": "00:32:33",
+   "Duration": "00:06:18",
+   "Comparison": "In the books, when Daenerys commanded the rape stopped, Jorah told Daenerys that she is her brother's sister in truth, meaning Rhaegar.<br><br>In the series, Mago speaks directly to Drogo; in the books he complains about Daenerys to Haggo, and the latter tells that to Drogo. After his claim is verbally denied, Mago does not challenge Drogo's authority, and there is no subsequent fight between them. Mago is shown still alive in a later chapter. The duel was added to the series as Jason Momoa, the actor playing Drogo, believed that the audience hadn't been shown Khal Drogo's combat prowess.<br><br>Drogo's injury came from an off-screen battle against a rival khalasar, led by Khal Ogo. The wound that Mirri Maz Duur infects was worse than the one shown in the series, which was superficial. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Robb refuses Umber's demand to lead the vanguard",
+   "Scene End": "00:34:17",
+   "Duration": "00:01:44",
+   "Comparison": "In the series, Umber insists he's the man to lead the vanguard, but Robb says that Glover will lead the van. Umber responded that then he will march his men home.<br><br>In the books, Lord Umber threatened to take his forces home if he was placed behind the Hornwoods or the Cerwyns in the order of march.<br><br>In both, Robb's response is that after the war he will hang Umber for an oathbreaker. Umber unsheathes his greatsword along with his men, and Grey Wolf bites off two fingers of his. Robb says he was taught that it is death to bare steel against his liege lord, but doubtless he only meant to cut his meat. Umber says Robb's meat is bloody tough and laughs.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Robb bids farewell to Bran",
+   "Scene End": "00:36:19",
+   "Duration": "00:02:02",
+   "Comparison": "In the series, Robb comes to Bran's bedside to tell him that they are leaving in the middle of the night so that the Lannister spies will not know they are coming.<br><br>In the books, Robb says farewell to Bran at dawn while mounted on his horse with the rest of his army. Rickon refuses to come down from his chamber, screaming 'NO farewell', thinking that no one ever comes back.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Osha approaches Bran while he prays at the weirwood",
+   "Scene End": "00:38:36",
+   "Duration": "00:02:17",
+   "Comparison": "This scene matches the books - Osha tells Bran about hearing the gods, and comments that Hodor has giant's blood or she's the queen. She tells Bran that his brother is marching the wrong way.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "The dead men are burned at the Wall",
+   "Scene End": "00:39:45",
+   "Duration": "00:01:09",
+   "Comparison": "This scene is not in the books. The corpse of Othor was destroyed by the fire Jon started at the Commander's tower, and the other corpse was also destroyed into pieces by a dozen swords.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Catelyn reunites with Robb",
+   "Scene End": "00:43:21",
+   "Duration": "00:03:36",
+   "Comparison": "In the series Catelyn arrives at Robb's camp with Ser Rodrik while in the books, she is escorted by her uncle and Lord Manderly's sons. She sent Rodrik earlier to Winterfell, to serve as the castellan.<br><br>In the books, Roose Bolton asks Catelyn about her hostage Tyrion, and she admits to them that she let him slip away.<br><br>The Robb in the books revealed himself as a young worried boy in front of his mother, asking her if she would send him back to Winterfell, or what they will do with the army. Catelyn tells her son to be certain of his decisions.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 18,
+   "Scene": "Tyrion leads the hillmen to his father's camp",
+   "Scene End": "00:47:53",
+   "Duration": "00:04:32",
+   "Comparison": "In the books, when Tyrion, Bronn and the clansmen arrive at the Lannister camp, Tywin and Kevan are not in a tent; they are in a common room at the inn at the crossroads.<br><br>In the books, Shagga does not enter quietly to the room where the Lannisters are; a guard tries to stop him, but Shagga forces his way inside, throws the guard across the room and breaks his sword, startling Tyrion and Kevan. Bronn and the other clansmen follow him.<br><br>The conversation between father and son in the series follows the books.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Robb lets a Lannister scout go",
+   "Scene End": "00:50:40",
+   "Duration": "00:02:47",
+   "Comparison": "This scene does not happen in the books - Robb shows mercy to a Lannister scout who was counting his army. <br><br>In the books, it is Tyrion, not Robb, who mentions (in his thoughts) the joke that Tywin shits gold.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Ser Barristan is relieved of his command and Sansa pleads for mercy for her father",
+   "Scene End": "00:56:57",
+   "Duration": "00:06:17",
+   "Comparison": "The series follows the books quite closely in this scene - The new appointments and Sansa's plea for mercy for her father.<br><br>In the books, when Ser Barristan throws his sword down, his last words were that 'perhaps Lord Stannis will chance to sit on it when he takes your throne.' After he leaves, Joffrey orders him seized.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

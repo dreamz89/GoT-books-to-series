@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:48",
+   "Duration": "00:01:42",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "The Starks arrive at King's Landing",
+   "Scene End": "00:02:42",
+   "Duration": "00:00:54",
+   "Comparison": "In the series, the Royal Steward suggests wearing something more appropriate, which Ned ignores.<br><br>In the books, when the Royal Steward summons Ned to the Small Council, Ned asks for and is provided with appropriate garments",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Jamie talks to Ned in the throne room",
+   "Scene End": "00:05:17",
+   "Duration": "00:02:35",
+   "Comparison": "This scene does not happen in the book - Ned encounters Jaime at the Iron Throne, and Jaime describes the scene when he stabbed Aerys II Targaryen in the presence of 500 knights.<br><br>In the books, when Jaime tells Catelyn Stark in \"A Clash of Kings\" how the Mad King executed Ned's father and brother, he mentions only the Lord Commander Gerold Hightower that was present there, instead of the 500 knights.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Ned meets the small council",
+   "Scene End": "00:08:10",
+   "Duration": "00:02:53",
+   "Comparison": "In both the series and the books, Ned Stark is welcomed first by Varys, exchanges small talk with Renly and Petyr, and is passed a message from the King. He is informed of an upcoming tournament and also the Crown's debt to various people.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Cersei and Joffrey talk about being king",
+   "Scene End": "00:10:50",
+   "Duration": "00:02:40",
+   "Comparison": "This scene does not happen in the book - A conversation between Queen Cersei and Prince Joffrey about what it will mean when he is a king.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Starks at the food table",
+   "Scene End": "00:12:11",
+   "Duration": "00:01:21",
+   "Comparison": "In the series, at the dining table with Sansa and Septa Mordane, Arya blames Sansa for Mycah's death. Ned sends Arya to her room and gives a doll to Sansa.<br><br>In the books, at dinner with her family and the household guards, Arya runs off from the table to her room. Fat Tom and then Septa Mordane knocks on her door.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Ned talks to Arya about Needle and her sister",
+   "Scene End": "00:15:49",
+   "Duration": "00:03:38",
+   "Comparison": "In both the series and the books, Ned comes to Arya's room and talks to her about Needle, her grief over Mycah's death, and tells her that Sansa is her sister / to get along with Sansa and Septa Mordane.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Old Nan tells Bran about the long night",
+   "Scene End": "00:18:50",
+   "Duration": "00:03:01",
+   "Comparison": "In the series, Bran tells Old Nan that he hates her stories, and she offers to tell his favourite story about Ser Duncan the Tall. Old Nan then tells him a story about a long winter thousands of years ago, but was interrupted by Robb's arrival. Old Nan's story about White Walkers is told days before Tyrion Lannister returns from the Wall.<br><br>In the books, Bran is sad that he cannot run anymore, and snaps at Old Nan that he does not want to hear any more stories. She offers to tell him his favourite story about Brandon the Builder, which he refuses. Old Nan then tells him a story about a long winter thousands of years ago, but was interrupted by  Maester Luwin and Hodor's arrival. They are to bring Bran down to meet Tyrion.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Catelyn arrives and is immediately summoned",
+   "Scene End": "00:19:32",
+   "Duration": "00:00:42",
+   "Comparison": "In the series, Catelyn and Ser Rodrik come by riding horses on the Kingsroad and arrive after Ned. <br><br>When Catelyn and Ser Rodrik enter King's Landing on horses, they are taken by several Gold Cloaks to Littlefinger at the Brothel he owns.<br><br>In the books, Catelyn and Ser Rodrik come by ship from White Harbor and arrive at King's Landing before Ned.<br><br>As soon as Catelyn and Ser Rodrik enter King's Landing, they enter an old inn. Ser Rodrik goes to visit Aron Santagar, and in his absence Catelyn is taken to Littlefinger at the Red Keep by several Gold Cloaks.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Catelyn meets Littlefinger and Varys at a brothel",
+   "Scene End": "00:21:42",
+   "Duration": "00:02:10",
+   "Comparison": "In the series, Ser Rodrik is present at the meeting between Catelyn, Varys and Littlefinger.<br><br>Varys said he did not know where the dagger is from and Petyr gloats that he knows.<br><br>In the books, Ser Rodrik is not present at the meeting.<br><br>There was no mention of whether Varys knows of the dagger's origins.<br><br>In both, Varys reveals that he knew of Catelyn's arrival, and her posession of the dagger.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Jon in training at the Night's Watch",
+   "Scene End": "00:23:18",
+   "Duration": "00:01:36",
+   "Comparison": "In the series, Jon breaks Grenn's nose in the fight. He is also shown fighting more recruits. Lord Mormont is shown handing Tyrion the message brought by a raven for Jon.<br><br>In the books, Jon breaks Grenn's wrist in the fight. He fights only Grenn.<br><br>Tyrion learnt about the message only when Ser Alliser told Jon of it.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Ned gets a note from his wife",
+   "Scene End": "00:24:07",
+   "Duration": "00:00:49",
+   "Comparison": "In the series, Pycelle passes Ned a message from a raven and Petyr acts like he does not know Catelyn is in Winterfell.<br><br>In the books, Littlefinger appeared in front of Ned and told Ned to follow him, as his wife awaits.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Petyr brings Ned to Catelyn",
+   "Scene End": "00:24:42",
+   "Duration": "00:00:35",
+   "Comparison": "In the series, as Ned slams Littlefinger against the wall of the brothel, he says \"You're a funny man, a very funny man\". Catelyn appears from above and stops him.<br><br>In the books, as Ned slams Littlefinger against the wall of the brothel, he says \"Brandon was too kind to you\" and shoves his dagger up under Littlefinger's chin. Ser Rodrik stops him.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Jon gets harassed by the men he beat in training",
+   "Scene End": "00:26:42",
+   "Duration": "00:02:00",
+   "Comparison": "In the books, it is Donal Noye, not Tyrion, who breaks up the fight.<br><br>In both the series and the books, someone breaks up the fight and chides Jon for humiliating the other recruits, who had never had sword training before joining.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Petyr offers help to Ned and Catelyn",
+   "Scene End": "00:27:20",
+   "Duration": "00:00:38",
+   "Comparison": "In both, Petyr tells the Starks that the dagger is not good enough evidence to implicate the Lannisters. <br><br>In the series, Catelyn tells him he's a true friend.<br><br>In the books, Catelyn tells him he's like a brother.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Cersei and Jamie talking about Bran's awakening",
+   "Scene End": "00:28:28",
+   "Duration": "00:01:08",
+   "Comparison": "This scene does not appear in the first book but Jaime recalls it in A Storm of Swords. Jaime never uses the phrase \"the war for Cersei's cunt\" in a conversation with Cersei. He does think the phrase to himself at a much later point in the novels. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Ned bids farewell to Catelyn",
+   "Scene End": "00:30:06",
+   "Duration": "00:01:38",
+   "Comparison": "In the series, Ned and Catelyn say their farewells while Ser Rodrik waits with the horses. Catelyn wished she could see the girls while Ned says that he will tell the King once he finds proof.<br><br>They mention that they know Petyr still loves her.<br><br>In the books, still in the brothel, Catelyn said she could see the girls while Ned says he will tell King Robert once he finds proof.<br><br>Ned tells Catelyn to prepare Winterfell for war.<br><br>There is no mention of Petyr and his love.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "Robert asking for first kill stories",
+   "Scene End": "00:34:40",
+   "Duration": "00:04:34",
+   "Comparison": "This scene does not happen in the books - In King's Landing, there is a conversation between King Robert, Ser Barristan and Ser Jaime. They share stories about killing their first men.<br><br>Robert claims to have killed a Tarly boy during the Battle of Summerhall. In the books there is no mentioning of any Tarly involved in this battle. Robert first fought the Tarlys in the Battle of Ashford. Additionally Robert had killed Marq Grafton during the Taking of Gulltown, which predated the Battle of Summerhall by several months.<br><br>When Jaime was fifteen, he did not kill any outlaws in the battle of the Kingswood Brotherhood. He saved his master Lord Crakehall and crossed swords with the Smiling Knight (who was killed by Arthur Dayne).<br><br>There is no mentioning in the books that Aerys ever said \"Burn them all\".",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Daenerys and Viserys' power reversal",
+   "Scene End": "00:38:17",
+   "Duration": "00:03:37",
+   "Comparison": "In the series, Daenerys orders the khalasar to stop because she feels sorry for the slaves. Viserys tries to strangle her for giving him commands, but Rakharo captures him with a whip. Daenerys does not want Viserys harmed. Rakharo makes Viserys walk. <br><br>In the books, Daenerys orders the khalasar to stop because she is awed by the sight of the Dothraki Sea. Viserys screams at her for giving him commands, but Jhogo captures him with a whip. Daenerys does not want Viserys harmed, but orders him to walk behind the horses.<br><br>In both, Jorah ignores Viserys' order to hit her and fight the Dothraki.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jon goes to top of the wall and is told by Benjen of his departure",
+   "Scene End": "00:41:52",
+   "Duration": "00:03:35",
+   "Comparison": "This scene does not happen in the books - Benjen Stark and Jon Snow say goodbye to each other at the Wall; in books, this scene is only mentioned.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Tyrion drinks with Yoren and Benjen makes an appearance",
+   "Scene End": "00:45:46",
+   "Duration": "00:03:54",
+   "Comparison": "In the series, Yoren is introduced in conversation with Tyrion at the Castle Black rather than in the scene with two rapers as Jon Snow is on his way to the Wall. Benjen also appears in this scene.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 21,
+   "Scene": "Daenerys learns of her pregnancy",
+   "Scene End": "00:46:24",
+   "Duration": "00:00:38",
+   "Comparison": "In the series, Daenerys is learning Dothraki from Jhiqui when Jhiqui tells her that she is pregnant.<br><br>In the books, Jhiqui tells Daenerys that she is pregnant and Daenerys replies that she knows.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Ser Jorah learns of the pregnancy",
+   "Scene End": "00:48:39",
+   "Duration": "00:02:15",
+   "Comparison": "This scene does not happen in the book - Ser Jorah and Rakharo discuss Dothraki weapons,  and Irri appears and announces Daenerys's pregnancy.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 23,
+   "Scene": "Maester Aemon asks Tyrion for aid from the capital",
+   "Scene End": "00:50:42",
+   "Duration": "00:02:03",
+   "Comparison": "In the TV series, many of Mormont's lines were given to Maester Aemon in the scene with Tyrion. Ser Alliser is also absent from that scene.<br><br>In the books, while having dinner, Tyrion returns Alliser's comments with jokes, and Maester Aemon calls Tyrion a giant. Lord Mormont requests Tyrion to speak to his powerful family about the situation at the Night's Watch.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 24,
+   "Scene": "Daenerys tells Drogo it's a boy",
+   "Scene End": "00:51:30",
+   "Duration": "00:00:48",
+   "Comparison": "This scene does not happen in the books - Daenerys does not presume her baby's gender until they reach Vaes Dothrak.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 25,
+   "Scene": "Jon asks Tyrion to convey a message to Bran",
+   "Scene End": "00:52:33",
+   "Duration": "00:01:03",
+   "Comparison": "In the series, Tyrion is pissing off the top of the wall and finds Jon behind him. Jon tells him to tell Bran he misses him.<br><br>In the books, Tyrion comes upon Jon and Ghost when he is at the top of the wall, and promises to convey messages to Jon's family. Jon calls Tyrion friend and confides his hope that Benjen comes back.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 26,
+   "Scene": "Arya gets sword fighting lessons from Syrio",
+   "Scene End": "00:56:04",
+   "Duration": "00:03:31",
+   "Comparison": "In the books, Arya's new 'dancing master' Syrio is bald instead of having black curly hair. <br><br>In both, he calls her 'boy' and tells her to strike him.",
+   "Rating": "TRUE"
+ }
+]

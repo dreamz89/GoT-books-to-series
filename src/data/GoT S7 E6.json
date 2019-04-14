@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:07",
+   "Duration": "00:00:07",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:56",
+   "Duration": "00:01:49",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Jon and Tormund chat",
+   "Scene End": "00:03:56",
+   "Duration": "00:02:00",
+   "Comparison": "In the books, Tormund is not red-haired. His hair and beard are white as snow.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Gendry is sore at the Brotherhood",
+   "Scene End": "00:05:12",
+   "Duration": "00:01:16",
+   "Comparison": "In the books, Melisandre used Edric Storm's blood for the leech ritual, not Gendry's.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Jon tries to return Longclaw to Jorah",
+   "Scene End": "00:07:35",
+   "Duration": "00:02:23",
+   "Comparison": "In the books, the Watch has never taken any punitive action against the mutineers. Jeor Mormont's death is partly avenged by Coldhands, who kills five of the mutineers (among them Ollo Lophand, the one who killed Mormont); it is unknown what has become of the rest of the mutineers. Jon and Jorah have no idea about that.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Arya still blames Sansa for their father's death",
+   "Scene End": "00:13:10",
+   "Duration": "00:05:35",
+   "Comparison": "Arya has never shot even one single arrow in the novels.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Tormund tries to chat with the Hound",
+   "Scene End": "00:15:03",
+   "Duration": "00:01:53",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Beric talks to Jon about the reason for being brought back",
+   "Scene End": "00:17:29",
+   "Duration": "00:02:26",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Daenerys and Tyrion discuss tactics and succession",
+   "Scene End": "00:22:33",
+   "Duration": "00:05:04",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 8,
+   "Scene": "The men get attacked by a dead bear wight",
+   "Scene End": "00:26:56",
+   "Duration": "00:04:23",
+   "Comparison": "An encounter with a bear/wight happens in the books, but in much earlier point - during the battle of the Fist of the First Men.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Sansa worries about Arya to Petyr",
+   "Scene End": "00:28:54",
+   "Duration": "00:01:58",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 10,
+   "Scene": "Jon and men capture a wight but get surrounded by hundreds of wights",
+   "Scene End": "00:34:57",
+   "Duration": "00:06:03",
+   "Comparison": "In the books, wights have no aversion to water.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Gendry runs to Eastwatch for help",
+   "Scene End": "00:36:43",
+   "Duration": "00:01:46",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Thoros freezes to death and his body is burnt",
+   "Scene End": "00:40:44",
+   "Duration": "00:04:01",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Sansa sends Brienne to represent her at King's Landing",
+   "Scene End": "00:42:56",
+   "Duration": "00:02:12",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Daenerys flies off despite Tyrion's warnings",
+   "Scene End": "00:44:02",
+   "Duration": "00:01:06",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Three dragons came, two dragons leave",
+   "Scene End": "00:54:40",
+   "Duration": "00:10:38",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "Benjen appears and gives up his horse and life for Jon",
+   "Scene End": "00:57:15",
+   "Duration": "00:02:35",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Daenerys waits for Jon, who arrives with hypothermia",
+   "Scene End": "00:59:43",
+   "Duration": "00:02:28",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "Sansa searches through Arya's things and find faces",
+   "Scene End": "01:03:39",
+   "Duration": "00:03:56",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jon apologises to Daenerys and 'bends his knee'",
+   "Scene End": "01:07:15",
+   "Duration": "00:03:36",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 20,
+   "Scene": "The wights pull the dead dragon out of the water",
+   "Scene End": "01:08:42",
+   "Duration": "00:01:27",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

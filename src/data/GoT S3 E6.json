@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:56",
+   "Duration": "00:01:50",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Sam and Gilly make camp",
+   "Scene End": "00:05:13",
+   "Duration": "00:03:17",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Bran makes Osha and Meera stop bickering",
+   "Scene End": "00:08:15",
+   "Duration": "00:03:02",
+   "Comparison": "In the books, the bickering between Meera Reed and Osha does not occur. In fact, Osha, Rickon and Shaggydog are not even part of Bran's party, having left on a different course after the Sack of Winterfell.<br><br>Meera did not hunt any rabbits, but fish and frogs. Jojen had no dreams about Jon.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Ygritte knows where Jon's loyalties lie",
+   "Scene End": "00:12:12",
+   "Duration": "00:03:57",
+   "Comparison": "In the books, Ygritte hates the Wall and never had any dreams of standing on top of it. She also never reveals to Jon that she knows where his true loyalties lie.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Melisandre pays the Brotherhood a visit",
+   "Scene End": "00:14:53",
+   "Duration": "00:02:41",
+   "Comparison": "Arya does not practice shooting arrows. In fact she has not shot even one single arrow throughout the entire book series. Anguy let her try his longbow, but she could not draw it no matter how much she tried. He offered to make a lighter bow for her, but did not.<br><br>In the series, Melisandre says Thoros was sent to Westeros to convert King Robert to the religion of R'hllor. In the books, he was sent to convert the Mad King (the faithful of R'hllor believed Aerys' obsession with fire would make him a willing convert). Thoros did still hang around the royal court under King Robert and became one of his drinking companions, but he had even less luck preaching about the Lord of Light to Robert than he did to Aerys.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Thoros tells Melisandre how he revives Beric",
+   "Scene End": "00:18:03",
+   "Duration": "00:03:10",
+   "Comparison": "Melisandre never visits the Riverlands in the books. Thus, she never meets Arya, Thoros, Dondarrion, Anguy, or any other of the Brotherhood Without Banners.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Melisandre takes Gendry away",
+   "Scene End": "00:20:38",
+   "Duration": "00:02:35",
+   "Comparison": "Melisandre never visits the Riverlands in the books. Thus, she never meets Arya, Thoros, Dondarrion, Anguy, or any other of the Brotherhood Without Banners.<br><br>Gendry isn't taken by Melisandre or anyone else from the brotherhood in the novels. His usefulness for Stannis and Melisandre's plans is filled by Edric Storm, another of Robert's bastards.<br><br>The old woods witch known as the Ghost of High Heart, not Melisandre, is the one who looks closely at Arya and sees darkness in her. She is frightened of what she sees, and tells Arya to begone.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Wildlings are scaling the Wall",
+   "Scene End": "00:22:08",
+   "Duration": "00:01:30",
+   "Comparison": "In the books, Jarl is leading the climb up the Wall, not Tormund. Jon and Ygritte are not among the dozen wildlings who first scale the Wall.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Ramsey plays a torture guessing game with Theon",
+   "Scene End": "00:27:39",
+   "Duration": "00:05:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "The Frey men present their terms",
+   "Scene End": "00:31:26",
+   "Duration": "00:03:47",
+   "Comparison": "In the books, the Starks, not the Freys, were the first to offer that Edmure, instead of Robb, could marry one of Lord Frey's daughters. The Freys accepted the offer.<br><br>Brynden Tully never threatened Edmure. On the contrary, he said \"I am the last man in the Seven Kingdoms to tell anyone who they must wed, nephew. Nonetheless, you did say something of making amends for your Battle of the Fords\".<br><br>Walder Frey never wanted Harrenhal in the book.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Roose Bolton tells Jaime and Brienne of his plans for them",
+   "Scene End": "00:33:43",
+   "Duration": "00:02:17",
+   "Comparison": "In the books, Jaime did not try to persuade Roose Bolton to let Brienne go with him. Roose said that Brienne would stay in Harrenhal for Vargo Hoat's entertainment, not under arrest for abetting treason.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Tywin gives Olenna a hard choice",
+   "Scene End": "00:37:29",
+   "Duration": "00:03:46",
+   "Comparison": "In the books, Tywin never has a conversation with Olenna concerning Loras and Cersei. Loras is already in the Kingsguard so he cannot marry anyone.<br><br>Tywin made Mace Tyrell the offer of marrying Cersei to Willas (Loras' eldest brother), but Olenna foiled it because in her eyes Cersei was \"too old and too used\" for her precious one-legged grandson. Tywin grudgingly dropped the offer and never mentioned it again.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Landslide at the Wall",
+   "Scene End": "00:40:06",
+   "Duration": "00:02:37",
+   "Comparison": "In the books, neither Orell nor any other of the wildings cuts loose the rope to which Ygritte and Jon are clinging to. Orell's character was long dead, slain by Jon's scouting party in A Clash of Kings.<br><br>In the books, while the wildling climbers were scaling the Wall, large parts of ice broke off the Wall. As a result, Jarl and three other climbers fell and were killed. Once the remaining climbers reached the top, they threw ropes to the wildlings on the ground. Ladders were pulled to the top of the Wall, and only then Jon, Ygritte and the other wildings climbed much more safely and conveniently (though the climb was still dangerous and cost two more lives) than in the series.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Loras and Sansa talk about the wedding",
+   "Scene End": "00:41:41",
+   "Duration": "00:01:35",
+   "Comparison": "In the books, Loras never acqaints himself with Sansa. Sansa was not even offered Loras by the Tyrells, but his elder brother and the heir to Highgarden, Willas Tyrell.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "The Lannister siblings discuss the turn of events",
+   "Scene End": "00:44:33",
+   "Duration": "00:02:52",
+   "Comparison": "Tyrion never confronted Cersei about Mandon Moore.\nCersei never admitted that Tyrion saved the city by using wildfire. According to Tywin, she was (unjustly) given the credit for that.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion asks to speak with Sansa",
+   "Scene End": "00:46:16",
+   "Duration": "00:01:43",
+   "Comparison": "In the books, Sansa was never given early warning about her impending wedding to Tyrion. On the marriage day, she was taken from her room under threat of force right to the ceremony.<br><br>In the books, Shae knew about Tyrion's impending wedding to Sansa before he told her. She told him that she had heard a page telling Ser Tallad about it, who had heard it from a serving girl who overheard Kevan talking to Tywin about it. <br><br>Shae is not mad about Tyrion and Sansa's impending marriage. In fact she is indifferent, telling him \"I don't care. She's only a little girl. You'll give her a big belly and come back to me\". That proves to Tyrion once more that Shae does not have any feelings toward him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Petyr and Varys have foiled each other's plans",
+   "Scene End": "00:49:22",
+   "Duration": "00:03:06",
+   "Comparison": "In the books, Littlefinger does not give his chaos speech to Varys.\nLittlefinger didn't offer Sansa a chance to go with him when he left King's Landing. At this point, he was already gone from King's Landing.\nRos does not exist in the book, so her execution in the episode was new material.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Jon and Ygritte reach the top of the Wall",
+   "Scene End": "00:52:00",
+   "Duration": "00:02:38",
+   "Comparison": "In the books, Jon and Ygritte reach the top of the Wall around midnight, not in daylight.<br><br>After Jon and Ygritte reach the top of the Wall, she reveals what the secret power is that the wildlings have been looking for in the Frostfangs - the legendary Horn of Winter, used many years ago by Joramun to wake giants.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

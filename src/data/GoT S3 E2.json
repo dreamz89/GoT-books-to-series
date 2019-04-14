@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Bran dreams of aiming an arrow at a raven",
+   "Scene End": "00:04:28",
+   "Duration": "00:02:34",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Robb receives news from Riverrun and Winterfell",
+   "Scene End": "00:05:28",
+   "Duration": "00:01:00",
+   "Comparison": "In the books, after receiving a report from Ser Rodrik about the alleged death of Bran and Rickon, neither Robb nor Catelyn had any hope that they might still be alive. They are also resigned to the fact that Arya is probably dead too. Robb and Catelyn are reported on two occasions about the sack of Winterfell, first by Lothar Frey and Walder Rivers, and later Roose tells more details.<br><br>In the books, similar to the show, Roose falsely claims that the ironborn destroyed Winterfell and killed its occupants; he also lies about the fate of Ser Rodrik, Cley Cerwyn and Leobald Tallhart, claiming they were killed by the ironborn. He does not, however, falsely claim that Theon and the other ironborn escaped before Ramsay arrives; instead, he tells Robb and Catelyn that Theon was taken captive to the Dreadfort, and is being flayed by Ramsay (that part is true).",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Catelyn hears the news",
+   "Scene End": "00:06:30",
+   "Duration": "00:01:02",
+   "Comparison": "In the books, Catelyn was at Riverrun at her father's bedside long before he died.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Theon is tied up to wooden poles",
+   "Scene End": "00:07:14",
+   "Duration": "00:00:44",
+   "Comparison": "The events surrounding Theon's imprisonment are not mentioned in the novels until the fifth book \"A Dance with Dragons\". The reader was left wondering if Theon had survived the Sack of Winterfell, though it is mentioned by Lord Bolton that he is being flayed at the Dreadfort.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Brienne and Jaime walk along the woods",
+   "Scene End": "00:10:51",
+   "Duration": "00:03:37",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Cersei tries to ask Joffrey about Margaery",
+   "Scene End": "00:13:02",
+   "Duration": "00:02:11",
+   "Comparison": "This scene does not happen in the book - Joffrey insults Cersei.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Shae warns Sansa against Petyr",
+   "Scene End": "00:14:33",
+   "Duration": "00:01:31",
+   "Comparison": "In the books, Shae becomes Sansa's maid much later, and they are never on such amicable terms.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Sansa is escorted by Loras Tyrell",
+   "Scene End": "00:15:03",
+   "Duration": "00:00:30",
+   "Comparison": "In the books, Loras is upset when he meets Sansa, as she reminds him of more innocent times at the Tourney of the Hand. Loras had recklessly killed Renly's two Kingsguard members, Robar Royce and Emmon Cuy, who were outside his tent when he was assassinated, out of sheer rage. When Sansa mentions that she saw him defeat Robar Royce in the joust, Loras explains that he has killed Royce as well as Cuy, and becomes quite distraught because he is remorseful for his past actions.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Lady Olenna and Margaery asks Sansa about Joffrey",
+   "Scene End": "00:19:54",
+   "Duration": "00:04:51",
+   "Comparison": "In the books, Sansa's description of Joffrey to Olenna Tyrell is actually much longer. As in the series, Sansa is worried that they will be overheard by the ever-present spies around the Red Keep. Therefore, Olenna bids her jester Butterbumps to sing The Bear and the Maiden Fair until he is bellowing it out at the top of his lungs. Sansa describes in explicit detail all of the atrocities that Joffrey has committed since becoming king and long before that - lying about Mycah, causing her father to kill Lady, ludicrously ordering a dozen guards to kill a crowd of starving peasants numbering in the hundreds, shooting refugees with a crossbow simply for begging for bread at the castle gates, having her stripped and beaten in front of the entire court, etc. This did not seem to concern Olenna and Margaery, who apparently have already known what monster Joffrey is, and what Sansa told them only confirmed that.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Lord Karstark speaks his mind to Robb",
+   "Scene End": "00:21:00",
+   "Duration": "00:01:06",
+   "Comparison": "This scene does not happen in the book - Rickard Karstark never expresses any thoughts about the breaching of the marriage pact with the Freys or about losing the war.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Catelyn tells Talisa of when Jon had the pox",
+   "Scene End": "00:24:23",
+   "Duration": "00:03:23",
+   "Comparison": "This scene does not happen in the book - Catelyn tells Talisa about attempting to love Jon Snow as her own son after he nearly died from the pox.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Jon meets a warg",
+   "Scene End": "00:26:48",
+   "Duration": "00:02:25",
+   "Comparison": "In the books, the wildlings only speak the Old Tongue, though a few speak the Common Tongue (archaic English), not 7 different languages.<br><br>In the books, the character Orell was killed earlier by Qhorin's party, but part of Orell's spirit remained in his eagle. Technically, Orell should not appear in the third season; he lives on by warging in his eagle. The TV character \"Orell\" is more of a splice with another Warg character, Varamyr Sixskins.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Sam is mocked for being fat and slow",
+   "Scene End": "00:29:26",
+   "Duration": "00:02:38",
+   "Comparison": "In the books, the Night's Watch was retreating through the Haunted Forest. A character called Small Paul, steward of the Night's Watch, carries Sam on his back in the book; Rast is not even on the expedition.\nSam, Grenn and Paul fall behind the survivors of the Watch and encounter one of the Others (who had been hunting down the Night's Watch survivors since their retreat from battle, picking off any unlucky enough to fall behind). Paul is slain but Sam manages to kill the thing by accident, discovering their vulnerability to dragonglass (obsidian) in the process. The entire scene is omitted from the series.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Jojen and Meera Reed appear at Bran's camp",
+   "Scene End": "00:32:00",
+   "Duration": "00:02:34",
+   "Comparison": "In the books, Jojen and Meera Reed are introduced much earlier, as guests during one of the harvest feasts at Winterfell. Osha never threatened Jojen with any weapon, and Meera never threatened Osha with any weapon.<br><br>Osha, Rickon and Shaggydog had split up from Bran, Hodor, Summer and the Reeds long before, in the end of the book \"A Clash of Kings\", at Maester Luwin's advice. The TV producers said they pushed the Reeds back into Season 3 because there wasn't enough time to fit them into Season 2 without overfilling the season with too many characters.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Arya and co meets the Brotherhood without Banners",
+   "Scene End": "00:36:06",
+   "Duration": "00:04:06",
+   "Comparison": "In the books, Arya, Hot Pie and Gendry were all on horseback and heading for Riverrun using a map Arya stole. They came across the outlaws on a road near a river, not the forest.<br><br>The singer Arya hears wasn't Thoros, but a man named Tom of Sevenstreams, who was singing about a maid of Gulltown, not Rains of Castamere. Thoros wasn't with the outlaws who found Arya, and Arya scarcely recognized Thoros from his days at King's Landing in the books.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Shae tells Tyrion about her worries for Sansa",
+   "Scene End": "00:39:27",
+   "Duration": "00:03:21",
+   "Comparison": "In the books, Shae does not come to visit Tyrion until much later, and even then they meet in the cellars at the dragon skulls. Shae never expressed any concern about Sansa.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Margaery cozies up to Joffrey",
+   "Scene End": "00:44:21",
+   "Duration": "00:04:54",
+   "Comparison": "The crossbow scene with Joffrey and Margaery doesn't happen in the books.\nRenly's homosexuality was only implied in the books, though George R.R. Martin has independently confirmed that he intended Renly and Loras to be lovers. Cersei's private disgust with Renly as a \"degenerate\" does not correspond to a scene from the novels at this point, though she does make similar comments to this effect disparaging Loras's homosexuality at other points in the book.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Roose promises to save Theon from his interrogation",
+   "Scene End": "00:46:23",
+   "Duration": "00:02:02",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 19,
+   "Scene": "Bran and Jojen talk about warging",
+   "Scene End": "00:48:46",
+   "Duration": "00:02:23",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 20,
+   "Scene": "Arya gets exposed by Sandor Clegane",
+   "Scene End": "00:51:30",
+   "Duration": "00:02:44",
+   "Comparison": "In the books, the Hound does not reveal Arya's true identity to the Brotherhood. In fact, he does not even recognize her at first, even when she openly accuses him of Mycah's death, but only after taking a good look at her. <br><br>Several members of the Brotherhood are actually the last remnants of her father's personal guard that he sent out to bring Gregor Clegane to justice, and one of them, Harwin, recognizes Arya instantly. Harwin was actually present when the newborn direwolf pups were found.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 21,
+   "Scene": "Jaime and Brienne have a sword fight and are found by the Boltons",
+   "Scene End": "00:55:44",
+   "Duration": "00:04:14",
+   "Comparison": "In the books, Cleos Grey was with Jaime and Brienne, when they were attacked by archer outlaws who killed Cleos and injured Brienne with two arrows. Jaime then takes Cleo's sword to duel Brienne. Brienne notes that Jaime was difficult to fight, even while malnourished and shackled, but she overcomes him. The noise that they made while fighting attracted the attention of the notorious sellsword company Brave Companions. They were not found by Bolton's men, nor was there a farmer who reported them.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

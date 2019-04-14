@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:53",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Ned asks Ser Barristan about Ser Hugh",
+   "Scene End": "00:03:51",
+   "Duration": "00:01:58",
+   "Comparison": "In the series, Ned asks how Ser Hugh could afford a new suit of armor, and Ser Barristan replies that perhaps Jon Arryn left him some money. Ned asks rhetorically who determines the draw and holds the straws.<br><br>On the way to the King's tent, Ser Barristan mentions that the King wants to joust.<br><br>In the books, Ser Barristan tells Ned that Ser Hugh had his armor forged especially for the tourney, and might not have finished paying the smith. Ned says he will deal with the smith. There is no mention of who determines the draw or holds the straws.<br><br>On the way to the King's tent, Ser Barristan mentions that the King wants to fight in the melee.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Ned convinces Robert not to take part in the tournament",
+   "Scene End": "00:06:23",
+   "Duration": "00:02:32",
+   "Comparison": "In the series, the squire Lancel Lannister is trying to get Robert's armor on him. Ser Barristan is not with them. Ned tells Robert that if he jousts, no one will dare strike the King. Robert tells Ned that he married Cersei on Jon Arryn's suggestion.<br><br>In the books, two squires including Lancel tries to get Robert's armor on him. Ser Barristan suggests that no one will dare strike the King in the melee, and Ned concurs.<br><br>Robert tells Ned that he married Cersei on Jon Arryn's suggestion. He also says that he dreamt of giving up the crown, but is stopped by the thought of Joffrey on the throne. He admits that he thinks Joffrey was lying back then.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "The Mountain is a sore loser",
+   "Scene End": "00:10:22",
+   "Duration": "00:03:59",
+   "Comparison": "In the series, the Hound is not shown participating in the tourney. <br><br>Petyr offers a hundred gold dragons on the Mountain, versus Ser Loras, which Renly takes up.<br><br>After Ser Loras' win, Petyr mentions that Loras knows his mare is in heat. Sansa says Loras would never do that, there's no honor in tricks. Petyr replies that there's no honor, but quite a bit of gold.<br><br>In the books, the Hound participates in the tourney and would have gone on to face the winner of this match.<br><br>Petyr offers a hundred gold dragons on the Kingslayer, versus the Hound, which Renly takes up. <br><br>After Ser Loras' win, Petyr mentions that Loras knows his mare is in heat. Ser Barristan says there's small honor in tricks and Renly replies that there's small honor and twenty thousand golds.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Catelyn and Tyrion get attacked by hill tribes",
+   "Scene End": "00:13:40",
+   "Duration": "00:03:18",
+   "Comparison": "In the series, Catelyn does not reveal to Tyrion who set him up. During the attack, Tyrion fights only with a shield, and defended Catelyn against one man.<br><br>In the books, Catelyn tells Tyrion that Littlefinger said the dagger belonged to him, and Tyrion rebutts that lying is in Littlefinger's nature, and he never bets against his family.<br><br>Catelyn's party is attacked a few times and lost most of the men, and also suffers from starving in the long road, killing horses to feed themselves. During the attack, Tyrion uses an axe. He defends Catelyn against three men.<br><br>In both, Catelyn reveals that they are heading east, not north to Winterfell. Tyrion protests his innocence and got his wish to be untied only when the hill tribes attack.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 5,
+   "Scene": "Bran gets tutelage from Maester Luwin",
+   "Scene End": "00:16:15",
+   "Duration": "00:02:35",
+   "Comparison": "This scene does not happen in the book - Bran gets tutelage from Maester Luwin about the houses and their mottos. He is unhappy that his mother is not around after he woke up, but Maester Luwin cannot tell him the reason.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Theon and Ros talk about his Greyjoy roots",
+   "Scene End": "00:17:59",
+   "Duration": "00:01:44",
+   "Comparison": "This scene does not happen in the book - Theon and Ros have sex and then talks about Tyrion, then his Greyjoy heritage.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Varys warns Ned",
+   "Scene End": "00:20:28",
+   "Duration": "00:02:29",
+   "Comparison": "In the series, Varys is in his normal robes, closing the doors and windows to Ned's office, then tells Ned that the King faces the same death as Jon Arryn, from the poison tears of Lys. <br><br>In the books, Varys visits Ned in coarse robes, his face hidden by a cowl. Varys tells Ned that the Lannisters had planned to kill Robert in the melee.<br><br>In both, Varys admits he did not trust Ned, until he knew that Ned is a man of honor. He suggests that Jon Arryn died from the poison tears of Lys, given to him by Ser Hugh.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Arya overhears men in a dungeon",
+   "Scene End": "00:22:17",
+   "Duration": "00:01:49",
+   "Comparison": "In the series, Arya chases a cat directly down into the dungeons. The two men in the dungeons are clearly seen (Varys and Illyrio).<br><br>In the books, Arya comes upon Myrcella and Tommen while she is chasing a cat. They set the guards to catch her, but she escapes before anyone recognizes her and ends up in the dungeons. It is too dark to see the men, but Illyrio can be identified because of his visual description. Varys is much harder to identify because he probably wears makeup - \"scared face and stubble of dark beard\". He is identified by his sentence - \"...I must have gold and 50 birds...\").<br><br>In both, Arya gets lost under the Red Keep and overhears the conspirators talking about an upcoming war between the wolf and the lion.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Petyr and Varys talk about sexual inclinations",
+   "Scene End": "00:25:50",
+   "Duration": "00:03:33",
+   "Comparison": "This scene does not happen in the book - Petyr and Varys are in the throne room, talking about sexual inclinations, and then about who has the best information on each other's whereabouts and leverage on each other.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Arya leaves the dungeon and reenters the palace",
+   "Scene End": "00:26:51",
+   "Duration": "00:01:01",
+   "Comparison": "In the series, Arya leaves the dungeons via the tunnel beneath Aegon's Hill on which the Red Keep is located. <br><br>In the books, Arya comes back to surface miles away from the Red Keep. She is also covered in sewage and must bathe in a river before she can return to the Keep.<br><br>In both, she argues with guards while trying to reenter the palace.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Arya tells Ned what she heard and Yoren comes with news",
+   "Scene End": "00:29:03",
+   "Duration": "00:02:12",
+   "Comparison": "In the series, Yoren tells Ned on-screen about Catelyn kidnapping Tyrion. <br><br>In the books, the meeting between Yoren and Ned takes place off-screen, and is described in a flashback. <br><br>Desmond the guard, not Jory, is the one who escorts Arya to her room at Ned's command, and assures her no harm will happen to her father.<br><br>In both, Arya tries to tell Ned about what she heard in the dungeons but he does not believe her.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Catelyn's group arrives at the Eyrie",
+   "Scene End": "00:30:13",
+   "Duration": "00:01:10",
+   "Comparison": "In the series, Catelyn's group is received by Ser Vardis at the foot of the Eyrie, who remarks that Tyrion does not look like a prisoner. The castle in the series is located on the top of a small mountain and its path does not seem to be guarded by towers.<br><br>In the books, they are received by Ser Donnel and Brynden Tully the Blackfish at the Bloody Gate before making their way through the Vale and then climbing up the mountain riding on the back of mules. Catelyn is told to make her way up immediately in the night, escorted by Mya Stone, King Robert's bastard daughter. The Eyrie is a small traditional castle made of seven towers located on a shoulder of a much taller mountain reaching the clouds, and its path is guarded by three smaller towers.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Ned resigns in protest against the King's decision to kill Daenerys",
+   "Scene End": "00:34:13",
+   "Duration": "00:04:00",
+   "Comparison": "<br><br>In the books, Ser Barristan attends the meeting of the Small Council, and sides with Ned.<br><br>Varys supports the move to have Daenerys assassinated, even though he is eventually revealed to be a secret Targaryen supporter, though it is not Daenerys he is supporting, but a young man claiming to be Aegon Targaryen, the son of Rhaegar who was thought to have died as a baby in the Sack of King's Landing.<br><br>In both, Ned is against the King's wish to kill the Targaryens. He doubts the word of the traitor Mormont, and says there is still the narrow sea between them.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Ned acts on Petyr's information about the Jon Arryn case",
+   "Scene End": "00:35:13",
+   "Duration": "00:01:00",
+   "Comparison": "In the series, while Ned is preparing to leave, Petyr visits Ned and says that Robert mentioned the word 'treason' after he left.<br><br>Petyr offers to take Ned to see the last person who saw Jon Arryn before he took ill.<br><br>In the books, while Ned was preparing to leave, Petyr visits Ned and says that Robert mentioned the words 'insolence' and 'ingratitude' after he left. <br><br>Petyr offers to take Ned to the brothel that Jon Arryn and Stannis were reported to visit.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion is presented to Lady Arryn",
+   "Scene End": "00:37:53",
+   "Duration": "00:02:40",
+   "Comparison": "The series combines two parts of the books into one.<br><br>In the book, Catelyn first met Lysa in her bedchambers, where Lysa blames her sister for bringing a Lannister to the Vale, while Catelyn replies that Lysa was the one who sent her the letter. Later, Tyrion has a flashback of when he was first brought up to the Eyrie and brought to the throne room. Lysa had accused him of murdering Jon Arryn and said that he is surrounded by loyal men of the Vale. When Catelyn says her prisoner should not be harmed, Lysa ordered Tyrion brought to the sky cell.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Conversation between Loras Tyrell and Renly Baratheon",
+   "Scene End": "00:41:50",
+   "Duration": "00:03:57",
+   "Comparison": "This scene does not happen in the book - Loras Tyrell shaves Renly Baratheon, while Renly complains about being treated like a spoilt child, and Loras convinces Renly that he can be a good king. A sex scene is hinted at, confirming their relationship.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Robert and Cersei talk over wine",
+   "Scene End": "00:48:09",
+   "Duration": "00:06:19",
+   "Comparison": "This scene does not happen in the book - King Robert and Queen Cersei talk first about losing the Hand over a Targaryen threat, then about Lyanna Stark and their marriage, and losing their first boy.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Ned meets another of Robert's bastard babies",
+   "Scene End": "00:49:52",
+   "Duration": "00:01:43",
+   "Comparison": "In the books, the brothel where Barra and her mother live is not owned by Littlefinger, but by Chataya. Ned asks Petyr what he knows of Robert's bastards after they left the brothel, while riding in the rain.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jaime attacks Ned's men",
+   "Scene End": "00:53:06",
+   "Duration": "00:03:14",
+   "Comparison": "In the series, Jaime and Ned have a duel and one of Jaime's men pierces Ned through the leg.<br><br>In the books, Jaime left the scene after giving the order. Ned was wounded in his leg when his horse slipped in the mud and fell.<br><br>In both, Jaime arrives with soldiers and asks for his brother. Ned replies that his brother was taken at his command. Jaime recommends Petyr leave, and Petyr does so, promising to bring the City Watch. Jaime dares not kill Ned, so he tells his soldiers to kill his men.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

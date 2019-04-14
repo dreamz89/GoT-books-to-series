@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:53",
+   "Duration": "00:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Jon gets scolded by Lord Mormont",
+   "Scene End": "00:04:24",
+   "Duration": "00:02:31",
+   "Comparison": "In the series, Craster expels the Night's Watch from his keep while in the books, they leave of their own accord.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Sam gives Gilly his thimble from his mother",
+   "Scene End": "00:05:53",
+   "Duration": "00:01:29",
+   "Comparison": "This scene does not happen in the books - Sam gives Gilly a thimble.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Bran tells Maester Luwin of his dreams",
+   "Scene End": "00:09:15",
+   "Duration": "00:03:22",
+   "Comparison": "In the books, while Bran does confer with Maester Luwin about the interpretation of his dreams, most of these exchanges happen between Bran and Jojen Reed, who also has premonition dreams. Bran meets Jojen earlier in the books than in the series, at a feast at Winterfell.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Catelyn arrives at Renly Baratheon's tournament",
+   "Scene End": "00:13:23",
+   "Duration": "00:04:08",
+   "Comparison": "In the series, Renly tells Catelyn that he will send her Joffrey's head, while in the books, it is Cersei's head.<br><br>In the books, Renly's Kingsguard is called the Rainbow Guard. They wear rainbow cloaks, rainbow coat-of-arms and armor of a different color of the rainbow.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Catelyn is escorted by Renly, then Brianne",
+   "Scene End": "00:14:45",
+   "Duration": "00:01:22",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Theon tries to dissuade the Greyjoys from attacking the North",
+   "Scene End": "00:19:04",
+   "Duration": "00:04:19",
+   "Comparison": "In the books, Balon Greyjoy's war council is also attended by his brothers Aeron and Victarion. Balon orders Victarion to seize Moat Cailin. Theon is given eight ships, not one. Balon orders that he will be accompanied by Aeron and Dagmer.<br><br>Theon never tries to dissuade his father from his plan of invasion. He has only one reservation regarding the Northern lords, but Balon dismisses it nonchalantly.<br><br>Theon never accuses his father for giving him away as something unwanted, nor does he remind him how the Greyjoy Rebellion failed.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "Shae is tired of being cooped up",
+   "Scene End": "00:20:44",
+   "Duration": "00:01:40",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 8,
+   "Scene": "Sansa gets a handmaiden Shae",
+   "Scene End": "00:24:24",
+   "Duration": "00:03:40",
+   "Comparison": "In the books, Shae initially becomes Lollys Stokeworth's handmaiden. Only much later, in the third novel, she becomes Sansa's handmaiden, because it was too dangerous to be in the city with its riots and fires.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Tyrion tells 3 different stories to the small council",
+   "Scene End": "00:28:22",
+   "Duration": "00:03:58",
+   "Comparison": "In the books, Tyrion comes up with a plan to free his brother, but he does not discuss it with anyone, and it does not involve Littlefinger and Catelyn. Cleos Frey, the Lannisters' envoy who delivers Catelyn the offer to exchange her daughters for Jaime, has no idea about Tyrion's plan.<br><br>In the books, Tyrion does not ask Pycelle for laxatives. When Pycelle turns his back, Tyrion quickly steals a medicine bottle. Later, the contents of the bottle are revealed to be laxatives. Tyrion does not tell Pycelle outright that he intends to wed Myrcella to Trystane. It is written in the letters he gives Pycelle to send to Doran Martell. Pycelle reads the letters before sending them, as Tyrion suspects he would.<br><br>The scene where Tyrion tests Pycelle, Varys and Petyr happens slightly differently in the books. He tells Varys that he plans to offer the Martells gold, land, a seat on the small council, Elia's murderer, and to foster Prince Tommen in Sunspear.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Loras is pissed at Renly",
+   "Scene End": "00:30:27",
+   "Duration": "00:02:05",
+   "Comparison": "This scene is not shown in the books - The relationship between Loras and Renly is never shown in any of the books; it is only hinted at.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Margery knows the truth about Renly",
+   "Scene End": "00:33:40",
+   "Duration": "00:03:13",
+   "Comparison": "This scene is not shown in the books - Margery knows Renly's sexual inclinations and would still produce a child by him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Cersei is furious at Tyrion",
+   "Scene End": "00:35:02",
+   "Duration": "00:01:22",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Theon picks a side",
+   "Scene End": "00:35:38",
+   "Duration": "00:00:36",
+   "Comparison": "This scene does not happen in the books - Theon Greyjoy never attempts to compose a letter to Robb Stark, warning him of his father's invasion plans.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Theon undergoes a water ceremony",
+   "Scene End": "00:36:58",
+   "Duration": "00:01:20",
+   "Comparison": "In the books, Theon is baptized much earlier, the moment he sets foot on Pyke.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion uncovers disloyalty",
+   "Scene End": "00:40:20",
+   "Duration": "00:03:22",
+   "Comparison": "In the books, Pycelle's bedmate does not stay in the room, cowering fearfully, during the interrogation. Tyrion orders Timett to walk her out.<br><br>In the books, when Pycelle is arrested, Shagga shaves his beard to the point of bleeding. In the series, Bronn simply cuts a part of his beard off once.<br><br>Tyrion tells Shagga, not Timett, to cut Pycelle's manhood and feed it to the goats. The threat frightens Pycelle so much that he wets the bed.<br><br>Tyrion does not blame Pycelle for only betraying Jon Arryn and Ned Stark, but also for betraying Aerys, Rhaegar, Robert and himself. To Tyrion's surprise, Pycelle reveals that he was the one who bid Aerys open his gates to the Lannister troops. Pycelle also admits he would have finished Robert off, had he not been so fatally injured by the boar.<br><br>After arresting Pycelle, Tyrion inspects his collection of medicines that includes lethal poisons and takes some of the jars. Pycelle mentions this in Tyrion's trial.<br><br>In the books, Tyrion is given a new symbol of the Hand: a necklace composed of hand-shaped segments. In the series he uses the badge that Eddard used in Season One.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Varys congratulate Tyrion on his scheme",
+   "Scene End": "00:42:12",
+   "Duration": "00:01:52",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Yoren shares his story with Arya",
+   "Scene End": "00:47:01",
+   "Duration": "00:04:49",
+   "Comparison": "The long conversation between Arya and Yoren never happens in the book. Yoren never mentions any of his relatives, and it is unknown if he has any siblings. <br><br>It is not Yoren's story about the man who killed his brother that gives Arya the idea to recite repeatedly the names of the people she wants dead, starting from the next episode. It is her own idea, figuring that if she lets herself forget even one of them, she will never find him again to kill him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Yoren is killed in the battle and Arya assists Jaqen",
+   "Scene End": "00:51:23",
+   "Duration": "00:04:22",
+   "Comparison": "In the books, the battle between Yoren and his recruits and Ser Amory Lorch is different. Yoren and his charges are holed up in a small stone keep and refuse to open the gates. Lorch, who is not looking for Gendry, attacks them without any reason or provocation. A protracted battle takes place, with the same result. Arya, Gendry, Hot Pie, Lommy and a few others escape the assault. Only later when Gendry is caught and Arya and Hot Pie fail in a rescue attempt are they captured at a small seaside village by Ser Gregor Clegane and then taken to Harrenhal.<br><br>Arya does not use Lommy as a scapegoat for Gendry in the books, because their captors are not looking for him and do not care about the identity of their captives.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

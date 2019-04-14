@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Maester Luwin manages to send a message by raven",
+   "Scene End": "00:02:32",
+   "Duration": "00:00:38",
+   "Comparison": "In the books, Luwin sends a message about the fall of Winterfell to the White Harbor; Ser Rodrik sends a message about both the fall of Winterfell and the alleged murder of Bran and Rickon to the Starks, from castle Cerwyn.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Theon informs Bran that Winterfell is being taken over",
+   "Scene End": "00:04:02",
+   "Duration": "00:01:30",
+   "Comparison": "He needs Bran to officially surrender, as the next heir of Winterfell.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Theon imposes his rule, cumulating in beheading Ser Rodrik",
+   "Scene End": "00:10:02",
+   "Duration": "00:06:00",
+   "Comparison": "In the series, when the people of Winterfell are brought together, Farlen, the kennel master, is shown insulting Theon. He is beaten with a club and ordered to stop. In the books, it is Mikken the blacksmith who begins yelling insults, and is killed for his defiance.<br><br>In the series, Dagmer is Theon's first mate and second in command at Winterfell. In the books, he never comes to Winterfell. Theon sends him from the Stony Shore to Torrhen's Square with the diversionary force that draws Ser Rodrik Cassel away. He does not return to Winterfell but stays in Torrhen's Square.<br><br>Ser Rodrik does not return to Winterfell alone. Once he hears about the fall of Winterfell and the alleged death of Bran and Rickon, he rallies troops to liberate Winterfell, then sends a report to Robb and Catelyn. He marches back with 2,000 soldiers, and is not captured by the ironborn.<br><br>In the series, Ser Rodrik is captured coming back from Torrhen's Square. He spits on Theon, and Dagmer tells Theon that he must be executed, or Theon's men will lose respect for him. In the books, the one who spits on Theon is Benfred Tallhart, a former friend of Theon's who was ambushed by Theon and his men at the Stoney Shore. It is Theon's uncle Aeron Damphair who tells Theon to order him executed, and he is ritually drowned. Both Benfred Tallhart and Ser Rodrik call Theon \"turncloak\" when confronting him; this becomes his derogatory nickname in the books.<br><br>It is not Rodrik Cassel but Farlen the kennel master who is executed by Theon, after being unjustly accused for killing three ironborn (who were actually killed by Ramsay at Theon's command).  Rodrik Cassel is killed after the Stark boys escape from Winterfell, not before. He is killed by Ramsay while besieging Winterfell.<br><br>In the book, Theon sends a request for reinforcements to his sister by a messenger, Stygg, not by a raven.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Qhorin talks to Jon about the real North",
+   "Scene End": "00:12:44",
+   "Duration": "00:02:42",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Arya is afraid when Petyr comes to talk to Tywin",
+   "Scene End": "00:17:19",
+   "Duration": "00:04:35",
+   "Comparison": "This scene does not happen in the books - Littlefinger never meets with Tywin at Harrenhal. In fact, he never sets foot in Harrenhal, being aware of its curse.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Jon ambushes a wildling camp and captures Ygritte",
+   "Scene End": "00:23:41",
+   "Duration": "00:06:22",
+   "Comparison": "In the books, Jon Snow kills the wildling sentries much later. It is only Jon and Stonesnake who kill them, Qhorin and the others arrive afterwards.<br><br>Qhorin does not tell Jon to kill Ygritte, but leaves it to Jon to decide her fate; he tells him \"you must do what needs be done\". Jon simply lets Ygritte go and continues on with Qhorin and his sworn brothers; Qhorin knows that Jon did not kill Ygritte.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "The royals see Myrcella off",
+   "Scene End": "00:25:12",
+   "Duration": "00:01:31",
+   "Comparison": "In the books, Myrcella doesn't cry when she is sent to Dorne. In fact, she comforts Tommen, who is crying.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 8,
+   "Scene": "A riot starts when the royals are heading back",
+   "Scene End": "00:27:29",
+   "Duration": "00:02:17",
+   "Comparison": "In the books, the royal procession is mounted on horses and going to Maegor's Holdfast, not the Red Keep. The rioters also start a fire in the city.<br><br>In the books, Preston Greenfield of the Kingsguard, Aron Santagar, and the High Septon lose their lives during the riot. The series only shows the High Septon being killed; Ser Preston still lives and Aron Santagar is never mentioned again.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Tyrion slaps Joffrey",
+   "Scene End": "00:28:10",
+   "Duration": "00:00:41",
+   "Comparison": "In the book, Tyrion not only slaps Joffrey (so hard that the crown is knocked off his head), but also shoves him to the ground and kicks him, yelling that it is unjust that Joffrey incited the riot, got many people killed and yet escaped unscratched. Before Tyrion can kick Joffrey again, Ser Mandon Moore pulls him away.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "The Hound saves Sansa from being raped",
+   "Scene End": "00:29:44",
+   "Duration": "00:01:34",
+   "Comparison": "In the series, the Hound saves Sansa from being raped and carries her to safety. In the books, Sansa is not nearly raped. A man tries to pull her off of her horse, but the Hound cuts his arm off. He brings her to safety, riding double on Sansa's horse. Lollys Stokeworth is raped by dozens of men behind a tavern instead, and becomes pregnant.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Daenerys asks the Spice King for ships",
+   "Scene End": "00:34:23",
+   "Duration": "00:04:39",
+   "Comparison": "This scene does not happen in the books - The Spice King does not exist in the books; however, he is a nod to Qarth's Ancient Guild of Spicers.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Arya has a conversation with Tywin about their fathers",
+   "Scene End": "00:36:53",
+   "Duration": "00:02:30",
+   "Comparison": "This scene does not happen in the books - Arya is never cupbearer for Tywin and they do not interact. There is no mention of Jaime having an early reading disorder.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Arya escapes from a guard and tells her second name",
+   "Scene End": "00:38:51",
+   "Duration": "00:01:58",
+   "Comparison": "This scene does not happen in the books - Amory Lorch never catches Arya with a stolen letter. Arya does not name him as one of her three kills; she names Weese, an understeward who frequently beats her. Lorch is actually killed after being captured and thrown into a bear pit by Roose Bolton and Vargo Hoat.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Catelyn reminds Robb of his betrothal",
+   "Scene End": "00:42:25",
+   "Duration": "00:03:34",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Jon hugs his captive for the night",
+   "Scene End": "00:45:09",
+   "Duration": "00:02:44",
+   "Comparison": "This scene does not happen in the books - In the books, Jon Snow let Ygritte go and returned to the rangers, so they did not spend the night together. During this time in the books, Jon Snow and the rangers are scouring Skirling Pass to look for a way out.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Robb reacts to the news from Winterfell",
+   "Scene End": "00:46:29",
+   "Duration": "00:01:20",
+   "Comparison": "In the books, Robb and Catelyn receive the message about Bran and Rickon separately; Catelyn is in Riverrun, while Robb is at the Crag.<br><br>Roose Bolton is not the one who delivers the news of Theon's betrayal to Robb, as he is commanding the northern footsoldiers of the eastern shores of the Trident. He does not suggest to send his bastard son to retake Winterfell because he has no way to contact him.<br><br>Robb turns a deaf ear to the reports about the ironborn's invasion, being so obsessed with the war. He does not send even one soldier back to the North. Neither Roose nor anyone else suggests to send someone else.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Osha offers to serve Theon",
+   "Scene End": "00:48:17",
+   "Duration": "00:01:48",
+   "Comparison": "In the books, Theon does accept Osha as a fighter, demanding only that she swears loyalty to him, and she does (pretending to). He never sleeps with her, but with a tavern wench named Kyra.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 18,
+   "Scene": "Sansa talks with Shae",
+   "Scene End": "00:49:10",
+   "Duration": "00:00:53",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 19,
+   "Scene": "Osha sneaks the Stark boys out",
+   "Scene End": "00:50:43",
+   "Duration": "00:01:33",
+   "Comparison": "In addition to Drennan, one more ironborn guard is killed during the escape of the Stark boys - Squint. Those who find his body deduce that Summer and Shaggydog ripped his stomach and his throat and wrenched one of his arms, before his body was thrown in the moat.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 20,
+   "Scene": "Daenerys finds her people killed and dragons stolen",
+   "Scene End": "00:52:38",
+   "Duration": "00:01:55",
+   "Comparison": "This scene does not happen in the books - There is no massacre of Daenerys' people while staying in Xaro's manse. Daenerys' dragons are not stolen and Irri does not die in Qarth; she remains in Daenerys' service.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

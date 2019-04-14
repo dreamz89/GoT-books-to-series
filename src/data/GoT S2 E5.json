@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Renly is killed by the demon",
+   "Scene End": "00:05:17",
+   "Duration": "00:03:23",
+   "Comparison": "In the books, the shadow is described to appear like the common planar shadow of Renly himself on the wall, rather than the black 3-D entity, which is later described to resemble Stannis, in the series. As described from Catelyn Stark's point of view, she sees \"only the King’s shadow shifting against the silken walls\". The shadow is noticed​ to be abnormal because it acts differently from Renly himself: the shadow raises the sword, while Renly himself still has his real sword in the shealth.\n<br><br>\nIn the assassination, Renly's steel gorget is cut through \"like cheesecloth\", and his throat is sliced cleanly, while the shadow makes no physical contact with him. In the series, he is stabbed in the back while not wearing any armor.<br><br>In the books, Brienne does not kill any of Renly's Kingsguard, while in the series, she cuts off the arm of unnamed soldier and perhaps kills another who entered the tent with Robar Royce and Emmon Cuy.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Margery and Petyr calms Loras down",
+   "Scene End": "00:08:03",
+   "Duration": "00:02:46",
+   "Comparison": "In the novels, Loras did not believe that Stannis killed Renly, he believed that Brienne killed him.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Tyrion and Cersei discuss Stannis' increased threat",
+   "Scene End": "00:09:45",
+   "Duration": "00:01:42",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Lancel brings Tyrion news",
+   "Scene End": "00:11:23",
+   "Duration": "00:01:38",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Davos tries to warn Stannis against Melisandre",
+   "Scene End": "00:14:06",
+   "Duration": "00:02:43",
+   "Comparison": "In the books, Stannis and Davos do not discuss what transpired in the cave in the books. In fact, it is unclear if Stannis knew that Melisandre created the Shadow. Davos did not lead Stannis's fleet into battle. It was led by Ser Imry Florent, Stannis's brother-in-law.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Tyrion and Bronn overhear the common people",
+   "Scene End": "00:15:44",
+   "Duration": "00:01:38",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Theon has no control over his men",
+   "Scene End": "00:19:28",
+   "Duration": "00:03:44",
+   "Comparison": "In the books, Theon is given command of eight longships, with his uncle Aeron Damphair sent to watch over him. His sister jokingly regards Theon's ship as a \"sea bitch\", and Theon announces it will be the name of the ship.<br><br>Neither Black Lorren nor any other of Theon's crew treats him scornfully at that stage.<br><br>In the books, Dagmer Cleftjaw is an infamous reaver and captain, not Theon's first mate. He has a ship of his own, the Foamdrinker. Dagmer is the master-of-arms at Pyke, and Theon grew up calling him uncle. He has always treated Theon warmly, unlike his father or Ned Stark. His appearance is also drastically different. The cleft-jaw from where he gets his name was caused by his being hit in the head with an axe. He recovered but his mouth and jaw were split, making his smile terrifying.<br><br>In the books, Theon persuades Dagmer to stray from the orders; in the show it is the other way around.<br><br>In the books, Theon first attacks Stony Shore, as he is ordered by his father, brutally sacks a fishing village, then destroys a Tallhart force which has been sent to deal with the ironborn (both battles have been totally omitted from the TV series). Only afterwards did he come up with the idea to send Cleftjaw with most of their force to raid Torrhen's Square as a distraction, while Theon subjugates Winterfell with 30 men. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Arya is the cupbearer at Tywin's council",
+   "Scene End": "00:22:37",
+   "Duration": "00:03:09",
+   "Comparison": "In the books, Arya serves as cupbearer to Roose Bolton at Harrenhal rather than Tywin Lannister, with whom she never interacts. She tells Roose that her name is Nymeria, after her direwolf, or Nan for short, after Old Nan. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Jacqen offers Arya three names for death",
+   "Scene End": "00:25:14",
+   "Duration": "00:02:37",
+   "Comparison": "In the books, the Tickler is not the first name Arya speaks to Jaqen. It is one of Gregor Clegane's soldiers, Chiswyck, who laughingly relates a terrible story of an innkeeper's daughter gang-raped by Ser Gregor and his men, and her brother killed while trying to intervene.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "The Night's Watch make camp and hears blasts from Halfhand",
+   "Scene End": "00:28:15",
+   "Duration": "00:03:01",
+   "Comparison": "The Fist of the First Men is a cliffside rather than a hill surrounded by the Haunted Forest.<br><br>In the books, Qhorin Halfhand arrives late and encounters trouble on the way from the Shadow Tower. The ranging force of the Night's Watch does not consist of 400 men as Qhorin mentioned, but 300 men - 200 from Castle Black and 100 from the Shadow Tower.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Tyrion investigates the wildfire store",
+   "Scene End": "00:31:17",
+   "Duration": "00:03:02",
+   "Comparison": "When Tyrion visits the Alchemists' Guild, Bronn does not accompany him. It is Hallyne who warns him of the dangers of putting the wildfire in the hands of untrained soldiers.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Jealousy among Daenerys' handmaidens",
+   "Scene End": "00:33:16",
+   "Duration": "00:01:59",
+   "Comparison": "In the books, none of Daenerys's dragons breathes fire before her visit to the House of the Undying. She has to cook their food for them.\nDoreah was dead in the book at that point.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Daenerys at the party",
+   "Scene End": "00:36:49",
+   "Duration": "00:03:33",
+   "Comparison": "In the books, Daenerys dresses in the manner of a well dressed woman of Qarth; this consists of dresses that leave one breast bared. Jorah Mormont cannot help staring at her chest, but Xaro, despite his constant declarations of love and marriage proposals, seems more interested in his many good-looking male slaves.<br><br>In the books, Pyat Pree never uses tricks and Quaithe does not warn Ser Jorah.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Brienne swears fealty to Catelyn",
+   "Scene End": "00:39:57",
+   "Duration": "00:03:08",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Bran is informed of a siege",
+   "Scene End": "00:41:34",
+   "Duration": "00:01:37",
+   "Comparison": "Ser Rodrik Cassel takes 600 men from Winterfell's garrison against the ironborn who besiege Torrhen's Square, not 200.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Bran tells of his dream that the sea came to Winterfell",
+   "Scene End": "00:43:25",
+   "Duration": "00:01:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "The Night's Watch discuss taking out the wildling lookouts",
+   "Scene End": "00:46:11",
+   "Duration": "00:02:46",
+   "Comparison": "In the books, Qhorin suggests to send search parties not in order to kill Mance Rayder but to find out what is the power the wildlings were looking for at the Frostfangs.<br><br>Qhorin suggests, and Mormont agrees to send three search parties, five men each, to spy on the Wildlings: one to probe the Milkwater, one the Skirling Pass, one to climb the Giant's Stair. The parties are led by Qhorin Halfhand, Thoren Smallwood and Jarman Buckwell.<br><br>The Halfhand chooses Jon himself for his scouting party. Mormont initially objects, since Jon is hardly more than a boy and is not a ranger, but asks Jon for his will. Jon says \"To go\" and Mormont agrees.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Xaro proposes to Daenerys",
+   "Scene End": "00:49:05",
+   "Duration": "00:02:54",
+   "Comparison": "In the books, it was not mentioned that Xaro has ever been married, nor was there any mention of an impregnable vault.<br><br>Daenerys does not learns about Ser Jorah's feelings at this point.<br><br>Daenerys is informed of Robert's death by a ship captain named Quhuru Mo, whom Jorah met on the docks. In the series she is told by Xaro. She was also overjoyed about it in the books, inquiring about the manner of Robert's death, while in the series she just looked shocked.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jorah advises Daenerys against accepting the offer",
+   "Scene End": "00:51:35",
+   "Duration": "00:02:30",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 20,
+   "Scene": "Arya's first name death is fulfilled",
+   "Scene End": "00:52:49",
+   "Duration": "00:01:14",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

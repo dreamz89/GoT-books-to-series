@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "Previously",
+   "Scene End": "00:01:26",
+   "Duration": "00:01:26",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:01:32",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:03:20",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Jaime and Bronn cart off the spoils from Highgarden",
+   "Scene End": "00:06:06",
+   "Duration": "00:02:46",
+   "Comparison": "In the books, Bronn and Jaime never interact. Bronn has already received the reward Cersei promised him - he married Lollys Stokeworth and took possession of Castle Stokeworth. He does not make any on-screen appearance after his last conversation with Tyrion, in which he refuses to fight the Mountain.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Cersei repays the Iron Bank",
+   "Scene End": "00:07:36",
+   "Duration": "00:01:30",
+   "Comparison": "There is no mention in the books that the Golden Company was ever hired by the Iron Bank to collect debts, or for any other mission.\nCersei never considered hiring the Golden Company. Currently it is hired by a new contender, who has not appeared yet in the show.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Bran is not Bran anymore",
+   "Scene End": "00:11:26",
+   "Duration": "00:03:50",
+   "Comparison": "The identity of the person who sent the catspaw assassin to murder Bran is revealed in the third book - Joffrey.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Arya faces difficulties entering Winterfell",
+   "Scene End": "00:14:10",
+   "Duration": "00:02:44",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "The guards tell Sansa",
+   "Scene End": "00:14:31",
+   "Duration": "00:00:21",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Arya and Sansa reunite in the Crypt",
+   "Scene End": "00:17:19",
+   "Duration": "00:02:48",
+   "Comparison": "In the books, Arya reacts indifferently when she hears about Joffrey's death. Joffrey was never the first on Arya's hit list. Nearly every time she recited the list (before learning about his death), he was one before the last.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Bran gives the Valyrian steel dagger to Arya",
+   "Scene End": "00:20:44",
+   "Duration": "00:03:25",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 8,
+   "Scene": "Jon shows Daenerys the cave drawings",
+   "Scene End": "00:25:40",
+   "Duration": "00:04:56",
+   "Comparison": "In the books, Arianne Martell and her companions Elia Sand and Daemon Sand are the ones who find ancient carvings on the walls of a cave.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Daenerys is pissed at Tyrion and asks Jon's advice",
+   "Scene End": "00:28:22",
+   "Duration": "00:02:42",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 10,
+   "Scene": "Arya spars with Brienne",
+   "Scene End": "00:31:50",
+   "Duration": "00:03:28",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Jon and Davos talk to Missandei",
+   "Scene End": "00:34:07",
+   "Duration": "00:02:17",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Theon did not expect to see Jon at the beach",
+   "Scene End": "00:35:47",
+   "Duration": "00:01:40",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "The Dothraki horde attacks the Lannister army",
+   "Scene End": "00:49:26",
+   "Duration": "00:13:39",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

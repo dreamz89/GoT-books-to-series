@@ -1,0 +1,234 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:47",
+   "Duration": "00:01:41",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Arya is taken away by Yoren and Sansa faints",
+   "Scene End": "00:02:55",
+   "Duration": "00:01:08",
+   "Comparison": "This scene follows the books.<br><br>In the books, after the haircut, Yoren tells Arya that Varys had told him to delay leaving and be at the Sept of Baelor, because the trial of Eddard Stark was supposed to result in him being sentenced to take the black and going with Yoren to the Wall.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Rickon and Bran dreamt of their father being in the crypt",
+   "Scene End": "00:05:38",
+   "Duration": "00:02:43",
+   "Comparison": "In the books, when Bran tells Maester Luwin his dream about meeting his father down in the crypts, he mentions that Ned was sad about something to do with Jon. Maester Luwin leads the way down to the crypts below Winterfell to show him that his father is not there, and is bitten by Shaggydog. Rickon says that he dreamt about Ned last night and that Ned is coming home. Bran and Rickon then go with Maester Luwin back to his tower and are there when the raven arrives with word of their father's death (their wolves begin to howl and Rickon begins to cry before the letter was read).",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Catelyn and Robb weep",
+   "Scene End": "00:07:37",
+   "Duration": "00:01:59",
+   "Comparison": "This scene is not shown in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Joffrey orders a bard's tongue cut off",
+   "Scene End": "00:10:22",
+   "Duration": "00:02:45",
+   "Comparison": "In the series, the bard is Marillion and he gets punished immediately at court.<br><br>In the books, it is an unnamed fat bard (Marillion remains at the Eyrie) who gets one day to make his choice.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 5,
+   "Scene": "Joffrey forces Sansa to look at her father's head",
+   "Scene End": "00:13:02",
+   "Duration": "00:02:40",
+   "Comparison": "This scene follows the books closely, except that in the books, despite the preservation by tar, most heads were long past recognisable and eaten by birds.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Robb is declared King in the North",
+   "Scene End": "00:15:24",
+   "Duration": "00:02:22",
+   "Comparison": "This scene follows the books.<br><br>The books also mention Catelyn's visit to her dying father as well as her proposal for peace during the army's discussion, which was rejected.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Catelyn seeks Jaime Lannister out",
+   "Scene End": "00:18:22",
+   "Duration": "00:02:58",
+   "Comparison": "The scene between Catelyn and the imprisoned Jaime is split into two parts in the show; the other is in season 2 with Brienne of Tarth in attendance.<br><br>In the books, Jaime is initially imprisoned in a tower cell in Riverrun, not in a pen at Robb's camp, and without shackles. After an unsuccessful escape attempt, he is held shackled in a dungeon.<br><br>In the books, Jaime reveals to Catelyn why he tried to kill Bran, without being asked to. His confession confirms what Catelyn has already figured out. Catelyn does not hit Jaime.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Cersei gets news",
+   "Scene End": "00:18:54",
+   "Duration": "00:00:32",
+   "Comparison": "This scene is not shown in the books - Cersei is shown in her bedroom with a naked Lancel Lannister.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Lannisters receive declaration of war from the North",
+   "Scene End": "00:22:07",
+   "Duration": "00:03:13",
+   "Comparison": "This scene follows the books.<br><br>The books explain Tywin's line to Tyrion - 'You are my son' - with Tyrion realising that Tywin had given Jaime up for lost and that Tyrion is all he has left.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Daenerys wakes to a dead son and half-alive husband",
+   "Scene End": "00:27:02",
+   "Duration": "00:04:55",
+   "Comparison": "In the books, Jorah was not at her bedside when Daenerys woke, he was called by her handmaiden.<br><br>In the books, Mirri's reply to Daenerys about Khal Drogo included the line 'when your womb quickens again, and you bear a living child. Then he will return, and not before.'<br><br>The rest follows the books closely.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Sam tries to stop Jon from leaving",
+   "Scene End": "00:27:58",
+   "Duration": "00:00:56",
+   "Comparison": "This scene follows the books.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Tyrion tells Shae to come to King's Landing anyway",
+   "Scene End": "00:29:22",
+   "Duration": "00:01:24",
+   "Comparison": "This scene follows the books.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Sam and friends chase down Jon",
+   "Scene End": "00:31:25",
+   "Duration": "00:02:03",
+   "Comparison": "In the series, Sam and the rest chase Jon on horses through the woods.<br><br>In the books, Ghost gave away Jon's position while he is hidden behind some trees along the Kingsroad. The seven men including Green and Pyp recite the Night's Watch oath to Jon and brings him back to the Wall, where Sam awaits at the stables.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Daenerys tries to revive Drogo to no avail",
+   "Scene End": "00:33:59",
+   "Duration": "00:02:34",
+   "Comparison": "This scene follows the books.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Maester Pycelle talks about Kings",
+   "Scene End": "00:37:23",
+   "Duration": "00:03:24",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Varys and Petyr talk in the throne room",
+   "Scene End": "00:39:28",
+   "Duration": "00:02:05",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Arya gets bullied and meets Gendry",
+   "Scene End": "00:42:33",
+   "Duration": "00:03:05",
+   "Comparison": "In the series, Arya only threatens Hot Pie with Needle after he taunts her. In the books, she beats him with her wooden sword until he soils his pants, and she is punished by Yoren. This took place during their journey instead of the streets of King's Landing.<br><br>In the books, Gendry does not intervene in the brawl. He just tells Lommy and Hot Pie to leave Arya alone, and when Hot Pie attacks Arya with a jagged rock from behind - he warns Arya in time.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 18,
+   "Scene": "Lord Mormont reminds Jon of his duties and rides out the Wall",
+   "Scene End": "00:45:16",
+   "Duration": "00:02:43",
+   "Comparison": "This scene follows the books.<br><br>In the book, Lord Mormont also reminds Jon that his brother has all the power of the North behind him and his one sword will not make a difference. He adds that his sister also marches in Robb's army.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Daenerys steps into the pyre",
+   "Scene End": "00:49:37",
+   "Duration": "00:04:21",
+   "Comparison": "This scene follows the books closely.<br><br>In the books, before Daenerys steps into the pyre, she asks the three Dothraki men to be her bloodriders and assigns them as her kos. All three riders refuse, declaring that they can only serve a man and only promising to see her safely to Vaes Dothrak. However, after she emerges unharmed from the pyre with three hatched dragons, the three Dothraki warriors recognize her as \"blood of my blood\".<br><br>In the books, Daenerys had tried warming up her dragon eggs on the brazier, and this time, as she put them on the pyre, she tells Mirri that she remembers her words, that only death can pay for life. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Daenerys is found alive and with dragons",
+   "Scene End": "00:51:28",
+   "Duration": "00:01:51",
+   "Comparison": "In the books, when Daenerys is found in the smoldering remains of the fire, the dragons are nursing her milk which she has as she was pregnant. Also, though her skin is unburnt, all of her hair has burned away. This all occurs in the same night.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

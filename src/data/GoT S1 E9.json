@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:58",
+   "Duration": "00:01:52",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Varys asks Ned to give in",
+   "Scene End": "00:05:50",
+   "Duration": "00:03:52",
+   "Comparison": "This scene follows the books closely, except that in the books, Varys visits the imprisoned Ned only once. In the series, this visit is divided into two parts.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Starks discuss Walder Frey and crossing the bridge",
+   "Scene End": "00:07:38",
+   "Duration": "00:01:48",
+   "Comparison": "This scene follows the books - The Stark leadership contemplate alternatives but have no choice but to negotiate with Walder Frey for the crossing.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Catelyn persuades Waldey Frey to open his gates",
+   "Scene End": "00:11:06",
+   "Duration": "00:03:28",
+   "Comparison": "This scene follows the books - Walder Frey feels disgrunted against the Tullys and asks why he should let them cross.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Lord Mormont gives Jon a Valyrian steel sword",
+   "Scene End": "00:13:21",
+   "Duration": "00:02:15",
+   "Comparison": "This scene follows the books - Lord Mormont gives Jon Longclaw and tells him that he sent Ser Alliser to King's Landing with the corpse's hand.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Jon is celebrated by the men and hears about Robb",
+   "Scene End": "00:15:00",
+   "Duration": "00:01:39",
+   "Comparison": "In the series, Jon's friends ask to see his sword in the common hall, and then Sam tells Jon about reading the letter for Maester Aemon about Robb marching south.<br><br>In the books, Jon's friends were waiting for Jon outside the Lord Commander's residence, pretending to be practising archery, but asking to see his sword the moment he came out. Sam had whispered the news about Robb to Jon secretly in the middle of the night, before he got the sword.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 6,
+   "Scene": "Robb hears Walder Frey's terms",
+   "Scene End": "00:17:23",
+   "Duration": "00:02:23",
+   "Comparison": "This scene follows the books - All the terms match, except that Arya is betrothed to Elmar instead of Waldron, and two of his young grandsons, \"Big\" Walder and \"Little\" Walder, will also be taken to Winterfell as wards. <br><br>In the books, Robb did not ask his mother if she has seen Walder's daughters.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Maester Aemon tells Jon about duty and reveals his family name",
+   "Scene End": "00:21:03",
+   "Duration": "00:03:40",
+   "Comparison": "This scene follows the books almost exactly - except that Maester Aemon had been tested three times, not only once.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Khal Drogo falls from his horse",
+   "Scene End": "00:22:44",
+   "Duration": "00:01:41",
+   "Comparison": "This scene follows the books exactly, including Qotho's reluctance to take orders from Daenerys.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Tywin assigns Tyrion to the vanguard",
+   "Scene End": "00:24:32",
+   "Duration": "00:01:48",
+   "Comparison": "This scene follows the books closely, except that Tywin told that if Tyrion's men will not obey his commands, he should be assigned to guard their baggage train instead, at which Tyrion angrily accepts the vanguard position.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Tyrion meets Shae the prostitute",
+   "Scene End": "00:27:06",
+   "Duration": "00:02:34",
+   "Comparison": "This scene follows the books closely.<br><br>The series changed Shae's back story as being from the Free Cities, because they enjoyed the audition of actress Sibel Kekilli, but wanted to have some explanation for why she speaks with a German accent. It is specified in Season 2 that she is from Lorath.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Daenerys asks the witch to use magic to save Drogo",
+   "Scene End": "00:34:52",
+   "Duration": "00:07:46",
+   "Comparison": "This scene follows the books closely.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Tyrion tells Shae and Bronn about his past",
+   "Scene End": "00:42:10",
+   "Duration": "00:07:18",
+   "Comparison": "In the books, Tyrion, Bronn, and Shae do not play the drinking game, and Tyrion tells them about Tysha separately. He had already told Bronn about his first wife while they were still in the mountains of the Vale, and tells Shae only much later.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Tyrion rallies the tribesmen to battle",
+   "Scene End": "00:45:56",
+   "Duration": "00:03:46",
+   "Comparison": "In the series, Tyrion is knocked out before the battle even starts by an errant warhammer and wakes once everything is over.<br><br>In the books, Tyrion Lannister gives a battle speech, before riding in the vanguard and fighting a knight whom eventually yields. He also spears a horse with his unicorn helm, the only thing they could find that fit his head, as his armor is still at Casterly Rock.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Starks have captured Jaime Lannister",
+   "Scene End": "00:48:51",
+   "Duration": "00:02:55",
+   "Comparison": "In the series, Catelyn is accompanied by Ser Rodrik, while in the books she is guarded by thirty men.<br><br>In both, Jaime tells Catelyn about losing his sword as well as her daughters and husband. In the books, he did not challenge Robb to a duel.<br><br>In thr series, Robb tells his men that they have yet to free his father and his sisters, while in the books it is Catelyn who says that they have only won a battle, not a war, as they have not taken Lord Tywin.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Arya sees people running towards the Sept",
+   "Scene End": "00:49:50",
+   "Duration": "00:00:59",
+   "Comparison": "The scene follows the books, except - <br><br>In the series, Arya drops the pigeon when the crowd draws her to the Sept of Baelor for Lord Eddard's trial. In the book, Arya takes the pigeon with her to the docks, where she discovers that the boat her father had hired to take her back to Winterfell was still at the dock, with men dressed in Stark colors. At the last minute, she realizes that it is a trap. She loses the pigeon as she is running away.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Ned Stark is beheaded",
+   "Scene End": "00:55:10",
+   "Duration": "00:05:20",
+   "Comparison": "In the books, there is no mention of Ned urgently saying the word \"Baelor\" to Yoren before his beheading. The execution is depicted from Arya's viewpoint, however, and nothing precludes the conversation from having occurred; it explains how Yoren finds Arya in the large crowd.<br><br>In the books, Ned is also hit with stones. It is the High Septon, not Grand Maester Pycelle, who gives the speech \"As we sin, so do we suffer...\" and asks King Joffrey how to deal with Ned.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

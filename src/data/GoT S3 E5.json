@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Duel between the Hound and Beric",
+   "Scene End": "00:05:31",
+   "Duration": "00:03:37",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 2,
+   "Scene": "Jon gets questioned about the Night's Watch",
+   "Scene End": "00:07:42",
+   "Duration": "00:02:11",
+   "Comparison": "In the books, it is Styr, the Magnar of Thenn, who questions Jon about the number of Sworn Brothers who remained at the three manned castles of the Night's Watch. Jon's answer is \"500 at Castle Black. 200 at Shadow Tower, perhaps 300 at Eastwatch\". That was a deliberate lie. The actual number of the brothers who remained at the castles was no more than 700; 400 at Castle Black, 100 at Shadow Tower, less than 200 at Eastwatch.<br><br>In the series, Ygritte refers to the Lord of Bones as Rattleshirt. In the books, only the Night's Watch brothers call him by that nickname for mockery, not the wildlings.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Jon has his first time with Ygritte",
+   "Scene End": "00:11:50",
+   "Duration": "00:04:08",
+   "Comparison": "In the books, Ygritte didn't take Jon's sword to lure him into the caves. The wildlings were camped in the caves for the night. The chamber where Jon and Ygritte were was pitch black, with only their torch for light. Ygritte never mentions the second man she slept with, only her first.\nThe first time Jon and Ygritte made love was in the middle of the other wildlings, under their sleepings furs at night.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Arya is unhappy that the Hound goes free",
+   "Scene End": "00:12:24",
+   "Duration": "00:00:34",
+   "Comparison": "In the books, it was not Gendry but Lem that stops Arya from attacking the Hound. Arya tells the Hound \"You go to hell!\". Beric said \"He has\", either referring to the event Gregor Clegane shoved Sandor's head into a brazier, or speaking metaphorically about the Hound's life.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Jaime is presented to Lord Bolton",
+   "Scene End": "00:14:16",
+   "Duration": "00:01:52",
+   "Comparison": "In the books, Jaime Lannister is the one who delivers the retort about not \"losing\" his hand, as Vargo Hoat/Locke had hung it around his neck.<br><br>In the books, Roose Bolton does not toy with Jaime, but tells him right away that Cersei is well.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Qyburn treats Jaime's wound",
+   "Scene End": "00:15:55",
+   "Duration": "00:01:39",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Cersei asks Petyr to find evidence against the Tyrells",
+   "Scene End": "00:16:48",
+   "Duration": "00:00:53",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Tyrion brings up the wedding financials with Olenna",
+   "Scene End": "00:19:10",
+   "Duration": "00:02:22",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Gendry tells Arya he's staying with the Brotherhood",
+   "Scene End": "00:20:38",
+   "Duration": "00:01:28",
+   "Comparison": "In the books, Arya first learned of Gendry's intent to join the Brotherhood when he asked to be knighted by Lord Beric.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Robb has a decision to make about Lord Karstark",
+   "Scene End": "00:24:17",
+   "Duration": "00:03:39",
+   "Comparison": "In the books, the murder of the captives by Rickard Karstark occurs off-screen. Rickard Karstark killed Willem Lannister and his cousin Tion Frey, not Martyn Lannister. Martyn was unharmed, and is later exchanged for a Northern prisoner.<br><br>In the books, eight men killed the Lannister prisoners. When taking them into custody, Greatjon's men killed two of them, and fatally injured another.\nRickards Karstark and his men kill not only the two prisoners, but also two of their guards, Elwood and Delp. In the show, only one guard is killed; when Rickard is brought before Robb, no one mentions the killing of any guards.<br><br>In the books, Lord Karstark is brought before Robb in front of a full court.\nIt was Greatjon Umber, not the Blackfish, who punched Karstark for calling Robb \"boy\", breaking one of his teeth. Catelyn and Robb's wife did not try to persuade Robb to spare Rickard, only Edmure tried to.<br><br>In the show, Robb says that he saw Harrion Karstark die on the battlefield. In the books, Harrion has been taken captive at the battle of Duskendale, and his fate is unknown. His brothers, Eddard and Torrhen, were killed by Jaime in the battle of the Whispering Wood.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Robb executes Lord Karstark",
+   "Scene End": "00:25:42",
+   "Duration": "00:01:25",
+   "Comparison": "In the books, Robb does not use his sword to behead Rickard Karstark. He uses an axe, and takes several swings to take his head completely.<br><br>In the series, Rickard Karstark only reminds Robb that they are kin, while in the books, he reminds Robb they are kin and warns him that a kinslayer is accursed.<br><br>The TV series presents no practical argument for why Lord Karstark must be executed, making it appear to be an even worse mistake. In the books, Edmure and Catelyn fear that the Lannisters may respond by executing Sansa or other Northern prisoners in retaliation, but it is not Robb's main reason for executing Rickard: he feels that he must kill Rickard to atone for the two Lannister prisoners he murdered, and also because Rickard tainted his honor; that, and although it is not said explicitly - Robb needs to maintain basic discipline in his command, and can't let such direct treason go unpunished otherwise he will look weak.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Beric tells Arya of his six deaths",
+   "Scene End": "00:28:44",
+   "Duration": "00:03:02",
+   "Comparison": "In the books, Beric's second death was caused by a smash in the head with a mace by Ser Burton Crakehall. He wasn't hit with an axe, nor was he hung and stabbed in the eye at the same time. Those were two separate deaths. It may have been too difficult to portray the actor with a caved-in skull using practical effects.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Stannis visits his wife to confess",
+   "Scene End": "00:32:06",
+   "Duration": "00:03:22",
+   "Comparison": "In the books, Selyse is often by Stannis's side. Stannis never apologized to Selyse about anything. It is uncertain whether Selyse found out that Stannis was sleeping with Melisandre, and if she cared.<br><br>Selyse did not keep her stillborn children in jars in the novels. In fact it is never mentioned in the books that she ever gave birth to stillborns, nor to any liveborn except Shireen.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Stannis visits his daughter Shireen",
+   "Scene End": "00:33:49",
+   "Duration": "00:01:43",
+   "Comparison": "In the books, Stannis never told Shireen that Davos was a traitor, nor did Davos ever give her a toy ship. In fact, Stannis never has any conversation with his daughter throughout the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Jaime reveals the truth of Aerys to Brienne",
+   "Scene End": "00:40:30",
+   "Duration": "00:06:41",
+   "Comparison": "In the books, Jaime's story about killing Aerys is in two parts, the first is during the journey with Brienne and Cleos Frey, and the second in the bathtub with Brienne.<br><br>In the books, Jaime did not kill Rossart in front of Aerys, nor was he present when Aerys gave the command to ignite the wildfire caches. Jaime was fighting to defend the Red Keep, but he knew the battle was lost. He sent a messenger to ask Aerys' leave to negotiate terms of surrender. Aerys sent back the reply that Jaime bring him Tywin's head to prove his loyalty. When the messenger mentioned the pyromancer Rossart was with the king, Jaime guessed they were about to go through with their plan, and went to stop them. He killed Rossart trying to sneak out of the Red Keep to enact Aerys's orders, and then hunted down and killed the other two pyromancers in the days following the battle, to ensure all those who know of and could enact the plan were dead.<br><br>Eddard Stark was not the first to find Jaime after killing Aerys. Ser Elys Westerling and Lord Roland Crakehall were the first to enter the throne room and see Jaime standing over the Mad King's body.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Shireen visits Davos in his cell",
+   "Scene End": "00:42:02",
+   "Duration": "00:01:32",
+   "Comparison": "In the books, Shireen never visits Davos, nor does she attempt to teach him how to read. Maester Pylos is the one who offered Davos to teach him, much later. Melisandre is the only visitor Davos has while he is imprisoned.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Ser Barristan and Jorah chat about their past and future",
+   "Scene End": "00:46:53",
+   "Duration": "00:04:51",
+   "Comparison": "In the books, Ser Barristan Selmy did sit on the Small Council; he was present at the meeting where Daenerys's assassination was discussed, heard Jorah Mormont was the source of the information and was the only one besides Eddard Stark to protest the decision. Ser Barristan and Jorah Mormont also never befriended each other while serving under Daenerys because he is still disguised as Arstan Whitebeard.<br><br>In the books, it is not Barristan Selmy but Jaime who does not attend the meetings of the Small Council, because politics bore him.<br><br>In the series, the Unsullied are given new names after being castrated. In the books, they draw new names every day. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Robb thinks his way out of a setback",
+   "Scene End": "00:49:02",
+   "Duration": "00:02:09",
+   "Comparison": "In the books, Robb occasionally consults with his mother, Edmure and Brynden about military affairs, but never with his wife. Catelyn, not Robb's wife, urges him to return to the North rather than continue fighting the Lannisters, and he agrees.<br><br>In the books, Karstark's forces did not account for half of Robb's army; they have around 2,300 men (less than the Freys, who have 4,000). Some of the Karstark soldiers have already left the garrison at Riverrun after the massacre of the Lannister prisoners.<br><br>Robb's plan in the books was indeed to return to the North, to drive the Greyjoys out and rebuild his power base from a more defensible location. Thus, Robb doesn't just need the Freys' soldiers, he physically needs to cross back over the Twins to retake the west coast of the North from the Ironborn.<br><br>In the books, in sharp contrast to the show, the Freys react very furiously to the breaching of the pact, and leave Robb's host very demonstratively; the loss of the Frey alliance is treated as a major disaster, costing them some four thousand badly needed troops. The series treated it like Robb wasn't particularly concerned, even though it was arguably worse than losing the Karstarks, given that the Freys have more men and control a vital strategic passage into and out of the North.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Loras hooks up with a squire, who reports back to Petyr",
+   "Scene End": "00:50:44",
+   "Duration": "00:01:42",
+   "Comparison": "In the books, Littlefinger never sent Olyvar (or anyone else) to Loras. The Lannisters discovered Olenna's plan to marry Sansa to Willas by Dontos Hollard; Sansa innocently told him about the Tyrells' offer, unaware that he serves Littlefinger.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Petyr asks Sansa if she will leave on the ship with him",
+   "Scene End": "00:52:25",
+   "Duration": "00:01:41",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 21,
+   "Scene": "Tywin orders both his children to remarry",
+   "Scene End": "00:56:03",
+   "Duration": "00:03:38",
+   "Comparison": "In the books, since Tyrion did not like the idea of marrying Sansa, Tywin said that if he would not have her, she would be wed to Lancel or another of Tyrion's cousins. Kevan was not sure if that would work, as Lancel had not yet recovered from the injuries he sustained at the Battle of the Blackwater.<br><br>Tywin did not intend to marry Cersei to Loras, but to his older brother Willas Tyrell or Balon Greyjoy or Oberyn Martell by her choice, and it was much later in the books. Cersei was not thrilled by either alternative \"the old squid or the crippled dog boy\".",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "00:00:06",
+   "Duration": "00:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "00:01:54",
+   "Duration": "00:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Edmure Tully's attempts to light the funeral barge",
+   "Scene End": "00:04:06",
+   "Duration": "00:02:12",
+   "Comparison": "In the books, Brynden Tully isn't upset with his nephew for missing his father Hoster Tully's funeral boat with his flaming arrow. Edmure misses because he is so consumed by grief at his father's death that he cannot shoot straight. Brynden later tells Catelyn that Hoster himself was so consumed by grief at their father's funeral that he also kept missing the funeral boat.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Edmure gets scolded for a strategic blunder",
+   "Scene End": "00:06:29",
+   "Duration": "00:02:23",
+   "Comparison": "In the books, Edmure is enraged that Walder Frey sent \"a cripple and a bastard\" (Lothar Frey and Walder Rivers respectively) to the funeral, but Robb greets them with courtesy and gives Lothar Frey a spot as pallbearer.<br><br>Edmure's blunder is actually dealing Lord Tywin a loss at the Battle of the Fords. Robb wanted Edmure's army to make only a token defense and then retreat, allowing Tywin to cross the Red Fork with his army. Robb could then have hemmed Tywin within his own lands, and Tywin would have been unable to come to the defense of King's Landing when Stannis Baratheon attacked. The Northerners could then have negotiated with Stannis once he had taken the capital. The defeat by Edmure meant that when news of Stannis's impending attack reached Tywin, he was able to hurriedly march to King's Landing and help defeat Stannis.<br><br>Willem and Martyn Lannister were not captured by Edmure Tully in the Battle of Stone Mill, but by the Starks long before: Willem and his cousin Tion Frey were captured in the Battle of the Whispering Wood, while Martyn was captured in the Battle of Oxcross.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "The new small council assembles",
+   "Scene End": "00:10:33",
+   "Duration": "00:04:04",
+   "Comparison": "The literal \"game of thrones\" that Tywin Lannister plays with the Small Council does not occur in the books. However, it is an accurate assessment of the disposition of these characters: Baelish is zealously ambitious, Varys is content to let Littlefinger think he has the upper hand, and Pycelle has survived numerous regime changes in King's Landing by not actively competing with the other advisors. Cersei is determined to be at her father's right hand even when he doesn't provide her with a position to be so. Tyrion, meanwhile, actively disdains trying to win his father's favor at all, and mocks the others by going out of his way not to.<br><br>Tywin's Small Council has more members in the books. Mace Tyrell, his bannermen Matthis Rowan and Paxter Redwyne, Kevan Lannister, and the High Septon are all present at the first council meeting.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Jaime and Brienne tied up on horseback",
+   "Scene End": "00:12:23",
+   "Duration": "00:01:50",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Hot Pie stays behind at the inn",
+   "Scene End": "00:15:21",
+   "Duration": "00:02:58",
+   "Comparison": "In the books, Hot Pie stays at the Inn of the Kneeling Man, not at the Inn at the Crossroads. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Catelyn and Brynden Tully reminisce about those gone",
+   "Scene End": "00:17:50",
+   "Duration": "00:02:29",
+   "Comparison": "Brynden Tully calls himself \"the Blackfish\" because of his rocky relationship with his older brother, stemming from Brynden's refusal to take part in a marriage-alliance to House Redwyne which Hoster proposed for him. This led to Hoster calling him the black sheep of the Tully family, but pointing out that the Tully symbol is a fish, Brynden decided that this made him the \"Blackfish\" of the Tully family. Brynden took as his personal sigil the normal blue and red Tully heraldry, but with the silver fish replaced with a black one.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "Talisa reassures the Lannister children",
+   "Scene End": "00:18:37",
+   "Duration": "00:00:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 8,
+   "Scene": "The wildlings find out about the Night's Watch's losses",
+   "Scene End": "00:20:53",
+   "Duration": "00:02:16",
+   "Comparison": "In the books, there is no mention that the corpses at the Fist have been arranged in any pattern.<br><br>Also in the books, Mance sent 120 men to scale the Wall, led by Styr the Magnar of the Thenn. Tormund and Orell are not among the wildlings that Mance Rayder sends to scale the Wall. Four teams attempt the freeclimb and then raise a rope ladder. Jon and Ygritte are amongst those who use the ladder. In series only 20 men scales the wall, without any ladder.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Craster takes the remaining Night's Watch men in",
+   "Scene End": "00:24:02",
+   "Duration": "00:03:09",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 10,
+   "Scene": "Sam sees Gilly give birth to a boy",
+   "Scene End": "00:25:03",
+   "Duration": "00:01:01",
+   "Comparison": "This scene does not happen in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Ramsey Bolton releases Theon",
+   "Scene End": "00:26:32",
+   "Duration": "00:01:29",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Melisandre leaves on a secret mission",
+   "Scene End": "00:28:25",
+   "Duration": "00:01:53",
+   "Comparison": "In the books, Melisandre explains Davos, not Stannis, why she cannot make more shadows. Stannis does not ask Melisandre to make more shadows.\nMelisandre does not travel to the Riverlands or any other place.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Barristan and Jorah advise Daenerys on buying soldiers",
+   "Scene End": "00:30:52",
+   "Duration": "00:02:27",
+   "Comparison": "In the books, when Daenerys walks through the streets of Astapor and comes to the Plaza of Punishment, she sees a wooden platform where rebellious slaves are racked, flayed and hanged, but she does not try to help any of them.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Daenerys offers her dragon for the Unsullied",
+   "Scene End": "00:35:15",
+   "Duration": "00:04:23",
+   "Comparison": "The Good Masters of Astapor stick to the rule that the Unsullieds are only sold by the unit of 1,000 or 100. Their offer to sell 100+20+3 Unsullieds in the TV series is against this rule. In fact, in the books, they offer to sell 1,000 Unsullieds in exchange for Daenerys' ship and goods, and another 100 for her crown.<br><br>After Daenerys offers Kraznys a dragon in return for the Unsullied, only Ser Barristan publicly pleads with her not to take the deal. Barristan is still under the guise of \"Arstan Whitebeard\", a masquerade he puts up to get to know Daenerys. He is also accompanied by the omitted character, Strong Belwas.<br><br>Kraznys gives Daenerys Missandei as a token of their deal, rather than Daenerys asking for her.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion gets the financial ledgers from Petyr",
+   "Scene End": "00:39:25",
+   "Duration": "00:04:10",
+   "Comparison": "In the books, Podrick does not get a reward for saving Tyrion Lannister's life.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Tyrion talks about crown debts",
+   "Scene End": "00:42:05",
+   "Duration": "00:02:40",
+   "Comparison": "The specific scenes with Tyrion, Littlefinger, Ros, Bronn, and Pod at the brothel do not happen in the books, though after Tyrion is made Master of Coin he comments on discrepancies in how Baelish has been running things. It is not mentioned that Littlefinger has increased the crown's incomes tenfold since coming into office. Tyrion also does not mention the Iron Bank, but speaks generally about the crown's heavy debts.<br><br>It is not Bronn who suggests that Tywin forgives the crown's debt to House Lannister. Tyrion asks that his father directly. Tywin responds \"Don't be absurd\".",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "Ramsey shoots Theon's hunters",
+   "Scene End": "00:45:43",
+   "Duration": "00:03:38",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "Jaime saves Brienne but gets his hand cut off",
+   "Scene End": "00:51:30",
+   "Duration": "00:05:47",
+   "Comparison": "Locke (Vargo Hoat in the books) never participated in Brienne's attempted rape as Jaime had already informed him about Tarth's sapphires, and forbade his men to harm her.<br><br>In the books, Vargo Hoat does not personally maim Jaime. He gives the order, but one of his subordinates in the Brave Companions carries out the deed. It is done not because Jaime irritates him with his arrogance and continual attempts to bribe him, but in order to drive a wedge between Tywin Lannister and Roose Bolton, as Roose explains Jaime later.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "",
+   "Scene End": "",
+   "Duration": "",
+   "Comparison": "",
+   "Rating": ""
+ }
+]
