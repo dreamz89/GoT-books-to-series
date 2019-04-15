@@ -107,7 +107,7 @@ export default {
           .attr('y', (d, i) => {
             if (window.innerWidth < 480) { // mobile
               if (i < 5) { // top text
-                return sankey.nodeWidth() * -2.5
+                return sankey.nodeWidth() * -4
               } else { // bottom text
                 return sankey.nodeWidth() * 3
               }
@@ -118,22 +118,22 @@ export default {
                 return sankey.nodeWidth() * 3
               }
             }
-          }).call(wrap, 100)
+          }).call(wrap)
 
-          node.append('text')
-              .attr('text-anchor', 'middle')
-              .text(d => { return d.pov })
-              .style('fill', '#E1EDF4')
-              .attr('x', d => { return d.dy / 2 })
-              .attr('y', (d, i) => {
-                if (i >= 5) {
-                  if (window.innerWidth < 480) { // mobile
-                    return sankey.nodeWidth() * -1
-                  } else {
-                    return sankey.nodeWidth() * -0.5
-                  }
-                }
-              })
+    node.append('text')
+        .attr('text-anchor', 'middle')
+        .text(d => { return d.pov })
+        .style('fill', '#E1EDF4')
+        .attr('x', d => { return d.dy / 2 })
+        .attr('y', (d, i) => {
+          if (i >= 5) {
+            if (window.innerWidth < 480) { // mobile
+              return sankey.nodeWidth() * -1
+            } else {
+              return sankey.nodeWidth() * -0.5
+            }
+          }
+        })
 
       // select elements from https://stackoverflow.com/questions/28390754/get-one-element-from-d3js-selection-by-index
       node.filter((d, i) => { return i < 5 }) // only the top nodes
@@ -148,7 +148,7 @@ export default {
           })
           .attr('y', () => {
             if (window.innerWidth < 480) { // mobile
-              return sankey.nodeWidth() * -10
+              return sankey.nodeWidth() * -11.2
             } else {
               return sankey.nodeWidth() * -12
             }
@@ -176,7 +176,13 @@ export default {
       }
 
       // wrap text from https://stackoverflow.com/questions/24784302/wrapping-text-in-d3
-      function wrap(text, width) {
+      function wrap(text) {
+        let width
+        if (window.innerWidth < 480) { // mobile
+          width = 45
+        } else {
+          width = 100
+        }
         text.each(function () {
           var text = d3.select(this),
               words = text.text().split(/\s+/).reverse(),
