@@ -1,0 +1,234 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:48",
+   "Duration": "0:01:42",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Arya wants to be Jaqen's apprentice",
+   "Scene End": "0:05:17",
+   "Duration": "0:03:29",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 2,
+   "Scene": "Tommen and Margaery consumates their marriage",
+   "Scene End": "0:08:20",
+   "Duration": "0:03:03",
+   "Comparison": "In the series, after the wedding, the couple consumates their marraige. But in the books, Tommen and Margaery sleep in the same bed on their wedding night, but do not have sex since Tommen is nine years old. So far, they have not consummated their marriage.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Margaery tells Tommen that Cersei is overprotective of him",
+   "Scene End": "0:09:25",
+   "Duration": "0:01:05",
+   "Comparison": "In the series, Maragaery talks to Tommen about how Cersei is overprotective of him.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 4,
+   "Scene": "Tommen asks his mother if she wants to return to Casterly Rock",
+   "Scene End": "0:10:33",
+   "Duration": "0:01:08",
+   "Comparison": "In the series, after Margaery talks to Tommen about Cersei's overprotectiveness, he talks to his mother to ask her if she wants to return to Casterly Rock.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 5,
+   "Scene": "Cersei approaches Margaery",
+   "Scene End": "0:12:23",
+   "Duration": "0:01:50",
+   "Comparison": "In the series, after Cersei's conversation with Tommen, she tried to approach Margaery.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 6,
+   "Scene": "Ramsay flayed Medger Cerwyn and his family",
+   "Scene End": "0:13:58",
+   "Duration": "0:01:35",
+   "Comparison": "In the series, Ramsay says that he flayed Medger Cerwyn and his wife and brotehr because they refused to pay. In the books, Medger Cerwyn died in Harrenhal as a prisoner during the War of the Five Kings and his son Cley Cerwyn was killed when Ramsay sacked Winterfell.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Roose wants Ramsay to marry to build alliance",
+   "Scene End": "0:15:10",
+   "Duration": "0:01:12",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 8,
+   "Scene": "Petyr wants Sansa to marry Ramsay Bolton",
+   "Scene End": "0:18:15",
+   "Duration": "0:03:05",
+   "Comparison": "Littlefinger does not intend to marry Sansa to Ramsay Bolton. Instead, he plans to marry Sansa to Robin's heir Harrold Hardyng. At Littlefinger's advice, Sansa's childhood friend Jeyne Poole is disguised as Arya Stark and is married to Ramsay instead. Also, Petyr and Sansa never go to Winterfell and are still in the Vale.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Brienne and Pod follows Sansa and Petyr in McCallan",
+   "Scene End": "0:23:54",
+   "Duration": "0:05:39",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 10,
+   "Scene": "Olly is Jon's steward",
+   "Scene End": "0:24:19",
+   "Duration": "0:00:25",
+   "Comparison": "In the series, Jon introduces Olly as his steward. In the books, Jon's steward is an Oldtown boy named Satin, who was raised as a whore.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Jon declines Stannis' offer",
+   "Scene End": "0:26:30",
+   "Duration": "0:02:11",
+   "Comparison": "In the series, Jon politely declines Stannis' offer. In contrast to the series, Jon and Stannis quarrel more than once over Jon's reluctance to aid Stannis in his campaign to take the Iron Throne, with Stannis implying more than once that he could have Jon executed and force the Night's Watch to join him, but Jon refuses to stand down, insisting that he is in control of the Wall and the Night's Watch and will not be intimidated by Stannis's threats. In the television series, Jon expresses a desire to join Stannis but politely turns him down, a decision Stannis accepts respectfully without once threatening Jon.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Davos gives Jon advice",
+   "Scene End": "0:28:14",
+   "Duration": "0:01:44",
+   "Comparison": "In the series, Davos gives Jon advice about leadership and how to deal with Stannis. But in the books, It is not Davos but Melisandre who speaks to Jon and advises him on how he can best act in dealing with Stannis.  Also, Davos implies to Jon that Stannis sees him as the son he never had.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Arya disposes her belongings to be a Faceless man",
+   "Scene End": "0:31:39",
+   "Duration": "0:03:25",
+   "Comparison": "In the series, Arya throws everything she owns except for needle that she hid on the rocks, and came back fully clothed. In the books, when Arya disposed her possessions in the canal, she returns to the House of Black and White completely naked. (Since actress Maisie Williams was 17 at time of filming, she remained clothed.)\nArya hides Needle in a hole under the steps leading up the House of Black and White.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Arya helps in preparing the corpses",
+   "Scene End": "0:34:19",
+   "Duration": "0:02:40",
+   "Comparison": "Sansa did not meet the Boltons at this moment in the books. Petyr and Sansa never go to Winterfell and are still in the Vale.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Sansa meets the Boltons",
+   "Scene End": "0:35:50",
+   "Duration": "0:01:31",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jon appoints Ser Alliser as First Ranger",
+   "Scene End": "0:37:06",
+   "Duration": "0:01:16",
+   "Comparison": "In the series, Jon appoints Ser Alliser as First Ranger. In the books, Jon Snow did not appoint Ser Alliser to be First Ranger. Shortly after Slynt's execution, Jon sends Ser Alliser on a scouting mission with several other rangers (namely to stop Thorne from further undermining him). Thorne believes Jon is sending him to his death, but reluctantly agrees, since he knows Jon would like nothing more than an excuse to kill him the same way as Slynt. Before departing, he ominously warns Jon that he will return to Castle Black, one way or another.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Jon gives Janos Slynt the command of Greyguard",
+   "Scene End": "0:37:30",
+   "Duration": "0:00:24",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 18,
+   "Scene": "Janos Slynt executed for refusing to obey Jon",
+   "Scene End": "0:40:43",
+   "Duration": "0:03:13",
+   "Comparison": "In the series, Janos refused to obey Jon. In the books, a day after appointing Janos, Janos was executed. He lets Janos think about it overnight, though he did immediately refuse. Jon is initially going to hang Janos, but changes his mind. Janos smiles, thinking he's being spared. Jon then orders a block to be brought for beheading and Slynt's confidence evaporates as he realizes Jon's threat to behead him is real.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "The high septon walks naked after caught in the brothel",
+   "Scene End": "0:42:14",
+   "Duration": "0:01:31",
+   "Comparison": "In the books, it is not the High Septon but a Septon vying for the position who is dragged out of a brothel and publicly humiliated by the Sparrows.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 20,
+   "Scene": "The high septon pleas for justice from the council",
+   "Scene End": "0:43:40",
+   "Duration": "0:01:26",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 21,
+   "Scene": "Cersei meets the High Sparrow",
+   "Scene End": "0:46:12",
+   "Duration": "0:02:32",
+   "Comparison": "In the series, Cersei visits the HIgh Sparrow after the High Septon's plea for justice. In the books, Cersei only met him after he became the High Septon, wich he obtained without Cersei's help.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Cersei makes the High Sparrow the new High Septon",
+   "Scene End": "0:46:45",
+   "Duration": "0:00:33",
+   "Comparison": "In the series, Cersei appoints the High Sparrow as the new High Septon. In the books, he became the Highe Septon because the Sparrows got fed up with the corruption amongst the upper echelons of the Faith, storm the Sept of Baelor and force the Most Devout to name their leader as High Septon, all with no help from Cersei.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 23,
+   "Scene": "The Mountain revived by Qyburn",
+   "Scene End": "0:47:49",
+   "Duration": "0:01:04",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 24,
+   "Scene": "Ramsay speaks to Petyr",
+   "Scene End": "0:48:50",
+   "Duration": "0:01:01",
+   "Comparison": "In the series, Ramsay speaks to Petyr about Sansa.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 25,
+   "Scene": "Roose speaks to Petyr",
+   "Scene End": "0:51:10",
+   "Duration": "0:02:20",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 26,
+   "Scene": "Tyrion and Varys sees a woman speaking publicly about Daenerys",
+   "Scene End": "0:54:41",
+   "Duration": "0:03:31",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 27,
+   "Scene": "Jorah kidnaps Tyrion",
+   "Scene End": "0:58:32",
+   "Duration": "0:03:51",
+   "Comparison": "In the books, Jorah kidnaps Tyrion not stealthily, but in full view of everyone in the brothel. When the brothel owner tries to stop him, Jorah draws his sword and the owner relents. Also, Jorah had the Daenerys lookalike whore on his lap when he noticed Tyrion.",
+   "Rating": "MIXED"
+ }
+]

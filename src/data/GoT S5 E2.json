@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:47",
+   "Duration": "0:01:41",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Arya goes to the temple of black and white",
+   "Scene End": "0:05:38",
+   "Duration": "0:03:51",
+   "Comparison": "Arya does not knock on the door to the Temple of Black and White, she opens the door and walks right in and no one wanted to prevent her from entering. The Faceless Man she encountered had a different appearance. Instead of being an old man with wrinkled and sickly face, he is described as a cloaked figure with only a skull for a face. When Arya told him her name, he changed into kindly old man.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Arya leaves the temple of black and white",
+   "Scene End": "0:06:51",
+   "Duration": "0:01:13",
+   "Comparison": "After being prevented from entering the temple, Arya throws the coin from Jaqen H'ghar and leaves.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 3,
+   "Scene": "Petyr and Sansa meets Brienned and Podrick",
+   "Scene End": "0:11:16",
+   "Duration": "0:04:25",
+   "Comparison": "Petyr and Sansa never leave the Vale and they never meet Brienne and Podrick.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Brienne and Pod chased by Petyr's men",
+   "Scene End": "0:14:29",
+   "Duration": "0:03:13",
+   "Comparison": "After Sansa refused to go with Brienne, Petyr's men chases Brienne and Podrick away.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 5,
+   "Scene": "Cersei receives a threat from Dorne",
+   "Scene End": "0:16:53",
+   "Duration": "0:02:24",
+   "Comparison": "In the series, after Cersei receives a threat from Dorne, she sends Jaime and an army to rescue Myrcella. Cersei does not receive any threat from Dorne. She sends Ser Balon Swann to bring Myrcella from Dorne, because she loathes the Dornish and does not trust them. Myrcella is in danger by people who seek to avenge Oberyn's death and push Dorne into war, as Doran warns Ser Arys Oakheart, but Cersei is unaware of that. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 6,
+   "Scene": "Bronn and his wife Lollys Stokeworth",
+   "Scene End": "0:18:20",
+   "Duration": "0:01:27",
+   "Comparison": "Lollys Stokeworth is described in the books as morbidly obese and is considered dimwitted. She and Bronn do not have any on-the-page scenes together. Bronn does indeed marry Lollys Stokeworth.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Jaime asks Bronn to come with him to Dorne",
+   "Scene End": "0:19:48",
+   "Duration": "0:01:28",
+   "Comparison": "Bronn never went with Jaime to Dornen, nor Ser Balon Swann's party include Bronn in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Ellaria wants to avenge Oberyn's death",
+   "Scene End": "0:22:11",
+   "Duration": "0:02:23",
+   "Comparison": "In the series, Ellaria wishes to avenge Oberyn's death, but in the books she did not wish for war with the Lannisters to avenge Oberyn's death. Quite the contrary, she is firmly opposed to any further bloodshed. This role is filled by Arianne Martell, Doran's daughter, eldest child and heir, who has been cut from the TV series so far. In the books, it was not Ellaria but Obara, who encountered Prince Doran in the Water Gardens. Obara wants to fight the Lannisters as a payback for her father's death, but does not mean to harm Myrcella.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Grey worm and Dhaario catches a son of Harpy",
+   "Scene End": "0:24:10",
+   "Duration": "0:01:59",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 10,
+   "Scene": "Ser Barristan Daenerys about his father",
+   "Scene End": "0:26:56",
+   "Duration": "0:02:46",
+   "Comparison": "Daenerys is never told the whole ugly truth about her father. Barristan Selmy tells her a very \"sugarcoated\" version, entirely omitting the countless atrocities the Mad King has committed. The worst thing Daenerys is told about her father is that he acted indecently at Joanna Lannister's bedding.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Varys and Tyrion journeys to meet Daenerys",
+   "Scene End": "0:29:23",
+   "Duration": "0:02:27",
+   "Comparison": "In the series, Varys and Tyrion journeys to meet Daenerys, but in the books Varys does not accompany Tyrion on his journey to meet Daenerys. Rather, he is accompanied by a sellsword named Griff and his ward, Young Griff, as well as Ser Rolly Duckfield, Septa Lemore, and Haldon Halfmaester, all of whom have been cut from the TV series so far.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 12,
+   "Scene": "Men kills the wrong man",
+   "Scene End": "0:30:00",
+   "Duration": "0:00:37",
+   "Comparison": "In the series, men presents a dwarf man's head to Cersei (similar to Tyrion), but she identifies him that it's not her brother Tyrion.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 13,
+   "Scene": "Mace Tyrell volunteers to be Hand of the King",
+   "Scene End": "0:31:05",
+   "Duration": "0:01:05",
+   "Comparison": "Mace Tyrell never serves as Master of Coin; in the novels, he puts himself forward for the position of Hand of the King and offers one of his uncles to serve as Master of Coin during Tywin's funeral, but Cersei (not wanting any Tyrells in a position of power close to the crown) brusquely refuses him and appoints two of her own cronies to the posts. Kevan later rebukes her for this, saying that while Mace would make a poor Hand, it is unwise to make him an enemy. Cersei later dispatches Mace to lay siege to Storm's End (again) and another of his vassals to besiege Dragonstone to rob Stannis of his last holdings in the south.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Qyburn is the new Master of Whisperers",
+   "Scene End": "0:31:37",
+   "Duration": "0:00:32",
+   "Comparison": "In the series, Cersei announces in the small council that Qyburn is now the new Master of Whisperers.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 15,
+   "Scene": "Kevan Lannister refuses to be the new Master of War",
+   "Scene End": "0:32:58",
+   "Duration": "0:01:21",
+   "Comparison": "In the series, Cersei offers her uncle to be the new Master of War but Kevan refuses because he don't want to be manipulated by Cersei. In the books, Kevan refused to be the Hand of the King, not the Master of War. He also refuses for a different reason. Before Tywin died, it had been his intent that Cersei return to Casterly Rock and have no further say in the governance of the realm or Tommen's upbringing (as Tommen is nine at this point in the books). Kevan demands Cersei name him Regent, to rule until Tommen comes of age, and that she leave King's Landing in accordance with Tywin's plan. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Shireen teaches Gilly how to read",
+   "Scene End": "0:35:56",
+   "Duration": "0:02:58",
+   "Comparison": "Sam and Gilly never met Selyse and Shireen as Selyse and Shireen were both at Eastwatch and arrived at Castle Black much later. Thus nobody taught Gilly to read.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Lyanna Mormont refuses to acknowledge Stannis as king",
+   "Scene End": "0:37:23",
+   "Duration": "0:01:27",
+   "Comparison": "In the series, Stannis shows Jon what Lyanna Mormont's response  to his request for help. Lyanna's response says that they only ackonwledge the Starks as the king of the North.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 18,
+   "Scene": "Stannis offers to legitamize Jon Snow as a Stark",
+   "Scene End": "0:38:19",
+   "Duration": "0:00:56",
+   "Comparison": "",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jon refuses to be a Stark and leave the Night's Watch",
+   "Scene End": "0:38:51",
+   "Duration": "0:00:32",
+   "Comparison": "In the series, Jon talks to Sam about Stannis' offer of legitamizing him as Stark to be lord of Winterfell. Jon tells Sams that he refuses to do so because he don't want to abandon his vows to the Night's Watch and how that would be a bad reputation for a lord of Winterfell. In the books, Jon refuses Stannis's offer of legitimization as a Stark for several reasons, including loyalty to his father's gods as Melisandre demanded that he burns down the Godswood of Winterfell and converts to the Lord of Light. He also refuses Stannis offer for the sake of Sansa's claim on Winterfell.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Candidates for Lord Commander of the Night's Watch",
+   "Scene End": "0:41:48",
+   "Duration": "0:02:57",
+   "Comparison": "In the series, Ser Alliser, Ser Denys, and Jon Snow were nominated as candidates for the Lord of Commander. In the books, there were also more candidates such as Bowen Marsh, Othell Yarwyck, Hobb and Edd.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 21,
+   "Scene": "Ser Alliser argues Jon's nomination ",
+   "Scene End": "0:42:33",
+   "Duration": "0:00:45",
+   "Comparison": "In the series, after Sam nominates Jon as candidate, Ser Alliser spoke ill of him about him siding with the wildlings and even loving a wildling before.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 22,
+   "Scene": "Jon wins as Lord Commander",
+   "Scene End": "0:44:02",
+   "Duration": "0:01:29",
+   "Comparison": "In the series, it was shown that Ser Alliser and Jon's were really close and that Jon won by one vote from Master Aemon's vote. In the books, a Lord Commander is only elected when he has 2/3s of the vote or more. Also, it was a very close vote between Janos Slynt (Ser Alliser withdraws early on due to barely any votes), Denys Mallister and Cotter Pyke, with Janos gaining votes each time. But Jon ultimately wins by a huge margin, not a single vote.\n",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 23,
+   "Scene": "The old man reveals himself as Jaqen H'ghar",
+   "Scene End": "0:46:04",
+   "Duration": "0:02:02",
+   "Comparison": "In the series, the old man revealse him self to Arya as Jaqen H'ghar. But the books made clear the old man wass not Jaqen H'ghar while in TV series, the person is apparently the same.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 24,
+   "Scene": "Mossador kills a Son of Harpy without Daenerys' permission",
+   "Scene End": "0:48:29",
+   "Duration": "0:02:25",
+   "Comparison": "Mossador does not kill a Son of the Harpy against Daenerys's wishes. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 25,
+   "Scene": "Daenerys sentenced Mossador death",
+   "Scene End": "0:52:05",
+   "Duration": "0:03:36",
+   "Comparison": "In the series, after Mossador killed the son of Harpy, she had him executed in public. But in the books, he was not executed by Daenerys, he was killed by a sons of Harpy. Also, he is Missandei's brother in the books and his death devastates Missandei.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 26,
+   "Scene": "Drogon shows up to Daenerys",
+   "Scene End": "0:54:12",
+   "Duration": "0:02:07",
+   "Comparison": "In the series, Drogon shows up on top of pyramid before Daenerys. In the books, Daenerys never sees Drogon atop the pyramid. In fact, the last time she saw him was when they wanted to capture him.",
+   "Rating": "FALSE"
+ }
+]

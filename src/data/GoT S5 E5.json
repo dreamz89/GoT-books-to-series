@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Daenerys gathers the head of the Mereen families",
+   "Scene End": "0:03:44",
+   "Duration": "0:01:51",
+   "Comparison": "In the series, after the attack of the sons of Harpy and Ser Barristan's death, Daenerys asked the leaders of Mereen families to be captured. In the books, she took children hostages from each of the noble families to serve as her \"cupbearers\". Also, she never threw Hizdahr in jail, although Ser Barristan did later.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Daenerys intimidates the Mereen families with her dragons",
+   "Scene End": "0:06:54",
+   "Duration": "0:03:10",
+   "Comparison": "In the series, Daenerys threats the head of Mereen families with her dragons. But in the books, Daenerys did not intimidate the head of each family of Meereen using her dragons. She also demanded blood money from each family for each of her followers or soldiers killed by the Sons of the Harpy.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Jon asks advice from Maester Aemon",
+   "Scene End": "0:09:10",
+   "Duration": "0:02:16",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 4,
+   "Scene": "Jon wants to bring the wildlings to the south of the Wall",
+   "Scene End": "0:11:12",
+   "Duration": "0:02:02",
+   "Comparison": "In the series, Jon tells Tormund that he wants to bring the wildlings to the south of the wall in order to save them from the white walkers and have them fight with them against the white walkers. This is similar in the books.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Jon sends Tormund to save the wildlings",
+   "Scene End": "0:12:20",
+   "Duration": "0:01:08",
+   "Comparison": "In the series, Jon unchains Tormund to send him to save the wildlings. ",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 6,
+   "Scene": "Tormund asks Jon to come with him",
+   "Scene End": "0:13:03",
+   "Duration": "0:00:43",
+   "Comparison": "In the series, Tormund asks Jon Snow to come with him to rescue the wildlings at Hardhome. In the books, Jon first sent a wildling envoy named Val North of the Wall to find the wildlings after the battle, who were led by Tormund himself, as he was not captured during the battle. Later, Jon led new recruits to the weirwood grove in the Haunted Forest, where they encountered a small group of wildlings. When Jon offers the wildlings shelter south of the Wall at Castle Black and the wildlings return with Jon and the new Watchmen, they tell Jon about the many free folk at Hardhome. Jon decides to send a rescue party led by Cotter Pike to the ruined settlement to save the wildlings stranded there. Later, after receiving a distress message from Cotter Pike, Jon and Tormund plan to lead another rescue mission themselves.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Jon tells the Nights Watch his plan to welcome the wildlings",
+   "Scene End": "0:14:34",
+   "Duration": "0:01:31",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 8,
+   "Scene": "Olly confronts Jon about welcoming the wildlings",
+   "Scene End": "0:16:20",
+   "Duration": "0:01:46",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 9,
+   "Scene": "Brienne sends a message for Sansa",
+   "Scene End": "0:18:38",
+   "Duration": "0:02:18",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 10,
+   "Scene": "Myrands is jealous of Sansa ",
+   "Scene End": "0:21:01",
+   "Duration": "0:02:23",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 11,
+   "Scene": "Myrands speaks to Sansa",
+   "Scene End": "0:23:25",
+   "Duration": "0:02:24",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 12,
+   "Scene": "Sansa sees Theon in the kennels",
+   "Scene End": "0:25:16",
+   "Duration": "0:01:51",
+   "Comparison": "In the series, Myrands brings Sansa to the kennel where she finds Theon. In the books, Sansa never sees Theon because she is still in the Vale and not in Winterfell as of her latest chapter. Instead, it is her friend Jeyne Poole, masquerading as Arya Stark, who is betrothed to Ramsay. Jeyne does indeed see Theon, who immediately recognizes her but remains silent in order to protect her.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Theon confessed to Ramsay that Sansa saw him",
+   "Scene End": "0:27:23",
+   "Duration": "0:02:07",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 14,
+   "Scene": "Ramsay makes Theon apologize to Sansa",
+   "Scene End": "0:31:38",
+   "Duration": "0:04:15",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 15,
+   "Scene": "Roose and Walda announces pregnancy",
+   "Scene End": "0:32:19",
+   "Duration": "0:00:41",
+   "Comparison": "In the series, Stannis and Walda announces before Sansa and Ramsay that Walda is pregnant and that it might be a baby boy. In the books, no one announces that Walda Bolton is pregnant. It is mentioned in the novel, from Theon's POV, that Roose Bolton entered the Great Hall accompanied by his plump pregnant wife - the only reference to Walda's pregnancy.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Roose talks about Ramsay's mother",
+   "Scene End": "0:34:21",
+   "Duration": "0:02:02",
+   "Comparison": "In the series, Roose talks about Ramsay's mother, who was a miller's wife. How her mother took him to Roose. In the books, although Ramsay's mother took him to the Dreadfort when he was a baby, he did not stay there. Roose instead arranged for them to stay at the mill once owned by his mother's deceased husband and Ramsay did not move to the Dreadfort until two years before The War of Five Kings. The current status of Ramsay's mother is uncertain.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Roose asks Ramsay to help him defeat Stannis",
+   "Scene End": "0:35:04",
+   "Duration": "0:00:43",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 18,
+   "Scene": "Stannis tells Sam they have dragon glass in Dragonstone",
+   "Scene End": "0:38:12",
+   "Duration": "0:03:08",
+   "Comparison": "In the series, Stannis asks Sam how he killed a white walker, Sam then tells him through a dragon glass. Stannis asks him how could a dragon glass kill a white walker, and then casually tells Sam they have dragon glass in Dragonstone. Sam read in the books that children of the Forest used dragon galss to hunt. In the books, Sam learned from old records that the Children of the Forest not only used dragonglass blades, but also provided one hundred of them to the Watch every year. Also, Stannis did not mention the existence of dragonglass in Dragonstone so casually: he believed Sam's story about killing the Other and sent orders to the castellan of Dragonstone to mine the precious material, in order to make weapons against the Others.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Shireen and Selyse to marches with Stannis and Davos",
+   "Scene End": "0:42:06",
+   "Duration": "0:03:54",
+   "Comparison": "In the series, Shireen, Selyse and Davos marched with Stannis. In the books, Shireen and Selyse were left at Castle Black when Stannis marched, along with a dozen knights and guards, and MelisandreIn. Also, Davos did not march with Stannis, he was sent to negotiate with Lord Manderly at White Harbor, hoping to get him to side with Stannis.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Missandei kisses Greyworm",
+   "Scene End": "0:44:18",
+   "Duration": "0:02:12",
+   "Comparison": "In the series, Missander was shown kissing Greyworm. But in the books, Greyworm was never attracted to Missandei since she's too young.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 21,
+   "Scene": "Daenerys asks advice from Missandei",
+   "Scene End": "0:45:30",
+   "Duration": "0:01:12",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 22,
+   "Scene": "Daenerys reopens fighting pits",
+   "Scene End": "0:47:06",
+   "Duration": "0:01:36",
+   "Comparison": "In the series, Daenerys free Hizdahr and agrees to open the fighting pits, and marry a leader of the ancient family. In the series, Daenerys did not enprison Hizadhr.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 23,
+   "Scene": "Jorah and Tyrion journeys near Valyria",
+   "Scene End": "0:50:40",
+   "Duration": "0:03:34",
+   "Comparison": "In the series, Jorah and Tyrion travels near Valyria. In the books, Jorah and Tyrion never went near Valyria, as in the books anyone who sails within hundreds of miles of it vanishes without a trace. Sailors never go through the Smoking Sea.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 24,
+   "Scene": "Jorah and Tyrion encounters stone men",
+   "Scene End": "0:52:44",
+   "Duration": "0:02:04",
+   "Comparison": "In the series, Jorah and Tyrion were attacked by stone men. In the books, Jorah never encountered stone men, but Tyrion did however, but in The Sorrows region of the river north of Volantis. Later, with Jorah, they sailed around Valyria instead of through it.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 25,
+   "Scene": "Jorah saves Tyrion",
+   "Scene End": "0:54:34",
+   "Duration": "0:01:50",
+   "Comparison": "In the series, Tyrion jumped into the water during the attack of the stone men, he was then saved by Jorah from drowning. In the books, Tyrion's companion who saved him from the Stone Men and ended up infected was actually Jon Connington.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 26,
+   "Scene": "Jorah infected with Greyscale",
+   "Scene End": "0:55:19",
+   "Duration": "0:00:45",
+   "Comparison": "In the series, Jorah was revealed that he got infected with Greyscale from the attack. In the books, Jorah never accompanied Tyrion and was never infected with Greyscale. It was Jon Conningtion who was with Tyrion and got infected.",
+   "Rating": "MIXED"
+ }
+]

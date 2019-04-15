@@ -1,0 +1,178 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:54",
+   "Duration": "0:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Stannis' camp attacked",
+   "Scene End": "0:02:55",
+   "Duration": "0:01:01",
+   "Comparison": "In the series, Ramsay leads a small army to attack Stannis' camp. In the book, Stannis’s camp is left stranded by the heavy snowstorm, with little to no food, though this is due to a grueling march exclusively due to the weather—they are not raided by Ramsay Bolton or anyone else, though Roose Bolton is indeed forced to fight Stannis in the snow, in order to alleviate tensions within Winterfell, as several fights and murders have broken out between the forces of various northern Houses and House Frey in the castle.\n",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Davos advices Stannis to march back to Castle Black",
+   "Scene End": "0:04:10",
+   "Duration": "0:01:15",
+   "Comparison": "In the series, after the attack on Stannis' camp, Davos advices Stannis to march back to Castle Black dues to lack of resources. ",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 3,
+   "Scene": "Jon and the wildlings returns to Castle Black",
+   "Scene End": "0:07:25",
+   "Duration": "0:03:15",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 4,
+   "Scene": "Stannis sends Davos to Castle Black",
+   "Scene End": "0:08:16",
+   "Duration": "0:00:51",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 5,
+   "Scene": "Davos says farewell to Shireen",
+   "Scene End": "0:11:10",
+   "Duration": "0:02:54",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 6,
+   "Scene": "Doran wants to send Trystane to serve in the small council",
+   "Scene End": "0:15:54",
+   "Duration": "0:04:44",
+   "Comparison": "In the series, Doran breaks bread with Jaime and agrees to send back Myrcella along with his son Trystane to King's Landing. Doran wants Tyrstane to also take Oberyn's position in the small council. In the books, Doran sends Nymeria Sand to serve in the Small Council in King's Landing, not Trystane.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "Bronn freed from the prison",
+   "Scene End": "0:17:03",
+   "Duration": "0:01:09",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 8,
+   "Scene": "Mace Tyrell and Ser Meryn arrives in Bravos",
+   "Scene End": "0:20:08",
+   "Duration": "0:03:05",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 9,
+   "Scene": "Arya pursues Ser Meryn in the brothel",
+   "Scene End": "0:21:52",
+   "Duration": "0:01:44",
+   "Comparison": "In the series, Arya sees Ser Meryn in Bravos and follows him in the brothel. In the books, Arya does not see Meryn Trant in Braavos, nor does she pursue him into a brothel. Instead, Arya follows Raff the Sweetling and tempts him in the Winds of Winter 'Mercy' chapter.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Ser Meryn is attracted to child prostitute",
+   "Scene End": "0:25:30",
+   "Duration": "0:03:38",
+   "Comparison": "In the series, Ser Meryn chooses a child prostitute over other women in the brothel. In the books, Meryn Trant has not shown any attraction towards children.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Doran asks Ellaria to pledge her allegiance to him",
+   "Scene End": "0:26:29",
+   "Duration": "0:00:59",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 12,
+   "Scene": "Jaime has a poor hand writing",
+   "Scene End": "0:28:15",
+   "Duration": "0:01:46",
+   "Comparison": "In the series, Ellaria comments that Jaime's writing seems like a 7-year old's hand writing.  In the books, it is not Ellaria but Jaime who criticizes his poor handwriting, thinking that might have done credit to a six-year-old child who has just learned his first letters.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Shireen wants to help his father, Stannis",
+   "Scene End": "0:31:08",
+   "Duration": "0:02:53",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 14,
+   "Scene": "Shireen sacrificed",
+   "Scene End": "0:34:14",
+   "Duration": "0:03:06",
+   "Comparison": "In the series, Shireen was burned as sacrifice. In the books, due to the snowstorm, Stannis relents and lets the fanatics in his army sacrifice four soldiers who were caught eating a dead body, instead of Shireen. However, author George R.R. Martin has confirmed Shireen will be burned as a sacrifice in later books.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion watches in the Daznak's Pit with Daenerys",
+   "Scene End": "0:38:58",
+   "Duration": "0:04:44",
+   "Comparison": "In the series, Tyrion has agreed to advice Daenerys and was present with her in the Daznak's Pit. In the books, Tyrion is present in Daznak's Pit, except he is a dwarf riding on a dog as a show for the observers. He does contemplate revealing himself to Daenerys, only to stay silent when he sees Barristan Selmy (who is still alive at that point in the books), out of fear Barristan might prejudice Daenerys against him out of their shared contempt for House Lannister.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jorah fights in the pit for Daenerys",
+   "Scene End": "0:44:00",
+   "Duration": "0:05:02",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 17,
+   "Scene": "Sons of Harpy tries to kill Daenerys",
+   "Scene End": "0:45:00",
+   "Duration": "0:01:00",
+   "Comparison": "In the books, after Jorah wins as champion, the Sons of Harpy attacks and tries to kill Daenerys. In the books, the Sons of the Harpy do not launch an open attack on Daznak's Pit, though they do attempt to kill her by poisoning food on a buffet in the royal box (provided by Hizdahr). However, Strong Belwas, one of Daenerys's subordinates, eats the poisoned food instead, and nearly dies as a result. The remainder is left, suspicious when they learn this food was the same food Hizdahr was pushing Daenerys to try but did not taste them himself. This prompts suspicion that Hizdahr is either a member of the Sons of the Harpy or is working with them. Once Selmy is convinced that Hizdahr attempted to kill Daenerys, he and more of Daenerys's loyalists overthrow Hizdahr and have him imprisoned.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 18,
+   "Scene": "Hizadahr killed by Sons of Harpy",
+   "Scene End": "0:47:40",
+   "Duration": "0:02:40",
+   "Comparison": "In the series, during the attack of Sons of Harpy, Hizadahr was killed. In the books, Hizdahr zo Loraq isn't killed by the Sons of the Harpy (it is suspected that he is in league with them, perhaps even their leader); he married Daenerys before the events of Daznak's Pit and is currently still alive.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Drogon arrives to defend Daenerys",
+   "Scene End": "0:49:55",
+   "Duration": "0:02:15",
+   "Comparison": "In the series, Drogon arrives in the pit and defends Daenerys. In the books, Drogon does not appear for the reason of saving Daenerys. He is drawn to the Pit by the smell of blood and fresh meat from the numerous gladiatorial battles (some involving animals). When the Meereenese try to attack him, Drogon goes on a rampage, causing over 200 deaths as people are either killed by the dragon or trampled in the panic to escape. Only one person in the arena manages to injure Drogon - an animal handler called Harghaz. Daenerys thinks he is either drunk, mad, or loved Barsena (a female pit fighter who was devoured by Drogon), and wants to avenge Hazzea's death, or merely wants to make a name for himself as a dragonslayer. He manages to seriously injure Drogon before the dragon kills him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Daenerys flies with Drogon",
+   "Scene End": "0:50:57",
+   "Duration": "0:01:02",
+   "Comparison": "",
+   "Rating": "Unknown"
+ }
+]

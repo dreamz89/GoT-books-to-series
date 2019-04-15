@@ -1,0 +1,258 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:10",
+   "Duration": "0:00:10",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening",
+   "Scene End": "0:01:44",
+   "Duration": "0:01:34",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:50",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Melera afraid of the Maggy",
+   "Scene End": "0:02:55",
+   "Duration": "0:01:05",
+   "Comparison": "In the series, Cersei and Melera are walking in the woods to see Maggy, but Melera was terrified that Tywin might look for them. In the books, Cersei Lannister was accompanied by Melara Hetherspoon and Jeyne Farman, when she went to see Maggy. It was Jeyne who was terrified of Maggy, and she even escaped when Maggy woke up. Melara was described as being even braver than Cersei and was more than eager to meet Maggy. TV Melara is a condensation of both girls from the novels. She retains Jeyne's cowardice but still accompanies Cersei as book Melara did.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Maggy the fortune teller",
+   "Scene End": "0:04:23",
+   "Duration": "0:01:28",
+   "Comparison": "Maggy's physical appearance is quite different on the show. In the books, she is very old, wrinkled, and has no teeth left. She is also nicknamed \"Maggy the Frog\".",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Maggy's prophecy",
+   "Scene End": "0:06:17",
+   "Duration": "0:01:54",
+   "Comparison": "Maggy's prophecy has several differences in the books: Melara Hetherspoon is also interested in hearing her future so she also takes part, Maggy predicts that Robert Baratheon will have sixteen children rather than twenty and she predicts the deaths of both Cersei and Melara, but the former at the hands of the \"valonqar\", the Valyrian term for \"little brother\", whom Cersei believes to be Tyrion.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Tywin's burial",
+   "Scene End": "0:07:43",
+   "Duration": "0:01:26",
+   "Comparison": "In the series, they showed Cersei and Jaime close to Tywin's body at the burial. In the books, Tywin's body was already in state of decomposition and a foul stench emanating from the body, so nobody wanted to come close to the body.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Cersei knows that Jaime released Tyrion",
+   "Scene End": "0:09:20",
+   "Duration": "0:01:37",
+   "Comparison": "In the series, Cersei suspects that Jaime released Tyrion. In the books, Cersei never thought Jaime had released Tyrion but suspected the Tyrells, because a golden coin of House Gardener was found in the possession of a missing gaoler named Rugen (actually Varys in disguise), who disappeared the same night Tyrion did. Jaime briefly considers telling her the truth but ultimately decides, given her growing viciousness and what happened when he told Tyrion the truth about Tysha, telling Cersei would probably do more harm than good.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Varys and Tyrion arrives in Pentos",
+   "Scene End": "0:12:48",
+   "Duration": "0:03:28",
+   "Comparison": "In the series, Varys and Tyrion arrives in Pentos. But in the books, Varys never went to Pentos with Tyrion, and his whereabouts are unknown for some time afterward. It was Illyrio Mopatis who discussed Daenerys with Tyrion.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Unsullied takes down the Harpy statue",
+   "Scene End": "0:13:44",
+   "Duration": "0:00:56",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 8,
+   "Scene": "A son of Harpy kills White Rat",
+   "Scene End": "0:15:40",
+   "Duration": "0:01:56",
+   "Comparison": "In the series, an unsullied went to a brothel when a son of Harpy suddenly kills him. In the book, the Unsullied was named Stalwart Shield, not White Rat. He was killed after leaving the brothel. It also took six Sons of the Harpy to kill him, though he was able to stab one before dying.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "The sons of Harpy leaves their masks",
+   "Scene End": "0:16:43",
+   "Duration": "0:01:03",
+   "Comparison": "In the series, Ser Baristan tells Daenerys that the sons of Harpy leave their mask when they kill. Daenerys then asks them to publicly bury White Rat with honor. In the books, the Sons of the Harpy did not leave a mask when they killed. They painted a Harpy in the victim's blood near the body. In fact, they were never seen in the books, and they were never described wearing masks. His body was also brought to the throne room for everyone to see.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Missandei asks Grey Worm why unsullieds goes to brothel",
+   "Scene End": "0:17:57",
+   "Duration": "0:01:14",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 11,
+   "Scene": "Jon trains Olly at Castle Black",
+   "Scene End": "0:18:29",
+   "Duration": "0:00:32",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 12,
+   "Scene": "Sam brags to Gilly",
+   "Scene End": "0:18:43",
+   "Duration": "0:00:14",
+   "Comparison": "In the series, Gilly asks Sam if he should be training, the Sam brags about how he has already killed a White walker and a Thenn. In the books, Sam has never bragged about anything, and least of all about destroying the Other/White Walker: whenever someone mentions it, Sam becomes embarrassed and refuses to take the credit for that.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Alliser spites Gilly",
+   "Scene End": "0:19:30",
+   "Duration": "0:00:47",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 14,
+   "Scene": "Melissandre takes Jon to Stannis",
+   "Scene End": "0:20:45",
+   "Duration": "0:01:15",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 15,
+   "Scene": "Stannis wants the wildlings to march with him to Winterfell",
+   "Scene End": "0:22:10",
+   "Duration": "0:01:25",
+   "Comparison": "In the series, Stannis tells Jon that he wants to take back the Winterfell from Ramsay and he need the wildlings help. ",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 16,
+   "Scene": "Stannis asks Jon to convince Mance to kneel",
+   "Scene End": "0:22:58",
+   "Duration": "0:00:48",
+   "Comparison": "In the series, Stannis asked Jon to convince Mance to kneel to him or he will burn him. In the books, Stannis never asked him to convince him to kneel. Stannis in fact never gave Mance a choice between kneeling or burning, he simply burned him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Robin is trained to fight",
+   "Scene End": "0:22:54",
+   "Duration": "23:59:56",
+   "Comparison": "In the series, Robin is being trained to fight but was too weak and clumsy. Robin Arryn never did any strenuous physical activity, as the slightest physical exertion caused him to have seizures.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Petyr agreed to foster Robin at Runestone under Lord Royce's care",
+   "Scene End": "0:24:12",
+   "Duration": "0:01:18",
+   "Comparison": "Littlefinger never agreed to foster Robin at Runestone. In fact, Lord Royce along with other lords declarant tried to forcibly take Robin with them, but Littlefinger foiled them.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Brienne asks Pod to leave him",
+   "Scene End": "0:25:44",
+   "Duration": "0:01:32",
+   "Comparison": "Brienne never told Podrick to leave, she was in fact never less than polite to him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Petyr takes Sansa to Winterfell",
+   "Scene End": "0:26:35",
+   "Duration": "0:00:51",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 21,
+   "Scene": "Cersei meets Lancel",
+   "Scene End": "0:28:07",
+   "Duration": "0:01:32",
+   "Comparison": "According to the TV series, this was the first time Lancel appeared in public after the Battle of Blackwaterbut in the books, Lancel has already appeared at Joffrey's wedding. He was also much weaker at that time, being extremely thin and with white hair. He became very devout after he recovered, but he never joined the Sparrows, but the Warrior's Sons, a division of highborn knights devoted to the Seven. In fact, Sparrows were not present in King's Landing at that time.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 22,
+   "Scene": "Lancel talks to Cersei",
+   "Scene End": "0:29:40",
+   "Duration": "0:01:33",
+   "Comparison": "In the series, Lancel talks to Cersei and ask for her forgiveness for tempting her before. He also mentioned Robert's death. He tells her that he has changed and will pray for Tywin's soul. Cersei then mocks him. In the books, Lancel tells Cersei that he must atone for his sins, but does not ask for her forgiveness, nor does he claim that he tempted her. He does not refer to Robert's death either; he implies, however, that he told the High Septon about that. Also, Cersei does not treat Lancel flippantly; on the contrary, his words make her fear that he has told the High Septon the truth about Robert's death.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 23,
+   "Scene": "No one will force Loras to marry Cersei",
+   "Scene End": "0:32:34",
+   "Duration": "0:02:54",
+   "Comparison": "In the series, Loras was having sex with Olyvar when Margaery suddenly comes in to his room. Margaery then tells him to ne discreet. Loras answers her back saying Tywin is dead and no one is going to force him to marry Cersei any more.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 24,
+   "Scene": "Varys and Tyrion discuss about Daenerys",
+   "Scene End": "0:35:38",
+   "Duration": "0:03:04",
+   "Comparison": "It was Illyrio Mopatis who discussed Daenerys with Tyrion.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 25,
+   "Scene": "Hizadhr sent to negotiate with Yunkai",
+   "Scene End": "0:39:38",
+   "Duration": "0:04:00",
+   "Comparison": "In the series, Hizadhr reports to Daenerys that Yunkai agreed to cede power to a coucil of elders made up of freed men and former slaveholders. They are also asking to re-open the fighting pits. Also, Daario was not present in Meereen at that time as he was sent to negotiate with Lhazareen. In the books, Hizadhr indeed was sent to negotiate with Yunkai but they never agreed to comply with the abolition of slavery, nor to cede power to a council. On the contrary, they demanded a compensation their losses as a result of the disruption of slave trade; that Yunkai would resume slaving, and demand that Daenerys does not interfere; and that Hizdahr would marry Daenerys and become the king of Meereen. Daenerys did not like those terms, especially the second, but agreed. To celebrate the peace treaty, Hizdahr ordered to open the fighting pits.\n",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 26,
+   "Scene": "Daenerys tries to control her dragons",
+   "Scene End": "0:41:20",
+   "Duration": "0:01:42",
+   "Comparison": "In the series, Daenerys visits her dragon after chaining them, only to be threatened and terrified by her dragons.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 27,
+   "Scene": "Jon convince Mance to kneel to Stannis",
+   "Scene End": "0:45:50",
+   "Duration": "0:04:30",
+   "Comparison": "In the books, Jon never went to see Mance, and Stannis never asked him to convince him to kneel.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 28,
+   "Scene": "Mance burnt alive",
+   "Scene End": "0:50:25",
+   "Duration": "0:04:35",
+   "Comparison": "In the series, Mance was very calm during his execution. But in the books, Mance was not very calm, he was screaming and begging until his death. He was also burned in a wooden cage hanging over a pit of fire north of the Wall, in front of a thousand wildling prisoners.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 29,
+   "Scene": "Jon shoots Mance with an arrow",
+   "Scene End": "0:50:48",
+   "Duration": "0:00:23",
+   "Comparison": "In the series, Jon shots an arrow to Mance to kill him mercifully, end his suffering from being burnt alive. In the books, it was not Jon himself but several archers on his orders who shot Mance: Ulmer, Donnel Hill, Garth Greyfeather, and Bearded Ben. Mance never actually died. He is still alive in the books. The person who was executed was Rattleshirt, who had been magically altered to look like Mance.",
+   "Rating": "MIXED"
+ }
+]

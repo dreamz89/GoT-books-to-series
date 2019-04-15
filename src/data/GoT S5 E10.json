@@ -1,0 +1,242 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:54",
+   "Duration": "0:01:48",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Nearly half of Stannis' army deserted him",
+   "Scene End": "0:03:34",
+   "Duration": "0:01:40",
+   "Comparison": "",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Selyse commits suicide",
+   "Scene End": "0:04:40",
+   "Duration": "0:01:06",
+   "Comparison": "In the series, Selyse was seen hanging on a tree. In the books, she is still alive.",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 3,
+   "Scene": "Sam suggests that he and Gilly goes to Oldtown",
+   "Scene End": "0:08:53",
+   "Duration": "0:04:13",
+   "Comparison": "In the series, Sam asks Jon to let him and GIlly go to Oldtown to study. In the books, Samwell leaves for Oldtown earlier in the books, and it was Jon's idea, as he wants someone to research the Others (White Walkers) in the Citadel's archives. Sam actually does not want to leave or become a maester, and Jon has to persuade him forcefully. They leave with Maester Aemon and Mance Rayder's son instead of Gilly's, as Jon wants to keep Aemon and Mance's son out of Melisandre's hands, fearing she may try to burn them for the King's blood she requires for her magic.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Stannis marches with his army to Winterfell",
+   "Scene End": "0:09:30",
+   "Duration": "0:00:37",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 5,
+   "Scene": "Sansa escapes her room",
+   "Scene End": "0:10:14",
+   "Duration": "0:00:44",
+   "Comparison": "In the series, Sansa escapes her room. In the books, Jeyne (Ramsay's wife in the books) does not attempt to escape on her own, the escape attempt is triggered by Mance Raider and six spearwives sent by Jon Snow and Melisandre (on the misapprehension they were rescuing Arya",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Pod reports to Brienne that Stannis' army is coming",
+   "Scene End": "0:11:29",
+   "Duration": "0:01:15",
+   "Comparison": "In the series, while Brienne and Pod watches over Sansa in Winterfell, Stannis' army arrives. Pod then reports it to Brienne. In the books, Brienne and Podrick are still in the Riverlands when the battle at Winterfell occurs.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Bolton's army fights Stannis' army",
+   "Scene End": "0:14:15",
+   "Duration": "0:02:46",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 8,
+   "Scene": "Brienne kills Stannis",
+   "Scene End": "0:18:11",
+   "Duration": "0:03:56",
+   "Comparison": "In the series, after Stannis' defeat, Brienne finds Stannis weak and kills him. In the books, Brienne is still in Riverlands and is unlikely to kill Stannis.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Theon kills Marcella",
+   "Scene End": "0:18:51",
+   "Duration": "0:00:40",
+   "Comparison": "In the series, during Sansa's attempt to escape on her own, Marcella caught Sansa. Theon then killed Marcella to help Sansa escape. In the books, Theon didn't kill anyone during the escape attempt. The spearwives Holly and Frenya kill two guards. Prior to the escape, several people in Winterfell are brutally murdered by unknown people, presumably by Mance and the spearwives. Among them are one of Ramsay's men, Yellow Dick, and one of his squires, \"Little\" Walder Frey.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Theon and Sansa jumps from the wall",
+   "Scene End": "0:19:34",
+   "Duration": "0:00:43",
+   "Comparison": "In the series, Theon and Sansa jumps down of the wall after Ramsay arrives back from the war. In the books, the escape takes place before the battle, as the escapees realize their best chance is to link up with Stannis's army before the Bolton forces reach him. Holly, one of the spearwives, is killed when the alarm is raised (the fate of Mance and the rest of the spearwives is unknown), prompting Theon and Jeyne to jump off the walls to evade capture.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Sansa kills Ser Meryn",
+   "Scene End": "0:22:55",
+   "Duration": "0:03:21",
+   "Comparison": "In the series, Arya pretends to be girl whore and killed Ser Meryn in a brothel. In the books, Arya has not killed Ser Meryn Trant. She instead killed Rafford \"The Sweetling\" and she only stabs him twice. Ser Meryn is still alive in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Arya became blind",
+   "Scene End": "0:25:39",
+   "Duration": "0:02:44",
+   "Comparison": "In the series, after Arya kills Ser Meryn, she was punished of blindness. In the books, Arya becomes blind before she kills Raff the Sweetling. She is punished for killing Dareon, a brother of the Night's Watch who deserted and who she came across while in Braavos. Also, in the books, she goes blind after drinking poisoned milk.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Myrcella knows that Jaime is her father",
+   "Scene End": "0:29:20",
+   "Duration": "0:03:41",
+   "Comparison": "In the series, Jaime tried to tell Myrcella that she is his daughter, but Myrcella tells Jaime that she knew. In the books, Myrcella does not show any awareness that the rumors that Jaime is her father are true. Also, so far in the books, Jaime has not told Myrcella he is her father. While he is in the Riverlands, he considers revealing that to Myrcella, but fears that will make the Martells break her betrothal to Trystane.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 14,
+   "Scene": "Myrcella dies",
+   "Scene End": "0:30:47",
+   "Duration": "0:01:27",
+   "Comparison": "In the series, Myrcella dies just after leaving Dorne in the ship. In the books, the attempt on Myrcella's life was performed at an earlier point, not by poison, nor by Ellaria and the Sand Snakes (who never sought to harm Myrcella). Ser Gerold \"Darkstar\" Dayne injured her severely in attempt to behead her. She survived, but was disfigured permanently.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tyrion governs Mereen while Daenerys is away",
+   "Scene End": "0:35:19",
+   "Duration": "0:04:32",
+   "Comparison": "In the series, Daario suggested that Tyrion remain in Mereen to govern in while Daenerys is away. In the books, Barristan Selmy rules Meereen while Daenerys is missing instead of Tyrion.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 16,
+   "Scene": "Varys reunites with Tyrion in Mereen",
+   "Scene End": "0:36:45",
+   "Duration": "0:01:26",
+   "Comparison": "In the series, Varys arrives and is reunited with Tyrion in Mereen. In the books, Varys is not believed to have been to Meereen since Daenerys took over. He is currently in King's Landing, and murders two people with a crossbow in order to fool Cersei into thinking Tyrion is still in the capital.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Daenerys leaves a ring as a breadcrumb",
+   "Scene End": "0:40:35",
+   "Duration": "0:03:50",
+   "Comparison": "In the series, Daenerys leaves her ring as breadcrumb before being taken by Khalasar. In teh series, Daenerys does not leave a ring behind as a breadcrumb. Drogon is at her side when the khalasar finds her.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Cersei confesses to High Septon",
+   "Scene End": "0:44:49",
+   "Duration": "0:04:14",
+   "Comparison": "In the series, Cersei confessed that she laid with her cousin Lancel. In the books, Cersei admits that she has slept with Lancel and Osney Kettleblack - but claims she did that after Robert's death, not before. She denies that she ever cheated on Robert, and does not mention his whoring to justify her deeds. The High Septon questions her about the rest of the charges: the murder of the previous High Septon, her plot against Margaery, Robert's murder, the incest with Jaime and that her children are born of incest and adultery - and she denies them all.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Cersei's hair cut as part of her atonement",
+   "Scene End": "0:52:44",
+   "Duration": "0:07:55",
+   "Comparison": "In the series, after Cersei confesses, she was asked to atone for her sins, and her hair was cut. In the books, Cersei's hair is shaved off completely, including all her body hair.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Cersei's walk of atonement",
+   "Scene End": "0:53:07",
+   "Duration": "0:00:23",
+   "Comparison": "In the series, Cersei performed her walk of atonement shamely. In the books, ss Cersei performs her walk of atonement, she thinks back to Ned's execution and blames Joffrey for flouting the arrangement to have Ned exiled to the Wall. She also sees people who remind her of Robert, Tywin, and Melara. She also imagines she sees Ned, and beside him Sansa with a shaggy grey dog that might be Lady. She also imagines she sees Tyrion and Joffrey.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 21,
+   "Scene": "The new part of Kingsguard",
+   "Scene End": "0:53:55",
+   "Duration": "0:00:48",
+   "Comparison": "In the series, after Cersei returns from her walk of atonement, Qyburn introduces her the new part of the Kingsguard. In the books, the huge knight is introduced by Qyburn as \"Ser Robert Strong\" in the books, whereas in the series he is introduced by Qyburn without mentioning any name. However, in both, it is highly suggested the true identity is Ser Gregor Clegane after Qyburn finished his experiments on him.\n",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Davos returns to the Wall to asl Jon help Stannis",
+   "Scene End": "0:54:20",
+   "Duration": "0:00:25",
+   "Comparison": "In the series, Stannis sent Davos back to the Wall to ask Jon's help. In the books, Davos has not returned to The Wall since Stannis marched.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 23,
+   "Scene": "Melisandre returns to the Wall",
+   "Scene End": "0:55:04",
+   "Duration": "0:00:44",
+   "Comparison": "",
+   "Rating": "Unknown"
+ },
+ {
+   "Image": 24,
+   "Scene": "Jon receives a letter from Ramsay",
+   "Scene End": "0:55:44",
+   "Duration": "0:00:40",
+   "Comparison": "In the series, Jon receives a letter from Ramsay Bolton. In the books, Jon receives a threatening letter (allegedly) from Ramsay Bolton. This letter claims that Stannis has been killed and demands that Jon send Selyse, Shireen, Melisandre, Val, Mance's son (who are all present at the Wall) and Reek (who is not at Castle Black and whose identity is unknown to Jon) to the Boltons. Jon is horrified by the letter and refuses its demands. He discusses what to do with Tormund, who is with Jon when Jon receives the letter. At Shieldhall, Jon reads the letter to the Watch and gathered wildlings, after which he announces his intention to march south and confront Ramsay. The wildlings are moved by Jon's words and volunteer to join him while Bowen and a group of Watchmen disappear from the hall. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 25,
+   "Scene": "The mutiny",
+   "Scene End": "0:56:36",
+   "Duration": "0:00:52",
+   "Comparison": "In the series, the mutiny was because of Jon's decision to welcome the wildlings. In the books, the reasons for the mutiny in the books are multi-layered and build up over the period of the fifth book: tension develops between Jon and a faction of his officers due to both Jon's alliance with the wildlings, which Bowen and his party vehemently oppose, and their feeling that Jon is taking sides in the political conflicts of the realm. They dislike the aid Jon provides to Stannis in return for Stannis saving the Watch as they fear the wrath of the Iron Throne. Jon's intention to confront Ramsay, effectively compromising the Watch's neutrality, may have been the straw that breaks the camel's back that leads to the mutiny.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 26,
+   "Scene": "Othell Yarwyck is part of the asassins",
+   "Scene End": "0:57:06",
+   "Duration": "0:00:30",
+   "Comparison": "In the series, Yarwyck is one of those who stabbed Jon. In the books, Of the Watch's first officers, only Marsh is described as being one of the assassins: Yarwyck is not mentioned while Thorne is not present in Castle Black at the time of the mutiny - Jon sent him earlier on a mission that he has not returned from. All three are present at the assassination in the series. Jon is first stabbed by the steward Wick Whittlestick, then by Marsh. He is stabbed at least twice more, but does not notice who gave him those stabs.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 27,
+   "Scene": "Olly stabs Jon",
+   "Scene End": "0:58:12",
+   "Duration": "0:01:06",
+   "Comparison": "In the series, Olly was shown sobbing before stabbing Jon. In the books, Bowen Marsh is the one who weeps while stabbing Jon.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 28,
+   "Scene": "Jon dies from the stabs",
+   "Scene End": "0:58:45",
+   "Duration": "0:00:33",
+   "Comparison": "In the series, Jon dies quietly in the snow after being stabbed mutliple times. In the books, Jon whispers \"Ghost\" before losing consciousness.\nThe book does not confirm whether or not Jon was killed in the attack, as the chapter ends with Jon losing consciousness, though George R. R. Martin has implied that Jon may have survived.",
+   "Rating": "MIXED"
+ }
+]
