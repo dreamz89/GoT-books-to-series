@@ -46,8 +46,8 @@
         <div class="description-wrap" v-show="sn === drilldown.season">
           <div class="inner-wrap">
             <div class="navigation">
-              <div @click="up">&#11014;</div>
-              <div @click="down">&#11015;</div>
+              <img @click="up" src="nav-icon.svg"/>
+              <img @click="down" src="nav-icon.svg"/>
             </div>
             <div class="content">
               <img src="close-icon.svg" @click="closeDescription" />
@@ -273,6 +273,10 @@ export default {
       &.expand {
         width: 100%;
 
+        @media (max-width: 768px) {
+          margin-left: -5px;
+        }
+
         .episodes {
           display: inline-block;
           width: calc(100% / 7);
@@ -282,6 +286,10 @@ export default {
           display: inline-block;
           width: calc(100% / 7 * 6 - 20px);
           opacity: 1;
+
+          @media (max-width: 768px) {
+            width: calc(100% / 7 * 6 - 10px);
+          }
         }
       }
 
@@ -309,11 +317,19 @@ export default {
             flex-direction: column;
             margin-top: 30px;
 
-            div {
+            img {
               margin: 0 5px 15px;
-              font-size: 28px;
-              color: #C0CAC9;
+              width: 30px;
+              transform: rotate(90deg);
               cursor: pointer;
+
+              &:first-child {
+                transform: rotate(-90deg);
+              }
+
+              @media (max-width: 480px) {
+                width: 20px;
+              }
             }
           }
 
