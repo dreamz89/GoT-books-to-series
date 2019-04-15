@@ -1,0 +1,191 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "The Hound is in a community",
+   "Scene End": "0:01:50",
+   "Duration": "0:01:44",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "The Hound's fate remains unknown; he does not appear after Arya leaves him to die in the third novel. His reappearance is taken from a fan theory based on clues in a chapter from the fourth novel, \"A Feast for Crows\".\nThere is no book character named Septon Ray. He is based on two book characters whom Brienne meets in A Feast for Crows - Septon Meribald and the Elder Brother."
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:03:38",
+   "Duration": "0:01:48",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 2,
+   "Scene": "Why the Hound keeps going",
+   "Scene End": "0:06:54",
+   "Duration": "0:03:16",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 3,
+   "Scene": "Margaery is converted to the new way",
+   "Scene End": "0:09:44",
+   "Duration": "0:02:50",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 4,
+   "Scene": "Margaery speaks to Lady Olenna",
+   "Scene End": "0:12:15",
+   "Duration": "0:02:31",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Willas Tyrell, not Loras, is the heir of Highgarden.\nSepta Unella watches Cersei while she is imprisoned, not Margaery. Cersei is the one who threatens to kill her."
+ },
+ {
+   "Image": 5,
+   "Scene": "Jon convinces the wildlings to ally with him",
+   "Scene End": "0:15:17",
+   "Duration": "0:03:02",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 6,
+   "Scene": "Cersei tries to talk Lady Olenna out of leaving King's Landing",
+   "Scene End": "0:17:28",
+   "Duration": "0:02:11",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 7,
+   "Scene": "Jaime and Bronn arrive at the siege of Riverrun",
+   "Scene End": "0:19:04",
+   "Duration": "0:01:36",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "The High Sparrow has nothing to do with Jaime's mission to conquer Riverrun.Jaime leads nearly 1,000 soldiers to Riverrun, not 8,000. Ilyn Payne, not Bronn, accompanies him.\nJaime never promises Bronn anything."
+ },
+ {
+   "Image": 8,
+   "Scene": "Jaime takes over command of the siege",
+   "Scene End": "0:22:39",
+   "Duration": "0:03:35",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Ryman Frey commands the Frey troops which besiege Riverrun. He is the one who threatens to hang Edmure, and beaten by Jaime.\nNo one threatens to slit Edmure's throat.\nLame Lother does not take part in the siege of Riverrun.\nDaven Lannister builds siege machines before Jaime arrives.\nJaime orders to release Edmure from the gallows after, not before the parley with Blackfish."
+ },
+ {
+   "Image": 9,
+   "Scene": "Jon talks to Lady Mormont of Bear Island",
+   "Scene End": "0:28:00",
+   "Duration": "0:05:21",
+   "Comparison": "",
+   "Rating": "TRUE",
+   "Difference": "The fate of Maege Mormont and Galbart Glover is uncertain. Before going to the Twins, Robb sent them on a mission to the north. It is unknown what happened to them. In the fifth novel, her second daughter Alysane comments that her sisters Jorelle and Lyra are with their mother, but does not say where."
+ },
+ {
+   "Image": 10,
+   "Scene": "Kingslayer and the Blackfish parley",
+   "Scene End": "0:31:30",
+   "Duration": "0:03:30",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "During the parley, Jaime offers Blackfish to resolve the siege by a duel between their champions. Blackfish refuses.\nBrynden states that he agreed to parley because he wanted to hear Jaime's excuses for not returning Sansa and Arya as promised, and also to see his stump. Jaime offers to settle the matter by single combat between them. Brynden laughs at the prospect, but refuses, as it would gain him nothing but the pleasure of killing Jaime. Jaime thinks wistfully that such a duel would have been great once, similar to a comment made in the series by Areo Hotah."
+ },
+ {
+   "Image": 11,
+   "Scene": "Lord Glover refuses to join the war",
+   "Scene End": "0:34:00",
+   "Duration": "0:02:30",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "The fate of Maege Mormont and Galbart Glover is uncertain. Before going to the Twins, Robb sent them on a mission to the north. It is unknown what happened to them. In the fifth novel, her second daughter Alysane comments that her sisters Jorelle and Lyra are with their mother, but does not say where.\nJared Frey, not Robett Glover (who is loyal to the Starks), speaks ill about Robb."
+ },
+ {
+   "Image": 12,
+   "Scene": "Yara asks Theon to man up",
+   "Scene End": "0:37:43",
+   "Duration": "0:03:43",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Theon says the sentence \"The gods are not done with me\" about himself.\nIt is Victarion Greyjoy, not Asha and Theon (who are held captive at Stannis's camp) who arrives at Volantis on the way to Meereen.\nEuron does not hunt Asha and Theon.\nYara Greyjoy (called \"Asha\" in the books) is not bisexual, and never has a sexual encounter with a female."
+ },
+ {
+   "Image": 13,
+   "Scene": "Sansa tells Jon they need more men",
+   "Scene End": "0:39:30",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 14,
+   "Scene": "Sansa writes a letter",
+   "Scene End": "0:40:01",
+   "Duration": "0:00:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 15,
+   "Scene": "Three men on horses try to extort the community",
+   "Scene End": "0:43:31",
+   "Duration": "0:03:30",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "There is no book character named Septon Ray. He is based on two book characters whom Brienne meets in A Feast for Crows - Septon Meribald and the Elder Brother.\nSepton Meribald does not give a speech about wars and broken men in public, but tells it to Brienne."
+ },
+ {
+   "Image": 16,
+   "Scene": "The Hound thinks they should protect themselves",
+   "Scene End": "0:44:45",
+   "Duration": "0:01:14",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 17,
+   "Scene": "Arya books passage back to Westeros",
+   "Scene End": "0:45:32",
+   "Duration": "0:00:47",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 18,
+   "Scene": "Arya is stabbed by the Waif in disguise",
+   "Scene End": "0:47:26",
+   "Duration": "0:01:54",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 19,
+   "Scene": "The Hound finds the community all dead",
+   "Scene End": "0:48:57",
+   "Duration": "0:01:31",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "The Hound's fate remains unknown; he does not appear after Arya leaves him to die in the third novel.\nNone of the Brotherhood have gone rogue and killed harmless villagers."
+ }
+]

@@ -1,0 +1,227 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:56",
+   "Duration": "0:01:50",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Bran has visions while being dragged though the forest",
+   "Scene End": "0:04:07",
+   "Duration": "0:02:11",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 2,
+   "Scene": "A mysterious horseman appears",
+   "Scene End": "0:05:25",
+   "Duration": "0:01:18",
+   "Comparison": "",
+   "Rating": "TRUE",
+   "Difference": "Coldhands makes his first appearance much earlier in the novels, when he saves Sam and Gilly from wights.\n\nColdhands does not use a sickle and a flaming flail to fight the wights, but a sword."
+ },
+ {
+   "Image": 3,
+   "Scene": "Fleeing from the undead on horseback",
+   "Scene End": "0:05:48",
+   "Duration": "0:00:23",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 4,
+   "Scene": "Sam and Gilly on the way back to Sam's hometown",
+   "Scene End": "0:07",
+   "Duration": "0:02:09",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Sam and Gilly do not travel straight to Oldtown, but stop in Braavos first, where Sam meets Arya. From there they travel to Oldtown with Maester Aemon, who passes away during the voyage."
+ },
+ {
+   "Image": 5,
+   "Scene": "Sam and Gilly meet Sam's mother and sister",
+   "Scene End": "0:10:15",
+   "Duration": "0:02:18",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "At Oldtown, Sam goes to the Citadel first. By the point the books reached, he has not brought Gilly and the baby to Horn Hill, he intends to do that later.\n\nRandyll Tarly is not at Horn Hill at the time Sam and Gilly arrive at Oldtown, but in King's Landing.\n\nThe baby Gilly carries is not her son, but Mance Rayder's son (omitted from the show). Jon forced her to switch the babies, fearing that Melisandre would sacrifice him. Gilly's baby, who was not given a name yet, remains at Castle Black.\n\nThere is no mentioning in the books that Randyll Tarly intends to wed Talla to a member of House Fossoway or anyone else."
+ },
+ {
+   "Image": 6,
+   "Scene": "Tommen speaks with the High Sparrow about Margaery",
+   "Scene End": "0:11:12",
+   "Duration": "0:00:57",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 7,
+   "Scene": "Tommen visits Margaery in prison",
+   "Scene End": "0:14:09",
+   "Duration": "0:02:57",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Tommen does not visit Margaery in prison. In fact, he has no idea she is imprisoned."
+ },
+ {
+   "Image": 8,
+   "Scene": "Sam sees Gilly in a pretty dress",
+   "Scene End": "0:14:49",
+   "Duration": "0:00:40",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 9,
+   "Scene": "Sam's father is told that Gilly is a wildling",
+   "Scene End": "0:21:13",
+   "Duration": "0:06:24",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Randyll Tarly forced Sam to join the Night's Watch in order to deny him of his inheritance rights, not to make him tougher or to kill wildlings. The former was given by Sam as his reason for taking the black in Season 1.\n\nThere is no mentioning in the books that Randyll Tarly hates the wildlings."
+ },
+ {
+   "Image": 10,
+   "Scene": "Sam takes Gilly with him",
+   "Scene End": "0:23:11",
+   "Duration": "0:01:58",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 11,
+   "Scene": "Sam takes his family sword",
+   "Scene End": "0:23:43",
+   "Duration": "0:00:32",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 12,
+   "Scene": "Arya watches a comedy play",
+   "Scene End": "0:26:29",
+   "Duration": "0:02:46",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 13,
+   "Scene": "Arya prevents her target from taking the poison",
+   "Scene End": "0:31:07",
+   "Duration": "0:04:38",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Arya does kill her first target for the Faceless Men, by poisoning a coin (the man bites every coin to make sure they're not fake), and continues her training, becoming an apprentice to a Faceless master. Then she is sent to Izembaro's theatre. She has not been ordered yet to kill any of the actors or anyone else."
+ },
+ {
+   "Image": 14,
+   "Scene": "Arya retrieves Needle from the hiding place",
+   "Scene End": "0:31:24",
+   "Duration": "0:00:17",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 15,
+   "Scene": "Jaqen tells his student to \"not let her suffer\"",
+   "Scene End": "0:32:28",
+   "Duration": "0:01:04",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 16,
+   "Scene": "Jaime meets the calvary",
+   "Scene End": "0:33:28",
+   "Duration": "0:01:00",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 17,
+   "Scene": "Jaime takes Margaery from the High Sparrow",
+   "Scene End": "0:36:12",
+   "Duration": "0:02:44",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Jaime never threatens the High Sparrow, nor does he contemplates about assassinating him.\n\nThe Tyrells do not try to free Margaery by force. The High Sparrow agrees to hand her and her cousins to Randyll Tarly's custody. Tommen does not have anything to do with that.\n\nMargaery is not yet forced to perform the walk of atonement."
+ },
+ {
+   "Image": 18,
+   "Scene": "High Sparrow announces that Tommen has joined the faith",
+   "Scene End": "0:38:09",
+   "Duration": "0:01:57",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Tommen does not join the Faith."
+ },
+ {
+   "Image": 19,
+   "Scene": "Jaime is dismissed from the Kingsguard",
+   "Scene End": "0:39:15",
+   "Duration": "0:01:06",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Jaime is not dismissed from his office as the Lord Commander of the Kingsguard.\n\nJaime is not reluctant to go to Riverrun. He is glad to get far from King's Landing and the company of the lickspittles and fools who surround Cersei."
+ },
+ {
+   "Image": 20,
+   "Scene": "Walder Frey wants to march on Riverrun",
+   "Scene End": "0:41:33",
+   "Duration": "0:02:18",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Lame Lothar is not involved in the campaign of conquering Riverrun. Walder Rivers participates, but it is Ryman Frey, Lord Frey's grandson, who commands the Frey force that marches on Riverrun.\n\nThe Brotherhood Without Banners members do not rally commoners against the Freys, nor do they raid the Freys' supply trains and camps. They act independently, on smaller scale, hunt for lone Freys and hang them.\n\nThe Mallisters and Blackwoods have not risen against the Freys. They passively refuse to yield to the Iron Throne in contrast to many other Riverlands lords, but at the same time they take no active actions against the Freys."
+ },
+ {
+   "Image": 21,
+   "Scene": "Jaime and Cersei make plans agains the High Sparrow",
+   "Scene End": "0:43:32",
+   "Duration": "0:01:59",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 22,
+   "Scene": "Tommen and Meera discover the identity of the horseman",
+   "Scene End": "0:45:59",
+   "Duration": "0:02:27",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "The true identity of the mysterious person, known as \"Coldhands\", has not been revealed yet. It has been speculated that he is Benjen Stark (though George R.R. Martin has denied it). As of the end of A Dance with Dragons, Benjen's fate is unknown."
+ },
+ {
+   "Image": 23,
+   "Scene": "Daenerys gives a motivational speech",
+   "Scene End": "0:50:03",
+   "Duration": "0:04:04",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ }
+]

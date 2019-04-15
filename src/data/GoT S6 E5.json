@@ -1,0 +1,227 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:54",
+   "Duration": "0:01:48",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Sansa receives a letter",
+   "Scene End": "0:02:25",
+   "Duration": "0:00:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 2,
+   "Scene": "Sansa is furious at Petyr for marrying her to Ramsay",
+   "Scene End": "0:06:38",
+   "Duration": "0:04:13",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": "Brienne has never encountered Littlefinger."
+ },
+ {
+   "Image": 3,
+   "Scene": "Arya does not manage to defeat the girl",
+   "Scene End": "0:08:27",
+   "Duration": "0:01:49",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "It is not the Waif, but a man whom Arya refers to as \"plague face\", who strikes her and says she does not belong there because her heart is too soft to be one of them. Still, he gives her a chance to join them."
+ },
+ {
+   "Image": 4,
+   "Scene": "Jaqen shows Arya the hall of faces and gives her an assignment",
+   "Scene End": "0:10:01",
+   "Duration": "0:01:34",
+   "Comparison": "",
+   "Rating": "TRUE",
+   "Difference": "There is no mentioning in the books that Braavos was founded by the Faceless Men."
+ },
+ {
+   "Image": 5,
+   "Scene": "Arya watches a play about the Lannisters and Starks",
+   "Scene End": "0:13:50",
+   "Duration": "0:03:49",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Arya is not a spectator but one of the cast of actors.\nThere is no character named Bianca in the books. It is Arya who plays the role of the maid. The maid's name is not mentioned.\nThe play does not include Ned Stark's character"
+ },
+ {
+   "Image": 6,
+   "Scene": "Arya is in disguise backstage",
+   "Scene End": "0:14:46",
+   "Duration": "0:00:56",
+   "Comparison": "",
+   "Rating": "TRUE",
+   "Difference": "The actress who plays the role of Cersei is called Lady Stork, not Crane."
+ },
+ {
+   "Image": 7,
+   "Scene": "Arya asks about her assignment",
+   "Scene End": "0:15:53",
+   "Duration": "0:01:07",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "It is unknown yet for what purpose the Kindly Man orders Arya to join the theatre, and whom (if at all) she is assigned to kill."
+ },
+ {
+   "Image": 8,
+   "Scene": "Bran's vision shows how the White Walkers were made",
+   "Scene End": "0:17:54",
+   "Duration": "0:02:01",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Bran's visions do not include Hodor, the Night King and the Others.\nThere is no mentioning in the books who created the Others."
+ },
+ {
+   "Image": 9,
+   "Scene": "Claimants for the Salt Throne",
+   "Scene End": "0:23:32",
+   "Duration": "0:05:38",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Theon is not present at the kingsmoot. He is imprisoned at Dreadfort at that point. No one takes notice of his absence.\nAsha is not the first claimant but the fifth, following Gylbert Farwynd, Erik Ironmaker, Dunstan Drumm and Victarion.\nAsha does not promise to build a fleet. Instead she offers the crowd to make peace with the Northmen.\nEuron draws the ironborn's attention by ordering one of his followers to blow a horn.\nNone of the ironborn know that Theon was castrated; it is never explicitly stated to the readers that he has been.\nAsha never explicitly accuses Euron of murdering her father. She only says it is suspicious that he returned one day after Balon's death.\nEuron never admits in public that he killed Balon. In a sample chapter of the sixth novel he admits to Aeron that (and that he killed two more of his brothers), but in private.\nEuron speaks in public about the dragons, not about Daenerys. He reveals his intentions to wed her only to his brother Victarion, in private."
+ },
+ {
+   "Image": 10,
+   "Scene": "Euron is crowned while Theon and Yara escape",
+   "Scene End": "0:26:54",
+   "Duration": "0:03:22",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Euron is not baptised during his coronation.\nAeron does not accept Euron as the king, nor does he drown him. He disappears shortly after the kingsmoot, and later it is revealed he was imprisoned by Euron.\nEuron does not intend to kill Asha, and does not care about Theon. In Asha's absence, he marries her to Erik Ironmaker, whom Asha ridiculed at the kingsmoot.\nAsha does not steal any ships. She returns to Deepwood Motte with her own ships and crew.\nEuron does not order to build even one ship, because he has hundreds of ships at his disposal, in addition to the Iron fleet."
+ },
+ {
+   "Image": 11,
+   "Scene": "Daenerys commands Jorah to find a cure and return",
+   "Scene End": "0:30:04",
+   "Duration": "0:03:10",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": ""
+ },
+ {
+   "Image": 12,
+   "Scene": "Discussion about the people of Meeren",
+   "Scene End": "0:31:13",
+   "Duration": "0:01:09",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Hizdahr somehow put a temporary stop to the killings of the Sons of Harpy, at Daenerys's request."
+ },
+ {
+   "Image": 13,
+   "Scene": "Tyrion and Varys meet with a Red Priestess",
+   "Scene End": "0:35:48",
+   "Duration": "0:04:35",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "No Red Priests are in Meereen or invited there. Moqorro is on the way to Meereen, but has not arrived yet.\nThere is no character named Kinvara in the books. Her character is a combination of the Volantene High Priest Benerro, and the priest Moqorro whom Benerro sends to Meereen to help Daenerys.\nMaester Aemon is the one who reaches the conclusion that Daenerys is \"the prince that was promised\"."
+ },
+ {
+   "Image": 14,
+   "Scene": "Bran's vision of the army of dead men outside the tree",
+   "Scene End": "0:39:07",
+   "Duration": "0:03:19",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Bran's visions do not include Hodor, the Night King and the Others."
+ },
+ {
+   "Image": 15,
+   "Scene": "Bran has to leave the tree",
+   "Scene End": "0:39:56",
+   "Duration": "0:00:49",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 16,
+   "Scene": "Discussion about allies to retake Winterfell",
+   "Scene End": "0:42:25",
+   "Duration": "0:02:29",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Brynden never retook Riverrun as Robb placed him in charge of the castle before his ill-fated journey to the Twins.\nIt is Robb who states that the Karstarks will turn against him because of Rickard's death.\nThe houses Jon mentions - Mormonts, Cerwyns, Glovers, Hornwood and others (half of the Umbers) - join Stannis. The Mormonts join him during his attack against the ironborn who occupy Deepwood Motte; the other houses join him after he liberates the castle.\nThere is no House Mazin in the books.\nSansa knows that her great-uncle Brynden is under siege in Riverrun, but has no intentions to go there or assist him."
+ },
+ {
+   "Image": 17,
+   "Scene": "Brienne protests against leaving Sansa",
+   "Scene End": "0:43:39",
+   "Duration": "0:01:14",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 18,
+   "Scene": "Jon and Sansa leave Castle Black",
+   "Scene End": "0:45:33",
+   "Duration": "0:01:54",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 19,
+   "Scene": "Meera discovers the dead army",
+   "Scene End": "0:47:24",
+   "Duration": "0:01:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 20,
+   "Scene": "Battle inside the cave",
+   "Scene End": "0:51:27",
+   "Duration": "0:04:03",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 21,
+   "Scene": "Three-eyed raven is killed by the White Walkers",
+   "Scene End": "0:52:02",
+   "Duration": "0:00:35",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 22,
+   "Scene": "Mad chase down the tunnel",
+   "Scene End": "0:53:17",
+   "Duration": "0:01:15",
+   "Comparison": "In the books, the wights move slowly and clumsily.",
+   "Rating": "FALSE",
+   "Difference": "In the books, the wights move slowly and clumsily."
+ },
+ {
+   "Image": 23,
+   "Scene": "Hold the door",
+   "Scene End": "0:55:25",
+   "Duration": "0:02:08",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": "Bran's visions do not include Hodor, the Night King and the Others."
+ }
+]

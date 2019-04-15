@@ -1,0 +1,173 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:54",
+   "Duration": "0:01:48",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Tyrion advises Daenerys on the defence plan",
+   "Scene End": "0:04:37",
+   "Duration": "0:02:43",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "By the time the battle starts, Daenerys has not yet returned to Meereen.\n\nVolantis has joined the slavers' coalition against Daenerys, but by the time the battle starts, its fleet has not arrived yet to the Slaver's Bay."
+ },
+ {
+   "Image": 2,
+   "Scene": "Daenerys destroys the enemy ships",
+   "Scene End": "0:07:22",
+   "Duration": "0:02:45",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Once the besiegers start catapulting at Meereen, there are no further attempts of parley.\n\nThe Yunkai lords never demanded to return the Unsullied Daenerys acquired at Astapor, nor Missandei.\n\nRhaegal and Viserion do not get free on their own. Quentyn Martell unintentionally set them free in attempt to steal them."
+ },
+ {
+   "Image": 3,
+   "Scene": "Grey Worm kills two of the Masters",
+   "Scene End": "0:11:17",
+   "Duration": "0:03:55",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Yezzan is one of the prominent Wise Masters, not an \"outsider lowborn\" and was on the verge of being chosen as supreme commander of the Yunkish forces before his death. He dies before the battle begins, having contracted the bloody flux."
+ },
+ {
+   "Image": 4,
+   "Scene": "Jon meets Ramsay",
+   "Scene End": "0:16:05",
+   "Duration": "0:04:48",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 5,
+   "Scene": "Sansa warns Jon about Ramsay",
+   "Scene End": "0:20:39",
+   "Duration": "0:04:34",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "It is Stannis, not Jon, who states that he does not fear Ramsay since he has defeated much worse enemies. Theon is the one who responds \"You do not know him\"."
+ },
+ {
+   "Image": 6,
+   "Scene": "Tormund and Davos chat",
+   "Scene End": "0:22:35",
+   "Duration": "0:01:56",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Mance Rayder is not dead. It was Lord of Bones whom Stannis executed, disguised like Mance by Melisandre's magic."
+ },
+ {
+   "Image": 7,
+   "Scene": "Jon tell Melisandre not to bring him back again",
+   "Scene End": "0:24:35",
+   "Duration": "0:02:00",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 8,
+   "Scene": "Davos finds Shireen's toy",
+   "Scene End": "0:26:03",
+   "Duration": "0:01:28",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 9,
+   "Scene": "Yara and Theon offer their allegiance to Daenerys",
+   "Scene End": "0:30:06",
+   "Duration": "0:04:03",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "It is Victarion Greyjoy, not Theon and Asha (who are held captives at Stannis's camp), who sails to Meereen. His fleet initially contained 93 ships, but nearly half of them was lost. He has only just reached Meereen in time to participate in the second Battle of Meereen.\n\nTheon never admitted that the children he killed were not Bran and Rickon. Tyrion, and anyone else who heard about the alleged killing of the Stark boys, never doubted that.\n\nNeither Asha nor anyone else ever claimed that Euron murdered Balon.\n\nJaime has never told anyone, except Brienne, about the Mad King's plan to destroy King's Landing by wildfire, and the reason for killing him.\n\nDaenerys was never told about her father's plan to destroy King's Landing with wildfire.\n\nDaenerys never spoke ill about her father.\n\nAsha did not mean to continue raiding. At the kingsmoot, her platform was to make peace with the north."
+ },
+ {
+   "Image": 10,
+   "Scene": "Ramsay shoots down Rickon",
+   "Scene End": "0:36:30",
+   "Duration": "0:06:24",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Rickon's fate is unknown. It is reported he went to Skagos, along with Osha and Shaggydog."
+ },
+ {
+   "Image": 11,
+   "Scene": "The Battle of the Bastards",
+   "Scene End": "0:42:16",
+   "Duration": "0:05:46",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": "Smalljon Umber was killed during the Red Wedding whilst protecting Robb."
+ },
+ {
+   "Image": 12,
+   "Scene": "The men are surrounded by shields",
+   "Scene End": "0:47:50",
+   "Duration": "0:05:34",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 13,
+   "Scene": "Reinforcements arrive for Jon's army",
+   "Scene End": "0:50:57",
+   "Duration": "0:03:07",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 14,
+   "Scene": "Jon's army breaches Winterfell",
+   "Scene End": "0:51:54",
+   "Duration": "0:00:57",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 15,
+   "Scene": "Jon vs Ramsay",
+   "Scene End": "0:53:30",
+   "Duration": "0:01:36",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 16,
+   "Scene": "Dealing with the dead",
+   "Scene End": "0:54:24",
+   "Duration": "0:00:54",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "In the show, Jon says \"We're going to bury my brother in the crypt next to my father\", indicating that Ned's bones were delivered to Winterfell and properly buried in the crypts. In the books, Catelyn assigned Hallis Mollen to deliver Ned's bones to Winterfell, but his party has not reached its destination so far, and it is unknown what has become of them and of Ned's bones."
+ },
+ {
+   "Image": 17,
+   "Scene": "Ramsey eaten by dogs in his cell",
+   "Scene End": "0:57:55",
+   "Duration": "0:03:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ }
+]

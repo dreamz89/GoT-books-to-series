@@ -1,0 +1,200 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:54",
+   "Duration": "0:01:48",
+   "Comparison": "",
+   "Rating": "",
+   "Difference": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Three-eyed raven shows Bran a vision of Winterfell",
+   "Scene End": "0:04:31",
+   "Duration": "0:02:37",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Hodor's real name in the books is Walder, not Wylis. It is unknown if he ever spoke normally. He does not appear in Bran's visions.\nNed Stark appears younger in Bran's visions than his onscreen appearances in the show, but not as a child."
+ },
+ {
+   "Image": 2,
+   "Scene": "Bran realises that Hodor could speak before",
+   "Scene End": "0:05:45",
+   "Duration": "0:01:14",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 3,
+   "Scene": "Meera Reed is alone outside",
+   "Scene End": "0:06:50",
+   "Duration": "0:01:05",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 4,
+   "Scene": "The Child of the Forest tells Meera that Bran needs her",
+   "Scene End": "0:07:29",
+   "Duration": "0:00:39",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 5,
+   "Scene": "Eddison Tollett takes over Castle Black with wildlings",
+   "Scene End": "0:11:20",
+   "Duration": "0:03:51",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": "Wun Wun kills someone by striking him against a wall, but it happens before Jon's assassination."
+ },
+ {
+   "Image": 6,
+   "Scene": "The Mountain kills rumor mongers",
+   "Scene End": "0:12:31",
+   "Duration": "0:01:11",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 7,
+   "Scene": "Cersei is barred from leaving the Red Keep",
+   "Scene End": "0:14:02",
+   "Duration": "0:01:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 8,
+   "Scene": "Jaime is discouraged from killing the High Sparrow",
+   "Scene End": "0:18:48",
+   "Duration": "0:04:46",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Tommen is unaware of the humiliation his mother went through.\nThe conversations between the High Sparrow and Jaime and with Tommen do not occur in the books.\nJaime never reveals to the High Septon or anyone else that he helped Tyrion escape from prison."
+ },
+ {
+   "Image": 9,
+   "Scene": "Tommen apologises to his mother",
+   "Scene End": "0:20:47",
+   "Duration": "0:01:59",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Cersei never raised Tommen to be strong, on the contrary: whenever he showed signs of backbone or defiance, Cersei ruthlessly suppressed him by having his whipping boy Pate beaten, or forcing Tommen to whip him himself, threatening to have Qyburn rip Pate's tongue out if Tommen refuses."
+ },
+ {
+   "Image": 10,
+   "Scene": "Discussion about the situation with the other cities",
+   "Scene End": "0:23:07",
+   "Duration": "0:02:20",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Only Astapor requests assistance from Daenerys, against Yunkai. Yunkai recruits an army and acts against both Astapor and Meereen."
+ },
+ {
+   "Image": 11,
+   "Scene": "Tyrion visits the captive dragons",
+   "Scene End": "0:26:58",
+   "Duration": "0:03:51",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "It is not Tyrion but Quentyn Martell, Doran's son, who ventures into the catacombs to take possession of Daenerys's dragons, but fails and the dragons escape. He is set on fire by Rhaegal and dies of his burns four days afterwards.\nThe dragons do not fast in Daenerys's absence. They are hungry as ever for meat, including human.\nIt was not Tywin but Tygett, one of Tyrion's uncles, who told him the last dragon had died a century ago."
+ },
+ {
+   "Image": 12,
+   "Scene": "Arya is tested",
+   "Scene End": "0:28:54",
+   "Duration": "0:01:56",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 13,
+   "Scene": "Ramsay kills his father on hearing of the birth",
+   "Scene End": "0:32:40",
+   "Duration": "0:03:46",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "There is no Harald Karstark in the books. Arnolf Karstark, Rickard's uncle and the castellan of Karhold, collaborates with the Boltons not because of Rickard's death, but because he plots to take over Karhold. He pretends to be Stannis's ally, but his scheme is exposed by his great-niece Alys.\nAlys Karstark holds a grudge against Robb for executing her father."
+ },
+ {
+   "Image": 14,
+   "Scene": "Ramsay feeds his baby brother to his dogs",
+   "Scene End": "0:35:33",
+   "Duration": "0:02:53",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 15,
+   "Scene": "Theon declines going to the Wall due to remorse",
+   "Scene End": "0:38:28",
+   "Duration": "0:02:55",
+   "Comparison": "",
+   "Rating": "FALSE",
+   "Difference": "Theon never felt or expressed any remorse for any of the atrocities he committed, including the murder of the miller's boys and their mother (in the show they were orphans), nor did he reveal to anyone the truth about Bran and Rickon.\nRamsay, not Theon, who killed Ser Rodrik Cassel in the books.\nIn the book, Theon is not afraid of the thought that Jon may kill him.\nFollowing the escape from Winterfell, no one offers Theon to join the Watch. Stannis intends to execute him for his crimes, without offering any alternatives."
+ },
+ {
+   "Image": 16,
+   "Scene": "Yara reports loss of the mainland to her father",
+   "Scene End": "0:40:06",
+   "Duration": "0:01:38",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "The liberation of Deepwood Motte occurs in the books on-screen.\nThe Glovers did not retake Deepwood Motte. Stannis and his new recruits, the Northern Mountain clans, liberated Deepwood Motte and restored it to the Glovers. Nearly all Asha's troops and ships were destroyed and she was taken captive by Stannis. It happened after Balon's death, not before it.\nFollowing the liberation of Deepwood Motte, there is still one stronghold in the north held by the ironborn - Torrhen's Square, conquered by Dagmer who is still alive in the books.\nAsha criticizes the invasion to the North on two separate occasions: when she speaks with Victarion and during the Kingsmoot, but never said that to her father.\nRodrik and Maron Greyjoy were not killed on the same day. Rodrik was killed at the battle of Seagard, and Maron was killed during the siege of Pyke."
+ },
+ {
+   "Image": 17,
+   "Scene": "Euron returns and kills his brother Balon",
+   "Scene End": "0:42:41",
+   "Duration": "0:02:35",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Euron Greyjoy wears an eyepatch over his left eye. His left eye is described as being a \"black eye shining with malice\" by his nephew Theon.\nBalon's death takes place off-screen, and before Robb's death.\nIn a sample chapter of the sixth novel it is confirmed that Euron killed Balon, but not by his own hands (he presumably hired a Faceless Man to commit assassination).\nWhile Asha suspects that Euron Greyjoy killed Balon and confronts him about it, his guilt is not confirmed."
+ },
+ {
+   "Image": 18,
+   "Scene": "Yara does not inherit the rule of the ironborn",
+   "Scene End": "0:44:08",
+   "Duration": "0:01:27",
+   "Comparison": "",
+   "Rating": "MIXED",
+   "Difference": "Balon's body is in very poor shape after it washed ashore: bloated and broken, his eyes were eaten by crabs.\nThe seat of the ironborn kings is called the Seastone Chair in the books, not Salt Throne."
+ },
+ {
+   "Image": 19,
+   "Scene": "Davos asks Melisandre for help",
+   "Scene End": "0:46:46",
+   "Duration": "0:02:38",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ },
+ {
+   "Image": 20,
+   "Scene": "Melisandre performs a ritual on Jon",
+   "Scene End": "0:52:20",
+   "Duration": "0:05:34",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
+ }
+]
