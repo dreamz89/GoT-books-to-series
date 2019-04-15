@@ -44,7 +44,7 @@
           ></episode>
         </div>
         <div class="description-wrap" v-show="sn === drilldown.season">
-          <div class="inner-wrap">
+          <div class="inner-wrap" ref="innerWrap" :style="{ maxHeight: fullHeight() }">
             <div class="navigation">
               <img @click="up" src="nav-icon.svg"/>
               <img @click="down" src="nav-icon.svg"/>
@@ -128,6 +128,10 @@ export default {
         return scene.Image !== null
       })
     })
+    window.addEventListener('scroll', this.handleScroll)
+  },
+  destroyed () {
+    window.removeEventListener('scroll', this.handleScroll)
   },
   watch: {
     drilldown () {
@@ -169,6 +173,20 @@ export default {
         this.drilldown.scene = 1
         this.drilldown.episode += 1
       }
+    },
+    handleScroll () {
+      const el = document.querySelector('.seasons')
+
+      if (this.drilldown.season !== 0) {
+        if (el.getBoundingClientRect().top < 0) {
+          this.$refs.innerWrap[this.drilldown.season - 1].classList.add('fixed')
+        } else {
+          this.$refs.innerWrap[this.drilldown.season - 1].classList.remove('fixed')
+        }
+      }
+    },
+    fullHeight () {
+      return window.innerHeight + 'px'
     }
   }
 }
@@ -311,6 +329,14 @@ export default {
         .inner-wrap {
           display: flex;
           flex-direction: row;
+
+          &.fixed {
+            position: fixed;
+            top: 50%;
+            transform: translateY(-50%);
+            width: calc(100% / 7 * 6 - 45px);
+            overflow-y: scroll;
+          }
 
           .navigation {
             display: flex;

@@ -113,8 +113,8 @@ export default {
     width: 100%;
 
     &.current {
-      width: 120%;
-      margin-left: -10%;
+      width: 150%;
+      margin-left: -25%;
     }
   }
 
