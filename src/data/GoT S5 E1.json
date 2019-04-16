@@ -77,7 +77,7 @@
    "Scene End": "0:13:44",
    "Duration": "0:00:56",
    "Comparison": "",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 8,
@@ -101,7 +101,7 @@
    "Scene End": "0:17:57",
    "Duration": "0:01:14",
    "Comparison": "",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 11,
@@ -109,7 +109,7 @@
    "Scene End": "0:18:29",
    "Duration": "0:00:32",
    "Comparison": "",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 12,
@@ -125,7 +125,7 @@
    "Scene End": "0:19:30",
    "Duration": "0:00:47",
    "Comparison": "",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 14,
@@ -133,7 +133,7 @@
    "Scene End": "0:20:45",
    "Duration": "0:01:15",
    "Comparison": "",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 15,
@@ -141,7 +141,7 @@
    "Scene End": "0:22:10",
    "Duration": "0:01:25",
    "Comparison": "In the series, Stannis tells Jon that he wants to take back the Winterfell from Ramsay and he need the wildlings help. ",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 16,
@@ -154,24 +154,16 @@
  {
    "Image": 17,
    "Scene": "Robin is trained to fight",
-   "Scene End": "0:22:54",
-   "Duration": "23:59:56",
-   "Comparison": "In the series, Robin is being trained to fight but was too weak and clumsy. Robin Arryn never did any strenuous physical activity, as the slightest physical exertion caused him to have seizures.",
+   "Scene End": "0:24:13",
+   "Duration": "0:01:15",
+   "Comparison": "In the series, Robin is being trained to fight but was too weak and clumsy. Robin Arryn never did any strenuous physical activity, as the slightest physical exertion caused him to have seizures.\nLittlefinger never agreed to foster Robin at Runestone. In fact, Lord Royce along with other lords declarant tried to forcibly take Robin with them, but Littlefinger foiled them.",
    "Rating": "TRUE"
  },
  {
-   "Image": 18,
-   "Scene": "Petyr agreed to foster Robin at Runestone under Lord Royce's care",
-   "Scene End": "0:24:12",
-   "Duration": "0:01:18",
-   "Comparison": "Littlefinger never agreed to foster Robin at Runestone. In fact, Lord Royce along with other lords declarant tried to forcibly take Robin with them, but Littlefinger foiled them.",
-   "Rating": "MIXED"
- },
- {
    "Image": 19,
-   "Scene": "Brienne asks Pod to leave him",
+   "Scene": "Brienne asks Pod to leave her",
    "Scene End": "0:25:44",
-   "Duration": "0:01:32",
+   "Duration": "0:01:31",
    "Comparison": "Brienne never told Podrick to leave, she was in fact never less than polite to him.",
    "Rating": "FALSE"
  },
@@ -181,7 +173,7 @@
    "Scene End": "0:26:35",
    "Duration": "0:00:51",
    "Comparison": "",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 21,
@@ -205,7 +197,7 @@
    "Scene End": "0:32:34",
    "Duration": "0:02:54",
    "Comparison": "In the series, Loras was having sex with Olyvar when Margaery suddenly comes in to his room. Margaery then tells him to ne discreet. Loras answers her back saying Tywin is dead and no one is going to force him to marry Cersei any more.",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 24,
@@ -229,7 +221,7 @@
    "Scene End": "0:41:20",
    "Duration": "0:01:42",
    "Comparison": "In the series, Daenerys visits her dragon after chaining them, only to be threatened and terrified by her dragons.",
-   "Rating": "Unknown"
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 27,
