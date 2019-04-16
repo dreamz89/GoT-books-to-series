@@ -4,7 +4,7 @@
     <h1>Books versus TV series</h1>
     <p class="deck">As we embark on the epic final season, the TV series has already exceeded the storyline of the (released) books. Find out how much of the previous seasons actually follow the books and how much have been changed.
     </p>
-    <p class="produced">Produced By: <a href="https://www.behance.net/makuLhaiM">Alyssa Karla Mungcal</a>, <a href="http://webdev.jocelyn-tan.com/">Jocelyn Tan</a> and Pooja Sharma | Published: 15 April 2019</p>
+    <p class="produced">Produced By: <a href="https://www.behance.net/makuLhaiM">Alyssa Karla Mungcal</a>, <a href="http://webdev.jocelyn-tan.com/">Jocelyn Tan</a> and Pooja Sharma | Published: 16 April 2019</p>
     <div class="paragraphs">
       <p>There are various reasons why the screen version would differ from the book, one of which is the limited screen time, but the most important reason is the budget. Every actor costs money, and more if they are speaking roles, so sometimes a minor character’s action is given to an existing character. The direwolves are shown more in the books, but they cost money to animate, less is spent on the dragons.
       </p>
