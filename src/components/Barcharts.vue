@@ -357,7 +357,14 @@ export default {
             top: 50%;
             transform: translateY(-50%);
             width: calc(100% / 7 * 6 - 45px);
-            overflow-y: scroll;
+
+            @media (min-width: 1000px) { // container width
+              width: calc(1000px / 7 * 6 - 45px);
+            }
+
+            .content { // dont scroll the nav
+              overflow-y: scroll;
+            }
           }
 
           .navigation {
