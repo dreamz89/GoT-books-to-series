@@ -1,0 +1,274 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Ramsay and Myranda hunts Tansy",
+   "Scene End": "0:04:15",
+   "Duration": "0:02:22",
+   "Comparison": "In the books there is no Myranda, but there are a group of men called the \"Bastard's Boys\" who participate in Ramsay's sadistic games. Ramsay's hunt of a girl in the woods in the opening scene is actually significantly toned down from the books. Typically, Ramsay rapes the women he recaptures in his hunts: subsequently, he will give them a quick death if they gave him \"good sport\", and if not, he will flay them alive. This may well be what Ramsay normally does in the TV series, though, as his dialogue with Myranda implies that this was an unusual request she made because she was offended that Tansy thought she was prettier than her.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Jaime's gold-plated hand",
+   "Scene End": "0:05:10",
+   "Duration": "0:00:55",
+   "Comparison": "In the books, Jaime's hand is made of solid gold, not of gold-plated steel like in the TV series. On two occasions Jaime knocks over clumsily a glass with his artificial hand while dining, but not in Tyrion's presence.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Tyrion encourages Jaime to practice his hand",
+   "Scene End": "0:05:56",
+   "Duration": "0:00:46",
+   "Comparison": "In the series, Tyrion tries encourage Jaime to practice with his left hand, but this conversation between Jaime and Tyrion did not occur in the books. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Bron trains Jaime",
+   "Scene End": "0:07:30",
+   "Duration": "0:01:34",
+   "Comparison": "In the books, rather than Bronn, Jaime has his friend Addam Marbrand. And later Ilyn Payne trained him to use his left hand because Payne can't speak or write.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Roose Bolton returns to Dreadfort",
+   "Scene End": "0:08:31",
+   "Duration": "0:01:01",
+   "Comparison": "In the books, Roose Bolton returns to the North after Tywin is killed, which explains why he is not receiving any Lannister help in retaking the North from the Ironborn.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 6,
+   "Scene": "Ramsay's friendship with Locke",
+   "Scene End": "0:08:45",
+   "Duration": "0:00:14",
+   "Comparison": "In the TV series, Ramsay has a friendship with Locke over their shared sadism. But in the books, Ramsay never had any interaction with Vargo Hoat (Locke's book counterpart). Also, Vargo Hoat never came to Dreadfort.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Roos Bolton smuggled him self to reach North",
+   "Scene End": "0:10:38",
+   "Duration": "0:01:53",
+   "Comparison": "In his frustration for finding out how Theon was flayed, he told Ramsay how he had to smuggle himself to Dreadfort because of the Greyjoys. Roose must have circumvented the Neck by taking a boat across the Bite, then riding north to the Dreadfort. But in the books, Roose Bolton didn't \"smuggle\" himself into the North to reach the Dreadfort. He remained with his main army, which marched north from the Twins, but could not bypass the natural choke point at Moat Cailin.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Ramsay proves Theon's allegance to him",
+   "Scene End": "0:12:49",
+   "Duration": "0:02:11",
+   "Comparison": "Ramsay asks Theon to shave his beard for him and confess that he didn't kill the Stark boys. He also later told Theon of Robb Stark's death to test him of his allegance.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "Roose asks Locke to find the Stark boys and kill Jon Snow",
+   "Scene End": "0:13:19",
+   "Duration": "0:00:30",
+   "Comparison": "In the series, Roose asked Locke to hunt the Stark brothers and Jon Snow. But in the books, it is Cersei and Qyburn who hatch a plot to have Jon Snow assassinated, not the Boltons. That plot never came to fruition.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Roose sends Ramsay to Moat Cailin",
+   "Scene End": "0:13:41",
+   "Duration": "0:00:22",
+   "Comparison": "Roose sends Ramsay and Theon to cpature Moat Cailin, an opportunity for Ramsay to prove him self worthy to be a Bolton.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Lord Varys warns Tyrion",
+   "Scene End": "0:14:43",
+   "Duration": "0:01:02",
+   "Comparison": "In the books, Tyrion wasn't warned about Cersei finding that Shae is a whore and his mistress. Therefore he does not arrange for her shipping away to Pentos.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Joffrey thanks Tyrion's gift",
+   "Scene End": "0:16:17",
+   "Duration": "0:01:34",
+   "Comparison": "In the books, Joffrey shows no sign of gratitude towards Tyrion's wedding present; instead, he crudely implies that Tyrion's love of books has left him impotent, as well as making another crass (and public) declaration of his intentions to bed Sansa at some point in the near future. It is Joffrey's great-uncle Kevan Lannister, rather than Tyrion, who recommends the book as one that all kings should read. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Joffrey destroys the book with his new sword",
+   "Scene End": "0:17:17",
+   "Duration": "0:01:00",
+   "Comparison": "After destroying the book with his new Valyrian sword, Joffrey is told that the book was one of only four known original copies. He simply sneers that now there are only three copies. Oberyn reveals that he was once lucky enough to view another of the originals while studying at the Citadel, and is particularly disgusted by Joffrey's senseless destruction of a treasured artifact.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Tyrion drives Shae away",
+   "Scene End": "0:20:01",
+   "Duration": "0:02:44",
+   "Comparison": "The show added the falling out between Shae and Tyrion Lannister, for Shae's protection. Tyrion calls Shae a whore in order to get her to leave the city. In the books, just before Joffrey's death Tyrion decides to arrange a marriage for Shae with a knight.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "People burnt to death as sacrifice",
+   "Scene End": "0:21:34",
+   "Duration": "0:01:33",
+   "Comparison": "It is not mentioned in the books if other people were executed alongside Alester, but he was burned to death (off-screen) some time after Davos persuades Stannis to travel north. He was burnt because he tried to make peace with the Lannisters by trying to send Shireen to King's Landing and arranging a wedding between her and Prince Tommen in exchange for Stannis and House Florent retaining their lands and titles.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Selyse talks about Shireen's stubborness",
+   "Scene End": "0:23:12",
+   "Duration": "0:01:38",
+   "Comparison": "In the books, Selyse never talks about Shireen, neither affectionately nor critically.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "Melisandre talks to Shireen",
+   "Scene End": "0:24:40",
+   "Duration": "0:01:28",
+   "Comparison": "Shireen Baratheon and Melisandre have no significant interactions in the book. The show added a conversation between them on Dragonstone about R'hllor and The Faith of the Seven.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "Bran's vision",
+   "Scene End": "0:28:17",
+   "Duration": "0:03:37",
+   "Comparison": "The TV series added the visions of the past, present, and future Bran Stark had when he touched the weirwood tree Beyond The Wall.  Bran Stark had similiar visions in the books, but they were much later.  In the books he receives directions to the three-eyed crow from another source.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "The royal wedding",
+   "Scene End": "0:30:00",
+   "Duration": "0:01:43",
+   "Comparison": "The wedding ceremony takes place.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Olena warns Tywin of Iron Bank",
+   "Scene End": "0:31:00",
+   "Duration": "0:01:00",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 21,
+   "Scene": "Bron assure Tyrion that he sent Shae to the ship",
+   "Scene End": "0:31:58",
+   "Duration": "0:00:58",
+   "Comparison": "Tyrion Lannister made plans in the books before the trial to arrange Shae a marriage with a knight. In the show he believes he had Bronn send her away from King's Landing for her own safety.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Olena comforts Sansa",
+   "Scene End": "0:32:51",
+   "Duration": "0:00:53",
+   "Comparison": "In the series, Margaery announces that all leftover food from the wedding will be donated to the poor. But in the books, she did not seek to donate all of the wedding's leftovers to the smallfolk. Tyrion, however, muses that the city would riot again if they saw how much food the nobles had prepared for the wed.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 23,
+   "Scene": "The leftover food to be donated",
+   "Scene End": "0:34:18",
+   "Duration": "0:01:27",
+   "Comparison": "Margaery does not seek to donate all of the wedding's leftovers to the smallfolk; Tyrion, however, muses that the city would riot again if they saw how much food the nobles had prepared for the wedding.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 24,
+   "Scene": "Jaime tries to intimidate Ser Loras",
+   "Scene End": "0:35:26",
+   "Duration": "0:01:08",
+   "Comparison": "Jaime Lannister's and Loras Tyrell's conversation at the wedding was completely new to the show. Jaime Lannister was not in King's Landing at the time of Joffrey's death, he was still coming from Harrenhal.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 25,
+   "Scene": "Cersei confronts Brienne",
+   "Scene End": "0:37:25",
+   "Duration": "0:01:59",
+   "Comparison": "Brienne presenting herself to Margaery Tyrell and Joffrey Baratheon at the wedding was added to the show.  In the books Brienne had not yet arrived in King's Landing. The show added a scene with Cersei Lannister and Brienne discussing Jaime, and Brienne's secret love for Jaime.  In the books love between Jaime and Brienne was never discussed outright, and Cersei never spoke to Brienne.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 26,
+   "Scene": "Cersei asks Pycelle to give the leftover food to the kennel",
+   "Scene End": "0:38:25",
+   "Duration": "0:01:00",
+   "Comparison": "In the books, Margaery Tyrell and Cersei Lannister do not attempt to send leftovers to different locations. Cersei Lannister has no threatening conversation during the wedding with Grandmaester Pycelle. The show added these scenes to further emphasize Cersei's anger at losing her power.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 27,
+   "Scene": "The tension between House Martell and Lannisters",
+   "Scene End": "0:40:24",
+   "Duration": "0:01:59",
+   "Comparison": "The show added a meeting at the wedding between Oberyn Martell and Tywin Lannister. Oberyn expressed his anger over Tywin's part in the murder and rape of his sister, Elia Martell. \n",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 28,
+   "Scene": "The dwarf jousters",
+   "Scene End": "0:43:40",
+   "Duration": "0:03:16",
+   "Comparison": "In the books, it was Littlefinger who arranges only two dwarf jousters, one sitting atop a dog and the other a sow, instead of five: one mocking Robb and the other mocking Stannis. But in the series there were five dwarves. The intention of the performance in the books was to offend only Tyrion and Sansa, and most of the guests were laughing. But in the series, several guests were disgusted as they found it offensive.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 29,
+   "Scene": "Joffrey challenges Tyrion to fight the dwarves",
+   "Scene End": "0:45:25",
+   "Duration": "0:01:45",
+   "Comparison": "In the books, when Joffrey suggests that Tyrion should fight the dwarf champion, Tyrion does not respond by ridiculing his \"brave\" conduct at the battle of the Blackwater, but says, \"I'll ride the pig... but only if you ride the dog!\" Confused, Joffrey replies that he is no dwarf and asks why him asks, stepping right into the trap Tyrion set for him. Tyrion answers, \"Why, you're the only man in the hall that I'm certain of defeating!\". Much to Tyrion's satisfaction, nearly the whole crowd bursts out laughing, while Joffrey and Cersei are enraged.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 30,
+   "Scene": "Joffrey picks Tyrion to be his cup bearer",
+   "Scene End": "0:47:24",
+   "Duration": "0:01:59",
+   "Comparison": "In the books, Joffrey orders Tyrion to pour wine into the large wedding chalice that Mace Tyrell gave to him at the breakfast, but the chalice is never used at the wedding in the show. Tyrion refills the chalice twice at Joffrey's command, without any pose of defiance in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 31,
+   "Scene": "Joffrey cuts the cake with the sword",
+   "Scene End": "0:48:10",
+   "Duration": "0:00:46",
+   "Comparison": "In the show Widow's Wail, Joffrey's sword, doesn't display the \"ripples of blood and night\" as described in the book. Another minor change is that Joffrey doesn't use Widow's Wail to cut the pigeon pie in the books. He uses Ilyn Payne's, prompting Sansa Stark to become distraught after realizing the Stark blade Ice was destroyed.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 32,
+   "Scene": "Joffrey was poisoned",
+   "Scene End": "0:51:10",
+   "Duration": "0:03:00",
+   "Comparison": "In the books, when Joffrey collapses, Garlan Tyrell is the first to rush to help him, followed by Osmund Kettleblack and Meryn Trant. As he chokes to death, Joffrey gruesomely claws at his throat in a desperate bid to get air, leaving bloody gashes. In the TV series, he still claws at his throat briefly after falling to the ground, but it is far less violent than in the books and leaves no such gashes.",
+   "Rating": "MIXED"
+ }
+]

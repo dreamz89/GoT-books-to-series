@@ -1,0 +1,194 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:48",
+   "Duration": "0:01:42",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Missandei teaches Grey Worm literary",
+   "Scene End": "0:03:45",
+   "Duration": "0:01:57",
+   "Comparison": "In the books Missandei does not have much interaction with Grey Worm and does not teach him the Common tongue as in the show.  In addition, when asked about her past, she says two of her brothers who were captured with her became Unsullied.  ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Sneaking inside Meereen",
+   "Scene End": "0:05:12",
+   "Duration": "0:01:27",
+   "Comparison": "In the books, Grey Worm is not among those who invade Meereen via the sewers. It is not mentioned what role in conquering the city he is assigned to. Daenerys sends Barristan Selmy and other soldiers on a suicide mission through the sewers of Meereen in the novels. They fight their way through chest deep water and a creature that is likely an alligator or crocodile. In the novels while her army use a battering ram to open the city gates the group of soldiers free slaves from the fighting pits to take back the city.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Grey Worm encourages the Meereenese slaves to revolt",
+   "Scene End": "0:07:07",
+   "Duration": "0:01:55",
+   "Comparison": "In the series, the Meereense slaves talks about revolting. At this point, Grey Worm and a few more Unsullied men sneaks in to encourage them to revolt and gave them weapons. This scene where Grey Worm incites the slaves of Meereen to revolt is new to the show. In the books while the slaves were set free to fight the Masters, this scene is not actually detailed. Also, the slave uprising from within the walls occurs simultaneously with several attacks from the main army of Daenerys.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "The revolt starts",
+   "Scene End": "0:07:51",
+   "Duration": "0:00:44",
+   "Comparison": "In the books, the bronze harpy on the top of the Great Pyramid of Meereen is completely removed after Dany's conquest.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Meereenese slaves removes their collars",
+   "Scene End": "0:08:35",
+   "Duration": "0:00:44",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Meereense masters crucified",
+   "Scene End": "0:10:08",
+   "Duration": "0:01:33",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "Bronn believes Tyrion is innocent",
+   "Scene End": "0:12:21",
+   "Duration": "0:02:13",
+   "Comparison": "In the series, during their training, Jaime asks Bronn if he thinks Tyrion killed Joffrey. Bronn then says that he is innocent. But in the books, he never declared that he believes Tyrion is innocent.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Jaime visits Tyrion in the cell",
+   "Scene End": "0:13:55",
+   "Duration": "0:01:34",
+   "Comparison": "Jaime does not visit Tyrion in his cell but until after the trial in the books. Neither Bronn nor anyone else persuade him to visit Tyrion. Jaime Lannister has no contact with Tyrion Lannister prior to his trial in the novels. He is in King's Landing only after the Purple Wedding. In the show he visits Tyrion in his cell partially in order to find out if Tyrion actually killed Joffrey Baratheon.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Tyrion asks Jaime to set him free",
+   "Scene End": "0:14:56",
+   "Duration": "0:01:01",
+   "Comparison": "In the series, Tyrion asks Jaime to help him get out, which is contrary to the books. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Sansa confronts Littlefinger about Joffrey's death",
+   "Scene End": "0:18:08",
+   "Duration": "0:03:12",
+   "Comparison": "In the series, Littlefinger tells Sansa how he conspired Joffrey's death and that Sansa also played a part in it unknowingly. The poision was in one of the beads missing in Sansa's necklace. But in the books, Sansa does notice that one gem is missing from the hair net (counterpart of necklace). She has no idea who removed it until Littlefinger reminds her.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Olena is leaving ",
+   "Scene End": "0:20:28",
+   "Duration": "0:02:20",
+   "Comparison": "In the series, Olena tellys Margaery that she's leaving, but this never happened in the books. Olenna did not leave the capital after Joffrey's deaths. Olenna does bring up the fact she was supposed to marry an unspecified Targaryen much earlier, during her first meeting with Sansa. Olenna Tyrell basically admitting to Margaery about being part of a plot to kill Joffrey Baratheon was added to the show.  She also never tells Margaery to manipulate Tommen or talks about her seducing her own husband.  ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "The Night's Watch prepare for the Wildlings",
+   "Scene End": "0:24:42",
+   "Duration": "0:04:14",
+   "Comparison": "In the series, Vargo Hoat (Locke's counter part) infiltrates the Castle Black as a new recruit by Jon Snow and Grenn. But he was never in Castle Black in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Cersei asks Jaime to guard Tommen",
+   "Scene End": "0:27:17",
+   "Duration": "0:02:35",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Margaery woos Tommen",
+   "Scene End": "0:30:50",
+   "Duration": "0:03:33",
+   "Comparison": "The scene where Margaery Tyrell attempts to woo Tommen Lannister, her husband to be, in his bedroom is new to the show. Part of her efforts in the books was to give Tommen three black kittens, one of which was Ser Pounce.  She does attempt to get him away from the influence of his mother, but in different ways and later in the novel timeline.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Jaime gives Brienne the other Valyrian steel sword",
+   "Scene End": "0:33:05",
+   "Duration": "0:02:15",
+   "Comparison": "",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jaime sends Pod to accompany Brienne",
+   "Scene End": "0:33:56",
+   "Duration": "0:00:51",
+   "Comparison": "When Brienne sets out from King's Landing to look for Sansa, Podrick does not accompany her. Much later, following Tyrion's disappearance after killing his father, Brienne notices Podrick following her. He explains that he also wishes to find Sansa, as Tyrion may be with her, and because Sansa can prove her husband's innocence, so Brienne agrees to let him travel with her.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "Brienne names the sword Oathkeeper",
+   "Scene End": "0:35:16",
+   "Duration": "0:01:20",
+   "Comparison": "In the books, it is Jaime, not Brienne, who suggests the name \"Oathkeeper\" for the new sword. Also, Jaime speaks very rudely to Brienne, calling her \"stubborn stupid wench\", and finally tells her to leave before he changes his mind.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Jon speculates that Bran might be in Craster's Keep",
+   "Scene End": "0:36:46",
+   "Duration": "0:01:30",
+   "Comparison": "The show has Samwell Tarly tells Jon Snow all about his brother Bran Stark crossing Beyond the Wall.  In the books Coldhands makes Sam promise not to tell Jon about Bran's whereabouts.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Ser Alliser allows Jon to marcht to Craster's Keep",
+   "Scene End": "0:39:42",
+   "Duration": "0:02:56",
+   "Comparison": "Janos Slynt and Alliser Thorne are not at Castle Black for some time when Jon Snow returns in the books.  Alliser Thorne does not become acting Commander, as in the show, and actually becomes Janos Slynt's lieutenant as Janos attempts to gain control of the Night's Watch. The storyline involving the mutineers at Craster's Keep is new to the show.  There is no ranging led by Jon Snow in the books. ",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 20,
+   "Scene": "Craster's last son",
+   "Scene End": "0:45:49",
+   "Duration": "0:06:07",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 21,
+   "Scene": "Bran and his group captured",
+   "Scene End": "0:51:16",
+   "Duration": "0:05:27",
+   "Comparison": "These scenes involving Bran Stark and company running into the Karl and the mutineers at Craster's Keep have been added. Bran's group never came across Craster's Keep in the books, and thus aren't captured. Neither Ghost nor Summer are caught and imprisoned by the Night's Watch mutineers in the books.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 22,
+   "Scene": "Craster's son was turned to a white walker",
+   "Scene End": "0:53:43",
+   "Duration": "0:02:27",
+   "Comparison": "The show adds a scene with a White Walker carrying Craster's son to other White Walkers to be turned into a White Walker-like creature. In the books the fate of Craster's sacrifices is unknown, as are the White Walkers origin and how new ones are created. In addition, in the books Craster offers his sons to the White Walkers, but as the White Walkers come more often he offers them other livestock, such as sheep. Also, the White Walker with head spikes, known as the Night's King from HBO's viewer guide, is entirely new to the show.",
+   "Rating": "FALSE"
+ }
+]

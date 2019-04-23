@@ -1,0 +1,226 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Tommen crowned as new king",
+   "Scene End": "0:03:36",
+   "Duration": "0:01:43",
+   "Comparison": "In the books Tommen Baratheon is not crowned until after his marriage.  The show crowns Tommen king while planning the wedding a fortnight from his coronation.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Cersei talks about Joffrey",
+   "Scene End": "0:05:38",
+   "Duration": "0:02:02",
+   "Comparison": "Margaery Tyrell's and Cersei Lannister's conversation after Tommen's coronation never occurred in the books. Cersei does not mention to Margaery that Joffrey's actions shocked her. In the books, Cersei never speaks ill of Joffrey.  ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Cersei offers Margaery to marry Tommen",
+   "Scene End": "0:06:40",
+   "Duration": "0:01:02",
+   "Comparison": "Cersei never offers Tommen to marry Margaery in the books. It is rather the Tyrells who do, and Cersei is annoyed by the offer due to its proximity to the date of Joffrey's death, but reluctantly agrees, because the Lannisters need the Tyrells on their side. Cersei also never speaks about Joffrey with any contempt with Margaery (or with anyone else), but rather puts him on even more of a pedestal after his death.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Meereenese ships captured",
+   "Scene End": "0:07:52",
+   "Duration": "0:01:12",
+   "Comparison": "The Second Sons do not capture any Meereense ships. All the ships which harbored at Meereen at the time of its conquer either fled or were destroyed by Daenerys's troops in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Daenerys choose to rule the freed slaeves",
+   "Scene End": "0:10:19",
+   "Duration": "0:02:27",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Petry tries to hide Sansa's identity",
+   "Scene End": "0:11:00",
+   "Duration": "0:00:41",
+   "Comparison": "Petyr asks Sansa to pull up her hood so that people will not recongnize her. But in the books, Petyr actually had Sansa dye her hair brown to hide her identity. Also, he poses Sansa as is his daughter, not as his niece. Sansa poses as Alayne Stone, Littlefinger's niece in the show. In the books, Alayne is Littlefinger's bastard daughter. After Littlefinger's wedding in the books Lysa gives Sansa hair dye to cover up her auburn Tully hair.  In the show Sansa remains undisguised, hiding her hair as she passes through the Bloody Gate.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "Petyr and Sansa pass through the Bloody Gate",
+   "Scene End": "0:12:22",
+   "Duration": "0:01:22",
+   "Comparison": "Petry mentions that the way to get into the Eyrie is to pass through the Bloody Gates. In th series, they made it seem that Bloody Gate was close to Eyrie, but it is much farther away in the books.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Robin was excited to see Petyr",
+   "Scene End": "0:12:59",
+   "Duration": "0:00:37",
+   "Comparison": "In the series, Robin seemed really close to Petyr, referring to him as \"uncle\" and even receiving a gift from him. But in the series, Robin never refers to Petyr as \"uncle\" and receives no gifts from him.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Sansa meets Lysa",
+   "Scene End": "0:14:56",
+   "Duration": "0:01:57",
+   "Comparison": "Lysa was much less joyful with Sansa in the books, seeing her mere presence as a threat to Robin since she is wanted by the Lannisters.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Lysa reveals that she killed his husband",
+   "Scene End": "0:16:26",
+   "Duration": "0:01:30",
+   "Comparison": "Lysa reveals she was the one to kill Jon Arryn and send the false letter to Catelyn, and that Littlefinger made her do that much later in the book, while she drags Sansa to the Moon Door. Marillion was also present when it happened. She also reveals that she once got pregnant by Littlefinger and that her fatherforced her to undergo an abortion.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Petyr marries Lysa",
+   "Scene End": "0:17:23",
+   "Duration": "0:00:57",
+   "Comparison": "In the books Littlefinger first takes Sansa Stark to his home on a rocky area of coastline, the Fingers.  Lysa Arryn meets Littlefinger there and promptly marries him. They consummate the marriage at Littlefinger's small keep. In the show Littlefinger travels to the Eyrie directly and marries Lysa there.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 12,
+   "Scene": "Cersei discusses weddings with Tywin",
+   "Scene End": "0:18:15",
+   "Duration": "0:00:52",
+   "Comparison": "This conversation between Tywin and Cersei does not occur in the books. And Loras Tyrell and Cersei Lannister are not betrothed in the books, Loras Tyrell is a member of the Kingsguard, forbidden to marry.  Cersei Lannister's marriage to Willas Tyrell, eldest son of Mace Tyrell, is offered by Tywin Lannister but the Tyrells refuse. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "The crown owes Iron Bank a tremendous amount of money",
+   "Scene End": "0:20:56",
+   "Duration": "0:02:41",
+   "Comparison": "In the series, Tywin tells Cersei that the gold mines of Westerlands had already dried three years ago and that the crown owe the Iron Bank a tremendous amount of money. But the gold mines of the Westerlands had not run dry in the books, they were as prosperous as ever. The crown's debt was also mostly to House Lannister, not the Iron Bank. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Arya's death list prayer",
+   "Scene End": "0:22:35",
+   "Duration": "0:01:39",
+   "Comparison": "Arya never included Walder Frey, Melisandre, Beric Dondarrion and Thoros of Myr in her death prayer in the books. She considered adding the Freys after the Red Wedding, but she didn't know the individual names of the perpetrators. Gendry also stayed with Beric and Thoros after Arya ran away, and she never met Melisandre, thus had no reason to want them dead.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Lysa tells Sansa about her mother",
+   "Scene End": "0:25:50",
+   "Duration": "0:03:15",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "Brienne and Pod travels to Castle Black",
+   "Scene End": "0:27:22",
+   "Duration": "0:01:32",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Arya practices",
+   "Scene End": "0:29:55",
+   "Duration": "0:02:33",
+   "Comparison": "Arya Stark does not attempt to stab the Hound with her sword Needle in the books. She does attempt to kill him in his sleep with a rock as in the show. Also, Arya does not extensively discuss water dancing or Syrio Forel with the Hound in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Oberyn and Cersei talks about their duaghters",
+   "Scene End": "0:33:14",
+   "Duration": "0:03:19",
+   "Comparison": "",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Pod confesses he once killed a king's guard",
+   "Scene End": "0:33:54",
+   "Duration": "0:00:40",
+   "Comparison": "The scenes involving Podrick Payne and Brienne talking, cooking, and bonding shortly after leaving King's Landing were added to the show. Podrick Payne joins Brienne much later in her quest, following her from King's Landing. Also he does not discuss killing Ser Mandon Moore of the Kingsguard with Brienne in the books.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 20,
+   "Scene": "Locke sneaks in to Craster's keep",
+   "Scene End": "0:39:09",
+   "Duration": "0:05:15",
+   "Comparison": "Again, the story plot of mutineers at Craster's Keep did not exist in the books",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 21,
+   "Scene": "Jon and his men attacks Craster's keep",
+   "Scene End": "0:43:56",
+   "Duration": "0:04:47",
+   "Comparison": "Again, the story plot of mutineers at Craster's Keep did not exist in the books",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 22,
+   "Scene": "Hodor kills Locke",
+   "Scene End": "0:45:32",
+   "Duration": "0:01:36",
+   "Comparison": "In the books Vargo Hoat (Locke in the series), was not killed by Hodor at Craster's Keep. He stayed at Harrenhal and was captured by Gregor Clegane, who gave him a slow and gruesome death on Tywin Lannister's orders.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 23,
+   "Scene": "Brans leaves Craster's Keep",
+   "Scene End": "0:46:24",
+   "Duration": "0:00:52",
+   "Comparison": "Again, the story plot of mutineers at Craster's Keep did not exist in the books",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 24,
+   "Scene": "Jon kills Karl Tanner",
+   "Scene End": "0:49:15",
+   "Duration": "0:02:51",
+   "Comparison": "Again, the story plot of mutineers at Craster's Keep did not exist in the books",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 25,
+   "Scene": "Ghost returns to Jon",
+   "Scene End": "0:51:11",
+   "Duration": "0:01:56",
+   "Comparison": "Ghost was freed and returns to Jon after killing Rast. But in the books, Ghost came back to Jon much later after the battle of Castle Black was over. Also, Ghost did not kill Rast, he was among the defenders of the castle, and was killed by a Thenn during the first stage of the battle. Ghost is not captured by the mutineers or anyone in the novels, he is merely trapped Beyond the Wall when Jon Snow scales it with the Wildlings. The show adds a scene where he is seen to be in a cage at Craster's Keep.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 26,
+   "Scene": "Craster's Keep burnt down",
+   "Scene End": "0:51:51",
+   "Duration": "0:00:40",
+   "Comparison": "Again, the story plot of mutineers at Craster's Keep did not exist in the books",
+   "Rating": "UNKNOWN"
+ }
+]

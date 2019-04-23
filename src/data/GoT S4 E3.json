@@ -1,0 +1,194 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:48",
+   "Duration": "0:01:42",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Sansa taken away by Dontos",
+   "Scene End": "0:04:01",
+   "Duration": "0:02:13",
+   "Comparison": "In the series, after Joffrey collapses, Dontos arrives to take Sansa away, but in the books, Sansa had already been instructed by Ser Dontos to escape, and there was no need for Dontos to take her away. A series of characters known as the Kettleblacks were omitted from the show.  In the books, the Kettleblacks were sellswords hired by Cersei Lannister to do her dirty work. Despite Tyrion thinking they are his spies, they are actually controlled by Littlefinger. The father of the Kettleblacks serves Littlefinger, and rows Sansa Stark and Dontos out to the waiting ship.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Dontos killed",
+   "Scene End": "0:06:16",
+   "Duration": "0:02:15",
+   "Comparison": "In the books, Dontos is killed by three crossbow bolts to the chest, throat and belly. Ser Lothor Brune then throws a burning torch upon the body, setting fire to the rowing boat. No trace is left of the body. The character Lothor Brune seems to have been omitted from the show.  In the books he is a middle-aged loyal knight who serves Littlefinger, he commands the crossbowmen who kill Dontos and knows some of Littlefinger's secrets.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Olena talks to Margaery",
+   "Scene End": "0:07:55",
+   "Duration": "0:01:39",
+   "Comparison": "In the show the conversation between Olenna Tyrell and Margaery Tyrell discussing the death of Joffrey was completely new. The show has developed Margaery Tyrell much more than the books did and made her ambitious.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Tywin and Tommen talks about wisdom",
+   "Scene End": "0:11:55",
+   "Duration": "0:04:00",
+   "Comparison": "This scene between Tommen Baratheon and Tywin Lannister on wisdom and what kind of king Tommen will be was added to the show. Minor appearance changes to Tommen were also made, Tommen was very plump and weak-willed in the novels. ",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Jaime arrives in the burial",
+   "Scene End": "0:15:32",
+   "Duration": "0:03:37",
+   "Comparison": "The first thing Jaime does upon his return to King's Landing is go to the Great Sept of Baelor, as he arrived sometime after Joffrey's death in the books. Jaime Lannister was not in King's Landing at the time of Joffrey's death in the books, he was still coming from Harrenhal. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "The Hound tricked the family",
+   "Scene End": "0:21:51",
+   "Duration": "0:06:19",
+   "Comparison": "In the books The Hound and Arya Stark are in a similar situation, given shelter for some work at a village near The Eyrie. The Hound wanted to stay to work and wait out the winter, but the villagers recognized him and did not want him there, even for protection against raiders. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "Sam wants to send Gilly to Mole's town to protect her",
+   "Scene End": "0:25:29",
+   "Duration": "0:03:38",
+   "Comparison": "The conversation between Sam and Gilly does not occur in the books. Sam never sends Gilly to Mole's Town. At this point in Jon's story, Sam and Gilly were still travelling north of the Wall and the Night's Watch was recruiting the refugees from Mole's Town to boost their numbers. By the time they reach Castle Black, Mole's Town has been abandoned, and they do not pass through it.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Stannis receives news of Joffrey's death",
+   "Scene End": "0:26:02",
+   "Duration": "0:00:33",
+   "Comparison": "In the books, Davos informs Stannis and Melisandre about Joffrey's death. As opposed in the series, Stannis received a letter and had Davos read it.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 9,
+   "Scene": "Davos reports the Houses that will support Stannis",
+   "Scene End": "0:26:29",
+   "Duration": "0:00:27",
+   "Comparison": "Davos mentions in the episode that he has managed to get three minor Houses to support Stannis: House Peasebury, House Musgood, and House Haigh. Stannis scoffs that they don't have enough men between them to raid a pantry. In the books, House Peasebury is indeed one of the few Houses from the Stormlands that stays loyal to Stannis. House Musgood is also from the Stormlands but is not mentioned as supporting him. House Haigh, meanwhile, is actually a minor House in service to House Frey, who fought for the Freys at the Red Wedding, and who continue to march in Frey armies in service to the Lannisters. It is thus odd that the TV continuity would have them switch to supporting Stannis (when the Lannister-Frey-Bolton alliance is at its peak of success). It may still be possible to reconcile this that the Haighs may have given a token offer of support to Stannis, i.e. in exchange for ridiculously high rewards, but they never acted on it.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Davos suggests hiring the Golden company",
+   "Scene End": "0:27:20",
+   "Duration": "0:00:51",
+   "Comparison": "Davos never suggested hiring the Golden Company in the books. Rather, Tycho Nestoris comes to treaty with Stannis after Cersei refused to honor the debt the Crown owed to the Bank, but it happens much later. At this point, Stannis does not hire sellswords because he is short of funds, not because it is against his principles. Once Tycho Nestoris loans him the money he needs, he orders one of his lieutenants to travel to Braavos and hire sellswords, preferably the Golden Company.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "Davos talks to Shireen",
+   "Scene End": "0:28:44",
+   "Duration": "0:01:24",
+   "Comparison": "The conversation between Davos and Shireen does not occur in the books. Duirng this conversation in the series, Davos mentions that he was almost beheaded by a First Sword of Braavos. But there was no mentioning of this in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 12,
+   "Scene": "Davos requests financial aid from the Iron Bank",
+   "Scene End": "0:29:26",
+   "Duration": "0:00:42",
+   "Comparison": "In the books Shireen Baratheon and Davos Seaworth do not have the close relationship seen in the TV series. Davos does not come up with an idea to pay for the army in the books involving the Iron Bank of Braavos. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 13,
+   "Scene": "Sam and Gilly arrives in Mole's Town",
+   "Scene End": "0:31:58",
+   "Duration": "0:02:32",
+   "Comparison": "In the show Samwell Tarly sends Gilly to Mole's Town, the village near Castle Black, for protection from his Night's Watch brothers.  In the books this is not a major issue and Gilly remains in Castle Black.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Tywin talks to Oberyn",
+   "Scene End": "0:36:12",
+   "Duration": "0:04:14",
+   "Comparison": "Tywin Lannister's and Oberyn Martell's conversation in the brothel was entirely new to the show.  Tywin asks Mace Tyrell and Oberyn Martell to be sit in judgement with him in the books, but there is no obvious back-dealing. The seat on the council is already given to Prince Oberyn in the books.  It is actually the formal reason Oberyn comes to King's Landing. Also, Oberyn does not request to speak to The Mountain in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tywin tries to appease Oberyn",
+   "Scene End": "0:38:14",
+   "Duration": "0:02:02",
+   "Comparison": "In the books, Tywin states that it is necessary to appease Dorne in order to prevent an alliance between them and Stannis; he never claims the Lannisters need Dornish aid to repulse a potential invasion by Daenerys Targaryen. In the books, while most characters acknowledge Daenerys as the Mad King's last living heir, they both dismiss her as a threat and regard her dragons as nothing more than rumors. It is only in later books, when the rumors become too widespread and start coming from credible sources, that the lords of Westeros are forced to accept them as truth.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "Tyrion in the prison",
+   "Scene End": "0:41:30",
+   "Duration": "0:03:16",
+   "Comparison": "Following his arrest in the books, Tyrion is treated very gently (as is usually the case with highborn captives) and is simply confined to his own quarters, as opposed to being outright imprisoned in the Black Cells. While he was in prison, it was not Pod but Kevan who informs Tyrion about the judges.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 17,
+   "Scene": "Pod was asked to testify against Tyrion",
+   "Scene End": "0:43:16",
+   "Duration": "0:01:46",
+   "Comparison": "In the show Podrick Payne instead of Kevan Lannister, Tywin Lannister's brother, came to Tyrion for a list of witnesses and to tell him the date of the trial. Podrick Payne does come later to help. Also, in the books Podrick Payne is not send away or offered a knighthood to testify against Tyrion.Pod later tells Tyrion that he cannot testfiy against him. In the books, when Tyrion asks Pod if he thinks Tyrion killed Joffrey, Pod hesitates, tries to speak, but produces only a weak sputter. That increases Tyrion's despair, nevertheless he thanks Pod for his loyal service. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 18,
+   "Scene": "The wildings attacks villagers",
+   "Scene End": "0:45:25",
+   "Duration": "0:02:09",
+   "Comparison": "The Wildling vicious attack on a Northern village was added to the show. However, the attack likely happened in the novels but was not detailed specifically. Again, the show has made the wildling Thenns cannibals.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Grenn and Edd comes back in Castle Black",
+   "Scene End": "0:47:21",
+   "Duration": "0:01:56",
+   "Comparison": "Both Grenn and Edd (and about ten more of those who remained loyal to Mormont) had made it back to Castle Black before Jon in the books. It's never mentioned that they were chained up after the mutiny - being outnumbered by the mutineers, they escaped without putting up any fight. This was probably done to explain the time discrepancy that resulted from expanding the third novel's storyline across two seasons. The Mutiny at Craster's Keep happened in the middle of the third novel, and both characters had returned to Castle Black by the end, but the TV series had to explain why they did not return for a full season.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 20,
+   "Scene": "Jon proposes to march on to Craster's Keep",
+   "Scene End": "0:48:08",
+   "Duration": "0:00:47",
+   "Comparison": "Jon never proposes to march on Craster's Keep to deal with the mutineers, neither before nor after the battle of Castle Black, because the Free Folk and Thenns had already started to attack Castle Black.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 21,
+   "Scene": "Fight of the champions",
+   "Scene End": "0:53:00",
+   "Duration": "0:04:52",
+   "Comparison": "Daario Naharis fights the champion of Meereen in the TV series. Strong Belwas, a character omitted from the show and a former Meereen slave pit fighter fights the mounted champion in the books.  He is chosen because his death would have little impact, but his victory would shame Meereen. After three successful charges, Belwas injures Oznak's mount and forces him to meet him on the ground. Belwas allows him to cut him before he decapitates the champion, and then defecates next to his corpse. The TV series changed this to urinating in the general direction of Meereen's slave-masters. Also, it was Daario who fought against Oznak zo Phal in the series.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Barrels of chains and collars fired against the walls of Meereen",
+   "Scene End": "0:55:30",
+   "Duration": "0:02:30",
+   "Comparison": "Daenerys doesn't order the chains and collars of freed slaves to be fired over the walls of Meereen in barrels.",
+   "Rating": "FALSE"
+ }
+]
