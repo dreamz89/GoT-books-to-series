@@ -5,8 +5,7 @@
    "Scene End": "0:00:06",
    "Duration": "0:00:06",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": null,
@@ -14,8 +13,7 @@
    "Scene End": "0:01:54",
    "Duration": "0:01:48",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": 1,
@@ -23,26 +21,23 @@
    "Scene End": "0:03:00",
    "Duration": "0:01:06",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 2,
    "Scene": "Reunion between Sansa and Jon",
    "Scene End": "0:04:22",
    "Duration": "0:01:22",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Sansa, Brienne and Podrick have never been to Castle Black.\nJeyne Poole, still impersonating Arya, is sent to Castle Black at Stannis's command."
+   "Comparison": "In the books, Sansa, Brienne and Podrick have never been to Castle Black. Jeyne Poole, still impersonating Arya, is sent to Castle Black at Stannis's command.",
+   "Rating": "FALSE"
  },
  {
    "Image": 3,
    "Scene": "Sansa proposes to Jon to take back Winterfell",
    "Scene End": "0:07:22",
    "Duration": "0:03:00",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "There is no mention in the books that Sansa was horrible to Jon, only that they were never as close as he and Arya were.\nSansa has no ambitions to rebuild Winterfell. She is oblivious to the events outside the Vale, and has no idea who currently holds Winterfell."
+   "Comparison": "There is no mention in the books that Sansa was horrible to Jon, only that they were never as close as he and Arya were.<br><br>Sansa has no ambitions to rebuild Winterfell. She is oblivious to the events outside the Vale, and has no idea who currently holds Winterfell.",
+   "Rating": "FALSE"
  },
  {
    "Image": 4,
@@ -50,35 +45,31 @@
    "Scene End": "0:09:01",
    "Duration": "0:01:39",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 5,
    "Scene": "Petyr's power play with Lord Royce of the Vale",
    "Scene End": "0:12:38",
    "Duration": "0:03:37",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Littlefinger never gives Robin any present.\nLittlefinger never threatens to have Lord Royce killed.\nRobin never did any strenuous physical activity, like practicing archery, as the slightest physical exertion caused him to have seizures. He is never fostered at Runestone."
+   "Comparison": "In the books, Littlefinger never gives Robin any present, nor threatens to have Lord Royce killed.<br><br>Robin never did any strenuous physical activity, like practicing archery, as the slightest physical exertion caused him to have seizures. He is never fostered at Runestone.",
+   "Rating": "FALSE"
  },
  {
    "Image": 6,
    "Scene": "Negotiations with Astapor and Yunkai",
    "Scene End": "0:16:16",
    "Duration": "0:03:38",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "There is no negotiation between the Yunkai lords and Daenerys, and no envoys come to Meereen. Hizdahr travels to Yunkai, and delivers Daenerys their terms for peace: the demand compensations for the damages they suffer as a result of disruption of the slave trade; that Yunkai will resume slaving as before, rebuild Astapor as a slave city, and Daenerys must not interfere; and that she will marry Hizdahr. They do not demand her to leave Meereen. Danenerys does not like the terms they posed (especially the second), but complies without any bargaining. Following Daenerys's departure, the Yunkai pose one more demand - that the dragons will be destroyed.\nIt is not Grazdan mo Eraz (Razdal mo Eraz's analogue book character), but Xaro who offers Daenerys ships to travel to Westeros.\nYezzan paid 5,000 silvers for Tyrion.\nNone of the Good Masters of Astapor survived by that point: those who were killed by Daenerys's troops or Cleon, were slain when the Yunkai destroyed Astapor."
+   "Comparison": "In the books, there is no negotiation between the Yunkai lords and Daenerys, and no envoys come to Meereen. Hizdahr travels to Yunkai, and delivers Daenerys their terms for peace. They demand compensation for the damages they suffer as a result of disruption of the slave trade, that Yunkai will resume slaving as before, to rebuild Astapor as a slave city without Daenerys' interferance, and that she will marry Hizdahr. They do not demand for her to leave Meereen. Danenerys does not like the terms they posed (especially the second), but complies without any bargaining. Following Daenerys's departure, the Yunkai pose one more demand - that the dragons be destroyed.<br><br>It is not Grazdan mo Eraz (Razdal mo Eraz's book character), but Xaro who offers Daenerys ships to travel to Westeros.<br><br>None of the Good Masters of Astapor survived by that point: those who were killed by Daenerys's troops or Cleon, were slain when the Yunkai destroyed Astapor.",
+   "Rating": "MIXED"
  },
  {
    "Image": 7,
    "Scene": "Grey Worm and Missandei back Tyrion up at court",
    "Scene End": "0:18:33",
    "Duration": "0:02:17",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "No one complains that Daenerys accepts the terms posed by Yunkai."
+   "Comparison": "No one complains that Daenerys accepts the terms posed by Yunkai.",
+   "Rating": "FALSE"
  },
  {
    "Image": 8,
@@ -86,17 +77,15 @@
    "Scene End": "0:19:43",
    "Duration": "0:01:10",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 9,
    "Scene": "Jorah and Daario track Daenerys down to Vaes Dothrak",
    "Scene End": "0:22:40",
    "Duration": "0:02:57",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Aggo is one of Daenerys's bloodriders. He and Rakharo went to the Dothraki Sea to look for her.\nIt is not Jorah who contracted the greyscale but Jon \"Griff\" Connington, one of the people who travelled with Tyrion."
+   "Comparison": "In the books, Aggo, one of Daenerys's bloodriders, and Rakharo went to the Dothraki Sea to look for her.<br><br>It is not Jorah who contracted the greyscale but Jon \"Griff\" Connington, one of the people who travelled with Tyrion.",
+   "Rating": "FALSE"
  },
  {
    "Image": 10,
@@ -104,8 +93,7 @@
    "Scene End": "0:25:25",
    "Duration": "0:02:45",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 11,
@@ -113,8 +101,7 @@
    "Scene End": "0:26:36",
    "Duration": "0:01:11",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 12,
@@ -122,17 +109,15 @@
    "Scene End": "0:27:50",
    "Duration": "0:01:14",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 13,
    "Scene": "High Sparrow tells Margaery a story",
    "Scene End": "0:32:35",
    "Duration": "0:04:45",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "There is no mentioning in the novels of the High Sparrow's past and father."
+   "Comparison": "There is no mention in the books of the High Sparrow's past and father.",
+   "Rating": "FALSE"
  },
  {
    "Image": 14,
@@ -140,8 +125,7 @@
    "Scene End": "0:34:26",
    "Duration": "0:01:51",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 15,
@@ -149,8 +133,7 @@
    "Scene End": "0:37:42",
    "Duration": "0:03:16",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 16,
@@ -158,17 +141,15 @@
    "Scene End": "0:40:18",
    "Duration": "0:02:36",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 17,
    "Scene": "Theon does not want to rule the Iron islands",
    "Scene End": "0:43:24",
    "Duration": "0:03:06",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Theon has no idea his father died or that the kingsmoot takes place. He is held captive in Dreadfort at that time.\nTheon has not returned to the Iron Islands. After escaping from Winterfell, he is brought to Stannis's camp, where he re-unites with Asha, who is also held prisoner there."
+   "Comparison": "In the books, Theon has no idea his father died or that the kingsmoot takes place. He is held captive in Dreadfort at that time.<br><br>Theon has not returned to the Iron Islands. After escaping from Winterfell, he is brought to Stannis's camp, where he re-unites with Asha, who is also held prisoner there.",
+   "Rating": "FALSE"
  },
  {
    "Image": 18,
@@ -176,25 +157,22 @@
    "Scene End": "0:46:46",
    "Duration": "0:03:22",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 19,
    "Scene": "Ramsay sends a threat to Jon",
    "Scene End": "0:50:40",
    "Duration": "0:03:54",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Jon receives Ramsay's letter and decides to go and fight him before, not after his men attack him.\nThe contents of Ramsay's letter are entirely different: Ramsay claims that he killed Stannis and destroyed his host; that he holds Mance Rayder captive and skinned the six spearwives that were with him; he demands Jon to deliver him his bride (Jeyne Poole), Theon, Melisandre, Selyse, Shireen, Mance's baby son and sister in law Val. He has no complaints to Jon about allowing the wildlings to pass the Wall."
+   "Comparison": "In the books, Jon receives Ramsay's letter and decides to go and fight him before, not after his men attack him.<br><br>The contents of Ramsay's letter are entirely different: Ramsay claims that he killed Stannis and destroyed his host; that he holds Mance Rayder captive and skinned the six spearwives that were with him. He demands that Jon deliver him his bride (Jeyne Poole), Theon, Melisandre, Selyse, Shireen, Mance's baby son and sister-in-law Val. He does not complain to Jon about allowing the wildlings to pass the Wall.",
+   "Rating": "MIXED"
  },
  {
    "Image": 20,
    "Scene": "Daenerys burns the Khals down",
    "Scene End": "0:57:18",
    "Duration": "0:06:38",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "In the novels, Daenerys is not immune to fire. In fact, she badly burns her hands after riding Drogon out of Meereen."
+   "Comparison": "In the books, Daenerys is not immune to fire. In fact, she badly burns her hands after riding Drogon out of Meereen.",
+   "Rating": "FALSE"
  }
 ]

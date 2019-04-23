@@ -5,8 +5,7 @@
    "Scene End": "0:00:06",
    "Duration": "0:00:06",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": null,
@@ -14,8 +13,7 @@
    "Scene End": "0:01:54",
    "Duration": "0:01:48",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": 1,
@@ -23,8 +21,7 @@
    "Scene End": "0:03:39",
    "Duration": "0:01:45",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 2,
@@ -32,8 +29,7 @@
    "Scene End": "0:04:30",
    "Duration": "0:00:51",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 3,
@@ -41,17 +37,15 @@
    "Scene End": "0:07:35",
    "Duration": "0:03:05",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 4,
    "Scene": "The Hound goes after the murderers",
    "Scene End": "0:09:17",
    "Duration": "0:01:42",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "The Hound's fate remains unknown; he does not appear after Arya leaves him to die in the third novel.\nNone of the Brotherhood have gone rogue and killed harmless villagers."
+   "Comparison": "The Hound's fate remains unknown; he does not appear after Arya leaves him to die in the third novel.<br><br>None of the Brotherhood have gone rogue and killed harmless villagers.",
+   "Rating": "FALSE"
  },
  {
    "Image": 5,
@@ -59,8 +53,7 @@
    "Scene End": "0:11:15",
    "Duration": "0:01:58",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 6,
@@ -68,53 +61,47 @@
    "Scene End": "0:13:54",
    "Duration": "0:02:39",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 7,
    "Scene": "Brienne and Podrik arrive at Riverrun",
    "Scene End": "0:14:37",
    "Duration": "0:00:43",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Brienne and Podrick do not take any part in the siege of Riverrun. They are at the Riverlands, but away from Riverrun, still looking fruitlessly for Sansa."
+   "Comparison": "In the books, Brienne and Podrick do not take any part in the siege of Riverrun. They are at the Riverlands, but away from Riverrun, still looking fruitlessly for Sansa.",
+   "Rating": "FALSE"
  },
  {
    "Image": 8,
    "Scene": "Bronn teaches Podrik the other way of fighting",
    "Scene End": "0:16:29",
    "Duration": "0:01:52",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Brienne and Podrick do not take any part in the siege of Riverrun. They are at the Riverlands, but away from Riverrun, still looking fruitlessly for Sansa."
+   "Comparison": "In the books, Brienne and Podrick do not take any part in the siege of Riverrun. They are at the Riverlands, but away from Riverrun, still looking fruitlessly for Sansa.",
+   "Rating": "FALSE"
  },
  {
    "Image": 9,
    "Scene": "Brienne has a proposal for Jaime",
    "Scene End": "0:19:58",
    "Duration": "0:03:29",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Jaime swore an oath to Catelyn Stark that he would not kill any Starks or Tullys, which is he why he tries - and succeeds - to end the siege without violence.\nBrienne and Podrick do not take any part in the siege of Riverrun. They are at the Riverlands, but away from Riverrun, still looking fruitlessly for Sansa.\nBrienne has not yet fulfilled her oath to Catelyn as she has not met Arya or Sansa on her journey with Pod, let alone brought them to safety.\nJaime believes that Arya, not Sansa, is dead.\nThe meeting between Jaime and Brienne occurs directly after the siege of Raventree Hall."
+   "Comparison": "Jaime swore an oath to Catelyn Stark that he would not kill any Starks or Tullys, which is he why he tries - and succeeds - to end the siege without violence.<br><br>In the books, Brienne and Podrick do not take any part in the siege of Riverrun. They are at the Riverlands, but away from Riverrun, still looking fruitlessly for Sansa. Brienne has not yet fulfilled her oath to Catelyn as she has not met Arya or Sansa on her journey with Pod, let alone brought them to safety.<br><br>The meeting between Jaime and Brienne occurs directly after the siege of Raventree Hall. Jaime believes that Arya, not Sansa, is dead.",
+   "Rating": "MIXED"
  },
  {
    "Image": 10,
    "Scene": "Brienne fails to convince the Blackfish",
    "Scene End": "0:22:09",
    "Duration": "0:02:11",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Brienne never meets the Blackfish in the books.\nExcept Jaime and Ryman Frey, no one tries to parley with Brynden Tully.\nThere is no mentioning in the books that Brynden Tully is acquainted with Brienne's father, however it is possible that they could have met during the War of the Ninepenny Kings or Robert's Rebellion.\nIt is not Brynden but someone else who accuses Brienne of serving the Lannisters because of the sword she carries.\nSansa does not send any letter to Brynden."
+   "Comparison": "Brienne never meets the Blackfish in the books and Sansa does not send any letter to Brynden. Except Jaime and Ryman Frey, no one tries to parley with Brynden Tully.<br><br>There is no mention in the books that Brynden Tully is acquainted with Brienne's father, however it is possible that they could have met during the War of the Ninepenny Kings or Robert's Rebellion.<br><br>It is not Brynden but someone else who accuses Brienne of serving the Lannisters because of the sword she carries.",
+   "Rating": "FALSE"
  },
  {
    "Image": 11,
    "Scene": "Tommen announces the trial of Loras and Cersei",
    "Scene End": "0:25:42",
    "Duration": "0:03:33",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "Cersei is not allowed to walk around freely, escorted by Ser Robert Strong, and intimidate people."
+   "Comparison": "In the books, Cersei is not allowed to walk around freely, escorted by Ser Robert Strong, and intimidate people.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 12,
@@ -122,71 +109,63 @@
    "Scene End": "0:30:04",
    "Duration": "0:04:22",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 13,
    "Scene": "Jaime blackmails Edmure Tully",
    "Scene End": "0:35:15",
    "Duration": "0:05:11",
-   "Comparison": "",
-   "Rating": "TRUE",
-   "Difference": "Jaime has grown distant from Cersei, and has no intentions to kill Tullys or anyone else in order to get back to her.\nEdmure's wife Roslin is pregnant, but by the point the books reached, has not yet given birth.\nJaime threatens to launch Edmure's child into Riverrun with a trebuchet, not catapult.\nJaime tells Edmure his terms right after releasing him from the gallows, and that happens after his unsuccessful parley with Brynden.\nJaime never says he admired Catelyn or that she reminded him of Cersei.\nCatelyn did not hit Jaime.\nIt is not Edmure but Brynden who doubts Jaime's word and reminds him of killing Aerys.\nTo help convince Edmure to surrender Riverrun, Jaime arranges for a musician to sing \"The Rains of Castamere\"."
+   "Comparison": "Jaime has grown distant from Cersei, and has no intentions to kill Tullys or anyone else in order to get back to her.<br><br>Edmure's wife Roslin is pregnant, but by the point the books reached, has not yet given birth. Jaime threatens to launch Edmure's child into Riverrun with a trebuchet, not catapult.<br><br>Jaime tells Edmure his terms right after releasing him from the gallows, and that happens after his unsuccessful parley with Brynden. It is not Edmure but Brynden who doubts Jaime's word and reminds him of killing Aerys. To help convince Edmure to surrender Riverrun, Jaime arranges for a musician to sing \"The Rains of Castamere\".<br><br>Jaime never says he admired Catelyn or that she reminded him of Cersei. Catelyn did not hit Jaime.",
+   "Rating": "TRUE"
  },
  {
    "Image": 14,
    "Scene": "Edmure opens the gates to the Lannisters",
    "Scene End": "0:40:04",
    "Duration": "0:04:49",
-   "Comparison": "",
-   "Rating": "TRUE",
-   "Difference": "No one tries to stop Edmure from entering Riverrun.\nJaime has no intentions to allow Brynden go away safely, only to the garrison, and only after they surrender their arms and armor. He intended to send Brynden to the Wall, not to deliver him to the Freys."
+   "Comparison": "In the books, no one tries to stop Edmure from entering Riverrun.<br>Jaime has no intentions to allow Brynden go away safely, only to the garrison, and only after they surrender their arms and armor. He intended to send Brynden to the Wall, not to deliver him to the Freys.",
+   "Rating": "TRUE"
  },
  {
    "Image": 15,
    "Scene": "The Blackfish declines leaving with Brienne",
    "Scene End": "0:40:55",
    "Duration": "0:00:51",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Brienne never meets the Blackfish in the books.\nBrynden escapes from Riverrun and is believed to still be alive, though his whereabouts are unknown."
+   "Comparison": "Brienne never meets the Blackfish in the books.<br>Brynden escapes from Riverrun and is believed to still be alive, though his whereabouts are unknown.",
+   "Rating": "FALSE"
  },
  {
    "Image": 16,
    "Scene": "Jaime is informed of the Blackfish's death",
    "Scene End": "0:42:33",
    "Duration": "0:01:38",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Brynden escapes from Riverrun and is believed to still be alive, though his whereabouts are unknown."
+   "Comparison": "In the books, Brynden escapes from Riverrun and is believed to still be alive, though his whereabouts are unknown.",
+   "Rating": "FALSE"
  },
  {
    "Image": 17,
    "Scene": "Daenerys comes back to a city under attack",
    "Scene End": "0:44:15",
    "Duration": "0:01:42",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Daenerys is still in Meereen when the siege starts, while Tyrion and Jorah are in the Yunkai camps.\nThe besieged, led by Ser Barristan Selmy, do not intend to remain in Meereen and wait for the enemies' attack, but to march out and fight them.\nThe besiegers catapult dead bodies, not fire missiles, into Meereen."
+   "Comparison": "In the books, Daenerys is still in Meereen when the siege starts, while Tyrion and Jorah are in the Yunkai camps.<br><br>The besieged, led by Ser Barristan Selmy, do not intend to remain in Meereen and wait for the enemies' attack, but to march out and fight them.<br>The besiegers catapult dead bodies, not fire missiles, into Meereen.",
+   "Rating": "MIXED"
  },
  {
    "Image": 18,
    "Scene": "The Hound negotiates with Beric over the murderers",
    "Scene End": "0:46:57",
    "Duration": "0:02:42",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "It is Arya, not the Hound, who takes the boots of someone she killed.\nNone of the Brotherhood have gone rogue and killed harmless villagers. However, they are capable of killing innocent people who have nothing to do the Red Wedding and never harmed Starks or Tullys - as long as they have some connection, even very vague, to the Freys or the Lannisters."
+   "Comparison": "In the books, it is Arya, not the Hound, who takes the boots of someone she killed.<br><br>None of the Brotherhood have gone rogue and killed harmless villagers. However, they are capable of killing innocent people who have nothing to do the Red Wedding and never harmed Starks or Tullys - as long as they have some connection, even very vague, to the Freys or the Lannisters.",
+   "Rating": "FALSE"
  },
  {
    "Image": 19,
    "Scene": "Beric invites the Hound to join them",
    "Scene End": "0:48:57",
    "Duration": "0:02:00",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "In the books Beric Dondarrion died (permanently) not long after the Red Wedding, his successor has shown no interest in using the Brotherhood to stop the White Walkers."
+   "Comparison": "In the books, Beric Dondarrion died (permanently) not long after the Red Wedding, and his successor has shown no interest in using the Brotherhood to stop the White Walkers.",
+   "Rating": "FALSE"
  },
  {
    "Image": 20,
@@ -194,8 +173,7 @@
    "Scene End": "0:54:46",
    "Duration": "0:05:49",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 21,
@@ -203,7 +181,6 @@
    "Scene End": "0:56:58",
    "Duration": "0:02:12",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  }
 ]

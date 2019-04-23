@@ -5,8 +5,7 @@
    "Scene End": "0:00:06",
    "Duration": "0:00:06",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": null,
@@ -14,8 +13,7 @@
    "Scene End": "0:02:00",
    "Duration": "0:01:54",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": 1,
@@ -23,8 +21,7 @@
    "Scene End": "0:04:36",
    "Duration": "0:02:36",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 2,
@@ -32,8 +29,7 @@
    "Scene End": "0:05:54",
    "Duration": "0:01:18",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 3,
@@ -41,44 +37,39 @@
    "Scene End": "0:07:48",
    "Duration": "0:01:54",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 4,
    "Scene": "Sam brings Gilly and the baby to his home Hornhill",
    "Scene End": "0:11:38",
    "Duration": "0:03:50",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Sam has three sisters, not one.\nThe baby is not Gilly's, but Mance Rayder's. Jon forced Gilly to take the latter, while leaving her own baby at Castle Black, to prevent Melisandre from sacrificing him. Gilly has not given a name to her baby since he is not two years old.\nGilly never tells Sam that he is the father of her son."
+   "Comparison": "In the books, Sam has three sisters, not one.<br><br>The baby is not Gilly's, but Mance Rayder's. Jon forced Gilly to take the latter, while leaving her own baby at Castle Black, to prevent Melisandre from sacrificing him. Gilly has not given a name to her baby since he is not two years old. Gilly never tells Sam that he is the father of her son.",
+   "Rating": "MIXED"
  },
  {
    "Image": 5,
    "Scene": "Bran sees a vision of Ned's battle at the Trident",
    "Scene End": "0:17:00",
    "Duration": "0:05:22",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "The scene at the Tower of Joy is not revealed in Bran's vision, but in Ned Stark's feverish dream, when he is recovering from the injury he took after the bloody brawl with Jaime.\nThe Showdown at the Tower of Joy involved seven Northmen and three members of the Kingsguard, rather than six and two respectively. Ser Oswell Whent was the third Kingsguard present. When Ned says he looked for them on the Trident, it is Ser Gerold Hightower, rather than Ser Arthur Dayne, who replies that they were not there, and Ser Oswell declares, \"Woe to the Usurper if we had been.\"\nThere is no mention in the books of Arthur Dayne wielding two swords at once. He instead uses his family's ancestral great sword, Dawn, a pale white blade that glows faintly.\nDespite the superb skills he displayed before his death, Ser Arthur is shown to be much more modest on the show than he seemed in the book as shown when he wishes Ned \"good fortune in the wars to come.\" In the books, Ser Arthur comes across as somewhat overconfident, like his two sworn brothers, saying, \"Our knees do not bend so easily.\"\nIt is unknown who killed whom and how the dead perished at the Tower of Joy, only who survived: Ned Stark and Howland Reed."
+   "Comparison": "The scene at the Tower of Joy is not revealed in Bran's vision, but in Ned Stark's feverish dream, when he is recovering from the injury he took after the bloody brawl with Jaime.<br><br>The Showdown at the Tower of Joy involved seven Northmen and three members of the Kingsguard, rather than six and two respectively. Ser Oswell Whent was the third Kingsguard present. When Ned says he looked for them on the Trident, it is Ser Gerold Hightower, rather than Ser Arthur Dayne, who replies that they were not there, and Ser Oswell declares, \"Woe to the Usurper if we had been.\"<br><br>There is no mention in the books of Arthur Dayne wielding two swords at once. He instead uses his family's ancestral great sword, Dawn, a pale white blade that glows faintly.<br><br>Despite the superb skills he displayed before his death, Ser Arthur is shown to be much more modest on the show than he seemed in the book as shown when he wishes Ned \"good fortune in the wars to come.\" In the books, Ser Arthur comes across as somewhat overconfident, like his two sworn brothers, saying, \"Our knees do not bend so easily.\"<br><br>In the books, it is unknown who killed whom and how the dead perished at the Tower of Joy, only who survived: Ned Stark and Howland Reed.",
+   "Rating": "MIXED"
  },
  {
    "Image": 6,
    "Scene": "Bran wants to go back to the Trident vision",
    "Scene End": "0:18:11",
    "Duration": "0:01:11",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "The Three-Eyed Raven does not warn Bran of staying too long in the visions."
+   "Comparison": "In the books, the Three-Eyed Raven does not warn Bran of staying too long in the visions.",
+   "Rating": "FALSE"
  },
  {
    "Image": 7,
    "Scene": "Daenerys is presented to the Dosh Khaleen",
    "Scene End": "0:21:55",
    "Duration": "0:03:44",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "No Khal Savo is mentioned in the books."
+   "Comparison": "No Khal Savo is mentioned in the books.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 8,
@@ -86,79 +77,70 @@
    "Scene End": "0:25:36",
    "Duration": "0:03:41",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 9,
    "Scene": "Varys brings news of Astapor and Yunkai",
    "Scene End": "0:29:00",
    "Duration": "0:03:24",
-   "Comparison": "",
-   "Rating": "TRUE",
-   "Difference": "The fall of Astapor takes place on-screen."
+   "Comparison": "In the books, the fall of Astapor takes place on-screen.",
+   "Rating": "TRUE"
  },
  {
    "Image": 10,
    "Scene": "Qyburn takes over Varys' little birds",
    "Scene End": "0:31:43",
    "Duration": "0:02:43",
-   "Comparison": "",
-   "Rating": "TRUE",
-   "Difference": "No one except Cersei and Qyburn knows for sure the true identity of Ser Robert Strong; however, many people have their suspicions.\nCersei commands Qyburn to have the \"little birds\" spy on the kinglanders only, not all over Westeros."
+   "Comparison": "No one except Cersei and Qyburn knows for sure the true identity of Ser Robert Strong; however, many people have their suspicions.<br><br>In the books, Cersei commands Qyburn to have the \"little birds\" spy on the kinglanders only, not all over Westeros.",
+   "Rating": "TRUE"
  },
  {
    "Image": 11,
    "Scene": "Cersei and the Mountain crashes the Small Council meeting",
    "Scene End": "0:34:08",
    "Duration": "0:02:25",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "No one questions Jaime's right to attend the Small Council. He rarely does because politics bore him.\nOlenna Tyrell left King's Landing before Margaery was arrested, and has not returned.\nOlenna Tyrell never had a seat at the Small Council.\nPycelle objects to granting Qyburn a title of lord, not to his appointment as Master of Whisperers."
+   "Comparison": "In the books, no one questions Jaime's right to attend the Small Council. He rarely does because politics bore him.<br><br>Olenna Tyrell left King's Landing before Margaery was arrested, and has not returned. She never had a seat at the Small Council.<br><br>Pycelle objects to granting Qyburn a title of lord, not to his appointment as Master of Whisperers.",
+   "Rating": "MIXED"
  },
  {
    "Image": 12,
    "Scene": "Tommen tries to demand from the High Sparrow",
    "Scene End": "0:37:55",
    "Duration": "0:03:47",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "The conversation between Tommen and the High Sparrow does not occur in the books."
+   "Comparison": "The conversation between Tommen and the High Sparrow does not happen in the books.",
+   "Rating": "FALSE"
  },
  {
    "Image": 13,
    "Scene": "Arya is questioned and fought against",
    "Scene End": "0:41:22",
    "Duration": "0:03:27",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "Walder Frey is not one of the people in Arya's death list."
+   "Comparison": "In the books, Walder Frey is not one of the people in Arya's death list.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 14,
    "Scene": "Arya regains her eyes",
    "Scene End": "0:42:55",
    "Duration": "0:01:33",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Comparison": "In the books, Arya is not turned into a blind beggar.",
+   "Rating": "FALSE"
  },
  {
    "Image": 15,
    "Scene": "Lord Umber presents Rickon Stark to Ramsay",
    "Scene End": "0:46:21",
    "Duration": "0:03:26",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Greatjon Umber is alive. He was taken captive by the Freys at the Red Wedding and was used as a hostage to ensure his uncle Hother 'Whoresbane' Umber remains loyal to the Boltons.\nSmalljon Umber is dead. He was killed in the Red Wedding.\nIt is Hother Umber who bends his knee to the Boltons, but reluctantly, because his nephew Greatjon is held hostage. His brother Mors, who joins Stannis, is the one who hates the wildlings because one of them kidnapped his daughter.\nOsha, Rickon and Shaggydog went to Skagos. They never encountered the Umbers."
+   "Comparison": "In the books, Greatjon Umber is alive. He was taken captive by the Freys at the Red Wedding and was used as a hostage to ensure his uncle Hother 'Whoresbane' Umber remains loyal to the Boltons. Smalljon Umber was killed in the Red Wedding.<br><br>It is Hother Umber who bends his knee to the Boltons, but reluctantly, because his nephew Greatjon is held hostage. His brother Mors, who joins Stannis, is the one who hates the wildlings because one of them kidnapped his daughter.<br><br>Osha, Rickon and Shaggydog went to Skagos. They never encountered the Umbers.",
+   "Rating": "MIXED"
  },
  {
    "Image": 16,
-   "Scene": "Jon swings the sword and resigns",
+   "Scene": "Jon metes out punishment and resigns as Lord Commander",
    "Scene End": "0:50:05",
    "Duration": "0:03:44",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  }
 ]

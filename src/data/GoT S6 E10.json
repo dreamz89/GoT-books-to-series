@@ -5,8 +5,7 @@
    "Scene End": "0:00:06",
    "Duration": "0:00:06",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": null,
@@ -14,8 +13,7 @@
    "Scene End": "0:01:54",
    "Duration": "0:01:48",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": 1,
@@ -23,17 +21,15 @@
    "Scene End": "0:05:22",
    "Duration": "0:03:28",
    "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": ""
+   "Rating": "FALSE"
  },
  {
    "Image": 2,
    "Scene": "Loras confesses to his sins",
    "Scene End": "0:09:22",
    "Duration": "0:04:00",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Loras was never arrested and put on trial, nor did he ever join the Faith. He was sent by Cersei to conquer Dragonstone, where he was gravely injured.\nLoras has renounced his title and claims on Highgarden long ago, when he joined the Kingsguard. In any case, his elder brother Willas is the heir to Highgarden.\nLoras never said Renly was a traitor.\nMembers of the Faith Militant are not required to carve the seven-pointed star onto their foreheads. It is sufficient for them to paint the star on their brows or sew a badge of it to their clothes. Only the zealous among them carve the star into their chests, not their foreheads."
+   "Comparison": "In the books, Loras was never arrested and put on trial, nor did he ever join the Faith. He was sent by Cersei to conquer Dragonstone, where he was gravely injured.<br><br>Loras has renounced his title and claims on Highgarden long ago, when he joined the Kingsguard. In any case, his elder brother Willas is the heir to Highgarden. Loras never said Renly was a traitor.<br><br>Members of the Faith Militant are not required to carve the seven-pointed star onto their foreheads. It is sufficient for them to paint the star on their brows or sew a badge of it to their clothes. Only the zealous among them carve the star into their chests, not their foreheads.",
+   "Rating": "FALSE"
  },
  {
    "Image": 3,
@@ -41,35 +37,31 @@
    "Scene End": "0:10:00",
    "Duration": "0:00:38",
    "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": ""
+   "Rating": "FALSE"
  },
  {
    "Image": 4,
    "Scene": "Lancel suspects something",
    "Scene End": "0:11:30",
    "Duration": "0:01:30",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": ""
+   "Comparison": "In the books, Kevan, not Pycelle or Lancel, is lured to a death trap by one of the Little Birds.",
+   "Rating": "FALSE"
  },
  {
    "Image": 5,
    "Scene": "Maester Pycelle is killed by Qyburn's little birds",
    "Scene End": "0:13:24",
    "Duration": "0:01:54",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Varys, not Qyburn, murders Pycelle. The murder occurs off-screen.\nPycelle does not die as a result of multiple stab wounds. Instead, his skull is bashed.\nKevan, not Pycelle or Lancel, is lured to a death trap by one of the Little Birds.\nKevan is fatally injured by an arrow Varys shoots at him. Varys apologizes, explaining why it was necessary to kill him and Pycelle, then Kevan is finished off by the Little Birds."
+   "Comparison": "In the books, Varys, not Qyburn, murders Pycelle. The murder occurs off-screen. Pycelle does not die as a result of multiple stab wounds. Instead, his skull is bashed.<br><br>Kevan, not Pycelle or Lancel, is lured to a death trap by one of the Little Birds.<br>Kevan is fatally injured by an arrow Varys shoots at him. Varys apologizes, explaining why it was necessary to kill him and Pycelle, then Kevan is finished off by the Little Birds.",
+   "Rating": "MIXED"
  },
  {
    "Image": 6,
    "Scene": "The Sept of Baelor is blown up",
    "Scene End": "0:18:15",
    "Duration": "0:04:51",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Lord Walder Frey, Lothar, Walder Rivers, Black Walder, Mace Tyrell, Margaery Tyrell, Loras Tyrell, Lancel, Tommen and the High Sparrow are alive.\nCersei has the Tower of the Hand, not the Great Sept of Baelor, destroyed by wildfire. It happens towards the beginning of A Feast for Crows; no one is harmed as a result."
+   "Comparison": "Lord Walder Frey, Lothar, Walder Rivers, Black Walder, Mace Tyrell, Margaery Tyrell, Loras Tyrell, Lancel, Tommen and the High Sparrow are still alive.<br><br>Cersei has the Tower of the Hand, not the Great Sept of Baelor, destroyed by wildfire. It happens towards the beginning of A Feast for Crows; no one is harmed as a result.",
+   "Rating": "FALSE"
  },
  {
    "Image": 7,
@@ -77,26 +69,23 @@
    "Scene End": "0:22:03",
    "Duration": "0:03:48",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 8,
    "Scene": "Tommen jumps",
    "Scene End": "0:22:57",
    "Duration": "0:00:54",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Lord Walder Frey, Lothar, Walder Rivers, Black Walder, Mace Tyrell, Margaery Tyrell, Loras Tyrell, Lancel, Tommen and the High Sparrow are alive."
+   "Comparison": "In the books, Tommen is still alive.",
+   "Rating": "FALSE"
  },
  {
    "Image": 9,
    "Scene": "Walder Frey gloats over taking over Riverrun",
    "Scene End": "0:26:37",
    "Duration": "0:03:40",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "After the siege of Riverrun is resolved, Edmure is sent to Casterly Rock, not back to the Twins."
+   "Comparison": "In the books, after the siege of Riverrun is resolved, Edmure is sent to Casterly Rock, not back to the Twins.",
+   "Rating": "MIXED"
  },
  {
    "Image": 10,
@@ -104,17 +93,15 @@
    "Scene End": "0:27:38",
    "Duration": "0:01:01",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 11,
    "Scene": "Sam and Gilly arrive at the Citadel",
    "Scene End": "0:30:31",
    "Duration": "0:02:53",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Sam does not bring Gilly and the baby to the Citadel.\nSam waits for hours until he is admitted to speak with the archmaester. He is first approached by a novice named Alleras, who is interested in hearing Sam's story, then is taken to the archmaester.\nNo one inquires Sam about the current Lord Commander of the Night's Watch."
+   "Comparison": "In the books, Sam does not bring Gilly and the baby to the Citadel.<br><br>Sam waits for hours until he is admitted to speak with the archmaester. He is first approached by a novice named Alleras, who is interested in hearing Sam's story, then is taken to the archmaester.<br><br>No one inquires Sam about the current Lord Commander of the Night's Watch.",
+   "Rating": "MIXED"
  },
  {
    "Image": 12,
@@ -122,44 +109,39 @@
    "Scene End": "0:31:45",
    "Duration": "0:01:14",
    "Comparison": "",
-   "Rating": "TRUE",
-   "Difference": ""
+   "Rating": "TRUE"
  },
  {
    "Image": 13,
    "Scene": "Davos confronts Melisandre about Shireen",
    "Scene End": "0:36:14",
    "Duration": "0:04:29",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "Davos never said he loved Shireen like she was his own daughter."
+   "Comparison": "In the books, Davos never said he loved Shireen like she was his own daughter.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 14,
    "Scene": "Jon and Sansa chat ",
    "Scene End": "0:38:46",
    "Duration": "0:02:32",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "The white raven is sent to King's Landing, not Winterfell."
+   "Comparison": "The white raven is sent to King's Landing, not Winterfell.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 15,
    "Scene": "Lady Olenna and the Sand Snakes plan their vengeance",
    "Scene End": "0:40:23",
    "Duration": "0:01:37",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Lord Walder Frey, Lothar, Walder Rivers, Black Walder, Mace Tyrell, Margaery Tyrell, Loras Tyrell, Lancel, Tommen and the High Sparrow are alive.\nArianne Martell, not Olenna, asks her father, \"What is our heart’s desire?\" Doran, not Ellaria and Varys, answers, \"Vengeance, justice, fire and blood.\""
+   "Comparison": "In the books, the Tyrells are still alive.<br><br>Arianne Martell, not Olenna, asks her father, \"What is our heart’s desire?\" Doran, not Ellaria and Varys, answers, \"Vengeance, justice, fire and blood.\"",
+   "Rating": "FALSE"
  },
  {
    "Image": 16,
    "Scene": "Daenerys leaves Daario behind in Meeren",
    "Scene End": "0:44:00",
    "Duration": "0:03:37",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "Daario is the commander of the Stormcrows, not the Second Sons."
+   "Comparison": "In the books, Daario is the commander of the Stormcrows, not the Second Sons.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 17,
@@ -167,62 +149,55 @@
    "Scene End": "0:47:28",
    "Duration": "0:03:28",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 18,
    "Scene": "Arya serves Walder Frey some pies",
    "Scene End": "0:49:44",
    "Duration": "0:02:16",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "The Freys who are killed and baked in a pie are not Black Walder and Lothar. Jared, Rhaegar and Symond Frey disappear on their way from White Harbor to Winterfell; it is likely that they were baked into pies on the orders of Lord Wyman Manderly, but it has not been confirmed yet. Arya, who is still in Braavos at that point, has nothing to do with their deaths.\nThe pies are brought to Ramsay's wedding, not to the Twins. Lord Frey does not attend the wedding, therefore does not eat the pies, but his third and sixth sons Aenys and Hosteen do. They are not told afterwards what the pies are made of.\nOf the Freys who ate from the pies, only Aenys is killed. Arya has nothing to do with his death."
+   "Comparison": "The Freys who are killed and baked in a pie are not Black Walder and Lothar. Jared, Rhaegar and Symond Frey disappear on their way from White Harbor to Winterfell; it is likely that they were baked into pies on the orders of Lord Wyman Manderly, but it has not been confirmed yet. Arya, who is still in Braavos at that point, has nothing to do with their deaths.<br><br>The pies are brought to Ramsay's wedding, not to the Twins. Lord Frey does not attend the wedding, therefore does not eat the pies, but his third and sixth sons Aenys and Hosteen do. They are not told afterwards what the pies are made of. Of the Freys who ate from the pies, only Aenys is killed. Arya has nothing to do with his death.",
+   "Rating": "MIXED"
  },
  {
    "Image": 19,
    "Scene": "Petyr declares himself for Sansa",
    "Scene End": "0:52:27",
    "Duration": "0:02:43",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Sansa never came to the godswood to pray to be somewhere else.\nLittlefinger never stated he wanted the Iron Throne. His plans, as far as he revealed to Sansa, are to take over the Vale and Winterfell by marrying her to Harrold Hardyng."
+   "Comparison": "In the books, Sansa never came to the godswood to pray to be somewhere else.<br><br>Littlefinger never stated he wanted the Iron Throne. His plans, as far as he revealed to Sansa, are to take over the Vale and Winterfell by marrying her to Harrold Hardyng.",
+   "Rating": "FALSE"
  },
  {
    "Image": 20,
    "Scene": "Benjen parts ways with Bran near the Wall",
    "Scene End": "0:53:56",
    "Duration": "0:01:29",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Sam explains why Coldhands cannot pass beyond the Wall."
+   "Comparison": "Sam explains why Coldhands cannot pass beyond the Wall.",
+   "Rating": "MIXED"
  },
  {
    "Image": 21,
    "Scene": "Bran sees what happened in the tower in his vision",
    "Scene End": "0:57:15",
    "Duration": "0:03:19",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Jon Snow's parentage is as of yet unconfirmed in the books."
+   "Comparison": "Jon Snow's parentage is as of yet unconfirmed in the books.",
+   "Rating": "FALSE"
  },
  {
    "Image": 22,
    "Scene": "Jon is proclaimed King in the North",
    "Scene End": "1:01:54",
    "Duration": "0:04:39",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "House Glover always supported the Starks.\nIt is not Lyanna Mormont but Wylla, Lord Manderly's granddaughter, who speaks in favor of the Starks.\nDavos, not Lyanna Mormont, reminds Lord Manderly of his son's death at the Red Wedding.\nLord Manderly and Robett Glover declare their loyalty to the Starks only in private, in front of Davos.\nLord Manderly is described as so obese that he cannot ride a horse, leading to his nickname, \"Lord Too Fat To Sit A Horse\".\nCley Cerwyn is long dead, killed by the Boltons."
+   "Comparison": "House Glover always supported the Starks. Cley Cerwyn is long dead, killed by the Boltons.<br><br>It is not Lyanna Mormont but Wylla, Lord Manderly's granddaughter, who speaks in favor of the Starks. Davos, not Lyanna Mormont, reminds Lord Manderly of his son's death at the Red Wedding. Lord Manderly and Robett Glover declare their loyalty to the Starks only in private, in front of Davos.<br><br>Lord Manderly is described as so obese that he cannot ride a horse, leading to his nickname, \"Lord Too Fat To Sit A Horse\".",
+   "Rating": "MIXED"
  },
  {
    "Image": 23,
    "Scene": "Cersei is crowned Queen",
    "Scene End": "1:04:26",
    "Duration": "0:02:32",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "Jaime does not go to the Twins after resolving the siege of Riverrun, but to Raventree Hall. So far he has not returned to King's Landing."
+   "Comparison": "In the books, Jaime does not go to the Twins after resolving the siege of Riverrun, but to Raventree Hall. So far he has not returned to King's Landing.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 24,
@@ -230,7 +205,6 @@
    "Scene End": "1:06:40",
    "Duration": "0:02:14",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  }
 ]

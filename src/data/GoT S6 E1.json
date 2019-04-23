@@ -5,8 +5,7 @@
    "Scene End": "0:00:06",
    "Duration": "0:00:06",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": null,
@@ -14,17 +13,15 @@
    "Scene End": "0:01:54",
    "Duration": "0:01:48",
    "Comparison": "",
-   "Rating": "",
-   "Difference": ""
+   "Rating": ""
  },
  {
    "Image": 1,
    "Scene": "Davos finds Jon's dead body",
    "Scene End": "0:04:08",
    "Duration": "0:02:14",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Davos, Alliser Thorne and Eddison Tollett are not present at the Wall in the immediate aftermath of Jon Snow's assassination: Davos was sent earlier by Stannis to the White Harbor; Thorne was sent by Jon to scout beyond the Wall, and he has not returned yet; Eddison Tollett was sent by Jon to Long Barrow, assigned as the chief steward."
+   "Comparison": "In the books, Davos, Alliser Thorne and Eddison Tollett are not present at the Wall in the immediate aftermath of Jon Snow's assassination: Davos was sent earlier by Stannis to the White Harbor; Thorne was sent by Jon to scout beyond the Wall, and he has not returned yet; Eddison Tollett was sent by Jon to Long Barrow, assigned as the chief steward.",
+   "Rating": "MIXED"
  },
  {
    "Image": 2,
@@ -32,8 +29,7 @@
    "Scene End": "0:06:27",
    "Duration": "0:02:19",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 3,
@@ -41,8 +37,7 @@
    "Scene End": "0:08:25",
    "Duration": "0:01:58",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 4,
@@ -50,17 +45,15 @@
    "Scene End": "0:09:32",
    "Duration": "0:01:07",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 5,
    "Scene": "Ramsay says an eulogy for the mauled girl",
    "Scene End": "0:10:53",
    "Duration": "0:01:21",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Myranda does not exist in the books. Two of Ramsay's servants, Yellow Dick and \"Little\" Walder Frey, are killed in Winterfell by unknown people (presumably Mance Rayder and the spearwives). Ramsay's reaction to the murders is rage, not sorrow."
+   "Comparison": "Myranda does not exist in the books. When two of Ramsay's servants, Yellow Dick and \"Little\" Walder Frey, are killed in Winterfell by unknown people,  his reaction to the murders is rage, not sorrow.",
+   "Rating": "FALSE"
  },
  {
    "Image": 6,
@@ -68,44 +61,39 @@
    "Scene End": "0:12:19",
    "Duration": "0:01:26",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 7,
    "Scene": "Theon leads Sansa through the river to lose the hounds",
    "Scene End": "0:14:23",
    "Duration": "0:02:04",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Jeyne Poole (replaced by Sansa in the series) broke several ribs after Theon landed on top of her. Also, the tip of her nose turns black from frostbite."
+   "Comparison": "In the books, Jeyne Poole (replaced by Sansa in the series) broke several ribs after Theon landed on top of her. Also, the tip of her nose turns black from frostbite.",
+   "Rating": "MIXED"
  },
  {
    "Image": 8,
    "Scene": "Brienne saves Sansa and swears her fealty",
    "Scene End": "0:19:02",
    "Duration": "0:04:39",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "No Bolton soldiers catch up with Theon Greyjoy and Jeyne Poole (Ramsay's wife in the books).\nTheon and Jeyne are found by Mors Umber instead of Brienne and Podrick and are sent to Stannis' camp. Stannis plans to execute Theon and send Jeyne (who is still impersonating Arya Stark) to the Wall before he attacks Winterfell. Theon also reunites with his sister Asha (Yara) who has also been captured by Stannis.\nBrienne and Pod are searching fruitlessly for Sansa at the Riverlands, while she is safe in the Vale. They never meet the Stark girls and Theon, and are not involved in the events at the North."
+   "Comparison": "No Bolton soldiers catch up with Theon Greyjoy and Jeyne Poole (Ramsay's wife in the books).<br><br>In the books, Theon and Jeyne are found by Mors Umber instead of Brienne and Podrick, and are sent to Stannis' camp. Stannis plans to execute Theon and send Jeyne (who is still impersonating Arya Stark) to the Wall before he attacks Winterfell. Theon also reunites with his sister Asha (Yara) who has also been captured by Stannis.<br><br>Brienne and Pod are searching fruitlessly for Sansa at the Riverlands, while she is safe in the Vale. They never meet the Stark girls and Theon, and are not involved in the events at the North.",
+   "Rating": "FALSE"
  },
  {
    "Image": 9,
    "Scene": "Cersei receives the boat bringing Myrcella back from Dorne",
    "Scene End": "0:20:41",
    "Duration": "0:01:39",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Myrcella Baratheon, Doran Martell, Trystane Martell, Areo Hotah and Maester Caleotte are alive. Ellaria Sand and the Sand Snakes never plotted to harm any of them.\nMyrcella was attacked by Gerold \"Darkstar\" Dayne. She survived but her ear was cut off by Dayne. At that point, she is on the way back to King's Landing, accompanied by Nymeria Sand, and Trystane remains at Sunspear.\nKevan Lannister, not Jaime, tells Cersei the news about Myrcella. Cersei believes Tyrion is responsible. At that point, Jaime is not present at King's Landing hence is unaware of what happened to his daughter. He is in the Riverlands, leading the Lannister troops to Riverrun."
+   "Comparison": "In the books, Myrcella Baratheon, Doran Martell, Trystane Martell, Areo Hotah and Maester Caleotte are alive. Ellaria Sand and the Sand Snakes never plotted to harm any of them.<br><br>Myrcella was attacked by Gerold \"Darkstar\" Dayne. She survived but her ear was cut off by Dayne. At that point, she is on the way back to King's Landing, accompanied by Nymeria Sand, and Trystane remains at Sunspear.<br><br>Kevan Lannister, not Jaime, tells Cersei the news about Myrcella. Cersei believes Tyrion is responsible. At that point, Jaime is not present at King's Landing hence is unaware of what happened to his daughter. He is in the Riverlands, leading the Lannister troops to Riverrun.",
+   "Rating": "FALSE"
  },
  {
    "Image": 10,
    "Scene": "Cersei grieves for Myrcella",
    "Scene End": "0:23:31",
    "Duration": "0:02:50",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Cersei never comments in the books that Myrcella's personality is the opposite of hers.\nIn the books, Jaime loathes Cersei for sleeping with many different men.\nCersei discusses Maggy's prophecy with Qyburn, not Jaime."
+   "Comparison": "Myrcella is still alive.<br><br>In the books, Jaime loathes Cersei for sleeping with many different men.<br>Cersei discusses Maggy's prophecy with Qyburn, not Jaime. She never comments that Myrcella's personality is the opposite of hers.",
+   "Rating": "FALSE"
  },
  {
    "Image": 11,
@@ -113,62 +101,55 @@
    "Scene End": "0:25:35",
    "Duration": "0:02:04",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 12,
    "Scene": "Ellaria kills Prince Doran",
    "Scene End": "0:27:50",
    "Duration": "0:02:15",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Myrcella Baratheon, Doran Martell, Trystane Martell, Areo Hotah and Maester Caleotte are alive. Ellaria Sand and the Sand Snakes never plotted to harm any of them.\nDoran never says he was jealous of Oberyn.\nAreo Hotah always watches every visitor of Doran, especially the Sand Snakes, very carefully. He never acts so carelessly like in the show."
+   "Comparison": "In the books, Myrcella Baratheon, Doran Martell, Trystane Martell, Areo Hotah and Maester Caleotte are alive. Ellaria Sand and the Sand Snakes never plotted to harm any of them.<br><br>Doran never says he was jealous of Oberyn.<br><br>Areo Hotah always watches every visitor of Doran, especially the Sand Snakes, very carefully. He never acts so carelessly like in the show.",
+   "Rating": "FALSE"
  },
  {
    "Image": 13,
    "Scene": "The Sand Snakes kill Trystane",
    "Scene End": "0:29:00",
    "Duration": "0:01:10",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "Myrcella Baratheon, Doran Martell, Trystane Martell, Areo Hotah and Maester Caleotte are alive. Ellaria Sand and the Sand Snakes never plotted to harm any of them."
+   "Comparison": "In the books, Myrcella Baratheon, Doran Martell, Trystane Martell, Areo Hotah and Maester Caleotte are alive. Ellaria Sand and the Sand Snakes never plotted to harm any of them.",
+   "Rating": "FALSE"
  },
  {
    "Image": 14,
    "Scene": "Varys and Tyrion disguise as commoners to uncover sentiments",
    "Scene End": "0:32:39",
    "Duration": "0:03:39",
-   "Comparison": "",
-   "Rating": "FALSE",
-   "Difference": "There are no ships in Meereen. The three ships Daenerys had were taken apart at her command to build siege machines for conquering the city. Any ships that were at the harbors of Meereen during the siege either fled or were destroyed by Daenerys's troops.\nTyrion and Varys are not in Meereen. Varys's location is unknown throughout the fourth and fifth novels, he appears only briefly at King's Landing; Tyrion, who has not met Daenerys so far, is in the camp of the Second Sons with Jorah.\nDuring Daenerys's absence, Meereen is ruled by a council whose members are Ser Barristan Selmy, Grey Worm and more of Daenerys's loyalists."
+   "Comparison": "In the books, there are no ships in Meereen. The three ships Daenerys had were taken apart at her command to build siege machines for conquering the city. Any ships that were at the harbors of Meereen during the siege either fled or were destroyed by Daenerys's troops.<br><br>Tyrion and Varys are not in Meereen. Varys's location is unknown throughout the fourth and fifth novels, he appears only briefly at King's Landing; Tyrion, who has not met Daenerys so far, is in the camp of the Second Sons with Jorah.<br><br>During Daenerys's absence, Meereen is ruled by a council whose members are Ser Barristan Selmy, Grey Worm and more of Daenerys's loyalists.",
+   "Rating": "FALSE"
  },
  {
    "Image": 15,
    "Scene": "Jorah and Daario track down Daenerys",
    "Scene End": "0:35:30",
    "Duration": "0:02:51",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "The bloodriders Aggo and Rakharo, not Jorah and Daario, go to search for Daenerys. Daario is currently held a hostage by the Yunkai, and Jorah is with Tyrion as a member of the Second Sons."
+   "Comparison": "The bloodriders Aggo and Rakharo, not Jorah and Daario, go to search for Daenerys. Daario is currently held a hostage by the Yunkai, and Jorah is with Tyrion as a member of the Second Sons.",
+   "Rating": "MIXED"
  },
  {
    "Image": 16,
    "Scene": "Daenerys is presented to Khal Moro",
    "Scene End": "0:41:20",
    "Duration": "0:05:50",
-   "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": "The Dothraki khal Daenerys encounter is Jhaqo, not Moro."
+   "Comparison": "The Dothraki Khal Daenerys encounters is Jhaqo, not Moro.",
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 17,
    "Scene": "Arya is forced to fight blind",
    "Scene End": "0:43:37",
    "Duration": "0:02:17",
-   "Comparison": "",
-   "Rating": "MIXED",
-   "Difference": "Arya is not routinely attacked while she is a blind beggar. Instead, she is attacked daily by a man she cannot see while cleaning dead bodies in the House of Black and White. The attacker turns out to be the Kindly Man, who is Jaqen in the TV series."
+   "Comparison": "In the books, Arya is not routinely attacked while she is a blind beggar. Instead, she is attacked daily by a man she cannot see while cleaning dead bodies in the House of Black and White. The attacker turns out to be the Kindly Man, who is Jaqen in the TV series.",
+   "Rating": "MIXED"
  },
  {
    "Image": 18,
@@ -176,8 +157,7 @@
    "Scene End": "0:45:55",
    "Duration": "0:02:18",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  },
  {
    "Image": 19,
@@ -185,7 +165,6 @@
    "Scene End": "0:48:40",
    "Duration": "0:02:45",
    "Comparison": "",
-   "Rating": "UNKNOWN",
-   "Difference": ""
+   "Rating": "UNKNOWN"
  }
 ]
