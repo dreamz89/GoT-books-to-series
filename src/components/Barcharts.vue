@@ -97,6 +97,11 @@ import S3E7 from '../data/GoT S3 E7.json'
 import S3E8 from '../data/GoT S3 E8.json'
 import S3E9 from '../data/GoT S3 E9.json'
 import S3E10 from '../data/GoT S3 E10.json'
+import S4E1 from '../data/GoT S4 E1.json'
+import S4E2 from '../data/GoT S4 E2.json'
+import S4E3 from '../data/GoT S4 E3.json'
+import S4E4 from '../data/GoT S4 E4.json'
+import S4E5 from '../data/GoT S4 E5.json'
 import S5E1 from '../data/GoT S5 E1.json'
 import S5E2 from '../data/GoT S5 E2.json'
 import S5E3 from '../data/GoT S5 E3.json'
@@ -133,6 +138,7 @@ export default {
         S1E1, S1E2, S1E3, S1E4, S1E5, S1E6, S1E7, S1E8, S1E9, S1E10,
         S2E1, S2E2, S2E3, S2E4, S2E5, S2E6, S2E7, S2E8, S2E9, S2E10,
         S3E1, S3E2, S3E3, S3E4, S3E5, S3E6, S3E7, S3E8, S3E9, S3E10,
+        S4E1, S4E2, S4E3, S4E4, S4E5,
         S5E1, S5E2, S5E3,
         S6E1, S6E2, S6E3, S6E4, S6E5, S6E6, S6E7, S6E8, S6E9, S6E10,
         S7E1, S7E2, S7E3, S7E4, S7E5, S7E6, S7E7

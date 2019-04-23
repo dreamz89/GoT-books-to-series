@@ -4,12 +4,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta property="og:url"         content="GoT-books-to-series.surge.sh" />
+    <meta property="og:type"        content="article" />
+    <meta property="og:title"       content="Game of Thrones: Books to Series" />
+    <meta property="og:description" content="Read the detailed comparison from all season 1 - 7" />
+    <meta property="og:image"       content="images/Screenshot.png" />
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
     <title>GoT books to series</title>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135515261-1"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135515261-2"></script>
     <script>
@@ -18,6 +21,17 @@
       gtag('js', new Date());
 
       gtag('config', 'UA-135515261-2');
+
+      FB.ui({
+        method: 'feed',
+      },
+      function(response){
+        if (response && response.post_id) {
+          alert('Post was published.')
+        } else {
+          alert('Post was not published.')
+        }
+      })
     </script>
   </head>
   <body>
