@@ -1,0 +1,346 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Sam asks Jon about Ygritte",
+   "Scene End": "0:05:05",
+   "Duration": "0:03:12",
+   "Comparison": "In the series, Sam asks Jon how it is to have someone and be loved back. But in the books, Sam never asks Jon about Ygritte.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Sheila the she-bear woman",
+   "Scene End": "0:06:14",
+   "Duration": "0:01:09",
+   "Comparison": "In the series, Tormund tells Ygritte about the woman she once had sex with who is a she-bear named Sheila. In the books, Tormund does not tell Ygritte, but to Jon, the story about having sex with a woman who was a she-bear. Tormund does not mention her name.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Ygritte and Styr argues",
+   "Scene End": "0:07:54",
+   "Duration": "0:01:40",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 4,
+   "Scene": "Sam caught reading by Maester Aemon",
+   "Scene End": "0:09:15",
+   "Duration": "0:01:21",
+   "Comparison": "In the series, Master Aemon finds Sam reading in the library, a book about wildlings.  Sam never reads any book about wildlings in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Maester Aemon and Sam talks about love",
+   "Scene End": "0:11:33",
+   "Duration": "0:02:18",
+   "Comparison": "Maester Aemon talks and Sam talks about love, and Aemon's memories.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "GIlly and her baby comes back to Castle Black",
+   "Scene End": "0:13:02",
+   "Duration": "0:01:29",
+   "Comparison": "In the series, Gilly returns to Castle Black. Sam and Gilly had not yet returned to Castle Black when the battle occurred in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "The Night's Watch prepares at the Wall",
+   "Scene End": "0:14:34",
+   "Duration": "0:01:32",
+   "Comparison": "In the series, Ser Alliser and Janos commands the Night's Watch to prepare for the incoming attack at the wall. But in the books, neither Ser Alliser nor Janos Slynt are present at the Wall at the beginning of the battle. They arrive much later stage of the battle, and do not contibute anything to the battle, only interfering.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Commander of the Night's Watch",
+   "Scene End": "0:15:44",
+   "Duration": "0:01:10",
+   "Comparison": "In the series, Ser Alliser is the acting commander of Night's Watch during the attack of Wildlings. But in the books, it was Donal Noye, a large one-armed blacksmith and a member of the Night's Watch, was omitted from the TV series.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Sam hides Gilly",
+   "Scene End": "0:17:21",
+   "Duration": "0:01:37",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 10,
+   "Scene": "Sam talks to Pyp",
+   "Scene End": "0:19:09",
+   "Duration": "0:01:48",
+   "Comparison": "In the series, Sam sees Pyp nervous about the battle and talks to him. The conversation between Sam and Pyp does not occur in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 11,
+   "Scene": "The wildlings in the South marches to attack Castle Black",
+   "Scene End": "0:20:03",
+   "Duration": "0:00:54",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "The wildlings in the North marches to attack the Wall",
+   "Scene End": "0:21:49",
+   "Duration": "0:01:46",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Castle Black attacked",
+   "Scene End": "0:22:18",
+   "Duration": "0:00:29",
+   "Comparison": "In the series, the wildlings attack the Wall and the Castle Black simultaneously. But in the books, the wildlings both north and south of the Wall don't attack Castle Black simultaneously. The wildlings south of the Wall attack first and are defeated, and then Mance launches his attack from the North shortly after.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Ser Alliser leaves the top of the Wall",
+   "Scene End": "0:22:40",
+   "Duration": "0:00:22",
+   "Comparison": "In the series, Ser Alliser leaves the top of the Wall to go down and defend Castle Black. In the books, it is Noye who is in command of Castle Black during the battle. Noye left the top of the Wall to defend the tunnel, leaving Jon in command (similar to how in the TV series, Ser Alliser leaves command of the top of the Wall to lead the defense of Castle Black itself, which is under more immediate threat).",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tormund and wildlings scale the walls of Castle Black",
+   "Scene End": "0:23:46",
+   "Duration": "0:01:06",
+   "Comparison": "Tormund Giantsbane is not part of the band of wildlings that scaled the Wall in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Ser Alliser leads to defend Castle Black",
+   "Scene End": "0:25:05",
+   "Duration": "0:01:19",
+   "Comparison": "In the books, it was Noye leads to defend Castle Black.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Janos was tricked to leave the top of the Wall",
+   "Scene End": "0:26:07",
+   "Duration": "0:01:02",
+   "Comparison": "In the series, Janos was terrified at the top of the Wall and refuses to not let wildlings attack the Wall. Brenn tricked him by telling him Ser Alliser needs him in Castle Black.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "Jon takes command to defend the Wall",
+   "Scene End": "0:26:29",
+   "Duration": "0:00:22",
+   "Comparison": "In the series, Jon commands the Nights Watch at the top of the Wall after Janos leaves. In the books, most of the Night's Watch's remaining strength is lured to the west by an attack on the Bridge of Skulls, near the Shadow Tower in the books, leaving few fighting men at Castle Black. Ser Alliser and Janos Slynt come from Eastwatch-by-the-Sea with reinforcements after Styr's raiders are defeated.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 19,
+   "Scene": "The wildlings starts to climb up the Wall",
+   "Scene End": "0:27:17",
+   "Duration": "0:00:48",
+   "Comparison": "In the books, there was no attempt of climbing the wall by wildlings.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Giants uses arrow to attack the Wall",
+   "Scene End": "0:27:38",
+   "Duration": "0:00:21",
+   "Comparison": "A Giant is seen in the show firing a giant bow at the Night's Watch on top of the Wall. In the books Giants did not fire bows, barley any of the arrows fired by the wildlings reach the top in the novels.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 21,
+   "Scene": "Janos hides ",
+   "Scene End": "0:29:26",
+   "Duration": "0:01:48",
+   "Comparison": "In the series, Janos hides and find himself hiding on the same place with Gilly.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 22,
+   "Scene": "Pyp killed by Ygritte",
+   "Scene End": "0:30:12",
+   "Duration": "0:00:46",
+   "Comparison": "In the series, Ygritte kills Pyp with an arrow. In the books, Pyp survived the battle.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 23,
+   "Scene": "Night's watch drops barrel of ice and stone to defend tunnels",
+   "Scene End": "0:30:36",
+   "Duration": "0:00:24",
+   "Comparison": "In the books, the wildlings use siege turtles to protect themselves while sapping the gates. These protect them from arrow fire, but they are crushed by barrels filled with ice and stone thrown from atop the Wall. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 24,
+   "Scene": "Giants tries to breach the tunnel",
+   "Scene End": "0:31:53",
+   "Duration": "0:01:17",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 25,
+   "Scene": "Jon asks Grenn to defend the tunnel",
+   "Scene End": "0:32:30",
+   "Duration": "0:00:37",
+   "Comparison": "In the series, Jon asks Grenn to defend the tunnel and stop the wildlings from coming through. He takes Hill and Cooper with him and three other men.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 26,
+   "Scene": "Tormund wounds Ser Alliser",
+   "Scene End": "0:33:25",
+   "Duration": "0:00:55",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 27,
+   "Scene": "Sam kills a Thenn",
+   "Scene End": "0:35:14",
+   "Duration": "0:01:49",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 28,
+   "Scene": "A giant dies",
+   "Scene End": "0:36:26",
+   "Duration": "0:01:12",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 29,
+   "Scene": "Sam asks help from Jon",
+   "Scene End": "0:37:15",
+   "Duration": "0:00:49",
+   "Comparison": "In the series, Sam goes on top of the Wall to ask help from Jon in Castle Black",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 30,
+   "Scene": "Defend the tunnel",
+   "Scene End": "0:38:21",
+   "Duration": "0:01:06",
+   "Comparison": "In the series, a giant was able to get in the tunnel, Grenn and other Night's Watch defends it.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 31,
+   "Scene": "Sam frees Ghost",
+   "Scene End": "0:40:06",
+   "Duration": "0:01:45",
+   "Comparison": "Ghost is not yet reunited with Jon during the battle.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 32,
+   "Scene": "Jon kills Styr",
+   "Scene End": "0:41:40",
+   "Duration": "0:01:34",
+   "Comparison": "Styr is not killed by Jon. He and the other wildling raiders attacking from the south are not defeated in pitched battle, but by being lured up the switchback staircase that leads up to the Wall (which has not yet been shown in the series) and then the stairs are set on fire. The majority of the wildlings, including Styr, fall to their deaths when the fire causes the stairs to collapse.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 33,
+   "Scene": "Jon faces off against Ygritte",
+   "Scene End": "0:41:52",
+   "Duration": "0:00:12",
+   "Comparison": "In the books, Jon does not face off against Ygritte before she is fatally hit by an arrow.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 34,
+   "Scene": "Ygritted killed",
+   "Scene End": "0:43:10",
+   "Duration": "0:01:18",
+   "Comparison": "In the books, Jon didn't Ygritte before shed she got shot by an arrow, nor is it revealed who killed her. Jon finds her with the arrow in her and she dies in his arms, much as she did in the TV episode and with the same dialogue. For a moment Jon was worried that it was his arrow that killed her, but then he recognized that it wasn't one of his because the fletching was different.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 35,
+   "Scene": "Night's watch drops the giant scythe in the wall",
+   "Scene End": "0:44:08",
+   "Duration": "0:00:58",
+   "Comparison": "In the books, there is no giant scythe to kill wildlings climbing the Wall, nor do any wildlings attempt a climb.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 36,
+   "Scene": "Tormund captured",
+   "Scene End": "0:44:48",
+   "Duration": "0:06:27",
+   "Comparison": "​Tormund is with Mance during the battle and isn't captured. Also, Jon does not engage in sword fight with any of the wildlings, due to his leg injury. Instead he shoots arrows from a safe distance.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 37,
+   "Scene": "Sam return to Gilly",
+   "Scene End": "0:45:12",
+   "Duration": "0:00:24",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 38,
+   "Scene": "Jon wants to find Mance",
+   "Scene End": "0:47:00",
+   "Duration": "0:01:48",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 39,
+   "Scene": "Grenn and Mag the giant died",
+   "Scene End": "0:47:56",
+   "Duration": "0:00:56",
+   "Comparison": "In the series, Grenn died defending the tunnel and was able to kill a giant. In the books, the giant in the tunnel is killed by Castle Black's smith, Donal Noye, who is not in the series. Also, Grenn survived the battle in the books. The writers acknowledged this in the Inside the Episode video, but explained that because the TV adaptation has not had time to introduce many tertiary Night's Watch characters (such as Donal Noye), they felt that to show the real cost of the battle they had to kill off named characters that the audience was familiar with.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 40,
+   "Scene": "Jon leave his sword to Sam",
+   "Scene End": "0:48:40",
+   "Duration": "0:00:44",
+   "Comparison": "In the series, Jon leaves his sword behind before going behind the wall. In the books, Jon does not leave his sword behind.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 41,
+   "Scene": "Jon goes beyond the Wall",
+   "Scene End": "0:49:14",
+   "Duration": "0:00:34",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ }
+]

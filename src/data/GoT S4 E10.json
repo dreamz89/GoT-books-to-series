@@ -1,0 +1,322 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Jon meets with Mance",
+   "Scene End": "0:03:39",
+   "Duration": "0:01:46",
+   "Comparison": "Tormund was present in Mance's tent when Jon went to treat with him.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 2,
+   "Scene": "Jon tells Mance Ygritte and Mag is dead",
+   "Scene End": "0:06:14",
+   "Duration": "0:02:35",
+   "Comparison": "Jon meets Tormund first and speaks with him about Ygritte and Mag, not with Mance. Tormund is impressed to hear that one-armed blacksmith Donal Noye killed Mag.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 3,
+   "Scene": "Mance bargains with Jon",
+   "Scene End": "0:08:22",
+   "Duration": "0:02:08",
+   "Comparison": "In the series, Mance bargains with Jon and threatens him if he refuse, they will kill all men in Castle Black. In the boks, Mance's wife Dalla was also with them when Jon came to negotiate. She dies during the cavalry charge from sudden childbirth.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Stannis's army attacks the Mance's tents",
+   "Scene End": "0:10:00",
+   "Duration": "0:01:38",
+   "Comparison": "Stannis' forces attacked from the East in 3 waves, not a North and South pincer maneuver. Several dozen Night's Watch​ cavalry led the charge as Stannis' vanguard and scouts. ​Stannis's cavalry charge is initially blunted by giants riding mammoths, though they are eventually encircled as the left and right wildling flanks collapse.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 5,
+   "Scene": "Davos and Stannis meets Mance",
+   "Scene End": "0:10:42",
+   "Duration": "0:00:42",
+   "Comparison": "In the books, Davos wasn't with Stannis during the charge.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 6,
+   "Scene": "Mance surrenders",
+   "Scene End": "0:13:00",
+   "Duration": "0:02:18",
+   "Comparison": "In the books, Mance does not easily surrender, he is captured by force after fierce fighting.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Qyburn treats The Mountain",
+   "Scene End": "0:13:34",
+   "Duration": "0:00:34",
+   "Comparison": "In the series, Cersei watches as Qyburn treats and assesses The Mountain's wound. But in the books, she never sees Ser Gregor being treated in the books, but is relayed information from Pycelle and Qyburn about his condition. Also, Pycelle disagrees with Qyburn's assessment of manticore venom, as it kills within seconds of reaching the heart. Qyburn theorizes the venom was \"thickened\" by Oberyn with dark arts to prolong Gregor's suffering",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Qyburn saves The Mountain",
+   "Scene End": "0:15:11",
+   "Duration": "0:01:37",
+   "Comparison": "In the series, The Mountain was unconscious and Qyburn with his unnatural practices tries to save him. In the books, the Mountai  is unable to fall asleep due to the constant pain of the venom, nor does milk of the poppy render him unconscious. Also, as Pycelle is treating Gregor, he requests that the remaining Dornishmen in King's Landing be detained to determine what type of poison was used by Oberyn but Tywin flatly refuses him, saying that there will already be enough trouble with Sunspear over Oberyn's death. In the aftermath of Gregor's public confession of his role in the murders of Elia and Aegon (which Tywin had always dismissed as malicious rumors), Tywin (not Cersei) orders Pycelle (not Qyburn) to help Gregor heal so Ilyn Payne can later execute him in order to placate House Martell out of fear that they might possibly side with Stannis and help him prolong the war for years to come.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Cersei threatens Tywin",
+   "Scene End": "0:18:11",
+   "Duration": "0:03:00",
+   "Comparison": "In the series, Cersei refuses to marry Loras and threatens Tywin that she'll disclose her incestuous relationship with Jaime. But in the books, she did never told Tywin about her incestuous relationship with Jaime nor does she threaten him with publicly revealing this information. Also, Tywin's plan to marry Cersei to Loras Tyrell (Willas in the books) had already fallen through by this point. Instead he simply planned to send her back to Casterly Rock, leaving him a free hand to raise Tommen.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Cersei tells Jaime that she told their father about their relationship",
+   "Scene End": "0:20:06",
+   "Duration": "0:01:55",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Fennesz asks Daenerys to let him return to his master",
+   "Scene End": "0:23:06",
+   "Duration": "0:03:00",
+   "Comparison": "In the series, a meereense slave asks permission to return and work to his former master.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "A girl was killed by Drogon",
+   "Scene End": "0:24:43",
+   "Duration": "0:01:37",
+   "Comparison": "The girl purportedly killed by Drogon was called Hazzea, not Zalla. In the books, Daenerys's advisors urge her to silence the girl's father, fearing that he is lying as part of a plot by Meeren's former slave-masters to turn opinion against her, and she wasn't actually killed by Drogon. Daenerys quickly dismisses this idea, however, because she realizes that the goatherd waited to be heard last and only after all other claimants had left the throne room, which wouldn't make sense if his purpose had been to publicly discredit her. Instead, Daenerys pays the father a hundred times the worth of a lamb, and promises him that Hazzea's bones shall be laid to rest at the Temple of the Graces, and a hundred candles shall burn night and day in her memory. Daenerys also tells the father to come back every year at Hazzea's nameday, and she will make sure his other children shall not want, but on condition that he does not tell anyone how Hazzea died.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Chaining of the dragons",
+   "Scene End": "0:27:10",
+   "Duration": "0:02:27",
+   "Comparison": "In the series, Viserion and Rhaegal were lured in the catacombs with meat, and there, Daenerys puts them on chains. While Drogon was last seen flying over Black Cliffs. In the books, the chaining of the dragons is a far longer and more difficult process. Viserion was the first dragon to be chained; he was allowed to gorge himself on meat until he became drowsy and lethargic, and was chained up while he slept. Rhaegal was second and more of a challenge; because he could hear Viserion struggling to break free of his chains, he would not come willingly, and in the end, Rhaegal was trapped in a net while he basked in the morning sun and dragged into captivity, a process that took three days and left six men burned. Drogon, however, chose to fight rather than submit; three unsuccessful attempts were made to capture him, in which nearly forthy men were burned, four of those died. Afterwards, Drogon fled north in the direction of the Dothraki Sea.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Burning of the dead",
+   "Scene End": "0:28:51",
+   "Duration": "0:01:41",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Jon talks to Tormund",
+   "Scene End": "0:30:33",
+   "Duration": "0:01:42",
+   "Comparison": "Jon asks Tormund if he wants to say his goodbyes before they burn the dead bodies of wildlings. Tormund then asks if Jon loved Ygritte, then asked him to burn and bury Ygritte's body in the North.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "Jon burns Ygritte's body in beyond the Wall",
+   "Scene End": "0:31:53",
+   "Duration": "0:01:20",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Brann reaches the tree",
+   "Scene End": "0:33:54",
+   "Duration": "0:02:01",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 18,
+   "Scene": "Wights attacks",
+   "Scene End": "0:36:01",
+   "Duration": "0:02:07",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jojen killed by wight",
+   "Scene End": "0:36:10",
+   "Duration": "0:00:09",
+   "Comparison": "In the series, Jojen died fighting wights. In the books, Jojen does not die fighting against the wights. He is still alive in the book continuity.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "The children helps Brann",
+   "Scene End": "0:37:36",
+   "Duration": "0:01:26",
+   "Comparison": "In the series, Leaf helps Brann and his friends fight the wights with magic fire balls. In the books, Leaf does not use any magic to destroy the wights, but darts between them with a torch in hand, setting them on fire. Also, Leaf and the other Children of the forest speak with much deeper voices, described as an adult voice.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 21,
+   "Scene": "The three-eyed raven",
+   "Scene End": "0:40:26",
+   "Duration": "0:02:50",
+   "Comparison": "The three-eyed crow has a much less human appearance. He is pale and skeletal and wears rotted black clothing. His skin is white, aside from a red blotch on his neck and cheek. He has fine, white hair long enough to reach the earthen floor. He is missing one eye, while the other is red. Weirwood roots grow through his leg and his empty eye socket.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Brienne meets Arya and the Hound",
+   "Scene End": "0:43:35",
+   "Duration": "0:03:09",
+   "Comparison": "Brienne and the Hound never meet in the books. Their encounter is based on Brienne's fights or encounters with different parties, mostly throughout A Feast for Crows:",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 23,
+   "Scene": "The Hound accuses Brienne of siding with Lannisters",
+   "Scene End": "0:44:13",
+   "Duration": "0:00:38",
+   "Comparison": "In the series, the Hound sees the valyrian sword and accuses her of being paid by Lannisters and switching sides. In the books, Brienne is accused of switching to the Lannister side, since Oathkeeper is made of Valyrian steel and Lannister gold, but not by the Hound.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 24,
+   "Scene": "The Hound claims to be watching over Arya",
+   "Scene End": "0:44:53",
+   "Duration": "0:00:40",
+   "Comparison": "In the series, The Hound says that Brienne is not the right one taht should watch over Arya, and he's the one watching over her. In the books, the Hound is not \"watching over Arya\", nor does he ever claim to be. He was considering bringing her for ransom to her uncle Ser Brynden at Riverrun when Arya leaves him for dead.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 25,
+   "Scene": "Brienne fights The Hound",
+   "Scene End": "0:47:40",
+   "Duration": "0:02:47",
+   "Comparison": "In the series, during the fight, Brienne bites off The Hounds's ear. But in the books, it was Vargo Hoat's ear she bit off after he tries to rape her, but she resists and bites off one of his ears.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 26,
+   "Scene": "Arya hides from Brienns",
+   "Scene End": "0:48:01",
+   "Duration": "0:00:21",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 27,
+   "Scene": "The Hound urges Arya to kill him",
+   "Scene End": "0:51:30",
+   "Duration": "0:03:29",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 28,
+   "Scene": "Arya takes the Hound's purse",
+   "Scene End": "0:51:49",
+   "Duration": "0:00:19",
+   "Comparison": "In the books, Arya does not take his purse, but later wishes she had, as she cannot afford to book passage on a ship.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 29,
+   "Scene": "Arya leave the Hound",
+   "Scene End": "0:52:08",
+   "Duration": "0:00:19",
+   "Comparison": "The Hound is wounde​d and left to die by Arya much earlier in the books, at the Inn where he and Arya fight Gregor's men in the first episode. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 30,
+   "Scene": "Jaime frees Tyrion from his cell",
+   "Scene End": "0:53:39",
+   "Duration": "0:01:31",
+   "Comparison": "​In the books Jaime only returns to King's Landing after Joffrey's death. When he frees Tyrion from his cell it is the first time the two brothers have seen each other since they were at Winterfell.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 31,
+   "Scene": "Tyrion kills Shae",
+   "Scene End": "0:56:36",
+   "Duration": "0:02:57",
+   "Comparison": "In the series, Tyrion goes to Tywin's chambers and find Shae in the bed. Shae tried to resist by taking a knife but Tyrion strangles her with the necklace. In the books, the chain that Tyrion uses to strangle Shae is a golden necklace made up of hand-shaped segments, which is the badge for the Hand of the King that he and Tywin successively used. In the TV series, the badge for the Hand is changed to a hand-shaped brooch, thus the chain that Tyrion gave Shae in Season 3 episode \"The Bear and the Maiden Fair\" is used. Also, ​Shae does not grab a knife or fight back against Tyrion, except when he twists the necklace and begins strangling her, and then only feebly.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 32,
+   "Scene": "Tyrion confronts Tywin",
+   "Scene End": "0:58:14",
+   "Duration": "0:01:38",
+   "Comparison": "In the series, Tyrion confronts Tywin with a crossbow, and Tywin asked him who released him. He speculates that it was Jaime who released him. Tywin also told Tyrion that he was not going to let them execute him. In the books, when confronted by Tyrion, Tywin thinks that it was Varys who released him, and vows to have the eunuch's head. He reassures Tyrion that he still plans to send him to the Wall, and is only awaiting Mace Tyrell's approval. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 33,
+   "Scene": "Tyrion threatens Tywin in the privy",
+   "Scene End": "0:59:08",
+   "Duration": "0:00:54",
+   "Comparison": "In the series, Tyrion tells Tywin that he loved Shae and that he killed her. Tywin then says that it doesn't matter because she is a whore. In the books, Tyrion was asking about the wherabouts of Tasha (his ex-wife). Tywin refers to Tysha as \"your first whore\". Tyrion is enraged at this and warns his father, \"The next time you say that word, I’ll kill you\" (he gives the same warning in the TV series, but referring to Shae instead). When Tywin nonchalantly remarks that Tysha went \"wherever whores go\", Tyrion releases the crossbow at him.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 34,
+   "Scene": "Tyrion shoots Tywin",
+   "Scene End": "0:59:28",
+   "Duration": "0:00:20",
+   "Comparison": "In the series, Tywin called Shae a whore again, and Tyrion released the crossbow at him. In the books, Tyrion was referring to Tasha and not Shae. ​Also, Tyrion kills Tywin with a single bolt to the pelvis, which causes his bowels to loosen. He notices \"at last, Tywin Lannister didn't shit gold\". ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 35,
+   "Scene": "Tyrion shoots Tywin again",
+   "Scene End": "0:59:55",
+   "Duration": "0:00:27",
+   "Comparison": "In the series, Tyrion reloads the crossbow and shoots Tywin again to kill him. But in the books, it makes a point that Tyrion could not reload the crossbow so easily; had he encountered the guards, at best he could have killed only one. As things turn to be, he did not need to shoot again.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 36,
+   "Scene": "Varys finds Tyrion",
+   "Scene End": "1:00:07",
+   "Duration": "0:00:12",
+   "Comparison": "In the series, after Tyrion kills Tywin, Varys arrives. The whereabouts of Varys are not described in the book after the assassination of Tywin; all that is confirmed is that he does not return to his chambers.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 37,
+   "Scene": "Varys helps Tyrion escape",
+   "Scene End": "1:01:16",
+   "Duration": "0:01:09",
+   "Comparison": "In the series, Jaime told Tyrion that Varys is helping him escape. The two meets later, and Varys takes Tyrion into a crate. In the books, Varys does not help Tyrion willingly. Jaime appears at his chambers brandishing a dagger and forces him to; when Varys protests, Jaime threatens to kill him shortly after Tyrion's execution if he refuses. Tyrion is handed over to Varys soon after being rescued from the cell, and Varys escorts him through the tunnels. When Tyrion wants to confront Tywin, Varys indicates him the secret passage, but tries to dissuade him from using it and risking his life. After dealing with Tywin and Shae, Tyrion returns to the spot where he left Varys. Also, Tyrion is not stored in a crate, he freely roams the ship.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 38,
+   "Scene": "Arya goes to Bravos",
+   "Scene End": "1:03:53",
+   "Duration": "0:02:37",
+   "Comparison": "",
+   "Rating": "TRUE"
+ }
+]

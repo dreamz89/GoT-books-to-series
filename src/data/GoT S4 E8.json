@@ -1,0 +1,290 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Ygritte sees Gilly and her baby in Mole's Town",
+   "Scene End": "0:05:52",
+   "Duration": "0:03:59",
+   "Comparison": "Ygritte never met Gilly in the books, as she and Sam hadn't arrived at Castle Black but after the battle was over, and had not passed through Mole's Town.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Mully, Kegs and Jack Bulwer died in Mole's Town",
+   "Scene End": "0:07:43",
+   "Duration": "0:01:51",
+   "Comparison": "In the series, the night's watch discusses about the attack in Mole's Town and that Mully, Kegs, and Jack were killed on the attack. In the books, Mully, Kegs and Jack Bulwer are not in Mole's Town when it is sacked, but in Castle Black. Also, ​In the novels, Mole's Town is evacuated before the wildlings arrive, and many of the villagers fight alongside the Night's Watch in the battle.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Grey Worm sees Missandei bathe",
+   "Scene End": "0:08:38",
+   "Duration": "0:00:55",
+   "Comparison": "Grey Worm never shows any attraction or affection for Missandei, as she is a girl of 9-10 years old in the books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 4,
+   "Scene": "Missandei tells Daenerys that Grey Worm was staring at her bathe",
+   "Scene End": "0:09:43",
+   "Duration": "0:01:05",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "Grey Worm apologizes to Missandei for watching her",
+   "Scene End": "0:12:26",
+   "Duration": "0:02:43",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 6,
+   "Scene": "Ramsay sends Theon to Moat Cailin",
+   "Scene End": "0:13:47",
+   "Duration": "0:01:21",
+   "Comparison": "​Moat Cailin in the books in not a single keep, but three towers clustered around the causeway. More are buried or fallen to ruin in the swamps around the remaining three.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 7,
+   "Scene": "Theon comes in to Moat Cailin with a white flag",
+   "Scene End": "0:14:31",
+   "Duration": "0:00:44",
+   "Comparison": "In the TV series, Theon/Reek carries a white flag as a sign of peace and parley. In the books, he carries a rainbow-colored flag: people in the Seven Kingdoms actually carry rainbow-colored flags as a sign of parley. This is because the dominant religion is the Faith of the Seven, in which the number seven is sacred, and rainbows are frequently used as a symbol of the Faith in the books. The TV series has entirely avoided this throughout its run, possibly because they thought it would look somewhat silly on-screen.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "Theon meets Kenning",
+   "Scene End": "0:15:19",
+   "Duration": "0:00:48",
+   "Comparison": "In the books, Ralf Kenning was near death when Theon arrived, suffering from his festering wounds, and was not in charge of the ironborn garrison",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Theon tells Kenning Ramsay's offer",
+   "Scene End": "0:16:13",
+   "Duration": "0:00:54",
+   "Comparison": "In the books, none of the ironborn reads the scroll. Theon is almost certain that they cannot read.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 10,
+   "Scene": "Kenning killed",
+   "Scene End": "0:17:22",
+   "Duration": "0:01:09",
+   "Comparison": "In the series, Kenning rejected Theon's offer and was killed by an axe on his head by his fellow solidier. In the books, he was already dyign when Theon arrived, and was given a mercy killing by Theon. It is Dagon Codd who rejects Theon's offer, and dies from an axe to the head.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 11,
+   "Scene": "Ramsay overtakes Moat Cailin",
+   "Scene End": "0:17:53",
+   "Duration": "0:00:31",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Lord Royce inquires of Lysa's death in Vale",
+   "Scene End": "0:19:50",
+   "Duration": "0:01:57",
+   "Comparison": "Lord Yohn Royce and Lady Anya Waynwood do not come to the Eyrie to inquire about Lysa's death, but to make Littlefinger leave the Vale and hand them Lysa's son. Four other lords arrive with them: Lord Gilwood Hunter, Lord Horton Redfort, Lord Benedar Belmore, Ser Symond Templeton. Ser Lyn Corbray is also present.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 13,
+   "Scene": "Sansa reveals her true identity",
+   "Scene End": "0:22:10",
+   "Duration": "0:02:20",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Sansa lies about Lysa's death",
+   "Scene End": "0:24:24",
+   "Duration": "0:02:14",
+   "Comparison": "It is not Sansa but Littlefinger who convincingly lies to the Lord Nestor Royce about Lysa's death. Also, Sansa never reveals her identity to him or to any of the Vale lords in the published books.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Petyr suggests that Robin tours the Vale",
+   "Scene End": "0:26:10",
+   "Duration": "0:01:46",
+   "Comparison": "Although it is also agreed upon with the Lords of the Vale that Robin will tour the Vale, that is not the immediate reason Robin, Petyr and​ Sansa leave the Eyrie: winter is fast approaching and the stronghold becomes uninhabitable due the the whole mountaintop freezing over and the road up being blocked by snow.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Ser Barristan receives a letter from Varys",
+   "Scene End": "0:26:56",
+   "Duration": "0:00:46",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Ser Barristan confronts Jorah",
+   "Scene End": "0:28:30",
+   "Duration": "0:01:34",
+   "Comparison": "Ser Barristan reveals Jorah's secret much earlier, before they even conquer Meereen. Additionally, he knew Jorah was a spy not because of a letter from Varys, but because he was at the Small Council meeting where Varys brings King Robert Jorah's news of Daenerys's pregnancy. The TV series wanted to hold off on this shocking revelation until the Season 4 finale, but Ser Barristan joins Daenerys in Season 3, and makes no secret of his identity (because unlike in a book, the audience can see that he is Barristan, so this subplot was cut). In the books he told her Jorah's secret as soon as he revealed his true identity. The TV series addressed this by making it a point for Barristan to be absent from the Small Council meeting in Season 1, and for Jorah to even directly ask about this in Season 3, to which Barristan replied that he didn't attend Small Council meetings because Robert was a bit wary about having a former Targaryen loyalist listen to war plans - and Barristan avoided them anyway because he disliked politics. So Barristan simply never knew Jorah's secret before in the TV continuity.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Daenerys confronts Jorah",
+   "Scene End": "0:31:41",
+   "Duration": "0:03:11",
+   "Comparison": "Daenerys originally plans to pardon Jorah, but is angered by his attitude: he does not show much contrition, and remains bullish and defensive about his actions. She appears very calm about exiling Jorah in the show, while in the novels she could barely hold back her tears and was very distraught. Additionally, Jorah is dragged from her presence by Strong Belwas (who does not appear in the show). In the TV series her reaction is more subtle, that of barely contained \"tranquil fury\" - the TV episode can't see into her inner thought monologue as the book can. Daario Naharis offers to kill Jorah for her, but she spares him.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Jorah exiled",
+   "Scene End": "0:32:04",
+   "Duration": "0:00:23",
+   "Comparison": "Jorah leaves Meereen",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 20,
+   "Scene": "Ramsay tells his father he's taken Moat Cailin",
+   "Scene End": "0:32:31",
+   "Duration": "0:00:27",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 21,
+   "Scene": "Ramsay becomes a Bolton",
+   "Scene End": "0:35:04",
+   "Duration": "0:02:33",
+   "Comparison": "Ramsay​ was legitimized earlier in the books, after the Red Wedding, and long before he used Theon to take Moat Cailin.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Petyr asks Sansa why she helped him",
+   "Scene End": "0:36:22",
+   "Duration": "0:01:18",
+   "Comparison": "Petyr asks Sansa why she helped him, Sansa then asnwers that she know him and she knows what he wants.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 23,
+   "Scene": "Arya and The Hound reaches the Bloody Gate",
+   "Scene End": "0:38:03",
+   "Duration": "0:01:41",
+   "Comparison": "In the books, Arya and the Hound ne​ver reach the Bloody Gate. The Hound did plan to take her to the Eyrie with the same intention as in the TV series; however, when they arrive in the Mountains of the Moonin the Vale, they are told by the villagers that the roads have been blocked by snow and frost, and there are Hill Tribes robbing and killing, thus it would be impossible for them to go further. Thus the Hound has to abandon the plan. He plans to reach the Eyrie by boarding a ship at Saltpans, but collapses on the way there.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 24,
+   "Scene": "Arya hears of her aunt's death",
+   "Scene End": "0:38:30",
+   "Duration": "0:00:27",
+   "Comparison": "In the books, Arya hears about her aunt's death when she is in Braavos. Her reaction is not laughter but indifference. In the series, upon hearing the detah of her aunt, she laughs hyterically knowing the fact that The Hound's effort were in vain.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 25,
+   "Scene": "Leaving the Vale",
+   "Scene End": "0:39:38",
+   "Duration": "0:01:08",
+   "Comparison": "Petyr, Sansa and Robin leaves the Vale. Although it is also agreed upon with the Lords of the Vale that Robin will tour the Vale, that is not the immediate reason Robin, Petyr and​ Sansa leave the Eyrie: winter is fast approaching and the stronghold becomes uninhabitable due the the whole mountaintop freezing over and the road up being blocked by snow.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 26,
+   "Scene": "Jaime visits Tyrion in his cell once again",
+   "Scene End": "0:45:22",
+   "Duration": "0:05:44",
+   "Comparison": "In the series, Jaime brings wine to Tyrion in his cell. They talk about their childhood memories and their cousin Orson. Jaime and Tyrion never talked about their cousin, and the character is never seen or mentioned in the books.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 27,
+   "Scene": "Oberyn's light armor",
+   "Scene End": "0:46:30",
+   "Duration": "0:01:08",
+   "Comparison": "Before the battle, Tyrion is shocked to find out that Oberyn was wearing a light armor and no helmet. But in the books Oberyn was wearing a helmet in the fight. Before the battle, Tyrion is shocked to find out that Oberyn plans to use a spear in the fight. Oberyn explains to a disheartened Tyrion that a long spear is the only way to counter Gregor's enormous reach but Tyrion is not convinced. He informs Oberyn that Gregor always wears thick armor, but Oberyn is indifferent, pointing out that there are always gaps in the armor's joints he can exploit. He also spins the blade in his hands, causing it to gleam black in the light, cluing Tyrion into the fact the spearhead is poisoned.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 28,
+   "Scene": "Pycelle commences the trial by combat",
+   "Scene End": "0:46:57",
+   "Duration": "0:00:27",
+   "Comparison": "The High Septon gives the speech before the fight, not Grand Maester Pycelle. He is also not interrupted by Tywin.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 29,
+   "Scene": "Oberyn shows off his spear skills",
+   "Scene End": "0:47:25",
+   "Duration": "0:00:28",
+   "Comparison": "In the series, Oberyn carries nothing but a spear and show-off in the crowd. But in the books, Oberyn was also carrying a polished mirror shield, and he does not perform a show-off move to the crowd. As Oberyn taunts Gregor during the duel, Gregor grows increasingly agitated and in his fury, cuts down a stable boy when he tries to charge Oberyn and ends up crashing into the crowd. Though arguably, in the TV version is performing show-off moves as a way to further taunt Gregor",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 30,
+   "Scene": "The fight begins",
+   "Scene End": "0:48:56",
+   "Duration": "0:01:31",
+   "Comparison": "In the series, The Mountain cuts Oberyn's spear into half during. But in the books, The Mountain does not cut Oberyn's spear in half with his sword. In the book, when The Mountain goes down, Oberyn impales him onto the ground, breaking the spear in the process. Oberyn then grabs Gregor's greatsword. ",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 31,
+   "Scene": "Obeyrn wounds The Mountain",
+   "Scene End": "0:49:39",
+   "Duration": "0:00:43",
+   "Comparison": "In the series, Oberyn was able to wound the Mountain on behind his kneews, and The Mountain fell on his knees. In the books, At one point, Oberyn reflects the sunlight into Gregor's narrow visor, blinding him and giving Oberyn an opportunity to find a gap in the armpit when Gregor lifts his arm to shield his eyes. The spear cuts through the mail and boiled leather, and Gregor begans to bleed heavily. When Oberyn finds another gap behind the knee, Gregor falls down on the ground.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 32,
+   "Scene": "Oberyn implicates The Mountain who gave him order to kill his sister",
+   "Scene End": "0:50:12",
+   "Duration": "0:00:33",
+   "Comparison": "Oberyn does not attempt to implicate Tywin Lannister by asking the question \"Who gave you the orders\".",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 33,
+   "Scene": "The Mountain kills Oberyn",
+   "Scene End": "0:50:40",
+   "Duration": "0:00:28",
+   "Comparison": "In the books, after Gregor knocked down Oberyn, first he gouged his eyes with a jab from his fingers, then he punched him so hard it knocked his teeth out, then he caved his skull in with another mighty punch from his armored fist. The TV version changed the order slightly: first having Gregor punch Oberyn so hard it knocked his teeth out, then gouge his eyes, and then cave his skull in (not with another punch but by squeezing together his bare hands).",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 34,
+   "Scene": "Tywin declares Tyrion guilty",
+   "Scene End": "0:51:01",
+   "Duration": "0:00:21",
+   "Comparison": "​In the series, the fight was swift, but int books the fight lasts much longer, to the point where Gregor was beginning to tire. After Oberyn's death, Tywin sentenced Tyrion to death.",
+   "Rating": "MIXED"
+ }
+]

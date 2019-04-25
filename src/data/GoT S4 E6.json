@@ -1,0 +1,234 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Stannis and Davos visits Braavos",
+   "Scene End": "0:02:40",
+   "Duration": "0:00:47",
+   "Comparison": "Stannis's deal with the Iron Bank occurs later in the books, after he has defeated the wildlings beyond the Wall. He does not visit Braavos to negotiate with the Bank's representatives. Instead, Tycho Nestoriscomes to meet Stannis while he is attempting to take the North from the Boltons. The Iron Bank agrees to fund Stannis because the Lannisters, specifically Cersei, refuse to repay the gold they owe.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Meeting with Iron Bank's representative",
+   "Scene End": "0:05:26",
+   "Duration": "0:02:46",
+   "Comparison": "Davos is not present at the meeting between Stannis and Tycho Nestoris, because he was sent earlier to the White Harbor, in order to gain the support of Lord Wyman Manderly.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 3,
+   "Scene": "Tycho Nestoris asks how many troops Stannis have",
+   "Scene End": "0:07:49",
+   "Duration": "0:02:23",
+   "Comparison": "​Stannis's total troops are initially between 1,500 - 1,600 men in the books, more than half of them from House Florent. By the time he meets Tycho Nestoris, his army consists of about 5,000 men, reinforced by the Northern mounain clans and survivors of the Mormonts and other Northern house. In the series, he said he have 4,000 men and 32 ships. Davos is questioned by Ser Marlon Manderly, not by Tycho Nestoris, about the number of Stannis's men-at-arms. He does not answer, fearing that if he tells the truth - Lord Manderly will refuse to support Stannis.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 4,
+   "Scene": "Davos meets Salladhor in bathhous",
+   "Scene End": "0:10:15",
+   "Duration": "0:02:26",
+   "Comparison": "Salladhor Saan's scene in the bathhouse of Braavos was added to the show.  Salladhor abandoned Stannis Baratheon after the Battle of Blackwater in the show.  In the books he abandons Stannis much later, for good, due to the tardiness in his payment.  It is only after he leaves in the books that Stannis is granted funds from the Iron Bank.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 5,
+   "Scene": "Yara Greyjoy attempts to free Theon",
+   "Scene End": "0:12:40",
+   "Duration": "0:02:25",
+   "Comparison": "Asha Greyjoy from the books has been renamed in the show to Yara Greyjoy. The reason for this change was possible confusion with the Wildling Osha.Yara never attempts to rescue Theon, but at one point in the fifth novel, Yara has an idea that perhaps is to attempt to rescue Theon, not because she cares about him but due to the political affairs in the Iron Islands. She does not have a chance to carry out her idea, though.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 6,
+   "Scene": "Theon refuses to go wit Yara",
+   "Scene End": "0:13:34",
+   "Duration": "0:00:54",
+   "Comparison": "A similar scene occurs in the books just after the fall of Moat Cailin: to test Theon's loyalty, Ramsay offers him a chance to return to Pyke with the rest of the ironborn, but Theon, knowing full well that this is merely another one of Ramsay's tricks, chooses not to, and he sees he made the right choice when Ramsay flays the ironborn anyway. In the show, Theon fears that Yara's rescue attempt is one of Ramsay's tricks, and even if it isn't, he outright refuses to go with her unless she kills Ramsay.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 7,
+   "Scene": "Ramsay fighs the Yara's army",
+   "Scene End": "0:15:06",
+   "Duration": "0:01:32",
+   "Comparison": "Yara did not attempt to rescue Theon and confront Ramsay.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 8,
+   "Scene": "Ramsay rewards Theon for refusing to come with Yara",
+   "Scene End": "0:18:44",
+   "Duration": "0:03:38",
+   "Comparison": "Ramsay rewards Theon with a bath, and later asks him to help him take  a castle.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 9,
+   "Scene": "Daenerys' dragons hunts on goatherd",
+   "Scene End": "0:19:48",
+   "Duration": "0:01:04",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 10,
+   "Scene": "Daenerys pays back the goatherd",
+   "Scene End": "0:21:30",
+   "Duration": "0:01:42",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Hizdahr zo Loraq asks permission to bury his crucified father",
+   "Scene End": "0:25:00",
+   "Duration": "0:03:30",
+   "Comparison": "Missandei has the idea to return the remains of the Masters of Meereen to their families in the novels. In the TV series Hizdahr zo Loraq begs for their remains, including those of his father, whom he claims was punished unjustly by Daenerys Targaryen.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 12,
+   "Scene": "The council meeting",
+   "Scene End": "0:25:17",
+   "Duration": "0:00:17",
+   "Comparison": "This small council did not happen in the books.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Tywin puts a bounty price on the Hound's head",
+   "Scene End": "0:25:57",
+   "Duration": "0:00:40",
+   "Comparison": "In the books, no reward is put on the Hound's head. Details of Sandor Clegane's precise whereabouts and actions do not reach The Small Council in the books.  In the books there are rumors of the Hound terrorizing the country side of the Riverlands, raiding and raping, but not of his actions at the inn. The 100 silver bounty is also new to the TV series.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 14,
+   "Scene": "Varys reports of Daenerys",
+   "Scene End": "0:26:29",
+   "Duration": "0:00:32",
+   "Comparison": "This small council did not happen in the books.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 15,
+   "Scene": "Tywin chides Cersei for dismissing Ser Barristan Selmy from Kingsguard",
+   "Scene End": "0:26:56",
+   "Duration": "0:00:27",
+   "Comparison": "In the books, it is not Tywin but Tyrion who chides Cersei for dismissing Ser Barristan Selmy from the Kingsguard.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 16,
+   "Scene": "Daenerys is a threat",
+   "Scene End": "0:27:45",
+   "Duration": "0:00:49",
+   "Comparison": "The Small Council meeting with Oberyn Martell and Mace Tyrell  discussing Daenery Targaryen was added to the show. Daenerys is not taken seriously by anyone in Westeros for a long time, her Dragons dismissed as fairy tales and gossip of the commons. Tywin's letter regarding Daenerys is also new to the TV series. ",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 17,
+   "Scene": "Oberyn talks to Varys",
+   "Scene End": "0:30:11",
+   "Duration": "0:02:26",
+   "Comparison": "Oberyn Martell's and Varys' conversation by the Iron Throne was added into the show.  They have little interaction in the novels.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 18,
+   "Scene": "Tywin questions Tyrion",
+   "Scene End": "0:33:38",
+   "Duration": "0:03:27",
+   "Comparison": "Tommen Baratheon excuses himself from Tyrion's trial and gives authority to Tywin Lannister and the judges in the show. In the books Tommen was never a part of the trial.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 19,
+   "Scene": "Sir Meryn, the first witness speaks",
+   "Scene End": "0:34:29",
+   "Duration": "0:00:51",
+   "Comparison": "Meryn testifies falsely of Tyrion and mentions that he was threatened by Tyrion. In the books, it is Ser Boros Blount who speaks up about being threatened.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Pycelle testifies",
+   "Scene End": "0:35:07",
+   "Duration": "0:00:38",
+   "Comparison": "Pycelle mentions the poisons from his store that are missing. In addition to the nine types of poison that Pycelle counts (Tears of Lys, Wolfsbane, Manticore venom, the Strangler, Basilisk venom, Widow's Blood, Sweetsleep, Demon's Dance and Blind Eye), he mentions tenth poison - Greycap. Also, Oberyn did not impatiently interrupt him during the trial. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 21,
+   "Scene": "Tywin asks Pycelle which poison was used to kill Joffrey",
+   "Scene End": "0:36:14",
+   "Duration": "0:01:07",
+   "Comparison": "It is not Tywin but Tyrion who questions Pycelle about the poison that was used to kill Joffrey. Pycelle says that one of his poision the Strangler was found on Sansa's necklace. But the body of Dontos and the jewelry containing the poison was never found in the novels. Littlefinger burns the boat and Dontos's body, sending him to the bottom of the ocean. It is believed he ran off with Sansa Stark, aiding her in killing Joffrey Baratheon. Also, in the books, the Strangler is not among the poisons in Pycelle's collection. This fact is brought to attention during the trial.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 22,
+   "Scene": "Cersei testifies",
+   "Scene End": "0:37:28",
+   "Duration": "0:01:14",
+   "Comparison": "In the books, Cersei does not testify. Osney and Osfryd Kettleblack are the ones who testify of the threats Tyrion has made to her. In the show she relates Tyrion's threats to her and lies about the reasons he made those threats (beating Ros who she thought was Tyrion's whore).",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 23,
+   "Scene": "Varys testifies, and Tyrion asks him a question",
+   "Scene End": "0:39:23",
+   "Duration": "0:01:55",
+   "Comparison": "The trial of Tyrion lasts four days in the book. It takes Varys a whole day to deliver his testimony, as well as Shae. The testimony of Varys in the books consisted of documents and notes of entire damning conversations that Tyrion had, verifying his theft of the poisons, and confirming everything but the poisoning itself.  In the show only one conversation is related, or at least seen by viewers, and Tyrion asks Varys about saving King's Landing.  Also, in the books, before Varys testifies, Tyrion tries to find him to see if he will testify in Tyrion's defense. But Tyrion does not ask Varys any questions. He asks Pycelle two questions, without requesting permission first, risking his father's wrath.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 24,
+   "Scene": "Jaime agrees to leave Kingsguard to spare Tyrion's life",
+   "Scene End": "0:41:42",
+   "Duration": "0:02:19",
+   "Comparison": "Jaime never agrees to leave the Kingsguard and marry in order to have Tyrion spared. Jaime and Tywin never speak to each other again after Jaime decides to stay in the Kingsguard, as Tywin disowns him afterwards.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 25,
+   "Scene": "Jaime asks Tyrion to plead mercy and join Night's watch",
+   "Scene End": "0:42:43",
+   "Duration": "0:01:01",
+   "Comparison": "In the books, it is Kevan Lannister (Tywin's borther), not Jaime, who approaches Tyrion with the offer to join the Night's Watch in exchange for a plea for mercy.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 26,
+   "Scene": "Shae testifies",
+   "Scene End": "0:46:48",
+   "Duration": "0:04:05",
+   "Comparison": "Shae's surprise testimony does occur in the books, but her motivations are changed. In the books, the character is more cynical and does not care about Tyrion, and her motive for testifying against him in the trial was financial, Cersei having bribed her for her testimony. In the show, her motives seem more based on revenge, and hatred for being rejected.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 27,
+   "Scene": "Tyrion's outburst",
+   "Scene End": "0:49:20",
+   "Duration": "0:02:32",
+   "Comparison": "The show reduced the number of witnesses seen who testified against Tyrion Lannister. Other knights of the Kingsguard, members of the court, and a large amount of people Tyrion has never even met testify against him. Tyrion in his anger outbursts, refuses to confess and demands a trial in combat",
+   "Rating": "TRUE"
+ }
+]

@@ -1,0 +1,234 @@
+[
+ {
+   "Image": null,
+   "Scene": "HBO title",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": null,
+   "Scene": "Opening Credits / Title Sequence",
+   "Scene End": "0:01:53",
+   "Duration": "0:01:47",
+   "Comparison": "",
+   "Rating": ""
+ },
+ {
+   "Image": 1,
+   "Scene": "Jaime confronts Tyrion about refusing to join Night's Watch",
+   "Scene End": "0:03:37",
+   "Duration": "0:01:44",
+   "Comparison": "Jaime never made a deal with Tywin to spare Tyrion. This conversation never happened in the books, nor did Tyrion talked about Shae's betrayal.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 2,
+   "Scene": "Jaime cannot be Tyrion's champion",
+   "Scene End": "0:04:39",
+   "Duration": "0:01:02",
+   "Comparison": "In the series, Jaime tells Tyrion that he cannot be his champion. Tyrion then asks Jaime to find Bron instead and ask him to fight for him. ",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 3,
+   "Scene": "Who is Cersei's champion",
+   "Scene End": "0:04:55",
+   "Duration": "0:00:16",
+   "Comparison": "After Jaime admits that he cannot fight for Tyrion, Tyrion then anticipates Cersei's champion and found out it's The Mountain. ​In the books, Tyrion anticipates the possibility of a trial by combat even before his court trial, and begins to consider the choice of his champion at this point. He already knows that, should he opt for a trial by combat, Cersei's champion would be the Mountain. Tyrion notes to himself that Cersei counters his moves before he makes them.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 4,
+   "Scene": "The Mountain is Cersei's champion",
+   "Scene End": "0:05:55",
+   "Duration": "0:01:00",
+   "Comparison": "In the series, The Mountain is seen killing prisoners when Cersei comes in to welcome him. He then asks who he will be fighting, and Cersei asks him back if it matters who he'll fight. But in the books, this conversation never happened.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 5,
+   "Scene": "The Hound and Arya finds an injured man",
+   "Scene End": "0:09:00",
+   "Duration": "0:03:05",
+   "Comparison": "The dying man that Arya and the Hound find was injured by unnamed Bolton soldier, not by Rorge and Biter.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 6,
+   "Scene": "The Hound mercifully kills the man",
+   "Scene End": "0:09:34",
+   "Duration": "0:00:34",
+   "Comparison": "In the series, to ease the injured man's suffering, The Hound strucks his sword to his chest, then later tells Arya that's where the heart is.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 7,
+   "Scene": "The biter attacks The Hound",
+   "Scene End": "0:09:45",
+   "Duration": "0:00:11",
+   "Comparison": "In the books, The Hound is severely injured by Polliver and the Tickler, not by Biter. In the books, Biter is killed by Gendry, not by the Hound.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 8,
+   "Scene": "The king is dead",
+   "Scene End": "0:10:10",
+   "Duration": "0:00:25",
+   "Comparison": "In the series, after The Hound kills Biter, Rorge the other thief tells them that Joffrey is dead. In the books, it is not Rorge but Polliver who tells Arya and the Hound about Joffrey's death.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 9,
+   "Scene": "Arya kills Rorge",
+   "Scene End": "0:10:48",
+   "Duration": "0:00:38",
+   "Comparison": "In the series, after knowing Rorge's name, she strucked him with needle. In the books, Rorge is killed by Brienne, not by Arya.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 10,
+   "Scene": "Jon returns to Nights Watch from Crasters Keep",
+   "Scene End": "0:11:40",
+   "Duration": "0:00:52",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 11,
+   "Scene": "Jon suggests to seal the tunnel",
+   "Scene End": "0:13:39",
+   "Duration": "0:01:59",
+   "Comparison": "In the series, Jon suggests to seal the tunnel in preparation to the attack of wildlings but Allyser refuses, as an acting commander of NIght's Watch.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 12,
+   "Scene": "Bron visits Tyrion in the cell",
+   "Scene End": "0:18:06",
+   "Duration": "0:04:27",
+   "Comparison": "In the series, Bron visits Tyrion in his cell to tell hime he can't risk fighting The Mountain for him.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 13,
+   "Scene": "Daario sneaks into Daenerys's quarters",
+   "Scene End": "0:20:43",
+   "Duration": "0:02:37",
+   "Comparison": "In the series, Daario sneaks into Daenerys's quarters tp pursue her telling her to let him do what he's best at doing - fighting and women. ",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 14,
+   "Scene": "Selyse talks to Melissandre",
+   "Scene End": "0:22:49",
+   "Duration": "0:02:06",
+   "Comparison": "In the series, Selyse comes to talk to Melissandre, and Melissandre talks about her illusions spells. But, this conversation between Melisandre and Selyse does not occur in the books (at least not on-screen, because they are not POV characters). Much later, Melisandre tells Mance Rayder and Jon about using her illusion spells to make people see what they expect to see.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 15,
+   "Scene": "Selyse confronts Melissandre about her relationship with Stannis",
+   "Scene End": "0:23:26",
+   "Duration": "0:00:37",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 16,
+   "Scene": "Melissandre tells Selyse that Shireen should come with them",
+   "Scene End": "0:24:40",
+   "Duration": "0:01:14",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 17,
+   "Scene": "Daenerys sends Daario to retake Yunkai",
+   "Scene End": "0:27:57",
+   "Duration": "0:03:17",
+   "Comparison": "In the series, Daenerys tells Jorah that she's sending Daario to retake Yunkai by killing all the Masters there. And Jorah disapproves of  it. But in the books, Daenerys is much disheartened by the news about Yunkai, but does not try to conquer it again. A further note, Daahrio Naharis in the books has a much different description, a blue three-pronged beard, long blue hair, and a golden tooth.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 18,
+   "Scene": "The Hound tells Arya how he got burnt",
+   "Scene End": "0:31:10",
+   "Duration": "0:03:13",
+   "Comparison": "In the series, The Hound was trying to mend his wound and Arya tries to help him to burn the infected part of his wound. But The Hound was terrified of the fire and tells her how he got burnt. But in the books, he never told Arya how he got burnt.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 19,
+   "Scene": "Brienne and Pod meets Hot pie",
+   "Scene End": "0:35:23",
+   "Duration": "0:04:13",
+   "Comparison": "Brienne and Podrick never met Hot Pie on their travels, and his fate remains unclear after he leaves Arya and Gendry.",
+   "Rating": "FALSE"
+ },
+ {
+   "Image": 20,
+   "Scene": "Pod suggests that the Stark sisters could be in Eyrie",
+   "Scene End": "0:36:23",
+   "Duration": "0:01:00",
+   "Comparison": "Pod speculates that Arya and Sanasa may be in Eyrie at their Aunt Lysa.",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 21,
+   "Scene": "Oberyn tells Tyrion of when he first went to Castelery Rock",
+   "Scene End": "0:40:18",
+   "Duration": "0:03:55",
+   "Comparison": "In the series, Oberyn visits Tyrion in the cell and tells him how Cersei tried to sway him of standing against Tyrion. Then later tells Tyrion how he knew Cersei hated Tyrion since he first came to Castelery Rock. But in the books, Oberyn told Tyrion the story of when he visited Casterly Rock on the approach to King's Landing, not in the dungeons.",
+   "Rating": "TRUE"
+ },
+ {
+   "Image": 22,
+   "Scene": "Oberyn volunteers to be Tyrion's champion",
+   "Scene End": "0:41:26",
+   "Duration": "0:01:08",
+   "Comparison": "In the series, just when Tyrion was losing hope for not having any champion fight for him, Oberyn visits him in the cell and tells him he wants his reveng and volunteers to be his champion. But in the books, Oberyn already volunteered to be Tyrion's champion, should he need one, while his court trial was still ongoing, prior to Shae's testimony.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 23,
+   "Scene": "Sansa slaps Robin after he ruins the snow castle",
+   "Scene End": "0:44:07",
+   "Duration": "0:02:41",
+   "Comparison": "In the books, when Sansa is working on her snow castle, Petyr helps her with the details. Robin also uses his doll to break it down, causing Sansa to rip it up unintentionally and send him into a \"shaking spell\". Sansa does not slap Robin. In a later scene, he demands a hundred lemon cakes and five tales. Sansa, growing sick and tired of her spoilt cousin, thinks \"I'd like to give you a hundred spankings and five slaps\" but never harms him physically.",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 24,
+   "Scene": "Sansa asks why Petyr killed Joffrey",
+   "Scene End": "0:45:44",
+   "Duration": "0:01:37",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 25,
+   "Scene": "Petyr kisses Sansa",
+   "Scene End": "0:46:18",
+   "Duration": "0:00:34",
+   "Comparison": "",
+   "Rating": "UNKNOWN"
+ },
+ {
+   "Image": 26,
+   "Scene": "Lysa holds Sansa down the Moon Door",
+   "Scene End": "0:48:08",
+   "Duration": "0:01:50",
+   "Comparison": "In the books, when Lysa drags Sansa to the Moon Door, the bard Marillion is ordered to sing at the top of his voice to drown out Sansa's screams. ",
+   "Rating": "MIXED"
+ },
+ {
+   "Image": 27,
+   "Scene": "Petyr kills Lysa",
+   "Scene End": "0:49:44",
+   "Duration": "0:01:36",
+   "Comparison": "In the series, Petry tries to calm Lysa by saying he has only love one woman his entire life, her sister. Then pushes Lysa on the Moon door. But in the books, when Petyr was trying to calm Lysa, he says \"only Cat\" before pushing her out the Moon Door, and not \"your sister\".",
+   "Rating": "MIXED"
+ }
+]
