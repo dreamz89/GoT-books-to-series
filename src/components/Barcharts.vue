@@ -45,7 +45,7 @@
           ></episode>
         </div>
         <div class="description-wrap" v-show="sn === drilldown.season">
-          <div class="inner-wrap fixed" ref="innerWrap" :style="{ maxHeight: fullHeight() }">
+          <div class="inner-wrap" ref="innerWrap" :style="{ maxHeight: fullHeight() }">
             <div class="navigation">
               <img @click="up" src="nav-icon.svg"/>
               <img @click="down" src="nav-icon.svg"/>
@@ -153,7 +153,8 @@ export default {
         season: 0,
         episode: 0,
         scene: 0
-      }
+      },
+      position: 0
     }
   },
   created () {
@@ -175,6 +176,7 @@ export default {
             season.classList.add('shrink')
           } else {
             season.classList.add('expand')
+            if (this.position < 0) this.$refs.innerWrap[this.drilldown.season - 1].classList.add('fixed')
           }
         })
       }
@@ -210,9 +212,10 @@ export default {
     },
     handleScroll () {
       const el = document.querySelector('.seasons')
+      this.position = el.getBoundingClientRect().top
 
       if (this.drilldown.season !== 0) {
-        if (el.getBoundingClientRect().top < 0) {
+        if (this.position < 0) {
           this.$refs.innerWrap[this.drilldown.season - 1].classList.add('fixed')
         } else {
           this.$refs.innerWrap[this.drilldown.season - 1].classList.remove('fixed')
