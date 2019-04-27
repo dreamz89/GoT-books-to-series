@@ -197,15 +197,15 @@ export default {
     up () {
       if (this.drilldown.scene > 1) {
         this.drilldown.scene -= 1
-      } else {
-        this.drilldown.scene = this.data['S' + this.drilldown.season + 'E' + this.drilldown.episode].length
+      } else if (this.drilldown.episode !== 1) {
         this.drilldown.episode -= 1
+        this.drilldown.scene = this.data['S' + this.drilldown.season + 'E' + this.drilldown.episode].length
       }
     },
     down () {
       if (this.drilldown.scene < this.data['S' + this.drilldown.season + 'E' + this.drilldown.episode].length) {
         this.drilldown.scene += 1
-      } else {
+      } else if (this.drilldown.episode !== 10) {
         this.drilldown.scene = 1
         this.drilldown.episode += 1
       }

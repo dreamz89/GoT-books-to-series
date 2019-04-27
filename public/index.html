@@ -16,16 +16,16 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135515261-2"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-135515261-2');
+      window.dataLayer = window.dataLayer || []
+      function gtag(){
+        dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
+      gtag('config', 'UA-135515261-2')
 
       FB.ui({
         method: 'feed',
-      },
-      function(response){
+      }, function(response) {
         if (response && response.post_id) {
           alert('Post was published.')
         } else {
