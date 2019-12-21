@@ -45,7 +45,7 @@
           ></episode>
         </div>
         <div class="description-wrap" v-show="sn === drilldown.season">
-          <div class="inner-wrap" ref="innerWrap" :style="{ maxHeight: fullHeight() }">
+          <div class="inner-wrap" ref="innerWrap" :style="{ height: fullHeight() }">
             <div class="navigation">
               <img @click="up" src="nav-icon.svg"/>
               <img @click="down" src="nav-icon.svg"/>
