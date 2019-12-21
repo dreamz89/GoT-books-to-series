@@ -29,6 +29,7 @@ export default {
   },
   mounted () {
     this.calculateDuration()
+    this.preloadImages()
   },
   watch: {
     drilldown: {
@@ -54,6 +55,14 @@ export default {
       if (!this.data) return // for season 7
       this.data.forEach(scene => {
         this.totalDuration += this.toSeconds(scene.Duration)
+      })
+    },
+    preloadImages () {
+      if (!this.data) return
+      this.data.forEach(scene => {
+        const name = 'S' + this.season + 'E' + this.episode + 'S' + scene.Image
+        this[name] = new Image()
+        this[name].src = 'images/season' + this.season + '/GoT ' + this.season + ' ' + this.episode + ' '  + scene.Image + '.jpg'
       })
     },
     toSeconds (hms) {
