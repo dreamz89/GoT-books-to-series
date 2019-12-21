@@ -2,193 +2,172 @@
  {
    "Image": null,
    "Scene": "HBO title",
-   "Scene End": "00:00:06",
-   "Duration": "00:00:06",
+   "Scene End": "0:00:06",
+   "Duration": "0:00:06",
    "Comparison": "",
-   "Rating": ""
+   "Rating": "",
+   "Difference": ""
  },
  {
    "Image": null,
    "Scene": "Opening Credits / Title Sequence",
-   "Scene End": "00:01:48",
-   "Duration": "00:01:42",
+   "Scene End": "0:01:54",
+   "Duration": "0:01:48",
    "Comparison": "",
-   "Rating": ""
+   "Rating": "",
+   "Difference": ""
  },
  {
    "Image": 1,
-   "Scene": "Bran wakes up from a three-eyed raven dream",
-   "Scene End": "00:03:30",
-   "Duration": "00:01:42",
-   "Comparison": "In the series, Bran is dreaming. He is preparing to shoot an arrow, when the crow appears. He follows it to the tomb entrance and sees, it has three eyes. Then he wakes up.<br><br>Theon Greyjoy comes for Bran to bring him to the hall.<br><br>In the books, Old Nan was telling Bran stories before Maester Luwin and Hodor arrived to bring Bran down to the hall.",
-   "Rating": "FALSE"
+   "Scene": "Two guards in the woods get spooked",
+   "Scene End": "0:03:48",
+   "Duration": "0:01:54",
+   "Comparison": "The Battle of Oxcross takes place off-screen in the book.",
+   "Rating": "TRUE",
+   "Difference": "The Battle of Oxcross takes place off-screen in the book."
  },
  {
    "Image": 2,
-   "Scene": "Robb brings Bran before Tyrion",
-   "Scene End": "00:05:13",
-   "Duration": "00:01:43",
-   "Comparison": "In the books, the three direwolves surround Tyrion.<br><br>In both, Robb receives Tyrion in a hostile manner. Tyrion gives instructions for a saddle that enables Bran to ride a horse. Robb extends hospitality to Tyrion in return for his kindness but Tyrion chooses to stay outside.",
-   "Rating": "TRUE"
+   "Scene": "Robb meets Talisa treating a Lannister man",
+   "Scene End": "0:07:47",
+   "Duration": "0:03:59",
+   "Comparison": "In this scene, Robb meets Lady Talisa, which starts a budding romance. In the book, this character does not exist. Rather, the girl he falls in love with and eventually marries is Jeyne Westerling, daughter of Lord Gawen Westerling from the Crag, a minor vassal house of the Westerlands. \n\nAfter Robb marches west to defeat the Lannisters​ at the Crag, he disappears from the book and his romance with Jeyne is entirely off-screen. Once he returns to Riverrun, he is already married to Jeyne. She is not a battlefield healer, but she does nurse Robb back to health after he takes an arrow to the arm storming the Westerling castle.",
+   "Rating": "FALSE",
+   "Difference": "In this episode, Robb meets Lady Talisa, which starts a budding romance. In the book, this character does not exist. Rather, the girl he falls in love with and eventually marries is Jeyne Westerling, daughter of Lord Gawen Westerling from the Crag, a minor vassal house of the Westerlands. After Robb marches west to defeat the Lannisters​ at the Crag, he disappears from the book and his romance with Jeyne is entirely off-screen. Once he returns to Riverrun, he is already married to Jeyne. She is not a battlefield healer, but she does nurse Robb back to health after he takes an arrow to the arm storming the Westerling castle."
  },
  {
    "Image": 3,
-   "Scene": "Tyrion taunts Theon",
-   "Scene End": "00:06:40",
-   "Duration": "00:01:27",
-   "Comparison": "This scene does not happen in the books - a conversation between Tyrion Lannister and Theon reveals the latter's past and origins.",
-   "Rating": "FALSE"
+   "Scene": "Joffrey humiliates Sansa for her brother's win",
+   "Scene End": "0:11:05",
+   "Duration": "0:03:18",
+   "Comparison": "In the books, before Sansa was beaten, Dontos tries to help her by smashing a melon on her head so Joffrey would end her punishment there. Dontos wasn't there in the series.\n\nIt is Boros Blount, rather than Meryn Trant, who beats and strips Sansa in the Throne Room at Joffrey's behest. The Hound yells \"enough!\" during the spectacle. Tyrion, who is also accompanied by Timett, scolds and threatens Blount in the same way he does to Trant in the TV series. In the books, she is stripped naked, while in the series, Sansa's beating is toned down as the character was below the required age set by UK decency laws.\n\nIn the series, Joffrey never brought up the \"being feared is better than being loved\" statement.",
+   "Rating": "TRUE",
+   "Difference": "It is Boros Blount, rather than Meryn Trant, who beats and strips Sansa in the Throne Room at Joffrey's behest. The Hound yells \"enough!\" during the spectacle. Tyrion, who is also accompanied by Timett, scolds and threatens Blount in the same way he does to Trant in the TV series. Additionally, Sansa's beating is toned down in the TV series. In the novel, she is stripped naked, which was removed from the series as the character was below the required age set by UK decency laws.\nIn the books, before Sansa was beaten, Dontos tries to help her by smashing a melon on her head so Joffrey would end her punishment there. Dontos wasn't even there in the series.\nFurthermore, in the series he hadn't even interacted Sansa since the time she saved him from being executed in the first episode.\nThe conversation between Joffrey and Tyrion about Sansa lasted much longer in the books.\nJoffrey never brought up the \"being feared is better than being loved\" statement in the series."
  },
  {
    "Image": 4,
-   "Scene": "Jon defends newcomer Samwell Tarly",
-   "Scene End": "00:10:11",
-   "Duration": "00:03:31",
-   "Comparison": "In the series, Ser Alliser tells Sam to introduce himself, then tells Rast to spar with him. Sam yields quickly but is still beaten. Jon steps up to stop it and ends up defending Sam against 3 men. <br><br>In the books, Ser Alliser tells Halder to spar with Sam. Sam yields quickly but is still beaten. Jon steps up to stop it and Ser Alliser sends three men against Jon, while Grenn and Pyp join Jon for a three-to-two. After the fight, Sam introduces himself.<br><br>In both, they ask Sam why he does not defend himself and he admits to being a coward.",
-   "Rating": "TRUE"
+   "Scene": "Joffrey orders a prostitute to hit the other",
+   "Scene End": "0:14:44",
+   "Duration": "0:03:39",
+   "Comparison": "In the books, it is Varys who suggests the whores for Joffrey, not Bronn. The scene where Joffrey brutalizes Ros and the other whore never unfolds. It is unclear if this suggestion is ever acted on.",
+   "Rating": "FALSE",
+   "Difference": "It is actually Varys who suggests the whores for Joffrey in the book, not Bronn. In addition, the scene where Joffrey brutalizes Ros and the other whore never unfolds. It is unclear if this suggestion is ever acted on."
  },
  {
    "Image": 5,
-   "Scene": "The Dothraki enters a new village",
-   "Scene End": "00:12:17",
-   "Duration": "00:02:06",
-   "Comparison": "In both the series and the books, the Dothraki enters Vaes Dothrak through the Horse Gate. Daenerys tells Viserys to stop calling her people savages, and he shows his impatience at not getting his army.",
-   "Rating": "TRUE"
+   "Scene": "Petyr offers Renly a deal",
+   "Scene End": "0:16:44",
+   "Duration": "0:02:00",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
  },
  {
    "Image": 6,
-   "Scene": "Viserys speaks of dragons past",
-   "Scene End": "00:17:10",
-   "Duration": "00:04:53",
-   "Comparison": "This scene does not happen in the books - Viserys and Doreah are having a bath and talk about dragons and the skulls in the Red Keep. In the book, it is only mentioned that Viserys and Doreah have had sex.",
-   "Rating": "FALSE"
+   "Scene": "Petyr tries to sniff out Margaery's marriage",
+   "Scene End": "0:18:37",
+   "Duration": "0:01:53",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
  },
  {
    "Image": 7,
-   "Scene": "Sansa talks to Septa Mordane about her future",
-   "Scene End": "00:18:53",
-   "Duration": "00:01:43",
-   "Comparison": "This scene does not happen in the books - a conversation between Septa Mordane and Sansa about Sansa's future, Prince Joffrey, the Iron Throne and the deaths of Rickard and Brandon.",
-   "Rating": "FALSE"
+   "Scene": "Daenerys receives news from the eastern rider",
+   "Scene End": "0:19:42",
+   "Duration": "0:01:05",
+   "Comparison": "In the books, Jhogo brings Xaro Xhoan Daxos, Pyat Pree and Quaithe to meet Daenerys in Vaes Tolorro, see the dragons and invite her to Qarth.\n\nIn the books, Daenerys takes up residence in an abandoned walled city (Vaes Tolorro) for a time. There they eat fruit and drink water and regain much of their strength. They are not desperate to leave this city for Qarth, though Daenerys's followers do believe the abandoned city to be haunted.",
+   "Rating": "MIXED",
+   "Difference": "Kovarro does not appear in the books. Jhogo is the third Bloodrider, but his name was changed to Rakharo.\nIn the novel, Daenerys takes up residence in an abandoned walled city (Vaes Tolorro) for a time. There they eat fruit and drink water and regain much of their strength. They are not desperate to leave this city for Qarth, though Daenerys's followers do believe the abandoned city to be haunted."
  },
  {
    "Image": 8,
-   "Scene": "Ned asks Grand Maester Pycelle about Jon Arryn",
-   "Scene End": "00:23:42",
-   "Duration": "00:04:49",
-   "Comparison": "In the series, after the small council meeting, Ned asks Grand Maester Pycelle about Jon Arryn's last days and asks to see the book Jon asked for before his death. He takes it away with him from Pycelle's chambers.<br><br>In the books, Ned visits Grand Maester Pycelle's chambers, and asks him about Jon Arryn's last days, in which Pycelle's dismissal of the Maester treating Jon was mentioned. Ned requests for the same book that Jon asked for before his death, and Pycelle says he will find it and have it sent to his room.",
-   "Rating": "TRUE"
+   "Scene": "Arya arrives at Harrenhal",
+   "Scene End": "0:22:00",
+   "Duration": "0:02:18",
+   "Comparison": "In the books, Arya's death list includes more people. The full list is: the Mountain, Dunsen, Polliver, Chiswyck, Rafford, the Tickler, the Hound, Amory Lorch, Ilyn Payne, Meryn Trant, Joffrey, Cersei and Weese.",
+   "Rating": "TRUE",
+   "Difference": "In the books, Arya's death list includes more people. The full list is: the Mountain, Dunsen, Polliver, Chiswyck, Rafford, the Tickler, the Hound, Amory Lorch, Ilyn Payne, Meryn Trant, Joffrey, Cersei and Weese."
  },
  {
    "Image": 9,
-   "Scene": "Ned talks to Arya about her future",
-   "Scene End": "00:25:30",
-   "Duration": "00:01:48",
-   "Comparison": "In both the series and the books, Ned finds Arya trying to stand on one leg. They talk about Bran's future, and she says she wants to be a lord of a holdfast / King's councillor etc.",
-   "Rating": "TRUE"
+   "Scene": "Petyr offers Catelyn a trade from Tyrion",
+   "Scene End": "0:25:46",
+   "Duration": "0:03:46",
+   "Comparison": "The Lannisters never sent Littlefinger or anyone else to Renly's camp in the books. He is sent to treat the Tyrells, but in Highgarden, and only long after Catelyn departed.\n\nCatelyn does not receive Ned's bones at Renly's camp; she gets them when she returns to Riverrun later in the book.\n\nIn the books, Cleos Frey (Alton Lannister's book counterpart), not Littlefinger, is the one who brings Catelyn the Lannisters' offer to exchange Jaime for her daughters. The conversation takes place at Riverrun, not at Renly's camp. Cleos tells Catelyn that Sansa is held at the Red Keep, and admits he has no idea what has become of Arya; he does not attempt to persuade Catelyn to act behind Robb's back.",
+   "Rating": "MIXED",
+   "Difference": "The Lannisters never sent Littlefinger or anyone else to Renly's camp in the books. He is sent to treat the Tyrells, but in Highgarden, and only long after Catelyn departed.\nCatelyn and Littlefinger never saw each other again after their meeting at King's Landing, where he lied to her about the dagger.\nCatelyn does not receive Eddard's bones at Renly's camp; she gets them when she returns to Riverrun later in the novel. She does not order the bones to be taken to Winterfell in the series either.\nIn the books, Cleos Frey (Alton Lannister's book counterpart), not Littlefinger, is the one who brings Catelyn the Lannisters' offer to exchange Jaime for her daughters. The conversation takes place at Riverrun, not at Renly's camp. Cleos tells Catelyn that Sansa is held at the Red Keep, and admits he has no idea what has become of Arya; he does not attempt to persuade Catelyn to act behind Robb's back."
  },
  {
    "Image": 10,
-   "Scene": "Sam is Jon's new duty partner",
-   "Scene End": "00:27:43",
-   "Duration": "00:02:13",
-   "Comparison": "In the series, Jon is on duty up on the Wall and Sam arrives to be his new watch partner. <br><br>In the books, Jon invites Sam to the Wall after dinner, where Sam starts crying and gets comforted by Ghost. Jon starts talking about Winterfell.<br><br>In both, Sam tells about how his father gave him a choice between death by being thrown off a horse, or the Night's Watch.",
-   "Rating": "MIXED"
+   "Scene": "The Mountain selects someone for torture",
+   "Scene End": "0:28:47",
+   "Duration": "0:03:01",
+   "Comparison": "In the books, the sentence \"a naked man has few secrets, but a flayed man's got none\" is not said by Roose Bolton, but is said by a man named \"Reek\" (Ramsay in disguise) to Theon Greyjoy.\n\nThere is no mention in the books that Eddard Stark outlawed flaying in the North.",
+   "Rating": "UNKNOWN",
+   "Difference": "In the books, the sentence \"a naked man has few secrets, but a flayed man's got none\" is not said by Roose Bolton, but is said by a man named \"Reek\" (actually, Ramsay in disguise) to Theon Greyjoy.\nThere is no mentioning in the books that Eddard Stark outlawed flaying in the North."
  },
  {
    "Image": 11,
-   "Scene": "Petyr warns and advises Ned about his investigation",
-   "Scene End": "00:29:30",
-   "Duration": "00:01:47",
-   "Comparison": "In the series, while walking through the garden, Petyr tells Ned of Ser Hugh of the Vale. He warns Ned about the spies everywhere, and also advises him to pay a visit to a certain armourer.<br><br>In the books, Petyr visits Ned in his office and tells him that some of Jon Arryn's servants remain, including Ser Hugh of the Vale. He also warns Ned about the spies everywhere.",
-   "Rating": "TRUE"
+   "Scene": "The Baratheon brothers meet in parley",
+   "Scene End": "0:32:00",
+   "Duration": "0:03:13",
+   "Comparison": "In the books, the reason Renly and Stannis meet is because Stannis has besieged Storm's End, the seat of Renly. It is not made clear why Stannis and Renly parley. Catelyn and Stannis are the first to gather. Renly joins the meeting shortly later, perhaps deliberately, as some kind of game - the first to arrive must wait on the other.\n\nIn the books, the parley is much longer. Stannis tells Catelyn and Renly about the investigation he and Jon Arryn conducted, and about the incestuous relationship between Jaime and Cersei. Based on that information, Catelyn deduces the truth about Bran's fall.",
+   "Rating": "TRUE",
+   "Difference": "In the books, the reason Renly and Stannis meet is because Stannis has besieged Storm's End, the seat of Renly. It is not made clear why Stannis and Renly parley.\nCatelyn and Stannis are the first to gather. Renly joins the meeting shortly later, perhaps deliberately, as some kind of game - the first to arrive must wait on the other.\nIn the book, the parley is much longer. Stannis tells Catelyn and Renly about the investigation he and Jon Arryn conducted, and about the incestuous relationship between Jaime and Cersei. Based on that information, Catelyn deduces the truth about Bran's fall."
  },
  {
    "Image": 12,
-   "Scene": "Ser Hugh ignores the summons",
-   "Scene End": "00:30:03",
-   "Duration": "00:00:33",
-   "Comparison": "In the series, Jory Cassel tries to speak with Ser Hugh and the arrogant knight ignores him. Jory tells Ned that Ser Hugh will only meet with the Hand himself.<br><br>In the books, Jory tells Ned of Ser Hugh's refusal to speak with Jory, unless it's the Hand himself.",
-   "Rating": "TRUE"
+   "Scene": "Daenerys negotiates entrance to Qarth",
+   "Scene End": "0:37:28",
+   "Duration": "0:05:28",
+   "Comparison": "In the books, Daenerys is brought to Qarth by Xaro Xhoan Daxos, Pyat Pree and Quaithe. Once there, they are immediately let into the city, without the events at the gates from the series. The city residents warmly welcome Daenerys and her followers, with Drogon clearly visible, and no one asks about the dragons.\n\nXaro is described as having pale skin and a long, beak-like nose crusted with jewels: rubies, opals and flakes of jade in the books, while in the series he is has black skin. It is also implied in the books that Xaro is homosexual, while in the series he clearly desires Daenerys.\n\nThe Thirteen of Qarth fight for dominion over Qarth with the Tourmaline Brotherhood, the Ancient Guild of Spicers and the Pureborn; they are not the only ones charged with governance.\n\nThere is no Spice King in the books; however, his alias is a reference to a merchant organization in Qarth, the Ancient Guild of Spicers, that does not appear on the TV Series.",
+   "Rating": "FALSE",
+   "Difference": "Qarth has three walls in the novels, thirty, forty and fifty feet high respectively, each intricately carved with scenes of animals, warfare, and lovemaking.\nIn the novels, Daenerys is brought to Qarth by Xaro Xhoan Daxos, Pyat Pree and Quaithe. The three meet Daenerys in Vaes Tolorro, being brought to her by Jhogo. They have come to see the dragons and invite her to Qarth. Once there, they are immediately let into the city, without the events at the gates from the series. The city residents warmly welcome Daenerys and her followers, with Drogon clearly visible, and no one asks about the dragons.\nXaro is described as having pale skin and a long, beak-like nose crusted with jewels: rubies, opals and flakes of jade in the books, while in the series he is has black skin. It is also implied in the books that Xaro is homosexual, while in the series he clearly desires Daenerys.\nThe Thirteen of Qarth fight for dominion over Qarth with the Tourmaline Brotherhood, the Ancient Guild of Spicers and the Pureborn; they are not the only ones charged with governance.\nThere is no Spice King in the books; however, his alias is a reference to a merchant organization in Qarth, the Ancient Guild of Spicers, that does not appear on the TV Series."
  },
  {
    "Image": 13,
-   "Scene": "Ned investigates a blacksmith boy",
-   "Scene End": "00:32:30",
-   "Duration": "00:02:27",
-   "Comparison": "In both the series and the books, Ned visits the armourer and finds out that Jon Arryn asked to see the boy. He speaks with Gendry, who refuses to sell his bull helmet, and reveals what Jon asked him about.",
-   "Rating": "TRUE"
+   "Scene": "Tywin turns the prisoners to slaves",
+   "Scene End": "0:39:50",
+   "Duration": "0:02:22",
+   "Comparison": "Although Arya is at Harrenhal at the same time as Tywin Lannister, she is not appointed his cupbearer and they never converse. Arya serves in various roles while at the castle, working for several people. Going by the name \"Weasel\", she works for the steward at Harrenhal.\n\nArya's gender is revealed during the journey to Harrenhal where she had no restroom privacy, not by Tywin.",
+   "Rating": "FALSE",
+   "Difference": "Though Arya is at Harrenhal with Tywin Lannister, she is not appointed his cupbearer and they never converse. Arya serves in various roles while at the castle, working for several people. Going by the name \"Weasel\", she works for the steward at Harrenhal.\nArya's gender is revealed during the journey to Harrenhal where she had no restroom privacy, not by Tywin."
  },
  {
    "Image": 14,
-   "Scene": "Jamie and Jory talk outside Robert's bedroom",
-   "Scene End": "00:34:28",
-   "Duration": "00:01:58",
-   "Comparison": "This scene does not happen in the books - Jaime is guarding the door, while the King is having group sex. Jory comes with the message for the king. He tries to give it to Jaime, but he refuses. There is no mentioning in the books that Jaime and Jory took any part in the Greyjoy Rebellion.",
-   "Rating": "FALSE"
+   "Scene": "Tyrion blackmails Lancel",
+   "Scene End": "0:43:42",
+   "Duration": "0:03:52",
+   "Comparison": "In the books, Tyrion makes Lancel admit not only that he sleeps with Cersei, but also that he had a part in Robert's death.",
+   "Rating": "TRUE",
+   "Difference": "In the book, Tyrion makes Lancel admit not only that he sleeps with Cersei, but also that he had part in Robert's death."
  },
  {
    "Image": 15,
-   "Scene": "Jon warns everyone off Sam",
-   "Scene End": "00:35:55",
-   "Duration": "00:01:27",
-   "Comparison": "In the series, Jon tells Grenn and Pyp over dinner not to hurt Sam anymore in training. Rast overhears and says that if he's up against Lady Piggy, he'll take a slice of bacon. That night, he wakes up to find the trio beside him and Ghost snarling above him. Jon tells that no one touches Sam.<br><br>In the books, Jon tells all the men one by one how they should be treating Sam. Only Rast disagrees, saying that if he gets sent against Lady Piggy, he'll slice himself a rasher of bacon. That night, he wakes up to find Grenn holding his arms, Pyp sitting on his legs, and Ghost snarling above him. Jon tells that they know where he sleeps.",
-   "Rating": "TRUE"
+   "Scene": "Stannis asks Davos to smuggle",
+   "Scene End": "0:45:37",
+   "Duration": "0:01:55",
+   "Comparison": "",
+   "Rating": "UNKNOWN",
+   "Difference": ""
  },
  {
    "Image": 16,
-   "Scene": "No one dares to attack Sam in training",
-   "Scene End": "00:37:12",
-   "Duration": "00:01:17",
-   "Comparison": "In both the series and the books, nobody dares to attack Sam in training beyond light taps, despite Ser Alliser's threats.",
-   "Rating": "TRUE"
+   "Scene": "Davos rows Melisandre into the island",
+   "Scene End": "0:47:22",
+   "Duration": "0:01:45",
+   "Comparison": "Davos does row Melisandre to a cavern, although for a different assassination.",
+   "Rating": "TRUE",
+   "Difference": ""
  },
  {
    "Image": 17,
-   "Scene": "Daenerys stands up to Viserys after his attack on her",
-   "Scene End": "00:38:33",
-   "Duration": "00:01:21",
-   "Comparison": "In the series, Daenerys did not ask Doreah what she said. Viserys throws her gifts around and slaps her when she says he has not won the right to a braid.<br><br>In the books, Doreah admits that her words were that Daenerys commanded him to join her for supper. Viserys does not throw the gifts around, and dares not strike her, only grabbing her arm painfully.<br><br>In both the series and the books, Viserys arrives at Daenerys' tent furious for being given commands. He calls her gifts Dothraki rags and says next she'll want to braid his hair. Daenerys that he has no right to a braid, having won no victories yet.",
-   "Rating": "TRUE"
- },
- {
-   "Image": 18,
-   "Scene": "Jon and Sam talks about girls",
-   "Scene End": "00:44:33",
-   "Duration": "00:06:00",
-   "Comparison": "This scene does not happen in the books - Jon reveals that he refused sex with a prostitute called Ros. In the books, the woman with whom Jon refuses (initially) to have sex is Ygritte, and that happens much later. One of the reasons for Jon's refusal is that he fears he may get her pregnant.<br><br>Ser Alliser then comes and tries to frighten them with his story about the winter beyond the Wall. In the books Ser Alliser is not a ranger and doesn't go north of the Wall.",
-   "Rating": "FALSE"
- },
- {
-   "Image": 19,
-   "Scene": "Daenerys confides in Jorah about her brother",
-   "Scene End": "00:45:37",
-   "Duration": "00:01:04",
-   "Comparison": "In the books, Jorah tells Daenerys what the common people pray for while they are on horseback.",
-   "Rating": "MIXED"
- },
- {
-   "Image": 20,
-   "Scene": "Tournament of the Hand and story of the Clegane brothers",
-   "Scene End": "00:49:47",
-   "Duration": "00:04:10",
-   "Comparison": "In the series, Joffrey ignores Sansa at the tourney.<br><br>Petyr came over to Sansa and Arya to chat and explains how he got the name Littlefinger. Petyr tells Sansa the story of how the Hound got burnt by his brother Gregor.<br><br>In the books, Joffrey talks to Sansa all night.<br><br>Petyr came over to Sansa and commented that she has the Tully look and her mother was once his queen of beauty.<br><br>The Hound himself told Sansa the story of how his brother burnt him, while escorting Sansa back to her room. He warns Sansa not to tell anyone.<br><br>In both, during Ser Gregor's joust against a knight of the Vale, his lance cuts through the knight's throat and kills him.",
-   "Rating": "MIXED"
- },
- {
-   "Image": 21,
-   "Scene": "Cersei asks Ned why he is here",
-   "Scene End": "00:51:27",
-   "Duration": "00:01:40",
-   "Comparison": "This scene does not happen in the books.",
-   "Rating": "FALSE"
- },
- {
-   "Image": 22,
-   "Scene": "Catelyn coincidentally meets Tyrion",
-   "Scene End": "00:54:32",
-   "Duration": "00:03:05",
-   "Comparison": "In the books, it is not Bronn, but an annoymous freerider who offers his room.<br><br>In both, Catelyn and Rodrik are talking to a singer when Tyrion enters the inn. The inn was full but Tyrion offers a gold coin, and someone offers to give up his room. When the singer calls out to Tyrion to offer a song, Tyrion notices Catelyn and greets her. Catelyn asks after men in the room, and then accuses Tyrion of attempted murder and tells the men to apprehend him.",
-   "Rating": "TRUE"
+   "Scene": "Melisandre gives birth to a demon",
+   "Scene End": "0:49:19",
+   "Duration": "0:01:57",
+   "Comparison": "In the series, Melisandre gives birth to a shadow in front of Davos, outside Renly's camp. In the book there are two shadow assassinations. The birth Davos witnesses is the second one when it is sent to kill Ser Cortnay Pentrose, the castellan of Storm's End. He has to row Melisandre into a cavern under the castle as there are protective spells built into the castle walls.",
+   "Rating": "MIXED",
+   "Difference": "In the TV series, the shadow Melisandre in sight of Davos happens outside Renly's camp. In the book there are two shadow assassinations. The birth Davos witnesses is the second one when it is sent to kill Ser Cortnay Pentrose, the castellan of Storm's End (not included in the TV series). He has to row Melisandre into a cavern under the castle as there are protective spells built into the castle walls."
  }
 ]
