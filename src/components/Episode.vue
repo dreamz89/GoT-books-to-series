@@ -24,12 +24,12 @@ export default {
       },
       totalDuration: 0,
       previousScene: 0,
-      currentScene: 0
+      currentScene: 0,
+      preloaded: false
     }
   },
   mounted () {
     this.calculateDuration()
-    this.preloadImages()
   },
   watch: {
     drilldown: {
@@ -37,6 +37,7 @@ export default {
         if (this.drilldown.episode === this.episode) {
           if (this.drilldown.season === this.season) {
             this.expandBar(this.drilldown.scene)
+            if (!this.preloaded) this.preloadImages()
           } else if (this.drilldown.season === 0) {
             this.$refs[this.currentScene][0].classList.remove('current')
           }
@@ -64,6 +65,7 @@ export default {
         this[name] = new Image()
         this[name].src = 'images/season' + this.season + '/GoT ' + this.season + ' ' + this.episode + ' '  + scene.Image + (window.innerWidth > 420 ? '.jpg': ' mobile.jpg')
       })
+      this.preloaded = true
     },
     toSeconds (hms) {
       const arr = hms.split(':')

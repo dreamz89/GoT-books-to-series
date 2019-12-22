@@ -337,7 +337,7 @@ export default {
           width: calc(100% / 7);
 
           .scene {
-            opacity: 50%;
+            opacity: 0.5;
 
             &.current {
               opacity: 1;
