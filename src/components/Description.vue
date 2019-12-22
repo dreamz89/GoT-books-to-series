@@ -11,7 +11,7 @@
         <p class="rating" :style="{ backgroundColor: color }">{{ sceneData.Rating }}</p>
       </div>
     </div>
-    <img :src="'images/season' + drilldown.season + '/GoT ' + drilldown.season + ' ' + drilldown.episode + ' '  + drilldown.scene + '.jpg'"/>
+    <img :src="'images/season' + drilldown.season + '/GoT ' + drilldown.season + ' ' + drilldown.episode + ' '  + drilldown.scene + imageSize()" alt="screenshot of scene"/>
     <p class="comparison" v-html="sceneData.Comparison"></p>
   </div>
 </template>
@@ -54,6 +54,9 @@ export default {
           this.color = '#C0CAC9'
         }
       }
+    },
+    imageSize () {
+      return window.innerWidth > 420 ? '.jpg' : ' mobile.jpg'
     }
   }
 }

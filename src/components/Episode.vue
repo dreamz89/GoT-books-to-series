@@ -62,7 +62,7 @@ export default {
       this.data.forEach(scene => {
         const name = 'S' + this.season + 'E' + this.episode + 'S' + scene.Image
         this[name] = new Image()
-        this[name].src = 'images/season' + this.season + '/GoT ' + this.season + ' ' + this.episode + ' '  + scene.Image + '.jpg'
+        this[name].src = 'images/season' + this.season + '/GoT ' + this.season + ' ' + this.episode + ' '  + scene.Image + (window.innerWidth > 420 ? '.jpg': ' mobile.jpg')
       })
     },
     toSeconds (hms) {

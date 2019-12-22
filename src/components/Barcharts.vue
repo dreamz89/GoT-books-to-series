@@ -335,6 +335,14 @@ export default {
         .episodes {
           display: inline-block;
           width: calc(100% / 7);
+
+          .scene {
+            opacity: 50%;
+
+            &.current {
+              opacity: 1;
+            }
+          }
         }
 
         .description-wrap {

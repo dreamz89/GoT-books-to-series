@@ -20,7 +20,7 @@ Scene by scene timing and screenshots by Alyssa, Jocelyn and Pooja.
 - Each tab is saved as csv and converted to json online, and each image is saved as jpg and compressed to widths of 640px as container of site is 1200px.
 - Description was stuck to the middle of screen for better scrolling experience
 - Preloaded the images to cache on site load, for smoother experience while navigating the barcharts.
-- Added mobile images for better loading on mobile sites
+- Added mobile images with width 420px for better loading on mobile sites using https://www.iloveimg.com/resize-image
 
 ### Promotion
 Site was completed for the premiere of season 7, and Google Analytics added for tracking of user views. Promotion was done on Reddit, FlowingData, Facebook etc
