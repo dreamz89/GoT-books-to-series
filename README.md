@@ -1,4 +1,4 @@
-# [GoT books to series](got-books-to-series.surge.sh)
+# [GoT books to series](https://got-books-to-series.surge.sh/)
 
 Designed by Alyssa Karla Mungcal<br>
 Developed by Jocelyn Tan <br>
